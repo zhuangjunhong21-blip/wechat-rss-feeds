@@ -9,9 +9,7 @@
 | 文件 | 说明 |
 |---|---|
 | `feed-articles.json` | 每天由 Mac mini 自动更新的当日新增文章（结构见下） |
-| `prompts/summarize-article.md` | 单篇文章摘要模板 |
-| `prompts/daily-digest.md` | 当日合订日报模板 |
-| `prompts/translate.md` | 翻译/润色模板（可选） |
+| `prompts/digest.md` | 日报生成指令（过滤 + 摘要 + 组装 + 语言，单文件） |
 
 ## feed-articles.json 结构
 
@@ -56,7 +54,7 @@
 
 ```
 https://raw.githubusercontent.com/zhuangjunhong21-blip/wechat-rss-feeds/main/feed-articles.json
-https://raw.githubusercontent.com/zhuangjunhong21-blip/wechat-rss-feeds/main/prompts/daily-digest.md
+https://raw.githubusercontent.com/zhuangjunhong21-blip/wechat-rss-feeds/main/prompts/digest.md
 ```
 
 prompts 加载优先级：用户本地 `~/.wechat-digest/prompts/<file>` > 本仓库 remote > skill 内置 fallback。
