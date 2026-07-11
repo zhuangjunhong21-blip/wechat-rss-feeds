@@ -1,56 +1,26 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-11T07:08:02+08:00",
+  "generatedAt": "2026-07-12T07:08:03+08:00",
   "sourceType": "wechat-mp",
   "stats": {
-    "accountCount": 4,
-    "articleCount": 4,
-    "newArticleCount": 4,
+    "accountCount": 2,
+    "articleCount": 2,
+    "newArticleCount": 2,
     "fullContentSuccessRate": 1.0
   },
   "accounts": [
-    {
-      "name": "AI编程实验室",
-      "feedId": "3198690583",
-      "articles": [
-        {
-          "title": "GPT-5.6全量上线，Claude Fable 5再次重置",
-          "link": "https://mp.weixin.qq.com/s?__biz=MzE5ODY5MDU4Mw==&mid=2247486150&idx=1&sn=1fb9b4281976502e99552d13770a242d",
-          "pubDate": "2026-07-10T08:33:00+08:00",
-          "contentText": "AI编程实验室 2026-07-10 08:33 浙江\n\n \n \n GPT-5.6昨晚结束限量预览，正式全量上线。几个小时后，Anthropic把所有Claude用户的5小时限额和周限额清零重置。自1号Fable 5回归以来，算上中间一次正常的周重置，这是最近10天来的第三次重置了。\nGPT-5.6这代一次发三档，旗舰Sol每百万token输入5美元、输出30美元，往下还有Terra和Luna。主打卖点是效率，同样的活用更少的token干完：Artificial Analysis编码智能体指数上Sol拿了80分的新纪录，比Fable 5高2.8分，token消耗不到对方一半；新加的Ultra挡位默认四个agent并行，Terminal-Bench 2.1能再拉到91.9%。\n但翻到页面底部的跑分：SWE-Bench Pro上Fable 5是80%，Sol只有64.6%；Artificial Analysis智能指数上Fable 5还以59.9比58.9压着一头。这一代OpenAI赢的是单位成本的智力密度，纯能力的天花板还是没能比过Fable 5。这也符合我昨天在X上看一帮老外的使用观感，GPT-5.6很惊艳，但实战起来比Fable 5还是要差一点。\n还有两个变化就是，OpenAI正式把ChatGPT和Codex这两个应用合二为一了。合并后，ChatGPT主打工作，Codex面向开发者，也算是兑现了此前打造超级应用的承诺。另一个新东西就是推出了ChatGPT Work，等于把ChatGPT转变成可用于日常工作执行的Agent，在网页端也能连接各种应用后干活。\n今天一天，一方面要实测下GPT-5.6 Sol，另一方面要抓紧蹬Fable 5的额度，又是紧张刺激的一天。\n\n跳转微信打开",
-          "contentLength": 751,
-          "hasFullContent": true,
-          "hash": "74581d5d69b48d702e2292df47d2746f4bf05a372b9a2441e6893d8c1257bdd6"
-        }
-      ]
-    },
     {
       "name": "Datawhale",
       "feedId": "3226363426",
       "articles": [
         {
-          "title": "别再一直调 prompt 了，让 Agent 的 Skills 自己进化！",
-          "link": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247724147&idx=1&sn=eb612dfcd39cdc1f0834607d316674e3",
-          "pubDate": "2026-07-10T22:49:00+08:00",
-          "contentText": "原创 陈思州 2026-07-10 22:49 浙江\n\n \n\n \n Datawhale干货 \n作者：陈思州，Datawhale成员\n\n一、Skill 的三层结构\n在 Agent 系统里，Skill 可以理解为一种可版本化的能力包。它通常以一个目录存在，核心入口是 SKILL.md。这个文件包含元信息和任务指令，也可以配合参考文档、模板、示例和脚本一起使用。按照 Agent Skills 的设计，一个 Skill 大致可以分成三层：第一层是路由层，包括 name、description 和路径，用来帮助 Agent 判断当前任务是否适合调用这个 Skill；第二层是指令层，也就是 SKILL.md 的正文，用来描述任务流程、判断标准、工具策略和输出约束；第三层是资源层，比如 references/、assets/、scripts/，用于存放更详细的文档、样例、模板或可执行代码。\n这套结构对应一种渐进式加载机制。Agent 启动时先看到每个 Skill 的名字、描述和路径；当用户任务匹配某个 Skill 时，再读取完整的 SKILL.md；执行过程中如果需要更细的信息，再继续读取引用文件或运行脚本。这样，一个 Agent 可以同时拥有很多 Skills，同时保持上下文轻量。\n图 1 · 一个 Skill 的三层结构与按需加载顺序二、自进化：让三层结构在真实反馈中持续更新\nSkills 自进化，核心是让这三层结构在真实任务反馈中持续更新。路由层可以被优化，让 Skill 的触发边界更准确；指令层可以被更新，让任务流程和判断标准更稳定；资源层可以被补充，让 Agent 在复杂场景下有示例、模板或脚本可用。每一次进化都应该能回答三个问题：改了哪一层，解决什么问题，用什么结果证明它更好。\n一个例子：旅行行程规划助手\n举一个中性的例子：旅行行程规划助手。最初的 travel-planner-skill v1.0 可能长这样：\n---\nname: travel-planner\ndescription: Plan a multi-day travel itinerary based on destination, dates, and user preferences.\n---\n## Workflow\n1. Collect destination, dates, budget, and travel preferences.\n2. Search for attractions, restaurants, and transportation options.\n3. Arrange attractions by day.\n4. Generate a day-by-day itinerary.\n## Output\nUse one section per day.\nInclude attractions, food recommendations, and transportation notes.\n\n这个版本可以生成行程。比如用户说：“我想去京都玩三天，喜欢寺庙、咖啡店和轻松一点的节奏。” Agent 可能输出：\nDay 1：清水寺、二年坂三年坂、八坂神社、祇园\nDay 2：伏见稻荷大社、锦市场、鸭川\nDay 3：金阁寺、岚山、竹林小径\n\n信息看起来完整，但真实旅行体验可能不够好。第三天把金阁寺和岚山放在一起，交通时间偏长；“轻松一点”的偏好也没有真正进入安排。用户继续输入：“第三天太赶了，我不想频繁换乘，餐厅最好顺路一点。”\n这些后续 prompt 会先被记录为任务轨迹的一部分，包括用户原始需求、Agent 初版方案、用户修改意见、最终采纳版本和结果评价。优化器会分析这些反馈，把一次性的表达抽象成更稳定的规则。比如“第三天太赶了”可以抽象成：当用户偏好轻松行程时，每天控制 2-3 个主要停靠点，并保留休息时间；“不想频繁换乘”可以抽象成：优先选择同一区域内的景点组合，减少跨区域移动和换乘次数；“餐厅最好顺路”可以抽象成：餐厅和休息点应尽量靠近当天路线。\n图 2 · 同一次旅行规划，反馈前后的行程对比\n三、把每一条反馈写到正确的一层这些规则会进入候选修改。系统会判断它应该写到哪一层：触发边界相关的问题，修改路由层的 description；行程安排相关的问题，修改 SKILL.md 里的 Workflow；质量判断相关的问题，修改 Quality checks；亲子旅行、长辈旅行、预算旅行等细分场景，更适合放进 references/，让 Agent 在需要时按需读取。\n改指令层：从“景点罗列”到“按区域和节奏组织”\n第一次迭代可以先改 Workflow。原来是：\n2. Search for attractions, restaurants, and transportation options.\n3. Arrange attractions by day.\n\n候选修改变成：\n2. Search for attractions, restaurants, and transportation options.\n3. Group candidate places by geographic area before assigning them to days.\n4. Estimate transit time between major stops.\n5. Match each day's density to the user's pace preference:\n - relaxed: 2-3 major stops per day, with buffer time\n - standard: 3-4 major stops per day\n - packed: 4-6 major stops per day\n\n这次改动落在指令层的任务流程。它让 Agent 在安排行程前先做区域聚类，再估算主要地点之间的交通时间，最后根据用户偏好控制每天的密度。旅行计划会从“景点罗列”变成“按区域和节奏组织”。\n加判断标准：新增 Quality checks\n接着可以改判断标准，新增一段：\n## Quality checks\n\nBefore finalizing the itinerary, check:\n - Whether each day stays mostly within one geographic area.\n - Whether transit time between major stops is reasonable.\n - Whether the number of major stops matches the user's pace preference.\n - Whether meals and rest breaks are placed near the route.\n\n这一步解决的是行程质量校验。Agent 生成结果前，需要自查路线是否顺、交通是否合理、餐厅和休息点是否贴近当天路线。对旅行计划来说，这类判断标准比单纯增加景点更重要。\n下沉资源层：细分场景按需读取\n如果后续发现用户经常提到“带老人小孩，少走路”，这类需求可以进入资源层。比如新增：\nreferences/family-travel-constraints.md\n里面写亲子或长辈出行的约束，例如减少换乘、控制步行距离、安排午休、优先选择交通便利的景点。主 SKILL.md 只保留一句触发说明：\nIf the user mentions children, seniors, stroller, or limited walking ability, read references/family-travel-constraints.md before finalizing the itinerary.\n这样，主 Skill 保持轻量，细分场景放到资源层按需读取。Agent 只有在用户提到相关偏好时，才加载更细的参考内容。\n\n定期做 Skill compaction：压缩与重构\n随着迭代次数增加，Skill 会逐渐更详细。好的自进化系统还需要定期做 Skill compaction，也就是压缩和重构。它会检查哪些规则重复，哪些规则长期没有触发，哪些细节应该从主文件下沉到 references，哪些规则可以合并成更高层的原则。\n比如主文件里原本堆了很多规则：\n- 不要把距离很远的景点放在同一天\n- 每天要控制景点数量\n- 轻松旅行要留休息时间\n- 餐厅要靠近当天路线\n- 亲子旅行要减少换乘\n\n经过压缩后，可以合并成一条更稳定的质量标准：\nPrioritize route coherence and pace fit: keep each day geographically coherent, limit major stops according to pace, place meals and breaks near the route, and reduce transfers for family trips.\n\n用验证决定新版本能否发布\n候选 Skill 生成后，需要进入验证环节。系统可以拿一批历史旅行规划任务，让 v1.0 和 v1.1 分别生成行程，再比较几个指标：每天跨区域移动次数是否下降，平均交通时间是否减少，用户偏好是否被显式满足，行程密度是否符合预期。如果新版本表现更好，就发布为 travel-planner-skill v1.1；如果它过度保守，导致行程内容太少，这次修改会被拒绝，并记录为下一轮优化的负反馈。\n图 3 · Skills 自进化的完整闭环\n小结：从调 prompt 到持续运营 Skills\n这个例子说明，Skills 自进化关注的是可定位、可验证的小步更新。用户反馈先成为证据，证据被抽象成规则，规则被写入合适的 Skill 层级，再通过验证决定是否进入新版本。随着规则积累，系统再通过压缩、合并、下沉和删除，让 Skill 保持清晰、轻量和可维护。\n长期来看，Agent 的能力提升会逐渐从单次 prompt 调整，走向持续运营 Skills。模型提供通用推理能力，工具连接外部系统，Skills 承载可复用的程序性知识。真实任务中的反馈不断进入 Skill 的路由层、指令层和资源层，最终形成一套可版本管理、可评估、可回滚、可复用的能力体系。\n\n一起“点赞”三连↓\n\n跳转微信打开",
-          "contentLength": 4366,
+          "title": "重磅！智谱内部信“摸高计划”公开！",
+          "link": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247724162&idx=1&sn=841c53ffba0c3a88ceba3e0ba52afdca",
+          "pubDate": "2026-07-11T23:09:00+08:00",
+          "contentText": "原创 Datawhale 2026-07-11 23:09 浙江\n\n \n\n \n Datawhale干货 \n作者：唐杰，智谱创始人，清华大学教授\n\n今天，智谱创始人唐杰发了一封内部信，标题叫《巨浪已来》。信里宣布了一个“Touch High（摸高）”计划：未来两年，不把重心放在商业变现上，集中资源投入四个技术方向，冲下一代模型。\n\n类似的事智谱在 2025 年初做过一次：把资源收敛到 Coding 上。唐杰当时的说法是，DeepSeek R1 出来之后，Chat 范式的探索基本结束，智谱“赌”了 Coding 和 Reasoning，一种能跟 Agent 共生的能力。今天看这步走对了：从 GLM-4.5 到 GLM-5.2，智谱在多项公开测评里摸到了海外最前沿模型的能力边界；走同一条路的 Anthropic，年化收入两年半从 8700 万美金涨到了 470 亿。\n这次信里的四个方向，拿这半年的AI动态对照着看，每一个都能找到别家正在做的影子，不只是智谱一家的判断。\n摸高计划的四个技术方向\n长程任务。 模型的工作单位从“回答一个问题”变成“完成一个项目”，跨数周、数月的规划和执行。这件事有量化数据可查：评估机构 METR 一直在测一个指标——模型能以 50% 成功率完成的任务，换算成人类专家要干多久。2019 到 2025 年，这个数字每 7 个月翻一倍；2024 年之后，加速到了大约每 90 天翻一倍。GPT-2 的水平是 2 秒，去年底的旗舰模型已经是 5 个小时以上。照这个速度，能干跨数周任务的模型，大概就是两三年内的事。\n自治智能体系统。 信里提到，记忆、持续学习、自我评判，这三个原来被认为需要范式变革才能解决的难题，正在被逐步消解。换句话说，agent 从 demo 走向生产，卡的不再是理论突破，而是工程往前磨。海外的产品动作能印证这个判断——今年 4 月，Anthropic 把长时运行的托管智能体做成了公测产品；6 月底，又发了主打“便宜跑 agent”的 Claude Sonnet 5；几乎同时，OpenAI 把能自主拆分子任务的 GPT-5.6 开了预览。竞争点已经从“谁能做 agent”变成“谁跑得便宜、谁能无人值守”。\n自我进化。 模型自己写代码、自己合成数据、自己训练自己。这句话听起来像修辞，但它已经写进了发布说明：今年 2 月 OpenAI 发 GPT-5.3-Codex 时明确说，这个模型的早期版本“参与了创造它自己”——帮着调试训练、管理部署、诊断评估失败。Karpathy 做的 AutoResearch，自己跑了 700 个机器学习实验，找出 20 处训练改进。信里判断海外在建的百万芯片级算力集群，真正用途很可能就是让模型自己训练自己，这个说法放在这些事实旁边，不算激进。\n安全治理。 唐杰说这是四件里他最想强调的一个：计划投入百亿级资源做机械可解释性，厘清模型决策背后的神经元逻辑。这条线在海外以 Anthropic 投入最深，Dario Amodei 去年专门写过一篇《可解释性的紧迫性》，把它比作“给 AI 做核磁共振”，并给团队定了目标：2027 年之前，让可解释性能可靠地查出大部分模型问题。国内公司把这件事抬到核心引擎的优先级，还不多见。\n信里还引用了 Google DeepMind 6 月挂到 arXiv 的一份报告，《From AGI to ASI》，60 页，推演了从通用智能到超级智能的四条路径。里面最冷峻的论断是，即便单个模型的能力永远停在人类水平，一亿个共享同一底层大脑、零成本复制经验的实例，在群体层面就已经是超级智能。\n\n以下是内部信全文。\n智谱内部信全文\n\n一起“点赞”三连↓\n\n跳转微信打开",
+          "contentLength": 1545,
           "hasFullContent": true,
-          "hash": "7eb7d3cbaccab2654dfc3e6e4f0c6a4cea142a62953cc161bd6d33c6fd0fb79c"
-        }
-      ]
-    },
-    {
-      "name": "刘小排r",
-      "feedId": "3251517810",
-      "articles": [
-        {
-          "title": "GPT-5.6 Token烧得快？因为它背着你雇人了",
-          "link": "https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247502594&idx=1&sn=e22ec1a11c371ba5dfdc4e37337302e7",
-          "pubDate": "2026-07-11T00:01:00+08:00",
-          "contentText": "刘小排 2026-07-11 00:01 重庆\n\n \n \n 相信大家今天已经感受过 GPT-5.6-Sol 了。\n如果只看狭义「写代码」的能力，我们可以认为 GPT-5.6-Sol 超过了 Fable 5。\n不过，你很可能也听过这个故事的另一个版本：从今天凌晨开始，只要直接打开 GPT-5.6-Sol，把思考力度调到最右边的紫色，20x 的 Pro 账号也会在 30 分钟内用光 5 小时限额。\n问题来了：不是号称 GPT-5.6-Sol 很便宜吗？单价确实没涨——Sol 和 5.5 同价，只有 Fable 5 的一半。那为什么烧 Token 这么快？\n经过研究，我发现了三个原因。\n❶ GPT-5.6-Sol 的输出本来就偏长。\nSol 写代码非常严谨。同一批编码任务，Sol 的平均解法体积 26KB，Fable 5 只要 12.2KB 就能拿到接近的分数，而人类工程师的解法比 Sol 短 5 倍以上。差在哪？Sol 喜欢写防御性代码——给不可能发生的情况写类型检查、层层包裹的错误处理、毫无必要的间接层、事无巨细的注释。\n用过 GPT-5.5 的朋友对此应该不陌生。5.5 其实更夸张（平均 31KB），Sol 已经收敛了一些，但底色没变。别忘了，输出 Token 的单价是输入的 6 倍——它每多写一倍的字，你就多付一倍最贵的那种钱。\n❷ GPT-5.6-Sol 爱开 Subagent，成本变 n²。\nSol 会非常激进地把任务拆给 Subagent。每个 Subagent 都是一个全新的上下文：动手之前，都有一笔省不掉的「重读上下文 + 重新推理」的固定开销，任务越大，agent 越多、每个 agent 要读的东西也越多，两头相乘，成本变 n²。\n更麻烦的是，开不开、开几个，是它自己决定的，你事前看不见——这就是「明明没多用，额度却没了」的体感来源。\n❸ GPT-5.6-Sol 的 Ultra 档位，对标的是 Claude Code 的 Dynamic Workflow。\nUltra 加的不是思考预算，是人头：官方发布页写它默认并行协调 4 个 agent，而 Codex 界面的提示更直白——Ultra with up to 1000 agents can use your usage limits quickly。它可以默默帮你开 agent，上限 1000 个。\n用过 Claude Code 的朋友应该很熟悉：除非特殊任务，我们不会开着 Dynamic Workflow 干日常活。详见 哪些活，该交给Claude Code的 /workflows?。同样的纪律，原样搬到 Codex 就行。\n了解了原理，解决办法就很简单——\n❶ 在 AGENTS.md 里写：未经批准，禁止开 Subagent。 \n❷ 除非特殊任务，不要打开 GPT-5.6-Sol 的 Ultra 档位。\nGPT-5.6-Sol 单价没涨，涨的是它默认的干活方式！\n管住这两只手，GPT还是那个又强又便宜的GPT。\n\n跳转微信打开",
-          "contentLength": 1270,
-          "hasFullContent": true,
-          "hash": "5e33564437b871dde84573ba4fe934d8a97fc84e1418277477b58c58a91a3a0d"
+          "hash": "d4c53304de3e3d010a5b031a7a2bb2a5b76fca8dace2061bd95b4a8ee7aa726b"
         }
       ]
     },
@@ -59,13 +29,13 @@
       "feedId": "3516884134",
       "articles": [
         {
-          "title": "GitHub 上 5 个小众但实用的开源项目，感兴趣收藏一波。",
-          "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535243&idx=1&sn=ed9981454a0e7d63e1b6a837c06324f7",
-          "pubDate": "2026-07-10T11:02:00+08:00",
-          "contentText": "原创 逛逛 2026-07-10 11:02 北京\n\n \n\n \n \n01\n把 iPhone 和 iPad 变成 Mac 第二块屏幕\n如果你手边有闲置 iPad，或者一台不常用的 iPhone，可以拿来当副屏。\n问题是市面上的方案多少都有点门槛。\nOpenDisplay 免费、开源、无账号、无硬件，把 iPhone 或 iPad 变成 Mac 的真实扩展屏。目前项目有 900+ Star。\n\n它支持真实扩展屏。macOS 会把设备识别成第二块显示器，你可以在系统设置里调整排列，也可以把窗口拖过去。\n连接方式支持 USB 和 WiFi。\n\nUSB 走 macOS 内置的 usbmuxd，延迟更低，WiFi 通过 Bonjour 自动发现设备。\n更有意思的是，它还支持触控输入。\n你可以在 iPhone 或 iPad 上点按、拖拽、双指滚动，体验更接近一个带触控能力的小副屏。竖屏横屏也能跟着切，拿 iPhone 当一块竖向信息屏还挺适合。\n\n开源地址：https://github.com/peetzweg/opendisplay\n02\n开源健身训练平\nworkout.cool 是一个健身训练平台，目前已经有 8000 多Star。\n它可以创建训练计划、记录进度，也提供带动作说明和视频演示的动作数据库。\n\n作者曾经是 workout.lol 的主要贡献者。\n后来原项目被出售，又因为视频授权成本和维护问题逐渐停摆。作者等了 9 个月，尝试联系新接手方很多次都没有结果，最后决定重新做一个更现代的版本。\nworkout.cool 的气质更像是把一个曾经有社区基础的工具重新接起来，认真补维护，认真做下去。\n如果你只是想用，它有官网可以直接体验。如果你想自自己部署，也可以用 Docker 或 Docker Compose 跑起来，再导入自己的动作 CSV。\n\n对个人来说，它适合拿来管理训练计划。\n对健身房、私教或训练内容创作者来说，它也有继续二次开发的空间。\n\n开源地址：https://github.com/Snouzy/workout-cool\n03\n饮食记录 App\n记录饮食本身很私人。\n你每天吃了什么、体重怎么变化、有没有在减脂或控糖，其实都算比较敏感的东西。\nOpenNutriTracker 是一个免费开源的热量和营养记录 App，目前有 2000多 Star。它基于 Flutter 开发，支持 iOS 和 Android，重点放在简单和隐私上。\n功能上，它不只记录卡路里。\n\n你可以搜索食物、扫码录入包装食品，也可以记录已知热量。饮食日记按早餐、午餐、晚餐和加餐分组，还能设置不同的餐次热量比例。\n它还有一个比较细的微量营养素面板。\n纤维、钠、糖这类日常指标可以看，钙、铁和维生素 D 等参考项也能跟着记录。\n对认真控制饮食的人来说，这比只看热量更有用。\n它还能做食谱、运动、喝水、禁食和体重趋势记录。数据来源主要是 Open Food Facts 和 USDA FoodData Central 的精选子集。\n它没有订阅、内购和广告。\n你想换设备，也可以导出 JSON zip 或 CSV，再导入回来。\n\n开源地址：https://github.com/simonoppowa/OpenNutriTracker\n04\n游戏、电影、动漫和漫画收藏柜\n很多人的娱乐收藏其实比工作资料还乱。\nTonkatsu Box 是一个用 Flutter 做的个人收藏管理器，支持 Windows、Linux 和 Android。\n它覆盖的类型很全。\n你可以在这个开源项目管理你玩的游戏、电影、剧集、动漫、小说、漫画、书籍。\n\n内部接了 IGDB 和 TMDB，也支持 VNDB、AniList、OpenLibrary 等数据源。\n你可以按平台、类型或自己的方式建收藏。每个条目可以记录状态、评分、进度，电视剧和动漫还能按集追踪。\n\n开源地址：https://github.com/hacan359/tonkatsu_box\n05\n旅行计划\nTREK 开源项目是一个可以自己部署的旅行规划工具，目前在 GitHub 上已经拿到了快 1 万 Star。\n它能把行程和地图放到一起，预算、打包清单、预订信息也不用再单独开几个工具。\n你可以按天拖拽地点，配合地图看路线，也可以把机票、酒店、餐厅预订放进同一个 trip 里。\n\n还支持多人协作。\n同行的人可以实时看到修改，谁改了地点、预算、清单，其他人马上能看到。\n\n开源地址：https://github.com/mauriceboe/TREK\n06\n点击下方卡片，关注逛逛 GitHub\n\n这个公众号历史发布过很多有趣的开源项目，如果你懒得翻文章一个个找，你直接关注微信公众号：逛逛 GitHub ，后台对话聊天就行了：\n\n跳转微信打开",
-          "contentLength": 1997,
+          "title": "推荐 6 个本周在 GitHub 上夯夯夯的项目，强推第 3 个。",
+          "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535310&idx=1&sn=e016368353ec4c72adc3b06078b3f66e",
+          "pubDate": "2026-07-11T14:49:00+08:00",
+          "contentText": "原创 逛逛 2026-07-11 14:49 北京\n\n \n\n \n \n01\n让 AI 少说废话的 Caveman\nCaveman 这个项目就很有意思。它给 Claude Code、Codex 等一堆 AI Agent 工具加了一层表达压缩，让 Agent 保留技术内容，把寒暄、铺垫和重复话术砍掉。\n项目目前有 8 万多 Star。\n\n官方 benchmark 给出的平均结果是减少 65% 输出 token。\n注意，这里压的是输出内容。代码、命令、错误信息会尽量保持原样，不会为了短而把关键细节改掉。\n它也不是只有一个开关。你可以切换lite、full、ultra、wenyan等不同压缩档位。\n还带了/caveman-review、/caveman-commit、/caveman-stats这类命令。\n如果你每天都在和 AI Agent 来回对话，这类工具会非常有体感。省 token 只是顺带的，更重要的是你的阅读负担会降下来。\n开源地址：https://github.com/JuliusBrussee/caveman\n02\n在 Claude Code 里调用 Codex\n很多人现在的工作流已经固定在 Claude Code 里了。想让 Codex 帮忙做一次代码审查，或者把某个任务交给 Codex 跑一下。\n以前这种切换会打断节奏。\nopenai 搞了一个 codex-plugin-cc，官方开源的 Claude Code 插件。\n可以在 Claude Code 里调用本机的 Codex，用来做代码审查、挑战式 review、任务委派和后台任务管理。\n项目目前有 2.7 万 Star。\n\n它提供的命令很贴近日常开发。\n比如 /codex:review 可以做普通只读审查，适合看当前改动有没有问题。\n/codex:adversarial-review 更适合在准备合并前用，让 Codex 帮你挑设计取舍、隐藏假设和潜在风险。\n如果任务跑到后台。\n还可以用 /codex:status、/codex:result、/codex:cancel 管理进度。\n安装方式也保持在 Claude Code 的插件体系里：\n/plugin marketplace add openai/codex-plugin-cc\n/plugin install codex@openai-codex\n/reload-plugins\n/codex:setup\n\n如果你已经在本机登录过 Codex，它会复用本机的 Codex CLI、认证状态和配置。这一点挺关键，因为它不会再制造一套新的账号和配置体系。\n开源地址：https://github.com/openai/codex-plugin-cc\n03\n接入多个 AI 服务商的网关\nOmniRoute 可以理解成给 AI Agent 工具准备的本地模型中转站。\n很多开发者一边用 Claude Code、Codex、Cursor 一边还要接 OpenAI、Claude、DeepSeek、GLM 等不同模型和渠道。\n密钥 key 分散、额度不统一、某个接口突然不可用。\nOmniRoute 做的就是把这些收到一个统一入口里，让你的工具只连一个 OpenAI 兼容地址，后面由它负责路由、自动 fallback、免费额度管理和 token 压缩。\n项目目前有 1.5 万个 Star。\n\n本地启动方式很简单：\nnpm install -g omniroute\nomniroute\n\n启动后，Dashboard 默认在：\nhttp://localhost:20128API 默认在：\nhttp://localhost:20128/v1\n之后你把 Claude Code、Codex、Cursor、Cline 这类工具的 Base URL 指到这里，就能让 OmniRoute 负责后面的路由啥的。\n开源地址：https://github.com/diegosouzapw/OmniRoute\n04\n给网页塞进一个 GUI Agen\nPage Agent 把 GUI Agent 放进网页内部，用一段 JavaScript 让页面获得自然语言操作能力。\n你可以把它理解成给网页加一个会读 DOM、会操作界面的 AI 助手。\n它不依赖浏览器扩展、Python 或 headless browser。\n核心逻辑是在页面里运行，通过文本化 DOM 操作来理解和执行任务。它也支持接入主流模型，包括本地部署模型。\n\n开源地址：https://github.com/alibaba/page-agent\n几个典型场景都挺实用：\nSaaS 产品想加 AI Copilot，不想重写后端，可以把 Page Agent 嵌进去。\nERP、CRM、后台系统里那些十几步的表单流程，可以变成一句自然语言命令。\n如果要做无障碍交互，也可以把按钮点击、页面跳转和表单填写交给自然语言来驱动。\n\n生产里更常见的方式是通过 npm 安装：\nnpm install page-agent\n05\n让 AI 生成架构图\nArchify 是一个给 AI agent 用的架构图 skill。你把系统结构、请求链路等流程讲给 Agent，它生成一个自包含的 HTML 架构图。\n项目目前有 3 千多的 Star。\n\n它比较适合技术文档、方案评审、README、博客配图这类场景。生成的图支持深色和浅色主题切换，也可以导出 PNG、SVG。\n\n我觉得它最有用的地方是迭代方式。\n你不用重新打开画图软件改细节。可以继续在聊天里说：加一个 Redis，把认证模块往左挪，高亮回滚路径。Archify 会继续调整输出。\n安装方式：\nnpx skills add tt-a1i/archify -g\n官方页给了几个很好用的提示词，比如让它分析开源仓库后画运行时组件、数据流、外部依赖和信任边界。\n这个方向很适合放到 code review、架构梳理和新人 onboarding 里。\n\n开源地址：https://github.com/tt-a1i/archify\n06\nDesktop Commander MCP\nDesktop Commander MCP 给 MCP 客户端提供终端控制、文件搜索、文件编辑、进程管理和文档处理能力。\n项目目前有 7 千多 Star。\n\n它建立在 MCP Filesystem Server 之上，又补了很多开发者会用到的能力。\n比如长时间运行的终端命令，可以后台执行、分页读取输出、管理进程。\n文件层面，它支持读写文本文件，也支持 Excel、PDF、DOCX 这些办公文件。代码层面，它提供搜索、替换、局部编辑和整文件改写。\n它还有文件预览 UI，可以在 Claude Desktop 里看渲染后的 Markdown、图片和可展开内容。对经常让 AI 改文件的人来说，这个功能很实在，因为你能更快确认它到底改了什么。\n安装方式：\nnpx @wonderwhy-er/desktop-commander@latest setup\n这个项目适合想把 AI 助手接到本机工作流里的人。让 AI 只会聊天，和让 AI 能安全地读文件、跑命令、改文档，是两种完全不同的效率体验。\n开源地址：https://github.com/wonderwhy-er/DesktopCommanderMCP\n07\n点击下方卡片，关注逛逛 GitHub\n\n这个公众号历史发布过很多有趣的开源项目，如果你懒得翻文章一个个找，你直接关注微信公众号：逛逛 GitHub ，后台对话聊天就行了：\n\n跳转微信打开",
+          "contentLength": 3154,
           "hasFullContent": true,
-          "hash": "89ce282fbbaf659b04c74e780b70c14ed33549870a75131f7c100c236da400ec"
+          "hash": "413a720c0885f8ef7976fe3ae6927a9ca33f597bb4427ad1a77a5f67db6c14c3"
         }
       ]
     }
