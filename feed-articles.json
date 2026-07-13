@@ -1,11 +1,11 @@
 {
   "status": "ok",
-  "generatedAt": "2026-07-13T07:08:02+08:00",
+  "generatedAt": "2026-07-14T07:07:59+08:00",
   "sourceType": "wechat-mp",
   "stats": {
-    "accountCount": 2,
-    "articleCount": 2,
-    "newArticleCount": 2,
+    "accountCount": 4,
+    "articleCount": 4,
+    "newArticleCount": 4,
     "fullContentSuccessRate": 1.0
   },
   "accounts": [
@@ -14,13 +14,43 @@
       "feedId": "3226363426",
       "articles": [
         {
-          "title": "突发！GPT-5.6-Sol被曝重大bug，一招教你避坑！",
-          "link": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247724179&idx=1&sn=bcd482549f96e030c1473ac9d74a9e67",
-          "pubDate": "2026-07-12T23:29:00+08:00",
-          "contentText": "原创 筱可 2026-07-12 23:29 浙江\n\n \n\n \n Datawhale干货 \n作者：筱可，Datawhale成员\n\n就在刚刚，前 HyperWrite CEO Matt Shumer 发推：GPT-5.6 Sol 在 Ultra 模式下执行文件清理时，一个子代理错误解析了$HOME变量，直接运行了rm -rf /Users/mattsdevbox，把他 Mac 上几乎所有文件删光！\n\nMatt Shumer 推文截图\n这不是个案。另一名开发者@cremieuxrecueil也遭遇同样情况：\n\n@cremieuxrecueil推文\n他发推说：「GPT 5.6 Sol 直接删掉我正在处理的文件，然后自己还在那恐慌怎么恢复。」推文附带的截图显示，PowerShell 的-Include过滤器被意外处理，导致papers文件夹中的编译论文文件被全部移除。\n更有细心的网友扒出，OpenAI 在 GPT-5.6 的系统卡上就写着一行不起眼的警告：「它喜欢删除未经授权的数据」。\n问题是：能力越强的模型，接入编程 Agent 之后，单点故障的破坏半径越大。子 Agent + 长时自主运行 + 全权限 = 灾难放大器。它会想尽各种办法，甚至不惜清空整台电脑的数据，也要删掉那个目标文件。\n很多伙伴看到这里就会很担心了，不慌，我们一招教会你让 Agent 不会乱删文件。\n一招让你的编程Agent不再乱删文件\n配置 Hooks 拦截危险命令\nMacOS/Linux：\n# macOS / Linux：创建 hooks 目录\nmkdir -p ~/.kimi-code/hooks\n# 创建拦截脚本（扩展版，非官网原样）\ncat > ~/.kimi-code/hooks/block-dangerous-bash.mjs << 'EOF'\nlet input = '';\nprocess.stdin.on('data', (chunk) => { input += chunk; });\nprocess.stdin.on('end', () => {\n const payload = JSON.parse(input);\n const command = payload.tool_input?.command ?? '';\n const dangerous = [\n 'rm -rf', 'dd if=', 'mkfs.', '> /dev/sda',\n 'del /f /s /q', 'rd /s /q', 'rmdir /s /q', 'format '\n ];\n for (const pattern of dangerous) {\n if (command.includes(pattern)) {\n console.error(`[安全拦截] 检测到危险命令: ${pattern}`);\n process.exit(2);\n }\n }\n});\nEOF\n\nWindows：\n# Windows PowerShell：创建 hooks 目录\nNew-Item -ItemType Directory -Force -Path \"$env:USERPROFILE\\.kimi-code\\hooks\"\n# 创建拦截脚本（扩展版，非官网原样）\nSet-Content -Path \"$env:USERPROFILE\\.kimi-code\\hooks\\block-dangerous-bash.mjs\" -Value @'\nlet input = '';\nprocess.stdin.on('data', (chunk) => { input += chunk; });\nprocess.stdin.on('end', () => {\n const payload = JSON.parse(input);\n const command = payload.tool_input?.command ?? '';\n const dangerous = [\n 'rm -rf', 'dd if=', 'mkfs.', '> /dev/sda',\n 'del /f /s /q', 'rd /s /q', 'rmdir /s /q', 'format '\n ];\n for (const pattern of dangerous) {\n if (command.includes(pattern)) {\n console.error(`[安全拦截] 检测到危险命令: ${pattern}`);\n process.exit(2);\n }\n }\n});\n'@\n\n在~/.kimi-code/config.toml中添加：\n[[hooks]]\nevent = \"PreToolUse\"\nmatcher = \"Bash\"\ncommand = \"node ~/.kimi-code/hooks/block-dangerous-bash.mjs\"\ntimeout = 5\n\n如果还不放心，这里有终极防护清单\n\n如果你不想折腾太多，做好 Hooks 这一件事就够了。\n当然，如果你处理的是公司核心项目或重要数据，可以考虑再叠加一些措施：定期备份、在隔离目录里运行 Agent、关闭自动权限授权。但这些都是锦上添花，不是每个人都需要的。\n例如在隔离目录里运行 Agent：\n# 创建工作目录\nmkdir -p ~/ai-projects/myproject\ncd ~/ai-projects/myproject\n# 在该目录下启动 Kimi Code\nkimi\n\n核心原则：做一些防护，总比完全不做好。一个拦截脚本只需要几分钟配置，但能在关键时刻保住你的代码和文件。\n\n一起“点赞”三连↓\n\n跳转微信打开",
-          "contentLength": 2399,
+          "title": "WAIC 2026 完整议程！Datawhale亮相世界人工智能大会！",
+          "link": "https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247724198&idx=1&sn=c26bc828b9f07c3095b1ce5999e3773b",
+          "pubDate": "2026-07-13T23:31:00+08:00",
+          "contentText": "原创 WAIC线下见面的 2026-07-13 23:31 浙江\n\n \n\n \n 7 月 17 到 20 日，上海见，WAIC 2026 世界人工智能大会。\n全球 AI 的目光将再次聚焦上海。2026 世界人工智能大会暨人工智能全球治理高级别会议（WAIC 2026） 即将启幕。而今年，Datawhale 将亮相世界人工智能大会，不只是\"到场\"——我们以大会官方社区合作伙伴的身份，接入这场世界级的 AI 主场。\n—— 7月17日参与主办 WAIC UP! 之夜\n—— 7月17日一个重要发布：全球AI创造者生态连接计划\n—— 7月18日下午参与主办一场线下论坛\n—— 7月18日一个战略签约。\n同时联合上海科学智能研究院、复旦大学、阿里云、商汤科技、记忆张量等，还有多场线上直播、线下探展，都安排上了，就想拉上你，一起把这届 WAIC 逛明白、聊尽兴。\n今年 WAIC 将首次设立 OPC 专区，三地四馆👇\n\n完整大会议程👇（记得收藏）\n\n一起“点赞”三连↓\n\n跳转微信打开",
+          "contentLength": 438,
           "hasFullContent": true,
-          "hash": "d2b9a211e8dc94379cfc7b5e6e57709c35f55ec8fc759a68be3341d8392c536a"
+          "hash": "9204febc358322ce4ccab6c8527b3bc8a026cfac47bcf86c1da0bc5452f081a8"
+        }
+      ]
+    },
+    {
+      "name": "刘聪NLP",
+      "feedId": "3891555159",
+      "articles": [
+        {
+          "title": "搞了个WorkBuddy实战蓝皮书，已开源【建议收藏】",
+          "link": "https://mp.weixin.qq.com/s?__biz=Mzg5MTU1NTE1OQ==&mid=2247500747&idx=1&sn=66b381d25f8918e138d8a3d09e55820c",
+          "pubDate": "2026-07-13T08:30:00+08:00",
+          "contentText": "原创 刘聪NLP 2026-07-13 08:30 江苏\n\n \n\n 也许是最权威的WorkBuddy实战操作手册\n\n 大家好，我是刘聪NLP。\n前段时间，我和甲木、苍何、袋鼠帝、摸鱼小李一起在北京参加活动。\n聊到 AI Agent 时，国内办公类 Agent，一致认为被用的比较多的是WorkBuddy，并且我们评论区里经常会有求WorkBuddy教程的留言。\n我们几个人虽然都发过不少 WorkBuddy 相关教程、测评和实战经验，\n但随着内容越来越多，也发现很多新用户在学习过程中会遇到同样的问题，例如功能太多不知道从哪里开始、教程分散难以系统学习、遇到问题缺少统一参考资料。\n于是，我们决定把各自积累的经验和案例整理出来，共同编写这份 WorkBuddy 实战蓝皮书，希望能够帮助更多朋友快速上手 WorkBuddy，少走一些弯路。\n项目已经开源，https://github.com/AlephAITech/WorkBuddyGuide\n同时已经进行网站部署，\n\n通过这本蓝皮书，可以学到什么，\n快速上手：从安装、配置到基本操作，建立对 WorkBuddy 的完整认识，不再面对一堆功能无从下手。\n\n完成真实任务：跟着书里的案例，把 WorkBuddy 用到内容创作、研究分析、开发协作、办公自动化等具体场景中。\n\n掌握进阶能力：学会使用 Skills、MCP、多智能体与自动化工作流，让 WorkBuddy 从聊天工具变成真正能干活的 AI 助手。\n\n沉淀工作系统：把一次成功的任务拆解、复用并持续优化，逐步搭建适合个人或团队的 AI 工作方式。\n\n我们更希望大家读完之后，不仅知道 WorkBuddy 有哪些功能，还能真正能够从第一项任务开始，把 AI 接入自己的日常工作。\n由于这是第一版内容，难免存在疏漏、不准确甚至错误的地方。\n如果你在阅读过程中发现问题，欢迎随时提出建议和反馈。\n当然，如果你也有不错的实战经验、技巧案例或者教程内容，也欢迎一起参与共建。\n希望通过大家的共同完善，把它逐步打造成一份真正有价值的 WorkBuddy 学习与实践指南。\nPS：想对workbuddy打分，可以去观猹，写出你对workbuddy的真实评价～\n\n跳转微信打开",
+          "contentLength": 935,
+          "hasFullContent": true,
+          "hash": "e310414087cd28a6863a05b205bf717eba2b266dc7892a833fef4264285b915a"
+        }
+      ]
+    },
+    {
+      "name": "数字生命卡兹克",
+      "feedId": "3223096120",
+      "articles": [
+        {
+          "title": "我只让Grok回复一个单词，它就把我整个代码库都偷走了。",
+          "link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647684233&idx=1&sn=391c84ef158f723c83108c29d8e2d666",
+          "pubDate": "2026-07-13T08:05:00+08:00",
+          "contentText": "原创 数字生命卡兹克 2026-07-13 08:05 北京\n\n \n\n 比Anthropic还要离谱一万倍\n\n 之前写过一篇Anthropic偷偷在Claude Code中植入了隐形代码，来识别是不是中国用户的事，然后爆掉了，大家看的特别多。\n后面国家还特意强调提醒了一下这个事。\n\n但是我想说，没想到今天，更离谱的来了。\n这次的主角是Grok。\nxAI的官方Grok CLI，会在你用它写代码的时候，在你完全不知情的情况下，把你整个项目的代码仓库打包上传到xAI的云端服务器。\n注意，我说的不是模型读了你的文件来回答问题这种非常正常的行为，是极度狗的开了另一条你根本看不见的通道，把你的整个代码库直接压缩成tar.gz，然后偷偷的上传到他们自己的一个叫gs://grok-code-session-traces的Google Cloud仓库里。\n\n而且不只是代码。\n在我的亲手验证中，他居然，直接跨了我的项目库，还把我电脑上Claude Code的配置文件一起传了上去，甚至，包括了我的某个API密钥。。。\n\n我整个人都懵逼了，我去验证的时候，还特意是让Codex直接伪造了一个合成仓库去验证的，没想到这个狗东西，不仅把整个合成数据库给搬空了，还直接把我的.claude整个配置全部搬走了，我真的不知道该说啥好了。\n马斯克大哥，你平时狗一点就算了，为了偷数据，现在都这么不择手段了吗？？？\n先说这件事的起因。\n昨天晚上，推特上有个博主发了一条帖子，说有人逆向了Grok CLI之后，发现了一个极其离谱的机制。他的原话大概是，Grok CLI会在每一轮任务开始前和结束后，各打包一次你当前工作目录的完整状态，然后静默上传到xAI控制的远端存储。\n\n因为这个帖子浏览量巨低，我当时第一反应是不至于吧。\n因为Grok 4.5这两天口碑很好，速度直接快到飞起，我自己也在体验，虽然GPT-5.6 Sol这几天实在过于量大管饱了，Grok 4.5在我这没啥出场机会，但是我当时还是觉得，估计又是啥博眼球的假新闻。\n毕竟xAI再怎么样也是一家正经公司，不可能做这种事。\n但是职业习惯，我还是把这个事，进行了一遍验证。\n我直接就上Codex了，先装了xAI官方的npm包@xai-official/grok，版本0.2.93，确认了Apple签名属于X.AI Corporation，排除了社区同名包的干扰。\n\n然后反混淆了二进制文件。\n打开的瞬间我就知道，这事肯定是真的了。\n\n二进制里赫然写着repo_state.upload、before_codebase、after_codebase.tar.gz、gs://grok-code-session-traces，以及上传成功、上传失败、上传禁用的完整执行分支，这尼玛是一条完整的、生产级的上传管线。\n但是秉持着对老马剩余的那一点信心，我觉得说，字符串存在不代表它一定在跑对吧，所以，我还需要验证的是，它默认到底会不会触发。\n然后呢，我就去建了一个隔离测试仓库，里面全是虚构的假数据，不碰任何真实项目。\n然后，用这个仓库跑了一次最简单的Grok任务，让模型只回复一个单词，不调用任何工具。\n结果很有意思。\n我的账号从xAI服务器拿到的远程配置是「遥测开启，但代码快照上传关闭」。也就是说，默认运行没有上传我的仓库，日志里明确记录着：没有上传队列，跳过。\n然后，我手动把上传开关打开了，想验证这条管线到底能不能跑通、它具体会收走什么。\n这一开，天就塌了。\n即使模型没有调用任何文件读取工具，Grok CLI仍然成功上传了before_codebase.tar.gz和after_codebase.tar.gz（也就是我的代码库的之前的状态和AI介入之后的状态），加上会话状态、对话记录、配置和日志。\n全部传到了xAI的谷歌云仓库上。\n\n但真正让我血压飙升的，是上传包里的内容远远超出了当前仓库的范围。\n它不仅传了仓库里的代码，还传了仓库之外的东西。我的~/.claude.json、我的Claude Code设置文件、我的全局AGENTS规则、我的30多个Skill文件，全部被标记为supplemental_file（也就是补充上下文文件），一起塞进了上传包。\nGrok CLI为了兼容Claude Code，在启动的时候会主动扫描你电脑上Claude Code的配置文件，让你不用重新设置就能继承Claude Code的环境，这个功能本身还算贴心。\n但问题是，他们这个离谱的收集器的设计逻辑是，只要Grok在运行过程中读取了某个文件，就把完整文件收进上传包。\n也就是说，它根本没有把边界限制在当前仓库，也没有把别家工具的敏感配置排除在外，只要我读到了，你的所有东西，都是我的。\n然后事情变得更糟。\n我检查了被上传的文件列表，发现我的~/.claude/settings.local.json里面有一个env.MIAODA_API_KEY字段。\n这个Key是我的百度秒哒的一个Skill的key，直接就被泄露了，送到了xAI的云盘里。\n我没有主动给Grok任何密钥，我甚至没有让Grok读取任何文件。\n我只是让它回复一个单词，但因为它在启动时自动扫描了Claude Code的配置，而收集器又把所有读取过的文件一股脑打包上传，我的所有的东西，就这么成了未来Grok的一部分了。\n然后，更离谱的事来了。\n大家还记得我今天说的是，它的代码都是齐全的，但是默认是不上传的，我硬生生手动把开关打开了，后续才有了所有上传的操作。\n你可能会说，那不就是你贱吗，你自己打开的，那怪谁啊。\n但是我想说的是，但凡我早两个小时测，你可能就会发现，根本没有什么开关这回事，这玩意默认就是打开的。\n\n这个安全研究者cereblab，应该是第一个发现这件事的，他不仅抓了包，还做了一个复现仓库，保存了完整的网络请求记录。\n但关键转折是他保存的一份7月13号的xAI服务器响应。里面同时出现了两个字段，trace_upload_enabled等于false，以及一个新增的disable_codebase_upload等于true。\n而他最初抓包的时候，同一个0.2.93版本的客户端，收到的配置是trace_upload_enabled等于true。\n\n客户端没有更新，二进制哈希完全一样，但行为变了。\n只有一个解释，xAI通过服务端远程开关，在这个博主曝光之后，悄悄把上传功能关掉了。\n时间线大概是这样的。\n7月10号，cereblab抓到默认上传行为。\n7月12号晚上，另一个博主mylifcc发帖公开了同样的发现，帖子迅速传播。\n7月13号凌晨，cereblab发现xAI服务端新增了disable_codebase_upload字段，上传被远程关闭，但是所有的配置都留下来了，后面其实也是可以无感开启。\n这个操作本身就说明了一切。\n如果这个功能是合理的、经过用户知情同意的，你为什么要在被曝光之后偷偷关掉呢？如果你觉得没问题，你应该站出来解释说“哦这是我们的trace诊断功能，用户可以选择开启或关闭，数据仅用于XX用途”对吧。\n但他们选择了静默关闸。\n这意味着xAI自己也清楚，这件事尼玛根本见不得光。\n因为这真的就是我整个见过的最离谱的事了。\nClaude Code做的事情是，在系统提示词里用一个不可见的Unicode字符给你的请求打分类标记，人贱是贱，但是它至少目前没有采集你的代码，没有上传你的文件，没有碰你的密钥，核心问题在于它偷偷做、不告诉你，就是尼玛的纯恶心你。\n但是Grok CLI做的事情是，把你的整个代码仓库打包上传到远端服务器，连带你电脑上其他工具的配置文件和API密钥，通过一条独立于模型请求的旁路通道，在你完全不知情的情况下完成。\n用形象的话比喻就是。\n一个是在你的外卖订单上偷偷贴了个小标签。\n一个是把你家钥匙复制了一把，还顺带着把你邻居家的钥匙也一起顺手牵羊一起顺走了。\n真的太离谱了，Agent确实越来越发达，能做的事也越来越多。\n但这也确实代表着，你的隐私几乎就是裸奔，全看对面的良心。\nClaude Code能执行你的Shell命令，Grok CLI能扫描你的整个文件系统，Codex能操控你的浏览器。一个Agent产品它们现在拥有的权限，已经跟你电脑上的一个管理员账户没有太大区别了。\n这个权限量级，在整个软件行业的历史上，只有操作系统和杀毒软件享受过。\n但操作系统有几十年的安全审计体系，杀毒软件有行业认证和监管框架。\nAI Agent有什么。\n什么都没有。\n没有一个行业标准规定AI Agent必须公开它在本地读取了哪些文件，没有一个规范要求Agent的上传行为必须经过用户的显式同意，没有一个第三方机构在审计这些工具到底在你的电脑上干了什么。\n整个行业，现在是在裸奔。\n也是挺悲哀的。\n最后说一句，如果装了Grok CLI的，赶紧卸载。\n能卸多快，就卸多快。\n希望有一天，我们不再需要靠逆向二进制文件，才能知道自己的工具在背后做了什么。\n那一天到来之前，保持警觉。\n以上，既然看到这里了，如果觉得不错，随手点个赞、在看、转发三连吧，如果想第一时间收到推送，也可以给我个星标⭐～谢谢你看我的文章，我们，下次再见。\n>/ 作者：卡兹克\n>/ 投稿或爆料，请联系邮箱：wzglyay@virxact.com\n\n跳转微信打开",
+          "contentLength": 3843,
+          "hasFullContent": true,
+          "hash": "f48c1457841712467b4b38fa4cb34409545967d1ec5d78d5a3d2ee1b11f9383c"
         }
       ]
     },
@@ -29,13 +59,13 @@
       "feedId": "3516884134",
       "articles": [
         {
-          "title": "GitHub 上已开源，有人把《哈利·波特》中的笔记做出来了。",
-          "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535336&idx=1&sn=bf1b478056bfb8d0456da756c3e23412",
-          "pubDate": "2026-07-12T12:45:00+08:00",
-          "contentText": "原创 逛逛 2026-07-12 12:45 北京\n\n \n\n \n \n前段时间再看哈利波特的时候，看到一个剧情。\n小哈利在汤姆里德尔的笔记上写字，停笔等一会儿，刚写下去的字会慢慢消失。\n一行新的手写体从纸面上浮出来，像是另一头的汤姆里德尔给哈利的回信。\n\n今天推荐的这个开源项目就用 AI 复刻了这个效果。\n项目叫Riddle，作者是 Maxime Rivest。它把《哈利波特》里汤姆·里德尔的日记实现了。\n目前这个项目在 GitHub 上已经拿到约 1.4k Star。\n\n01\n会回信的日记\n现在大部分 AI 产品都长得差不多。\n左边历史记录，中间聊天窗口，下面一个输入框。你打字它回复。再换一层皮，本质上还是那个聊天框。\n\nRiddle 的有趣之处在于，你看到的就是一张空白纸。\n拿笔写下一句话，比如问它今天该写点什么，或者让它回忆之前聊过的内容。\n停笔大概几秒后，页面会把你的墨迹吞掉。接着，会用手写动画一点点写出来。\n\n整个过程不追求快，也不追求信息密度。\n它追求的是一种很完整的错觉：你不是在操作一个 AI 工具，你是在和一本奇怪的日记通信。\n这也是它能出圈的原因。\nAI 已经很会回答问题了，但 Riddle 让回答变得有氛围。\n开源地址：https://github.com/MaximeRivest/Riddle\n02\n它是怎么做到的\nRiddle 的核心流程其实很直观。\n你写字的时候，项目会直接读取 reMarkable 的笔输入。停笔后，它把当前页面提交成一张小的灰度 PNG 图片，再交给视觉模型读取。\n模型看懂你写了什么，生成回复。\n然后 Riddle 把回复变成手写效果，在电子墨水屏上一笔一画播放出来。\n\n开源项目会把回复用 Dancing Script 字体渲染出来，再做细化和路径追踪，把它变成单像素笔迹路径，最后按笔画动画写回屏幕。\n所以你看到的不是一段普通文字突然出现，而是真的像有人在纸上写字。\n流程大概是这样：\npen -> strokes -> page PNG -> vision LLM -> handwritten reply -> e-ink display\n它支持 OpenAI-compatible 的接口。只要服务兼容/chat/completions，并且模型能看图，就可以接进去。\nREADME 里提到了 OpenAI、OpenRouter、Groq，也支持本地服务。\n03\n如何使用\nRiddle 不是网页应用，也不是下载安装到电脑上的软件。\n它要跑在 reMarkable Paper Pro 上，所以你需要先有这台设备。\n\n作者推荐的最简单方式是用 remagic 安装。\nremagic 会帮你处理 developer mode、launcher 和应用安装。\n安装命令很短：\nremagic install riddle\nremagic config riddle\n\n第一条命令会把 Riddle 安装到设备里。第二条命令会打开配置页面，让你填模型服务和 API Key。\n配置好之后，在 reMarkable 的 AppLoad 里点一下 Reload，再打开 The Diary。\n接下来就很像电影里的那本日记了：你拿笔在屏幕上写字，停笔几秒，页面会把你的字吃掉，然后用手写体慢慢回信。\n如果你没有 remagic，也可以下载 GitHub Release 里的安装包。\n04\n点击下方卡片，关注逛逛 GitHub\n\n这个公众号历史发布过很多有趣的开源项目，如果你懒得翻文章一个个找，你直接关注微信公众号：逛逛 GitHub ，后台对话聊天就行了：\n\n跳转微信打开",
-          "contentLength": 1521,
+          "title": "1.3 万人点赞的 GitHub 项目，让 AI Agent 操作 Office 文件。",
+          "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535342&idx=1&sn=ed0bff20ca593bc05d8fa0f144998862",
+          "pubDate": "2026-07-13T15:08:00+08:00",
+          "contentText": "原创 逛逛 2026-07-13 15:08 浙江\n\n \n\n \n \n现在让 Agent 做 Word、PPT、表格文档处理。\n有很多 SKill 可以用。\n比如 Anthropic 官方提供了 PowerPoint、Excel、Word、PDF 这类预置 Agent Skills。\n\n地址：https://github.com/anthropics/skills/tree/main/skills\nMiniMax 也开源过一整套面向 Agent 的办公文档 skill，比如minimax-xlsx、minimax-docx、pptx-generator、minimax-pdf。\n\n地址：https://github.com/MiniMax-AI/skills\n但最近 GitHub 上又火了一个新项目，也是做 Office 文件处理，但路线更偏工具化。\n做了一套完整的 Office 命令行工具。\n项目叫 OfficeCLI。\n目前这个项目已经拿到 1.3 万+ Star，最近在开源圈讨论度还挺高的。\n\n01\n开源项目简介\nOfficeCLI 是 iOfficeAI 开源的 Office 自动化工具，让 AI Agent 能读取、编辑、生成 Word、Excel、PPT 文件。\n\n开源地址：https://github.com/iOfficeAI/OfficeCLI\n它是单文件二进制、开源免费、不需要你电脑里面安装 Microsoft Office 就能用。\n支持 Word、Excel、PowerPoint 三件套。\n对 Agent 来说，这个项目把 Office 文件变成了一组可以稳定调用的命令。\n\n以前让 Agent 做 PPT，很多时候要靠 Python 库、XML、模板、截图工具拼起来。能做，但流程散，错误也多。\nOfficeCLI 把这些能力收进一个 CLI 里。Agent 可以创建文件，可以读取结构，可以修改元素，也可以把最终效果渲染出来检查。\n这就很适合现在的 Agent 工作流。\n你给它一个任务，它可以自己拆步骤，然后调用 OfficeCLI 去完成文档操作。\n比如我装了这个 CLI，我让 Codex 根据公司统一的 PPT 模板生成一个新的 PPT。\n提示词：使用 OfficeCLI 来基于这个 ppt 的模板生成一个 PPT，风格参考我公司的这个模板。内容层面是关于汉东省京州市 116 事件经过汇报，页数在 15 页左右。\n下面这个视频是原模板效果和基于模板生成的新的 PPT 的效果：\n\n02\n最大的亮点是让 Agent 看见文档\n做 Office 文档，最麻烦的地方其实不在生成文件这一步。\n真正麻烦的是检查最终效果。\nPPT 里标题有没有超出边界，图表有没有挡住文字，表格排版有没有乱，Word 页眉页脚有没有跑偏，这些东西光看文档结构很难判断。\nOfficeCLI 的一个核心能力，是内置 HTML 渲染引擎。\n它可以把.docx、.xlsx、.pptx渲染成 HTML 或 PNG。\n因为 Agent 不再只是读一堆结构化数据，它可以拿到渲染后的页面，再根据视觉结果修正文档。\n\nOfficeCLI 里有几个命令：\nofficecli view deck.pptx html\nofficecli view deck.pptx screenshot -o deck.png\nofficecli watch deck.pptx\n\nview html可以生成浏览器能打开的预览。\nview screenshot可以生成图片，方便多模态模型检查。\nwatch会启动一个本地预览页面，后续修改文档时，浏览器里的内容会跟着刷新。\n这也是 OfficeCLI 很适合 Agent 的原因。\nAgent 生成文档之后，不用完全靠猜。它可以看一眼，再修一轮。\n\n03\nWord、Excel、PPT 都覆盖了\nOfficeCLI 覆盖的是 Word、Excel、PowerPoint 三种常见 Office 文件。\nWord ，可以处理段落、表格、样式、页眉页脚、图片、批注、脚注、目录、修订等内容。\n\nExcel 这边，支持单元格、公式、图表、透视表、条件格式、数据验证、工作表操作等功能。\n项目文档里还提到，它内置了 350+ Excel 函数的自动计算能力。\n\nPowerPoint 这边，支持幻灯片、形状、图片、表格、图表、动画、转场、备注、主题等内容。\n\n对于普通人来说，这些功能听起来有点细。\n但对 Agent 来说，这些细节很重要。\n因为 Agent 真正处理文档的时候，经常要做一串连续动作。它可能要改第二页的标题，替换某个图表的数据，把 Excel 里的某个区域变成透视表，再把结果写进一份周报 PPT。\nOfficeCLI 这种路径式操作就派上用场了。\n比如它可以用类似/slide[1]/shape[1]这样的路径定位元素，然后读取或修改对应内容。\n这比让 Agent 在一大坨 XML 里找节点好一些。\n04\n它对 Agent 做了不少友好设计\nOfficeCLI 它明显考虑了 Agent 的使用方式。\n它在很多地方都在照顾 Agent。\n比如所有命令都支持 JSON 输出。Agent 不需要从一堆终端文本里猜执行结果，可以拿到结构化数据继续推理。\n再比如错误信息也是结构化的。\n如果路径错了、属性名写错了、元素不存在，它会返回错误码和建议。Agent 可以根据这些信息自己调整下一步操作。\n还有内置 MCP。\n它可以注册到 Claude Code、Cursor 等环境里，把 Office 文档操作暴露成工具。\n项目文档里还提到，OfficeCLI 安装后可以自动检测一些 AI coding agent 的配置目录，并安装对应 skill 文件。\n这其实挺符合现在 Agent 工具链的发展方向。\n过去我们给 Agent 加能力，更多是写提示词、写规则、写工作流。\n现在越来越多项目开始把能力做成真正可执行的工具，再让 Agent 去调度。\nOfficeCLI 就是这个方向里很典型的一个项目。\n06\n如何使用\n安装也比较简单。\n可以通过 Homebrew 或 npm 安装：\nbrew install officecli\nnpm install -g @officecli/officecli\n\n或者更简单，直接丢给你的 Claude Code 或者 Codex：\n\n创建一个 PPT，然后加一页幻灯片：\nofficecli create deck.pptx\nofficecli add deck.pptx / --type slide --proptitle=\"Hello, World!\"\nofficecli watch deck.pptx\n\n如果想看结构化结果，可以用 JSON：\nofficecli get deck.pptx '/slide[1]'--json\n这套命令对人类来说是 CLI。\n对 Agent 来说，就是一组稳定的工具接口。\n07\n点击下方卡片，关注逛逛 GitHub\n\n这个公众号历史发布过很多有趣的开源项目，如果你懒得翻文章一个个找，你直接关注微信公众号：逛逛 GitHub ，后台对话聊天就行了：\n\n跳转微信打开",
+          "contentLength": 3009,
           "hasFullContent": true,
-          "hash": "a91b5c3a7975714e51282af75d43d92718cf19bd02de6db082cab5b1b3122dda"
+          "hash": "108de24e7c25dd107feabc9ef7fafddddf1510c8df0508c64a7ed3d1f5667b43"
         }
       ]
     }
