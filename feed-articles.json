@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-26T07:14:48+08:00",
+  "generatedAt": "2026-09-26T10:19:54+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 3,
@@ -21,9 +21,9 @@
           "contentLength": 7967,
           "hasFullContent": true,
           "hash": "94300e3d921baf31099ed7968a54dcd052ec7160a362cbd4e98afafb04f6359f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章讲解如何在本地训练并部署适配业务的 Jev 判别式决策模型：以 Qwen3-0.6B 为底座，使用公开决策数据，按案例划分数据集以避免泄漏，再进行全参数微调、检查点选优、温度校准和接口部署。DGX Spark 实测训练约 49 分钟，测试准确率为 78.05%。迁移到自有场景时，需整理状态、决策问题和目标分布，沿用案例级切分，并根据开发集表现调整训练步数与学习率。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-09-26T09:53:57+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 911,
           "hasFullContent": true,
           "hash": "e93a9ec4cccbeb0801e2bdf08771cc9f294703e379d6ab888eff0d3104571b12",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者首次参加云栖大会，展示了与魔搭开源的《魔搭紫皮书》，并举办AI动手实现活动。他认为，随着Work Agent和硬件发展，本地模型部署有望像Vibe Coding一样成为大众技能，让个人拥有并使用适合自己的模型。大会还展出多款硬件和Qwen模型；阿里规划Qwen5扩至5—10T，Qwen3.8-Max探索RSI，评分从40升至45，平头哥真武V900计划于2027年第一季度量产商用。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-09-26T09:53:57+08:00"
         }
       ]
     },
@@ -57,9 +57,9 @@
           "contentLength": 2105,
           "hasFullContent": true,
           "hash": "f9620d85bf07836cba1b6b69f8c5a02439905be6af74044870f6bef21992d259",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Mobile MCP 是一个支持 Agent 操作安卓和 iOS 真机及模拟器的开源项目，可读取屏幕、点击、滑动和输入，并接入 Claude Code、Cursor 等 MCP 客户端。它优先利用界面的无障碍信息识别文字与控件，信息不足时结合截图理解和坐标操作。配置需准备 Node.js 22 以上版本及相应设备环境；连接后先确认设备、界面元素和截图正常，再执行任务。独立开发者可用它检查页面按钮和跳转，减少人工测试。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-09-26T09:53:57+08:00"
         }
       ]
     }
