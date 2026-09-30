@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-09-30T12:21:06+08:00",
+  "generatedAt": "2026-09-30T12:27:43+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 2,
@@ -51,9 +51,9 @@
           "contentLength": 4583,
           "hasFullContent": true,
           "hash": "bc91a9668ec50beb32bfda557277a07504d4f74e0a74cbcd030dcd7c557e5c7d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章实测神秘模型Space Bunny：上线三天登顶OpenRouter与OpenCode调用榜，目前免费，速度据称快于DeepSeek V4.1 Flash。作者将其接入Codex，完成Remotion视频、Three.js古文场景、昆明地铁可视化和长视频蒸馏等任务，并横向对比DeepSeek，认为其多模态理解、识图自检、镜头逻辑、可视化审美及Coding、Agent能力突出，复杂任务速度至少快一倍，适合视频蒸馏和技能生成，但模型来源仍未知。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-09-30T12:22:13+08:00"
         }
       ]
     }
