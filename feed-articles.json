@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-03T07:08:31+08:00",
+  "generatedAt": "2026-10-03T13:56:57+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 1,
@@ -21,9 +21,9 @@
           "contentLength": 1748,
           "hasFullContent": true,
           "hash": "9702844e47e4feac3ca4813122db0e951bacf6ecd76c86e7e9d265e18278a339",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale开源《Jev Cookbook》中文教程，面向希望构建自动化 Agent、在代码流程中嵌入决策逻辑的开发者，系统讲解 System One 决策模型。教程含11章、18个可运行 Notebook，覆盖 State 与 Choice、Score、Noul 三类判断原语，RAG过滤、工具路由、风险拦截、语音家居、模型评测、游戏交互、长程记忆、Agent 工具网关，以及基于 Laya 的本地推理、SFT、LoRA 和 RLCD-style 训练，强调以快速、稳定、可验证的结构化判断支撑软件工程决策。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-03T13:55:33+08:00"
         }
       ]
     }
