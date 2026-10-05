@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-06T07:08:14+08:00",
+  "generatedAt": "2026-10-06T07:45:21+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 3,
@@ -21,9 +21,9 @@
           "contentLength": 2217,
           "hasFullContent": true,
           "hash": "2671bc8df35e8aa2f2bbecb6c6e3db787765833455a8c778a99f9573ccf85eb2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章说明，Gemini Pro 等 Google AI 付费套餐已逐步附带 Colab 权益，可按月获得计算单元并优先使用 T4、L4、A100 等 GPU。作者实测能调用 40GB A100，每小时约耗 5.38 个单元；月额度可能为 200 个，尚未证实，适合短时实验、微调和评测。Colab 资源会被回收，不适合常驻服务或长期训练；较长任务应定期将检查点、数据和日志同步到 Google Drive。计算单元 90 天过期，学生优惠账号没有这项福利。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-06T07:42:53+08:00"
         }
       ]
     },
