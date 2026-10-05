@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-06T07:45:21+08:00",
+  "generatedAt": "2026-10-06T07:50:23+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 3,
@@ -39,9 +39,9 @@
           "contentLength": 1600,
           "hasFullContent": true,
           "hash": "22ec87bebff041a2df690fead102770680518902aca3c1609d7c4201d92fd2b5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "2026年诺贝尔生理学或医学奖授予卡尔·戴塞尔罗特、彼得·黑格曼和格奥尔格·纳格尔，以表彰他们发现光控离子通道并奠定光遗传学基础。黑格曼与纳格尔从衣藻中发现通道视紫红质，戴塞尔罗特将相关基因导入神经元，用光精确激活或抑制特定细胞及神经环路。该方法帮助研究者探究脑功能与行为的因果关系，已用于研究神经和精神疾病相关环路，也在探索视力恢复应用，推动神经科学进入可精确操控脑回路的新阶段。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-06T07:46:28+08:00"
         }
       ]
     },
@@ -57,9 +57,9 @@
           "contentLength": 5158,
           "hasFullContent": true,
           "hash": "25a8df17fad43003de84b374ff87a9260747f167ada7b321aa781d1bafee8160",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章盘点了9月在 GitHub 上增长较快的20个开源项目，涵盖架构图生成、代码审查与复用、Agent记忆和多Agent管理、桌面自动化、知识库、课程生成、工具调用、技能安全扫描及Rust桌面组件等。它们通过交互图表、检索、统一接口和岗位插件等方式，解决开发与协作中的具体需求；使用时需留意模型额度、权限配置和部署条件。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-06T07:46:28+08:00"
         }
       ]
     }
