@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-05T16:40:12+08:00",
+  "generatedAt": "2026-10-05T16:41:41+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 2,
@@ -21,9 +21,9 @@
           "contentLength": 1099,
           "hasFullContent": true,
           "hash": "670b1ca3557120140b7d640efd605658311e3aefabe92cbebaba765fd2414cc5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章针对 Claude 近期封号加剧、老账号也不稳定的情况，建议想体验 Opus 5.5 的用户考虑注册并订阅多个 Gemini Pro 账号。作者称，Antigravity 的付费 Pro 已支持 Opus 5.5 和 Sonnet 5.5，但学生优惠或第三方认证的免费 Pro 不享有此权益，旧版第三方模型也将于 11 月 2 日下线。作者还认为 Antigravity 稳定性已有改善，Gemini 3.8 Flash 写作能力突出，Gemini 4 Argon或将上线；国内 Visa 卡订阅相对方便。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-05T16:41:05+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 5135,
           "hasFullContent": true,
           "hash": "9748221b7d8bdc106bf1ce4cf18031fdc6cc957e68cfd94ff8ddb5debf487986",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章围绕 Jev-Omni 展开，说明它基于 Gemma 4、经约 3 万题微调，可处理文本、图像、音频和视频，并为给定选项输出概率，用于分类、路由和动作选择。教程演示本地环境配置、约 72GB 权重与素材下载及四模态验证；GB10 实测文本、图像和音频推理均低于 1 秒，视频约 4 秒。模型通过轻量投影器和单一底座完成多模态判别，适合选项明确、需要置信度门控的任务。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-05T16:41:05+08:00"
         }
       ]
     }
