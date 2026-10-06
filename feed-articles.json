@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-07T07:08:22+08:00",
+  "generatedAt": "2026-10-07T07:31:44+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 2,
@@ -21,9 +21,9 @@
           "contentLength": 1682,
           "hasFullContent": true,
           "hash": "b8609420777f5c6162a3a9d63661a875d41a1b760b2f9de84f31212b8e4b8e58",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，以表彰他推动冰立方中微子观测站及发现天体高能中微子的决定性贡献。哈尔岑提出利用南极深层冰捕捉中微子碰撞产生的蓝光，先以AMANDA验证方案，再建成由86根缆线和5160个传感器组成的冰立方。观测站从海量大气粒子记录中筛出宇宙信号，确认来自太阳系外的高能中微子，为追踪高能宇宙线来源提供线索；合作组也用神经网络识别信号并估算中微子的能量和方向。这是中微子相关研究第五次获得诺贝尔物理学奖。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-07T07:30:49+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 7299,
           "hasFullContent": true,
           "hash": "5fa8e987b81dc6ec15ddc998ff1570f919d05200402ce90dea524770de892a2b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "A16Z两份报告显示，近半美国人用过AI，但每日使用者约四分之一，个人付费率仅4.5%，持续衡量AI价值的企业也只有2%，使用深度正形成新的数字鸿沟。付费用户中，头部1%贡献近五分之一消费，主要将AI用于自动化和生产。智能成本下降反而扩大需求，Agent推高Token消耗，体现杰文斯悖论。当前AI收入以订阅和按量收费为主，个人Agent也可能通过交易抽佣变现；AI基建投资则将资本带回芯片、能源和电网等实体产业。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-07T07:30:49+08:00"
         }
       ]
     }
