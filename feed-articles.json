@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-08T11:37:21+08:00",
+  "generatedAt": "2026-10-08T12:53:04+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 4,
@@ -75,9 +75,9 @@
           "contentLength": 1992,
           "hasFullContent": true,
           "hash": "01d10127d272fc517e670ec44238c0510c4bd7c8d5020c820175cd01c10ed4a6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者分享了用 Codex 筹备婚礼的实践，重点是把接亲和典礼流程做成手机可访问的网页，方便亲友查看最新安排。先在 Codex 中准备 CloudBase 静态托管、域名和备案，再提供文字流程与婚纱照生成页面，部署后通过对话迭代修改；微信访问受限时，可按提示提交验证材料。网页还可扩展宾客祝福功能。作者认为，共享一个及时更新的链接，就能帮助家人和工作人员对齐流程。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-08T12:50:55+08:00"
         }
       ]
     }
