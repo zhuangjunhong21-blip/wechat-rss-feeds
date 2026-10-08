@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-09T07:08:14+08:00",
+  "generatedAt": "2026-10-09T07:13:06+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 6,
@@ -51,9 +51,9 @@
           "contentLength": 359,
           "hasFullContent": true,
           "hash": "409c66ab63febe1cef3559fb9ad4ce5e7b24240cc846f1bc6bbd774903cb963e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenAI公布了由内部前沿模型产出的722份数学手稿，整理为372组成果，涉及数论、代数几何、实分析等多个领域，部分附有可由计算机核验的Lean证明。社区初步核查发现其中触及若干长期未解问题，但结论仍待数学界审阅验证。OpenAI认为AI正从辅助解题走向参与数学研究与发现；此前曾召集数学家讨论AI若超越人类，数学研究将如何应对。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-09T07:10:54+08:00"
         }
       ]
     },
@@ -69,9 +69,9 @@
           "contentLength": 733,
           "hasFullContent": true,
           "hash": "416b66de0510e89ded28c58c9c0e6c74d1f5e7bbbc66958f22a24e845fb686a4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "韩国七家金融机构遭连续入侵，超过六万人信息外泄。疑似攻击者使用可自动搜集情报、寻找漏洞和规划路径的开源工具 ARTEX，并调用 DeepSeek、GLM、Grok 和 Claude Code；但其服务器目录未设防，配置文件与 AI 聊天记录被研究人员直接看到。他还询问 AI 如何寻找泄露数据买家，并让 AI 将相关活动写进安全研究员简历。安全公司据此复盘了他的行动，故事呈现出攻击工具先进、操作者却因疏忽暴露自身的反差。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-09T07:10:54+08:00"
         }
       ]
     },
@@ -105,9 +105,9 @@
           "contentLength": 4328,
           "hasFullContent": true,
           "hash": "16934efb9fff581b388d7aa2daabd542aba4e65a6fc38a5f8daa3b2189248d80",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章以 Markdown、HTML 文件增多为切入，介绍 WorkBuddy 可打开并编辑 Word、Excel、PPT、Markdown 和 HTML，支持手动修改或框选内容后让 AI 原地编辑，并自动保存。多个文件可分标签管理、各自保留对话，也能分享给他人继续协作；PDF、TXT 和图片目前仅能预览。作者认为，这种方式省去上传、描述修改位置和下载替换等步骤，让 AI 融入日常文件操作，展现了下一代 Office 的发展方向。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-09T07:10:54+08:00"
         }
       ]
     },
