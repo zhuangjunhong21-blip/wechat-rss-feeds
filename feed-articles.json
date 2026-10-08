@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-09T07:13:06+08:00",
+  "generatedAt": "2026-10-09T07:18:26+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 6,
@@ -21,9 +21,9 @@
           "contentLength": 554,
           "hasFullContent": true,
           "hash": "63ec9c0420e95c76426fd858540de03b6579e86419fe01167fc3d11e5f0e8e70",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者称其使用三年半的 Claude 账号被永久封禁，申诉未获通过；随后尝试为备用号开通 100 美元 Max 5x，订阅后立即触发 KYC。根据群友交流，新开 Max 账号必定触发验证，Pro 则随机触发。作者计划用护照尝试验证，并认为使用门槛升高可能推动国内用户转向 GPT、GLM-5.3 等替代模型；他还提到 Haiku、Opus 和 Sonnet 5.5 已推出，担忧 Fable 5.5 发布时再现封号潮。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-09T07:14:13+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 6649,
           "hasFullContent": true,
           "hash": "d11f1392ae748fe56a4e9ca198e06d7ea5f0c25dfcf1fd924243827f009e9b5f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "综述指出，大模型读取的不是文字，而是分词器切分并编号的 token；常见词被打包后，字母和数位细节难以辨认，因此模型可能数错字母、算错多位数。主流 BPE 反复合并高频片段以缩短序列、降低计算成本，却造成不同语言的 token 成本差异，并带来安全漏洞和分词器生态集中等问题。字节模型、动态切分和图像式读字各有优势，也面临速度、输出或训练评测成本。作者认为分词机制深刻影响模型能力，未来需改进缩放规律、探索替代方案并建立更可靠的评测基准。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-09T07:14:13+08:00"
         },
         {
           "title": "OpenAI一夜放出700多道数学证明！",
@@ -87,9 +87,9 @@
           "contentLength": 2407,
           "hasFullContent": true,
           "hash": "b3730708d2759348d9f053d997b1ea1a6283227197ff6d1179d5d0af5bd3e4c6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章从ChatGPT推出可交互的Intelligent UI谈起，认为Personal Agent可把对话需求转成可反复使用的小工具。作者体验Eazo后展示了唐诗探险、重力感应玩具和家庭回忆册等应用，称其能通过自然语言生成和修改界面，并提供登录、云端存储与部署。文章认为，专属界面能减轻高频场景反复对话的负担；文中还提到Eazo团队的103题测试得分高于Codex CLI。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-09T07:14:13+08:00"
         }
       ]
     },
@@ -123,9 +123,9 @@
           "contentLength": 1747,
           "hasFullContent": true,
           "hash": "3c63b482daf4a9d545b5afb561598339a7ba624f925b2aa05a557d8c352a1463",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章盘点了 Rakazo、OpenMuse 和 OpenDots 三个个人智能助手的开源替代方案。Rakazo 支持持续运行的多 Bot 协作，并可操作浏览器、终端和文件；OpenMuse 能处理资料、邮件与 PDF，支持后台任务和网页监测；OpenDots 可配置不同职责与权限的助手，并通过工作空间协作编辑文档。三者都需自行部署并连接模型及相关服务，OpenMuse 和 OpenDots 仍处早期阶段。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-09T07:14:13+08:00"
         }
       ]
     }
