@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-08T12:53:04+08:00",
+  "generatedAt": "2026-10-08T12:59:44+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 4,
@@ -21,9 +21,9 @@
           "contentLength": 894,
           "hasFullContent": true,
           "hash": "1b934058243a94cc5289965d05ed139f7f90d7476c75d4221c5ae9aab6111ce9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者使用三年半的Claude账号在国庆最后一天被封，Claude Code先报组织已停用，随后收到账号暂停邮件；此前已有四个账号被封，目前还剩两个。作者认为老号也难以保证安全，没有可靠的防封办法，并称平台会通过自动化算法标记可疑账号，再由安全团队复核后决定封禁。他已提交申诉，若账号继续被封，打算改用VPS。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-08T12:54:15+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 5515,
           "hasFullContent": true,
           "hash": "e09f21adc039c1e9c59ff8eaa1c1df9dc8dd02a6d80a96fd08406ff6d6f4fac0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale十月组队学习开放11门课程，涵盖大模型、Agent、具身智能和AI Infra，采用教程、Notebook实验、项目实践与交流等形式。首次开设的JEV课程聚焦基础原语和分类、排序、路由等案例；其他课程涉及推理与性能优化、Agent工程、机器人开发及AMD GPU与ROCm实践。活动强调结伴学习、互促共进，各课程名额有限且每人限报一门。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-08T12:54:15+08:00"
         }
       ]
     },
@@ -57,9 +57,9 @@
           "contentLength": 10662,
           "hasFullContent": true,
           "hash": "114f5f999eecadb8be882361aa27b214ac94599fd0e361289eeea9ff8ae40290",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章聚焦OpenAI公布的722份数学手稿、372组成果，称其由内部模型针对约4000个开放问题生成，涉及准黎曼猜想、矩阵乘法和挂谷猜想等。作者解释数学证明与Lean形式化验证的意义，并回顾AI参与数学研究的进程及数学界对成果公开、署名和审查的争议。文章认为，生成证明正变得廉价，核验与理解将成为瓶颈；AI推动科学进展的速度取决于评判结果的成本。人仍需提出值得研究的问题、理解证明含义并赋予探索以意义。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-08T12:54:15+08:00"
         }
       ]
     },
