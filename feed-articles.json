@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-10T08:05:47+08:00",
+  "generatedAt": "2026-10-10T08:11:28+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 4,
@@ -39,9 +39,9 @@
           "contentLength": 3289,
           "hasFullContent": true,
           "hash": "ae23b110f9610f90454b481ea7873013c9eb03f900db4d0adc22d9d18bdf9b0b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章实测新版 TRAE 将 TraeWork 与 TraeCode 合并后的协作方式：Agent 模式集中管理项目和任务，可调度多个 Agent，并在同一工程中切回 IDE 查看代码差异、修改或回滚。作者用它开发科普视频生成器及登录功能，还制作了 3D 水母、汉堡经营游戏和球场选座预览。工作台也提供产物归集、模板、自动化任务，以及手机端和飞书、微信助理入口。文章认为，Agent 承担更多开发工作后，仍需通过 IDE 检查和维护代码。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-10T08:06:55+08:00"
         },
         {
           "title": "AI+X创造节泰州专场，报名开启！",
@@ -51,9 +51,9 @@
           "contentLength": 408,
           "hasFullContent": true,
           "hash": "35f76665e991e359a06a2048e8633dc6366efdf395bfff51e9ab7d946da76282",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale开放招募“AI+X创造节·泰州专场”，围绕直播或访谈转文章、长视频转短视频、活动信息转宣发内容、资料转知识库等真实内容运营任务开展实操。活动包含岗位认识、案例示范、80分钟动手实践及作品展示、修改和提交，参与者可在领学员和助教协助下完成内容成果。活动面向大学生、应届毕业生及对内容运营、新媒体和AI应用感兴趣者，无需AI基础，自带电脑即可，任务材料现场提供；10月17日13:30—17:30在泰州海陵区举行。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-10T08:06:55+08:00"
         }
       ]
     },
@@ -69,9 +69,9 @@
           "contentLength": 3157,
           "hasFullContent": true,
           "hash": "d52c7f6ef4b7addf142c4b81d123b80ca6d23cf75ee404f8ee414dedcc86ca10",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章以9项真实任务对比豆包工作 Lite、Pro 等档位，结论是日常问答、文档、表格和明确推导题用 Lite 通常够用，速度更快、消耗更低；跨多文件协同、复杂3D交互和游戏开发更适合 Pro。测试中 Pro 总消耗约为 Lite 的40倍、耗时近5倍。作者建议按任务难度分配模型，关键数据仍需复核，也可用自动模式路由，但具体模型选择不透明。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-10T08:06:55+08:00"
         }
       ]
     },
