@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-10T07:08:02+08:00",
+  "generatedAt": "2026-10-10T08:05:47+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 4,
@@ -21,9 +21,9 @@
           "contentLength": 1880,
           "hasFullContent": true,
           "hash": "fdc27bb07f42712ee4e6245a8864b7bc598324b3a3d500f993d12709625f8b50",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Grok Bot可在云端电脑运行任务，支持网页和应用操作，关机后定时任务仍可继续，但验证码、登录保持和异常处理需按具体系统验证。文章分享两种玩法：定时搜索、阅读并汇总X上的AI动态；创建多个Bot群聊，让不同编程代理协作讨论并汇总结果。作者认为，Personal Agent是否适合日常使用，取决于是否有值得反复交接的任务，实际效果仍需更多实践。",
+          "summaryModel": "gpt-6-luna",
+          "summaryAt": "2026-10-10T08:03:42+08:00"
         }
       ]
     },
