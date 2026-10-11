@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-11T20:20:57+08:00",
+  "generatedAt": "2026-10-11T20:28:00+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 4,
@@ -57,9 +57,9 @@
           "contentLength": 5744,
           "hasFullContent": true,
           "hash": "5053f8bd3c3fb635f389ebe509dddc2c6bcf4dbc61e4418ea008bceb48f76606",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "卡兹克用5天为30多人的公司推进AI化改造，从统一品牌VI、设计组件和PPT模板，延伸到基于飞书数据与权限体系的企业中台。中台通过MCP连接Agent，实现内部应用自动部署、分享与权限管理，支持Skill分发更新及个性化首页，并用业务应用减少重复录入、辅助清理数据异常。他认为，数据、上下文和协同关系是企业未来的核心资产，组织应让员工借助Agent随时创造工具、改进流程，让公司系统适应每个人；目前中台仍处早期，后续维护仍有挑战。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-11T20:25:26+08:00"
         }
       ]
     },
@@ -75,9 +75,9 @@
           "contentLength": 2311,
           "hasFullContent": true,
           "hash": "a4fbcd18eabf1f132acc8c69fde456f0dda47a89f80030799e3ac0391bbed66c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者将工作室灯光、窗帘、传感器和空调等300多个设备，通过易来Pro开放的MCP与CLI接入Hermes、Codex等Agent。相比传统智能家居，Agent支持多端入口，能结合记忆与环境理解模糊意图，并按实际情况执行自动化任务。例如晚间在飞书询问加班情况，按回复保留对应区域照明、关闭其他设备；还可串联人脸考勤与彩灯，生成个人专属欢迎灯光。作者认为，开放接口与Agent开发能力降低了个性化场景编排门槛。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-11T20:22:07+08:00"
         },
         {
           "title": "加入秋芝2046，一起让更多人用好 AI ~",
