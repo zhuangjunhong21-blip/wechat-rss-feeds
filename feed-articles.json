@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-11T07:08:20+08:00",
+  "generatedAt": "2026-10-11T20:20:57+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 4,
@@ -21,9 +21,9 @@
           "contentLength": 362,
           "hasFullContent": true,
           "hash": "aff338ffc6beed7953b439fb2f6c102bfe6bdd5ff81269ed94a58c2c3fb5c926",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenBMB端侧智能硬件闭门会将于10月16日18时在深圳举行，Datawhale作为合作伙伴，邀请面壁智能、光帆科技、Looki等企业嘉宾，探讨Personal AI硬件如何找到产品定位。交流围绕三个问题展开：产品形态如何自然融入生活，如何利用多模态信息持续了解用户，以及如何在具体场景中创造用户愿意付费的价值。活动席位有限，需填写问卷报名，具体地点在审核后通知。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-11T20:18:01+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 1556,
           "hasFullContent": true,
           "hash": "b45b16be10c9dc9a9300979c50992bbb744b20b079a53337fa4bbb6868289f4e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者从合伙人坚持玩魔兽世界二十多年的经历出发，提出创业应“认真，但不较真”：对过程全力以赴，持续练习和精进，却不把成败或外界评价当作自我价值的证明。他借《金刚经》“应无所住而生其心”表达自己的理解：放下执念并非躺平，目标照样定，事情照样做，只是不把目标等同于自己。做事应因为事情本身值得或有趣；摆脱证明自己的束缚，才能更自由地投入，想赢而不怕输，并长期坚持。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-11T20:18:01+08:00"
         }
       ]
     },
