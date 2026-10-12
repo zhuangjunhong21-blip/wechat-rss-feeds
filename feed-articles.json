@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-13T07:09:03+08:00",
+  "generatedAt": "2026-10-13T07:49:56+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -81,9 +81,9 @@
           "contentLength": 5559,
           "hasFullContent": true,
           "hash": "40899af50da69513927efa466d08d05a9c4456c54c994ef01198098c966c1436",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "明略开源项目 Octo 已支持约1800名员工与5100多个 Agent 协作，展示了从个人助手走向企业智能的路径：分级接入既有系统，以统一身份、权限和任务回路组织协作，将负责长期记忆与编排的员工 Agent 和无状态专家 Agent 分离。经人工验收的成果、业务规约、偏好及技能沉淀为跨团队复用的组织资产，并应用于 Bug 修复、品牌传播和电商素材生产。规模化落地仍需承担规约编写、分布式排障和基础设施运维成本。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:47:28+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 9803,
           "hasFullContent": true,
           "hash": "6198a9f85c4c487f743acb95544db5e9a2c144c9610a75a576bcc2a3cac2d437",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Personal Agent 产品形态各异，技术底座却趋于一致：依靠云端电脑、长期记忆和工具连接，持续理解用户并代其行动。身份、电脑与记忆正成为独立基础设施，但应用层尚未找到明确的产品市场契合点。相比编码和视频，个人助理价值难量化，失误却可能摧毁信任，帮用户省钱或是突破口。订阅、抽佣与广告各有障碍，竞争核心将从执行能力转向用户上下文、意图理解和信任，行业仍需先验证付费与留存，再谈护城河。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:47:28+08:00"
         },
         {
           "title": "聊出海、做产品、找搭子，近期值得关注的 AI 创业活动来了",
@@ -219,9 +219,9 @@
           "contentLength": 1830,
           "hasFullContent": true,
           "hash": "69f21ea0df4a79ced5df08e61efa51efb8fc34d69f43f36a8e8e476af45d58ed",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Meta 超级智能实验室发布 Muse Wonder 和完整版 Wonder Full，称其为成立以来首个前沿模型。Wonder 主打速度、跨对话主动记忆，以及遇阻换方法、持续推进目标的能力，官方跑分在长期记忆和长周期编程项目中领先。文章认为，Full 更强的基座使后训练收益迁移到未见任务。Wonder 已开放 API，输入、输出价格分别为每百万 token 4 美元、20 美元，与文中列出的 Claude Opus 5.5 相同；Full 仅供 Muse Code 订阅用户使用。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:47:28+08:00"
         },
         {
           "title": "已预约！",
@@ -279,9 +279,9 @@
           "contentLength": 3933,
           "hasFullContent": true,
           "hash": "e4fce7fc741ca33b334ca8bb730e7b1d0e6e171df4165f48344a83cae2d0646c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "华为诺亚方舟实验室联合UCL等团队推出Memento 3，在不更新大模型权重的情况下，通过迭代规则手册和可执行Python世界模型，探索、验证并修正游戏规则。系统通关ARC-AGI-3公开集25款游戏、183个关卡，操作次数比人类少约56%，获得满分RHAE；在Pong中形成控制策略后，无需再调用大模型，连续三局打出21∶0。研究表明，外部世界模型可支持递归自我改进，但仍需消耗推理算力，对复杂现实环境的适用性有待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:47:28+08:00"
         },
         {
           "title": "偏好对齐也能在推理时完成！256-16384个控制参数达到DPO水准",
