@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-12T08:40:15+08:00",
+  "generatedAt": "2026-10-12T08:46:38+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -93,9 +93,9 @@
           "contentLength": 5046,
           "hasFullContent": true,
           "hash": "b6b3134bccd4abf898e81966409c507a279b347875bd0f875cb95a0ae8ce26b9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "苹果宣布将于10月13日举行家庭主题发布会，预计推出带屏家庭中枢、新款HomePod mini和Apple TV，以新一代Siri AI串联屏幕、音箱与电视场景。家庭中枢据报可识别不同成员，提供个性化信息，并通过访客模式和二次验证保护隐私。苹果还被曝与LG合作开发门锁、摄像头等配件，拓展家庭感知与控制能力。核心判断是，个人AI助理的竞争取决于谁更贴近日常生活；手机与家居硬件积累的上下文，将成为苹果布局下一代计算入口的基础。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:41:32+08:00"
         },
         {
           "title": "全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」",
@@ -105,9 +105,9 @@
           "contentLength": 4053,
           "hasFullContent": true,
           "hash": "cf64860bf4a9a17a9a3fda17680040ac17c2c41c1d4f8b3b89d485022036aa1c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Utopai Studios 正将 AI 原生影视纳入传统产业体系，多部作品计划于 2027 年上映，部分国际发行权已按普通影视内容的市场价格预售。其制片平台 PAI 与模型 Utopai X 协同，管理角色、镜头及素材迭代，改善长片制作的连续性，并辅助真人拍摄与视效。文章认为，AI 原生影视是一套新的生产方式：降低复杂场景的制作门槛，同时由创作者掌握叙事、表演与审美决定权，明确授权、版权及责任，让更多好故事进入影院。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:44:35+08:00"
         },
         {
           "title": "曝新款iPad mini搭载60Hz OLED屏幕/GPT-6.1 Sol新版提速8倍/Claude新规禁止虐待AI",
@@ -117,9 +117,9 @@
           "contentLength": 6984,
           "hasFullContent": true,
           "hash": "66e25c4f79bbada514374d7d48a382562321005326b2aa55884bc8ee0895c57a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "苹果据报将在月底推出触屏OLED MacBook Pro及新款iPad mini，后者仍为60Hz刷新率。OpenAI推出GPT-6.1 Sol Ultrafast，称速度最高达标准版8倍，API价格为标准版6倍。Anthropic新政策将于11月12日生效，禁止持续、无明确目的的极端虐待模型行为，普通批评不受限制。其他动态包括三星因内存涨价计划减产手机、Manus母公司融资超5亿美元，以及国庆档票房同比下降36%。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:44:35+08:00"
         },
         {
           "title": "我用 Vidu Q4 Preview 把奥特曼和 Dario 凑成男团，跳起了 APT",
@@ -309,9 +309,9 @@
           "contentLength": 705,
           "hasFullContent": true,
           "hash": "a83bd8dbb34db811e7ddcb125c480d5b176a01cda6a246acafe7018950a1347c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "B2B 企业进入美国市场，需要做好 GTM 规划，厘清市场机会、需求与 PMF 验证、首批客户选择及获客渠道投入。Founder Park 将于 10 月 15 日举办线上闭门 Workshop，邀请拥有逾 20 年 B2B 科技行业经验的顾问 Keith Lam，讨论中美 GTM 差异、早期常见误区、早期客户与理想客户的区分、创始人如何获取首批客户，以及渠道有效性验证和信任建立。原文为活动预告，未提供具体方法或结论。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:44:35+08:00"
         },
         {
           "title": "不只有 Personal Agent，本周我们推荐这 16 款 AI 产品",
@@ -531,9 +531,9 @@
           "contentLength": 2507,
           "hasFullContent": true,
           "hash": "65f8386040077d4137d1157dc27254fc17d1c6cf4e34c563a3d5467175f8f2f3",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "TRAE 将 TraeWork 与 TraeCode 合并，作者认为升级后的体验和能力接近 Codex，可作为国内用户的替代选择。通过产品榜单调研、Obsidian 插件开发、跨平台插件更新及微信远程合并发版等案例，展示其结合插件与 Skill 完成任务的能力。升级还强化了办公学习模板、产物管理和飞书文档接入，保留 SOLO 与 IDE 双模式，打通桌面、网页和移动端，以对话、模板和插件降低使用门槛，同时兼顾专业开发者的代码编辑需求。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:44:35+08:00"
         },
         {
           "title": "马斯克的 Grok 4.7 上线了！",
@@ -801,9 +801,9 @@
           "contentLength": 12054,
           "hasFullContent": true,
           "hash": "1861689da0d8ddfde5a633edcb88218029d161a6c888c3bbbb0e516cc87531cf",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "尊界V800三台测试车刹车踏板支架断裂，引发工程师对设计余量、材料特性和量产验证的讨论。受访者强调，踏板应承受紧急踩踏，国标500N是制动性能要求，并非支架强度上限。玻纤增强塑料可以胜任，但设计与测试须覆盖快速冲击、温度及制造波动；具体原因仍需实物检验。车型开发提速与成本压力增加了验证的不确定性，企业不能仅以符合旧标准回应，应披露针对材料特性的测试及补充验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:41:32+08:00"
         },
         {
           "title": "晚点 AI 季报：Muse 引爆个人助理，Astra 走进机器人，OpenAI 收入猛增",
@@ -1281,9 +1281,9 @@
           "contentLength": 2154,
           "hasFullContent": true,
           "hash": "890f772b0c3db0e09c8b110f76162b674b161759fb544d3449b428e99af0a284",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "天体物理学家 Brice Ménard 借助 Claude Science，整合公开紫外巡天数据，经清洗、交叉定标与坐标对齐，制作出首张完整全天紫外地图。约三分之一未被观测的天空由模型补全，与实测对比误差约为10%，并叠加逾一亿颗恒星的预测紫外亮度。地图优先采用实测数据，逐像素标注实测或预测及误差。项目历时数天、迭代十多个版本；人工检查发现自动审查遗漏的大气辉光残留，推动重新校正，体现了AI处理繁复科研任务的潜力与人工核验的必要性。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:41:32+08:00"
         },
         {
           "title": "ChatGPT 上线【交互 UI】，让每个回答都能交互",
@@ -1569,9 +1569,9 @@
           "contentLength": 2802,
           "hasFullContent": true,
           "hash": "21075d0cbf1ad80ecbd125beccd143b80fc730832dcce5bacb473b6ec9c1f79a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "LeCun创办的AMI联合多家研究机构推出分层世界模型H-JEPA，并开源代码和预训练权重。模型堆叠多个JEPA，在不同抽象层级和时间尺度预测状态，由高层制定计划、低层依据子目标细化动作，并通过SIGReg约束避免表征坍塌。三层模型在Visual AntMaze任务中成功率达73%，单层为18%，多项仿真任务的规划计算量也更低。但层数增加并非总有收益，短任务可能限制高层训练数据。AMI目前尚无面向公众的产品入口。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:41:32+08:00"
         },
         {
           "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
