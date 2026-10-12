@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-13T07:49:56+08:00",
+  "generatedAt": "2026-10-13T07:55:53+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -21,9 +21,9 @@
           "contentLength": 1106,
           "hasFullContent": true,
           "hash": "c44fcac15db82474cd0bca56d1a19c929e2efb6fce6a0133b571ba259bbac4c2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者分享Claude账号被封后恢复使用Opus 5.5的经历：申诉未果，两个备用老号开订阅时又触发KYC，随后清理本地环境、更换网络，并在美区VPS上注册全新配套账号、调整支付网络出口，使用Pro三天暂时稳定。文章还转述群友申诉成功的个案，建议申诉理由简短并保留人工修改痕迹。作者主观认为Opus 5.5体验明显优于Codex和GPT-6.1 Sol，并预期Claude将继续密集发布新模型。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:52:36+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 3952,
           "hasFullContent": true,
           "hash": "6acec9647e8261eed08b18c95b03ae720e62a1d0d5eabc7b75409c0d0619af40",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI 正在降低软件逆向与功能重建的门槛。开源项目 REA 让 Agent 分析安装包、代码和运行行为，再通过新旧程序对照测试验证结果；经典游戏移植、浏览器办公工具也展示了相关进展。但局部功能复现不等于完整重建，兼容性、维护成本和授权限制仍需解决。文章认为，替代工具只要可靠满足用户的核心需求，就可能削弱原厂独有功能的定价优势，促使软件企业更重视支持、维护与迁移服务，目前尚无证据证明具体公司的收入因此下降。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:51:06+08:00"
         },
         {
           "title": "AI 复兴了 CLI，但图形界面不会消亡",
@@ -51,9 +51,9 @@
           "contentLength": 3165,
           "hasFullContent": true,
           "hash": "d1ca468edec825331bf10ddcc71a54a8db042adae63b9184a032ee8fb811e308",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI Agent 推动 CLI 复兴，因为文本与结构化数据便于机器处理，命令行也有利于跨文件执行任务。但执行任务与人类管理 Agent 是两种需求：多任务并行需要图形界面展示进度、权限、文件差异和结果。Codex、DeepSeek 等桌面产品体现了这一分工。研究显示，Agent 表现取决于软件开放的能力入口，不能据此判定某种界面全面胜出。GUI 正从操作工具转向监督平台，与 CLI 协同，而非被其取代。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:54:04+08:00"
         },
         {
           "title": "SpaceXAI改名SpaceXSI/苹果高管披露 iPhone Duo屏幕工艺/纳德拉：AI需要「紧急刹车」",
@@ -63,9 +63,9 @@
           "contentLength": 6355,
           "hasFullContent": true,
           "hash": "7a9e28eb20c62cb2ff99bf5b892f686ff8877ce5637e24ebcb6452d8c54dde98",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "SpaceXAI官方社交账号更名为SpaceXSI，突出“超级智能”定位。苹果披露iPhone Duo铰链区域屏幕采用激光扫描、机器学习与微米级3D打印构建平整支撑基底，芯片封装表面直接溅镀电磁屏蔽层，使模组厚度缩减20%。纳德拉呼吁企业为AI设置可人工暂停或关闭的“紧急刹车”，将权限与防护置于模型之外，并保留独立审计和行动记录。其他动态包括腾讯元器将于11月9日停服、蔚来广东换电站达到500座。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:54:04+08:00"
         }
       ]
     },
@@ -111,9 +111,9 @@
           "contentLength": 3075,
           "hasFullContent": true,
           "hash": "d164d8094eaec4c85019b362d012b0b9b6f600c75182472011642c91e6d4b844",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Founder Park 汇总了2026年10月至11月在北京、深圳、杭州、上海、新加坡及线上举办的八场创业与行业活动，涵盖美国B2B市场GTM、下一代AI视觉产品、全球化AI产品路演、宠物产品黑客松、AI工程实践、跨境出海和企业AI转型。活动通过工作坊、交流会、路演及大会等形式，为创业者和开发者提供验证需求、寻找客户与合作伙伴、展示产品及交流实践经验的机会，并附有时间、地点和报名渠道。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:52:36+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 4943,
           "hasFullContent": true,
           "hash": "081cf3d06083881cc3a7481d8010e2aef48230d915f9f6ec64114e6ae7c48490",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI正大幅降低逆向工程成本。文章以开发者重写并开源Adobe替代软件、REA项目连接专业逆向工具与AI Agent为例，说明净室设计和反编译重建如何加速软件功能及硬件协议的复现。作者认为，闭源保密的护城河将被削弱，厂商可能把核心逻辑迁往服务器，用户反而更难拥有软件；免费替代品增多也会压缩原创者的收益期，并涉及侵权边界。作者最终将长期、正向、有价值的注意力视为新的护城河。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:54:04+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 16294,
           "hasFullContent": true,
           "hash": "ce321a8de9a45e08689d3870655f0abf9ccc1a967ad593c3164b8ba49c2bde24",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "丘成桐批评院士、人才帽子与资源待遇绑定的功利评价体系，认为数学人才成长需要兴趣、坚持、一流师资和长期训练，而非单靠竞赛筛选。他希望通过清华求真书院营造尊重学问的环境，同时解决海外学者的医疗、子女教育等问题，推动世界一流原创成果在中国本土产生。他强调科学应追求真理、为人类创造知识；对AI辅助证明持审慎态度，认为证明不等于理解，提出重要问题和创造新观念仍依赖人的志向、直觉与想象力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:51:06+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 2568,
           "hasFullContent": true,
           "hash": "2a5fc42275723c2a419adc9c9b0e4597c8fea9413530ca66167782973b84d652",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者展示了用手机将英文长推交给 Grok Bot，生成补充背景知识、保留原文对照的中文网页和43页PDF，再制作含配音、配乐、字幕及动态演示的3分19秒讲解视频。流程强调依据原帖内容，用参数变化和算法动画帮助理解复杂概念。作者认为，云电脑的渲染能力、便捷获取推文和随时修改任务，降低了阅读与视频制作的操作摩擦；进一步结合实拍与动效，还可制作完整视频，后续计划将流程封装为 Bot 和 skill。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:54:04+08:00"
         }
       ]
     },
@@ -183,9 +183,9 @@
           "contentLength": 2809,
           "hasFullContent": true,
           "hash": "0b9f4ec75164f2b524a86b204150635517887cd79c22372cfc72cb5ca1422599",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "剪映通过 Hub 和剪映助手打通 AI 视频与传统自媒体制作流程。Hub 结合无限画布和统一上下文的 Agent，可从想法生成剧本、分镜，批量制作角色资产与视频，再进入多轨时间线精剪和 AI 后编辑。剪映助手可清理口误、生成 B-roll、匹配素材粗剪、添加包装及提取长视频精华，结果仍需人工调整，但保留可编辑轨道。手机端也打通生成与剪辑，并新增杜比视界支持，核心价值是减少软件切换和重复操作。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:52:36+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 4363,
           "hasFullContent": true,
           "hash": "254482b0d75759611fb7ac4458dc6be48ad775fb55bc284f8e526a4d81c1882b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "灵光2.0内测新增个人智能体，可通过API、CLI或MCP接入外部工具。作者演示了安装开源米家API、扫码授权后，用自然语言控制小米家电，并结合天气调整空调设置；还展示了持续推送行业晨报、制定减重计划及根据天气主动提醒的场景。作者认为，Personal Agent的核心是拆解长期目标、持续跟进并动态调整，减少用户实时盯守。目前API接入仍有技术门槛，账号授权意愿和平台限制也是落地障碍。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:55:31+08:00"
         }
       ]
     },
@@ -249,9 +249,9 @@
           "contentLength": 1921,
           "hasFullContent": true,
           "hash": "fa41d705aab2664dc8b3a299ea77c240bdd3494dc70829638d58dcc57d2e4272",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章汇集五个趣味桌面项目：Desktop Cleaning 用可掀动的布料地毯遮住文件图标，原版尚未发布且未开源，但已有开源复刻；Tendedero 把截图挂在屏幕顶部的晾衣绳上，支持复制、拖拽保存和标注；Desktop Games Nostalgia 用九种工具破坏屏幕截图，不影响真实文件；Deskworlds 提供可互动的鱼群等桌面场景；Window Sweaters 为应用窗口添加针织边框。项目主要面向 Mac，其中桌面破坏游戏也可在浏览器中体验。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:52:36+08:00"
         }
       ]
     },
@@ -267,9 +267,9 @@
           "contentLength": 4717,
           "hasFullContent": true,
           "hash": "5e67870f52219684b017255a0a4cdfd5d75d6dd4491e92041dbad8d3298a652d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "无问芯穹完成23亿元C轮融资，累计融资43亿元，刷新国产AI原生基础设施赛道单轮及累计融资纪录。公司不自建机房，通过多元异构、软硬协同与自主式AI整合分散算力，已适配16种芯片，一年内将推理成本降至原来的十分之一。其业务覆盖算力集散、模型Token服务和行业解决方案，平台日均Token使用量半年增长超40倍，95%以上推理任务来自Agent。本轮资金将支持规模化扩张，据彭博社报道，公司已秘密递交港股IPO申请。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:51:06+08:00"
         },
         {
           "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
@@ -291,9 +291,9 @@
           "contentLength": 2627,
           "hasFullContent": true,
           "hash": "0ae8fbc05c95c02dc24e8a704865b1b2e10d9298fe6d52af90872c3f685491e8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "研究团队提出直接隐状态对齐（DHSA），在冻结大模型基座权重的情况下，通过调整推理时隐状态实现偏好对齐。其残差竞争图（RCM）量化内部组件对目标行为的支持或抵消作用，据此选择干预位置，再用CAST控制器学习局部调整。在知识冲突、情感控制和开放式摘要任务中，仅启用256—16384个控制参数即可达到与DPO相竞争的水平；部分设置只需干预提示处理阶段，控制器迁移到DPO模型后还能进一步改善表现。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:51:06+08:00"
         },
         {
           "title": "量子位2026人工智能年度榜单，正式启动！",
@@ -303,9 +303,9 @@
           "contentLength": 2386,
           "hasFullContent": true,
           "hash": "b794253c9a6e0c9142c0094d19566a6cd8873ddee3659a07e2b1f515a05b2979",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单启动报名，从企业、产品、人物三大维度设置领航企业、潜力创业公司、杰出产品、杰出解决方案和创业新锐五类奖项。评选强调AI在真实场景中的应用与商业价值，综合考察技术创新、业务增长、市场认可、资本实力及行业影响力，关注近一年的突破与成果。创业新锐原则上不超过40岁，所属公司成立不超过两年。报名截至2026年11月16日，结果将在MEET2027智能未来大会公布。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-13T07:55:31+08:00"
         }
       ]
     }
