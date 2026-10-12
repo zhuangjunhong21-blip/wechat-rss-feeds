@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-12T08:33:52+08:00",
+  "generatedAt": "2026-10-12T08:40:15+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -57,9 +57,9 @@
           "contentLength": 3569,
           "hasFullContent": true,
           "hash": "a7a2986339cc14cf4788eb241eee3d9b4171a39bf2a32dc86915e9f020d95f95",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Jev 所属公司 TypeSafe 在发布模型后24天内估值升至75亿美元，折射出决策模型的热潮。这类模型根据上下文和固定候选项输出校准概率，以低成本、低延迟承担 Agent 的模型路由、工具放行、评分与风险筛查等判断。微软、OpenAI 和 vLLM 也推出了类似产品。其价值是让代码依据概率阈值自动执行、升级模型或转人工，成为通用大模型的补充，并让软件中的大量细小判断也能负担得起 AI 调用。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:35:10+08:00"
         },
         {
           "title": "这届 AI PC，太烧心了",
@@ -81,9 +81,9 @@
           "contentLength": 8640,
           "hasFullContent": true,
           "hash": "6c0e984ab4ac16b38f5b151dc2995b0b92266b0e1aaade14a41795da04f1009a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "科技与商业动态聚焦硬件涨价、PC需求下滑及AI融资。IDC数据显示，第三季度全球PC出货量同比下降20.1%，供应限制、提前备货及高库存高价格抑制需求，传统旺季未现。小米17 Ultra全系因核心元器件成本上涨提价1000元。Jev开发商TypeSafe AI融资约8.7亿美元，估值达75亿美元；田柯宇团队获近3000万美元融资研发世界模型。此外，豆包拓展生活服务，AI事故应对、声音复刻及科研使用规范引发讨论。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:38:13+08:00"
         },
         {
           "title": "苹果新品全家桶大剧透，最大的个人 AI 终端是你家",
@@ -267,9 +267,9 @@
           "contentLength": 3465,
           "hasFullContent": true,
           "hash": "102728ce87f5088fd86a53dd56554dde3a8b910e432aadfb1739005d3a22d189",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "23岁的Instinct创始人Noah Shinn分享了个人AI助理的产品与商业路径：无需独立App，通过短信、电话和邮件完成旅行预订、退订、购物及长期目标管理。产品以渐进授权和独立风控建立信任，约四成用户使用三周后绑定信用卡；用户免费，收入来自商家交易佣金。快速增长使算力成为主要瓶颈，团队通过混合推理、异步处理和模型蒸馏降低成本。Noah认为，Agent将持续处理后台事务，靠把事情办妥赢得长期托付。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:38:13+08:00"
         }
       ]
     },
@@ -285,9 +285,9 @@
           "contentLength": 421,
           "hasFullContent": true,
           "hash": "7343eb28557d6e0ab59cf0e9dc0edca5a892b1fc80fadd18dbb307c4bdfb70b1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Founder Park 的 Idea Rush 第二期将讨论下一代 AI 视觉产品的可能形态：当 AI 图片、视频生成产品趋于成熟，AI 能否进一步生成有结构、可迭代、可操纵并持续生长的“视觉对象”。讨论线索包括与 AI 共创的无限画布、按意图自动剪辑和包装视频的插件、随交互变化的视频、封装专业审美与经验的 Skill，以及根据真实任务即时生成的操作界面。活动采用小范围闭门交流，要求每位参与者发言，旨在碰撞新思路，尚未给出确定结论。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:38:13+08:00"
         },
         {
           "title": "对话UNICUS徐豪：一家无限SKU的玩具平台，训练了第一个能「生产」的3D模型",
@@ -777,9 +777,9 @@
           "contentLength": 4929,
           "hasFullContent": true,
           "hash": "8daa777b1c9355112b3378fbe2b3ab9d47472ccee6e1bdad6d9802472dfdf8a4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "NBA 与阿里合作进入第二年，通过 AI 和数字商业生态升级观赛与赛事运营。阿里以实时回放、AI 视频生成和 NBA Chat 提供多角度观看、专业问答及个性化资讯，并借助官方数据和工具调用提高回答准确性。双方还将会员权益、周边购物、出行和城市消费串联起来，使单场比赛延伸为多日体验。文章认为，体育赛事既是 AI 实时性与可靠性的测试场，也可成为连接体育、娱乐与商业的平台，帮助 NBA 扩展受众、阿里拓宽 AI 在物理场景中的应用。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:38:13+08:00"
         },
         {
           "title": "司美格鲁肽之后，糖吉医疗的商业账本要怎么算？",
@@ -789,9 +789,9 @@
           "contentLength": 5832,
           "hasFullContent": true,
           "hash": "82956f0eb493b6cd6c16cc6e7bc1c59d373bf28775fd68e10b4e8c3c4437e617",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "糖吉医疗的胃转流支架系统以可逆内镜介入填补减重药物与手术之间的空白，但销量仍小，面临司美格鲁肽降价和胃球囊竞争。其商业模式依靠医保降低支付门槛、一次性介入减轻长期用药负担，并借创新器械暂免集采维持高毛利、激励渠道推广。然而，各地报销差异大，患者支付仍达万元级，2026年上半年销售费用率达96.2%，盈利尚未得到验证。闭环能否成立，取决于销量增长、单位营销成本下降及胃胶囊、糖尿病适应症产品落地。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:35:10+08:00"
         },
         {
           "title": "对话 8 位汽车工程师和学者：上世纪成熟的踏板，为何今天还会断裂？",
@@ -1581,9 +1581,9 @@
           "contentLength": 4047,
           "hasFullContent": true,
           "hash": "2810dcf09fe65c0b5b48dfbe459130036a4fcadb2cd44867e853707ee0619476",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "TypeSafe AI凭借决策模型Jev，在24天内从估值2亿美元升至75亿美元，完成8.7亿美元A轮融资。Jev舍弃文本生成，专注分类、评分和选择，以低成本服务软件后台自动化，上线3天日处理量即达1万亿Token。团队认为，AI落地的关键是成为软件可稳定调用的工具，而非更会聊天的助手。微软、OpenAI和Cloudflare相继推出同类产品，显示决策模型赛道迅速形成，TypeSafe AI也面临竞争加剧。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:35:10+08:00"
         },
         {
           "title": "2026年度AI十大趋势征集启动｜量子位智库",
@@ -1593,9 +1593,9 @@
           "contentLength": 1994,
           "hasFullContent": true,
           "hash": "efd35a657e5a8cf4f86dc8afc1f4bfcc0d045e2ec12c2bb5eb322b8fbf89c7c5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位智库启动2026年度AI十大趋势征集，面向产学研伙伴收集趋势判断、代表机构与实践案例。征集关注智能体、物理AI、世界模型及AI参与自身研发等方向，强调以技术成熟度、落地现状和潜在价值研判趋势，并关注可靠性、可控性与规模化成本，记录AI从能力突破走向真实生产力的变化。征集将于11月20日截止，报告计划于2026年12月在“MEET2027智能未来大会”发布，参与方可成为官方合作伙伴。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:35:10+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
