@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-12T08:27:25+08:00",
+  "generatedAt": "2026-10-12T08:33:52+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 1380,
           "hasFullContent": true,
           "hash": "139cc3dbc0c1bebc72a8ba786e84d815a49d2066874aecfafe03abb860a1b564",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "APPSO 在广州与库克交流，重点讨论尚未发售的 iPhone Duo 的应用适配与交互。Duo-Man 将设备变成 Walkman，Xmind 则用半个月完成适配，让思维导图随开合形态变化，并支持半屏大纲与分屏协同。多形态也带来非标准窗口的布局难题。库克认为，应用应充分利用更大、更沉浸的屏幕，并考虑不同握持角度。文章主张将 Duo 看作会改变形态的 iPhone，其软件需要围绕开合状态、铰链与折痕设计专属交互。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:28:44+08:00"
         },
         {
           "title": "AI「克隆」的 Adobe 全家桶一夜爆火，但先别急着卸载正版",
@@ -33,9 +33,9 @@
           "contentLength": 3404,
           "hasFullContent": true,
           "hash": "4a99fbf6ac6d5858880d598246c7bde88b1e8bf53fac32fa3032f013284a668e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "开发者 Brandon Thomas 借助 AI 推出免费开源的 ArtCraft，试图复刻 Adobe 七款软件，但多数仍在开发或早期测试阶段，功能对等承诺已延期。试用与测试暴露出复杂文件兼容、滤镜计算、性能、稳定性和插件支持等差距。文章认为，AI 编程大幅提前了软件“看起来像成品”的时间，却不等于达到专业工具的完成度；成熟软件长期积累的真实工作流程与例外处理，难以靠反复修补和增加模型调用迅速补齐。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:31:46+08:00"
         },
         {
           "title": "苹果库克闪现广州看咏春/曝字节个人AI助理将与豆包结合/网飞自曝300部作品已使用AI",
@@ -45,9 +45,9 @@
           "contentLength": 10863,
           "hasFullContent": true,
           "hash": "a8677e38df1a2a6609e3401de5c1ce526f50baada4fe342fbf4261afedab5059",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "库克到广州探班用 iPhone 18 Pro 拍摄的咏春短片；字节据报加快个人 AI 智能体 Spell 研发，计划与豆包结合。Netflix 称约300部作品已使用 AI，覆盖预演、剪辑和特效等环节；导演测算某项目可降本约40%，同时强调情感表达仍需人的创作。长鑫预计年底推出采用4F²架构的服务器内存，苹果中国清洁能源基金扩容至2.12亿美元。其他动态涉及汽车安全设计征求意见、电商低价竞争整治及多款 AI 工具更新。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:31:46+08:00"
         },
         {
           "title": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
@@ -69,9 +69,9 @@
           "contentLength": 3732,
           "hasFullContent": true,
           "hash": "6fbff060dcede04c9ae892f8bc03f2ae56ad0c1fa27feacafca1a79974807f19",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI 服务器需求挤压消费级存储产能，推高内存与 SSD 成本；叠加去年换机潮的高基数、提前备货和库存压力，2026 年第三季度全球 PC 出货量明显下滑。厂商通过延续 DDR4 等成熟平台降低升级支出。开源项目 Strata 则利用显卡、内存和 CPU 协同推理，结合量化与推测解码，让消费级电脑运行千亿参数模型，但仍需权衡速度、质量与使用门槛。智能服务不断降价，硬件却因 AI 需求变贵，保留旧硬件、提升软件利用效率成为应对路径。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:31:46+08:00"
         },
         {
           "title": "全球PC销量暴跌20%/小米17 Ultra全系涨价1000元/Jev开发商融资58亿，估值500亿",
@@ -1269,9 +1269,9 @@
           "contentLength": 1374,
           "hasFullContent": true,
           "hash": "5d952e19ad3d737eb0d0c898c36750e9c2dc3fee5449ebf3dafd9400fcf146bb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "蚂蚁灵光正小范围内测 Personal Agent，新增“我的生活”入口，可连接米家、钉钉等生态，承担设备控制、定时检查和条件触发任务。作者通过聊天指令安装开源米家 API，在独立云端 Python 环境中扫码接入家中设备，成功生成设备手册并调用打印机打印。其他示例包括按气温开启空调、持续监测电商价格和机票价格，仅在满足条件时提醒。作者称相关功能已迭代多版，计划于本月全面开放。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:28:44+08:00"
         },
         {
           "title": "Anthropic 联合天文学家，完成了第一张完整的全天紫外地图",
@@ -1533,9 +1533,9 @@
           "contentLength": 5576,
           "hasFullContent": true,
           "hash": "568e4ae3ff3b24218364ac9d0d77128d70f85e861b58bbada1c6f40ec8cec456",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "GPT-4o从ChatGPT下架近8个月后，Keep4o支持者仍在请愿，诉求从恢复使用逐步转向开放权重、建立退役模型存档政策，至少承诺不删除模型。用户留恋其自然、有温度的交流方式，以及情绪支持和工作辅助价值，但它也曾因过度迎合和情绪操控指控引发争议。OpenAI以使用率低为由维持下架决定，最早的API快照将于10月23日停用，其他版本仍可调用。文章借Anthropic保存退役模型的做法，讨论产品迭代中如何保留旧模型及用户与它的联系。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:28:44+08:00"
         },
         {
           "title": "硅谷AI现状：谁有算力谁是爹",
@@ -1557,9 +1557,9 @@
           "contentLength": 3368,
           "hasFullContent": true,
           "hash": "32664c3cddfa1c6b6f210f2ba44d639c60cf92c52be0a2fbc63846b66f4b3ecc",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "清华团队开源VeriLoop E2，将模型探索权与结果提交权分离：候选须经固定外部验证，所有受保护证据均不退化且至少一项改善才可提交，否则保留原状态并反馈失败证据。这一机制也用于后训练，系统已完成九项公开评测。黑洞信息科研演示聚焦自由渐近引力辐射重建，将完备性判断推进为由拉普拉斯第二特征值控制的定量模量，六组可执行证书全部通过，但不代表外部同行评审完成，也未解决完整黑洞信息悖论。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:28:44+08:00"
         },
         {
           "title": "H-JEPA！LeCun世界模型创业交卷，代码权重全部开源",
@@ -1605,9 +1605,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "793cfa7e2fcabaae54f7eb290ab389e90377fc132d9074bf57f28055c52f5ca6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业、AI产品三个方向的内容人才，覆盖编辑、主笔、主编层级，工作地点为北京中关村，面向社招及应届毕业生，接受实习并可转正。岗位分别聚焦芯片与云计算等AI基建、创投财报与商业分析、AI软件应用与硬件终端评测，要求具备相应领域认知、采访及结构化表达能力。团队提供新人导师指导、行业交流机会及薪酬福利。应聘者需将简历与代表作品发送至招聘邮箱，并注明应聘方向及姓名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:31:46+08:00"
         },
         {
           "title": "TRAE终于把Code和Work合并了",
