@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-12T07:10:02+08:00",
+  "generatedAt": "2026-10-12T08:27:25+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -1515,9 +1515,9 @@
           "contentLength": 1459,
           "hasFullContent": true,
           "hash": "cf6fd9c85b8697527b0f33cdc58df1360defddcc4490ee35a85ceb7b8bc98ee9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章分享三个开源项目：text-to-cad 为 Claude Code、Codex 等 Agent 增加 CAD 建模能力，可按形状和尺寸生成模型，保留源码供参数调整，并导出多种三维格式；pdoom-video 开源一支音乐 MV 的程序化画面、逐词歌词动画、音频分析及渲染流程，展示与 Claude Code 协作的制作方法；Jev 是安卓聊天助手，结合对话和联系人笔记分析意图、生成候选回复，由用户修改后发送，使用前需配置模型接口与相关权限。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:24:53+08:00"
         }
       ]
     },
@@ -1545,9 +1545,9 @@
           "contentLength": 2535,
           "hasFullContent": true,
           "hash": "48a8dfb6a4c78e5bf6eac20c65f90fb7d057b148f581d902c4d2674e3aa1360a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "硅谷AI竞争正从人才与模型能力转向算力争夺。算力不足影响巨头留住研究人才，也促使Anthropic向SpaceX采购资源，竞争对手在基础设施层面成为合作伙伴。头部实验室锁定大量GPU，云服务商提高长期合约和预付款要求，使小型创业公司面临成本与增长的两难，催生闲置算力转租及VC囤GPU等生意。Agent带来的持续计算需求与数据中心建设滞后加剧供需缺口，推动租赁价格上涨。算力正成为行业准入门槛，并强化拥有自建基础设施的大公司优势。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:24:53+08:00"
         },
         {
           "title": "黑洞信息悖论推进至“定量完备性模量”：清华团队开源VeriLoop E2迈向可验证智能",
