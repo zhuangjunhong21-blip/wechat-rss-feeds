@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-12T08:46:38+08:00",
+  "generatedAt": "2026-10-12T08:52:03+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -297,9 +297,9 @@
           "contentLength": 12692,
           "hasFullContent": true,
           "hash": "8f858cbf9d2a3e8a90bafca96a7124aefb82ae17039dc8a5738b1db5a3b37ef9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "UNICUS创始人徐豪希望将照片定制生意转为无限SKU的零库存玩具平台：少数创作者提供设计，平台负责生产交付并分成，多数用户浏览购买。团队自建柔性工厂，将设计等人工成本从数百元降至10元以内，并以真实订单积累的100多万条结构化3D数据训练U1，生成带内部结构、满足碰撞与连接约束的可制造模型，但尚未纳入重力等约束。下一步将拓展欧美独立站和线下即时制造，核心是验证创作者供给能否形成持续消费。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:47:57+08:00"
         },
         {
           "title": "去美国市场做ToB，最关键的几个GTM问题",
@@ -1617,9 +1617,9 @@
           "contentLength": 4117,
           "hasFullContent": true,
           "hash": "9d3138c5b29112170d5c9491cb483b66321626386e267ba2c3f029ef32e92da5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "TRAE将TraeCode与TraeWork合并，提供Agent全局工作台和IDE模式，在同一项目中串联需求、设计、编码、测试与交付，支持多Agent并行及产物集中管理。地牢编辑器、老项目修复和反馈处理台实测展示了开发与文档协同的能力，也暴露出并行任务标准冲突、开发自测遗漏等问题。核心结论是，多Agent需要明确分工、共享依据和独立检查，人的职责正转向任务拆解、统筹与验收。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:47:57+08:00"
         },
         {
           "title": "量子位2026人工智能年度榜单，正式启动！",
@@ -1629,9 +1629,9 @@
           "contentLength": 2386,
           "hasFullContent": true,
           "hash": "139c40175ac21d5e9618119c05af2e4d8a9626534fd93e6e3d7ebb6b15b2f99c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单启动报名，围绕企业、产品、人物三大维度设置领航企业、潜力创业公司、杰出产品、杰出解决方案和创业新锐五类奖项。评选强调AI从技术验证走向规模化落地，重点考察技术创新、真实场景应用、市场认可与商业价值，并结合业务、资本、团队及行业影响力等指标评价。报名截至2026年11月16日，结果将在MEET2027智能未来大会公布。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:47:57+08:00"
         },
         {
           "title": "图像生成模型调优新思路：让解码器“提前适应”生成器的潜变量",
@@ -1641,9 +1641,9 @@
           "contentLength": 1953,
           "hasFullContent": true,
           "hash": "c902caa63d42eee9f7c43ece983d114da5d8debd5047e4eb2b8f002973f8acfc",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "研究指出，图像重建质量不能直接预测生成质量，原因是编码器与生成器提供的潜变量存在分布差距。团队提出生成感知重建（GAR），通过加噪、去噪构建从重建到生成的连续路径，其GAR-FID指标在测试中与生成质量的相关性更强。利用中间潜变量微调解码器、固定编码器和生成器，可让解码器适应生成输入。在ImageNet实验中，无引导iMF-XL/2的gFID从9.78降至7.47，且不增加推理计算。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-12T08:47:57+08:00"
         },
         {
           "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
