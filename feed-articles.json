@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-15T07:53:01+08:00",
+  "generatedAt": "2026-10-15T07:59:34+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 3274,
           "hasFullContent": true,
           "hash": "2c02fc229e1a1215d71758ed0d34759708bbe52a51de0eb82e59ebea060eca54",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic 内部每日代码合并量从2500次增至3万次，使 Git 的完整副本与镜像同步机制成为瓶颈。7名工程师借助 Claude，耗时5个月开发 Scion 并迁移大仓库，通过服务器 API、按需拉取和虚拟化 checkout，将 CPU 与内存消耗降低200倍，代码拉取从分钟缩至秒级，节省25%的持续集成算力。人类工程师主要负责判断改动必要性、制止过度工程化。Anthropic 预计，其他公司未来6至12个月也将遇到类似工具瓶颈。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-15T07:57:23+08:00"
         },
         {
           "title": "企业微信和 WorkBuddy 组了个「王炸局」，AI 终于不用人伺候了",
@@ -33,9 +33,9 @@
           "contentLength": 2936,
           "hasFullContent": true,
           "hash": "aabdf797adafc195999266a745ea55d0b8965472c1988ff0ced7262d01fdd5ad",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "企业微信与 WorkBuddy 打通后，员工可在聊天中直接派活，AI 在授权范围内调用消息、文档、会议和网盘等工作上下文，完成月报整理、建群、选题标准沉淀及项目进度跟踪，并将结果发送给相关同事或存入微盘，减少资料搬运和软件切换。编辑部测试展示了将历史讨论整理为可复用 Skill、结合定时任务生成选题早报的方法。企业管理员可统一配置使用资格、数据权限和用量，让 AI 逐步融入既有业务流程，但选题取舍等决策仍需人工判断。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-15T07:57:23+08:00"
         }
       ]
     },
@@ -87,9 +87,9 @@
           "contentLength": 2136,
           "hasFullContent": true,
           "hash": "e536b0df0e905a042d49685ba76d7686198f2965f5ab39b56d960744ec748668",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者认为，国产个人Agent难以复现Muse、GrokBot的体验，主要障碍不在技术，而在国内互联网生态割裂、跨平台权限受限，以及缺乏高价值插件。豆包手机助手的经历表明，即使AI具备操作能力，平台仍可阻止其执行任务。下一代入口的竞争又使巨头更不愿开放。作者据此判断，一年内虽会出现类似国产产品，但实用性难及原版；专业办公因数据开放需求更强，可能率先出现较可用的版本。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-15T07:57:23+08:00"
         }
       ]
     },
@@ -105,9 +105,9 @@
           "contentLength": 7528,
           "hasFullContent": true,
           "hash": "1878c2156bb55bd1b367fcc5055d486691a3c85b03cd5254caedd3aa23160de4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "比亚迪依靠技术自研、垂直整合和低成本实现高速增长，如今面临国内车市收缩、对手追赶及重资产负担，抢占份额的闪击战转为消耗战。技术优先的决策惯性使其错过家庭大SUV市场，无人机、智驾投入也未充分契合用户需求。海外增长缓解了国内销量下滑，却需要持续投入建厂、渠道和品牌，并应对政策风险与中国同行竞争。公司正提高产品经理话语权、推动品牌独立核算和零部件通用化，但仍以技术投入寻找增长，调整力度与资金效率成为关键。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-15T07:54:10+08:00"
         }
       ]
     },
@@ -123,9 +123,9 @@
           "contentLength": 4764,
           "hasFullContent": true,
           "hash": "43306e9ae7f57ffae185281716a8f9f57d863b2a434ec76b5c75a330f000e74e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "以 QZ AI 眼镜项目为例，演示用 TapNow 创作 Agent 完成活动策划、商品图和广告片制作。核心能力包括构思与创作一体化、项目记忆与上下文管理，以及应用和技能复用。流程从读取资料、生成场地布局与汇报演示，到保存品牌偏好和产品主体、批量出图，再完成脚本、角色、分镜、视频生成与剪辑，并将制作方法存为 Skill。关键是组织好上下文、选择合适工具，由人确定方向、核对方案和判断结果。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-15T07:57:23+08:00"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "contentLength": 5053,
           "hasFullContent": true,
           "hash": "46c088e2ab9c9a7fabb71440f9125fd12f358b13c5aebaa1ac530c4b0e22ad7b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "阶跃终端发布首款智能体原生手机STEPX Neo先行版，售价3999元，附带连续12个月、每月百亿Token额度。其Step AOS让阶跃Amoo直接调用系统能力、Skill及第三方服务，在后台执行长链路任务，减少对模拟点击的依赖；Step Studio支持创客开发并推送应用、Agent和Skill。安全机制涵盖数据脱敏、调用留痕、高风险操作二次确认及误删恢复，并要求社区发布者实名、阻断隐私文件上传，强调以软硬模一体化实现可控的个人智能体体验。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-15T07:54:10+08:00"
         },
         {
           "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
@@ -201,9 +201,9 @@
           "contentLength": 3145,
           "hasFullContent": true,
           "hash": "c46d8f71b9781338ed20315e8710402e34e0258d3c2bb881b162c07ed3eb2989",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "上海人工智能实验室联合高校提出InfiniHand，以单一流式模型联合估计手部位置、形态与相机轨迹，在共享世界坐标系中恢复连续动作。团队汇集约5000小时第一视角视频，清洗标注后分两阶段学习精细手势与全局运动，并通过窗口记忆和并行推理提高效率。预测吞吐量达11.19FPS，约为HaWoR的2.04倍，多项测试误差降低。框架有望用于具身智能示范数据标注，但物理尺度恢复、大幅运动及间歇遮挡仍是难点。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-15T07:54:10+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -213,9 +213,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "0c480e14666c8e005fabd4264b9f454559548184d48ad80ec18bacb8c6b41b38",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业、AI产品三个方向的内容人才，工作地点为北京中关村，覆盖编辑、主笔、主编各层级，面向社招及应届毕业生，接受实习且可转正。工作分别聚焦芯片与算力基础设施、创投财报与商业分析、AI应用及硬件终端，要求具备相应领域认知、采访能力和结构化表达能力。团队提供新人导师指导、行业交流机会及薪资福利。应聘者需通过邮件提交简历，并附科技行业或其他能体现写作水平的代表作品。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-15T07:54:10+08:00"
         }
       ]
     }
