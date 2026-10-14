@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-14T07:10:23+08:00",
+  "generatedAt": "2026-10-14T08:33:49+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -21,9 +21,9 @@
           "contentLength": 2332,
           "hasFullContent": true,
           "hash": "6a7304f84d47907e264ba2f0f238374c483ddce691636619fcaebd14f5b6243f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "据原文，谷歌发布旗舰模型Gemini 4 Argon，上线Gemini API、App及Antigravity，后两者按订阅等级开放。单次最大输出由64K增至100万tokens，支持长链路推理与跨文件重构。谷歌内部案例显示，其推动C/C++向Rust迁移，使视频解码器较原Rust版提速2.7倍，并用于数据中心内存及量子算法优化。多项编程与长上下文基准领先，尝鲜价为每百万tokens输入2美元、输出10美元。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-14T08:31:39+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 6819,
           "hasFullContent": true,
           "hash": "ddda535920223773cd6d15acd5cdf031e9487415f9d1ece66de504104cedf073",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Gemini 4 Argon全面开放后，作者结合第三方评测与实测，认为其优势集中在金融、法律等专业知识工作，电脑操作和Agent能力仍有明显短板。模型支持多模态输入，百万Token额度由输入、思考与输出共享，长输出需分段续写。实测中，100美元Ultra会员不到10个任务便耗尽五小时额度，前端精细度、中文写作和产品体验均未达作者预期，后端测试因额度不足未完成。作者认为其难以挑战Claude Opus 5.5与GPT-6 Astra，建议尝鲜选择20美元Pro。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-14T08:31:39+08:00"
         }
       ]
     },
