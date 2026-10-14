@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-14T08:40:37+08:00",
+  "generatedAt": "2026-10-14T08:46:53+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -81,9 +81,9 @@
           "contentLength": 180,
           "hasFullContent": true,
           "hash": "6e2dcc286a98b06e8725cc42243b82a017606a3aeca079ba529f66289dcf7838",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 将于 10 月 23 日至 25 日在杭州龙坞举办「观猹」线下活动，邀请玩 AI 的朋友和社区伙伴相聚。活动以开放、分享与协作为核心，希望将社区交流带到现场，让参与者一起聊 AI、交流想法、碰撞新灵感，也让平时通过屏幕联系的伙伴有机会面对面见面。感兴趣的读者可扫描活动海报二维码报名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-14T08:41:49+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 923,
           "hasFullContent": true,
           "hash": "a820f03eb75c20accbe0bab23850d4faf052011a992e11a491d9d08a590c1a95",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者认为REA的热度被夸大，不值得投入时间。其核心并非创造新的逆向技术，而是让Claude Code、Codex等Agent调用已有专业逆向工具；部分被归功于REA的热门案例实际使用了其他工具，如Hex-Rays官方MCP。作者还根据仓库Stars、Forks与Watchers比例及评论、贡献者活动异常，质疑其存在刷数据嫌疑，并判断REA热度会迅速消退，但Agent接管专业工具的趋势将持续。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-14T08:44:52+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 931,
           "hasFullContent": true,
           "hash": "d08020b6c4e315ecf29139472d3a0fd8111bef4128c07f107b05b570b3fccc94",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "刘聪回顾了兼顾上班与自媒体、离职后全职做AI内容的经历：模型和产品不断更新，工作始终忙不完，AI省下的时间又被新任务填满，长期熬夜也影响了健康。受“不要浪费精力和时间”的启发，他在病愈后开始学拳、学吉他，尝试把不想做的事情交给AI，把想做的事情留给自己。他将于10月24日在杭州龙坞观猹大会，与苍何、袋鼠帝、甲木等AI博主组乐队登台，实现多年的乐队梦。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-14T08:41:49+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 3692,
           "hasFullContent": true,
           "hash": "b6d9c6286529abc04e93d957920c7bb772b6b5c4d41aed50e6d14739121dd961",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章认为，下一代 Office 将以任务为起点，由 AI 完成大部分工作，人负责核对、判断和关键修改。纳米Work将办公智能体与可直接编辑的 Word、Excel、PPT 编辑器结合，支持手机下达修改指令、跨文件同步数据、保留公式和原格式交付，也可手动调整细节、比较版本和处理修订。长任务能在云端持续运行，并支持多端同步和定时自动化。作者强调，可编辑交付物与云端执行能力，是实现人机协同办公的关键。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-14T08:41:49+08:00"
         }
       ]
     },
@@ -189,9 +189,9 @@
           "contentLength": 2358,
           "hasFullContent": true,
           "hash": "ed1e5a0f6753bebf70ced08353c6971366c32e9f2b528492dfc1ec54c946978c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章汇总六套 GitHub 开源 AI 学习资源：两本“深入理解”系列分别聚焦 Agent 的上下文、工具与工程能力，以及大模型计算量、显存、带宽和功耗的量化分析；“蒲公英书”提供通识与理论学习版本；《强化学习的数学原理》解释算法设计与有效性的数学依据；中文版《Agentic Design Patterns》整理21种智能体设计模式；Hands-On Modern RL 以可运行代码和训练曲线串联基础强化学习、大模型对齐与 Agent 实践，覆盖从理论入门到工程落地的学习需求。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-14T08:44:52+08:00"
         }
       ]
     },
@@ -243,9 +243,9 @@
           "contentLength": 3005,
           "hasFullContent": true,
           "hash": "ee99ad02a50e109f7c6978cb9d0b7260c2407f5f39811bad86c29ffc9bfdd089",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Real2Gym从人类或机器人操作视频构建可交互仿真环境，通过几何约束、交互关键帧纠错和物理执行验证，确保场景支持实际操作。Agent以阶段代码推进多个动作，将成功步骤、失败原因及恢复方法保存为可复用技能，无需更新模型权重。24个场景评估中，复用经验后平均成功率达87.5%，策略执行Token用量减少约74.9%，该统计不含场景构建与技能提取。真机实验还通过仿真迭代完成了此前失败的盘子上架任务，但验证范围仍限于Franka机械臂和平行夹爪。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-14T08:41:49+08:00"
         },
         {
           "title": "量子位2026人工智能年度榜单，正式启动！",
