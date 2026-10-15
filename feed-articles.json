@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-15T07:59:34+08:00",
+  "generatedAt": "2026-10-15T08:05:06+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -141,9 +141,9 @@
           "contentLength": 2828,
           "hasFullContent": true,
           "hash": "b07dbe5753f4e9fda70c14834a702bf07e3087df9f6639721bc2c8f0b33d0452",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "豆包工作新增“数据导入与同步”，可从电脑本地导入ChatGPT、Claude Code、TRAE Work的偏好指令、技能、连接器、记忆、项目和历史会话，并支持后续自动同步，纯云端内容不在范围内。作者通过制作封面、续写荐书语，验证迁移后可沿用原有上下文继续任务，并展示新对话接续、消息注释和摘要侧栏等功能。文章认为，长期积累的上下文是用户重要的AI资产，迁移降低了切换Agent的成本，也促使产品靠能力与体验留住用户。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-15T08:00:47+08:00"
         }
       ]
     },
@@ -159,9 +159,9 @@
           "contentLength": 2800,
           "hasFullContent": true,
           "hash": "3d9b27f55c3eaad41a65eed179cf27d95ae80f0c8dd63411b1fc29ff4ddec7e1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Noiz AI 开源世界模型 HelixWorld，可根据起始图片、场景描述及移动、转向操作，联合生成画面与音频，让空间声场随视角变化。模型通过含立体声和相机运动信息的视频学习声画关系，利用蒸馏减少生成步骤，并针对长时间生成训练以缓解画面漂移和声音退化。单张 NVIDIA H800 热身后可实现 768×512、24 FPS 实时声画生成。官网 Demo 支持实时交互，本地预览版主要按预设动作离线生成，官方建议使用 80 GB 显存。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-15T08:00:47+08:00"
         }
       ]
     },
