@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-16T08:21:29+08:00",
+  "generatedAt": "2026-10-16T08:27:49+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -51,9 +51,9 @@
           "contentLength": 3391,
           "hasFullContent": true,
           "hash": "3c6cba1a5b5a93024da3bc7decc7f7171a191fad9c24edd1c7b9f1e84a55c12d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI 女团 BABYQUEEN 因运营压力安排成员 Mity 以“怀孕”为由退团，引发争议。文章结合虚拟网红 Lil Miquela 虚构患白血病等案例，讨论虚拟人物借生育、疾病等真实经历强化情感绑定的伦理边界。作者认为，拟真人生叙事可能复制现实中的性别偏见，将真实群体的困境简化为制造话题的桥段；创作者既然以真人式公告吸引公众代入，就不能在争议发生后以“纯属虚构”回避责任。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:25:46+08:00"
         },
         {
           "title": "国行苹果AI有望12月上线/微信淘宝等超150款应用拒绝接入豆包手机助手/腾讯上线《绿泡泡短剧》",
@@ -63,9 +63,9 @@
           "contentLength": 14759,
           "hasFullContent": true,
           "hash": "3936830475995cdc80c4537da11671c24064c5bbfb87ef1daa95c2106ad08083",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "苹果智能国行版据报有望于12月随iOS 27.3上线，首批提供写作工具、通知摘要等初代功能，新版Siri及部分图像生成功能暂缺。豆包手机助手将逐步开放第三方应用屏幕自动化操作权限，但微信、淘宝等已声明拒绝的应用仍不可被操作。腾讯通过微信小程序推出“绿泡泡短剧”，提供免费真人剧、AI剧和动漫剧，依靠剧集间广告及微信关系链分发。其他动态包括企业微信接入WorkBuddy、ASML拟扩产应对AI需求，以及消费电子价格上涨。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:25:46+08:00"
         }
       ]
     },
@@ -93,9 +93,9 @@
           "contentLength": 610,
           "hasFullContent": true,
           "hash": "18b3095ea45f3b0c24e4ebb5a1d914297ed2123da1b4be951ea0c165e09f66e7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Gemini 4 Argon 发布，主打复杂编程、长流程任务和科研推理，支持100万 token 统一上下文窗口，并展示网络防御与机器人应用。两个官方案例分别展示了将手绘草图转为物理仿真场景、训练机器狗扔垃圾，以及对约20万行的 Python 项目连续工作11小时，自主排查性能瓶颈、修改代码并运行测试。API 限时每百万 token 输入2美元、输出10美元，12月1日起均翻倍，长期预算需按调整后价格计算。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:22:42+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 3993,
           "hasFullContent": true,
           "hash": "457b880e00e1cb8c94636ed733f4dae6b25e95e851ce52206b8de9f1e06b80bf",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "开源Skill Anatomy能将抽象原理转化为可交互的精细模型动画。作者发现，纯动画对初学者仍有理解门槛，便让AI加入讲解、配音和同步高亮，生成机械表、显卡、TCP三次握手等科普视频。实测约5分钟视频消耗Claude Max周额度的1%，高强度生成约需一个半小时，但结构与讲解仍须核验。文章认为，文字、图表、交互网页和视频各有所长，AI可按个人问题即时生成学习材料，让学习更贴合需求。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:25:46+08:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "contentLength": 5284,
           "hasFullContent": true,
           "hash": "a944a37837c29f2979e90d55d617f1f28e854260df88cdd3dc051749e6eed113",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "10月14日，WorkBuddy与企业微信联合版本上线，可读取企微消息、文件、日程等上下文，将成果直接回传群聊，并执行发消息、建群、安排会议等任务。作者演示了更新项目进度、催办任务和结合团队偏好生成选题日报等用法。企业版支持管理员统一分配权限、额度，并通过可观测中心追踪消耗和执行问题。作者认为，办公Agent的价值在于结合企业上下文、复用业务系统，将沟通经验沉淀为Skill，个人也应在平台内积累可复用能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:22:42+08:00"
         }
       ]
     },
@@ -231,9 +231,9 @@
           "contentLength": 4034,
           "hasFullContent": true,
           "hash": "fc50618ab6648e766520cdd2a276007435bea96b9914846084571ec0b66a6bbd",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "企业微信与 WorkBuddy 打通后，员工可通过聊天调用授权范围内的消息、文档、会议、日程等数据，完成纪要、周报、催办和经营分析。企业还可接入 CRM、库存等系统，并按组织身份配置权限。作者以 AGI Bar 为例，将现有 API 封装为 MCP、部署网关并配置企微机器人，实现菜单群码更新、销售查询和活动查询。其核心思路是让 AI 连接办公上下文与业务系统，减少跨系统搬运数据和反复找人的工作，并通过企微向团队共享能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:25:46+08:00"
         }
       ]
     },
@@ -249,9 +249,9 @@
           "contentLength": 2451,
           "hasFullContent": true,
           "hash": "bf4ce801a969ca104d1d2cfc0df05934204e8a8e467980f4e9d6a9d996916766",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "PilotDeck 是清华大学 THUNLP、面壁智能等联合开发的开源 AI Agent 工作台，按工作区隔离项目文件、记忆和技能，支持持续处理任务及查看、修改和恢复记忆。2.0 版本重点优化日常办公，完善 Word、Excel、PPT 的生成、修改与检查流程，提升复杂任务执行稳定性，并改进首次配置、文件上传和成果预览。其智能路由由主模型规划、其他模型分工执行，以控制调用成本，同时支持多家模型、本地模型及自行部署。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:22:42+08:00"
         }
       ]
     },
@@ -303,9 +303,9 @@
           "contentLength": 2672,
           "hasFullContent": true,
           "hash": "a974383d0e1dda89ce06df01038ce022e945b2dee054548c815eb1f8690d8c28",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Scinetics提出“科学Token链”，让序列、结构等科学对象与语言共同参与推理，中间结果可供计算和实验检验。其酶设计系统COS通过四轮结构构建，将催化核心逐步扩展为完整蛋白质，在所比较方法与统一评测设置下，六项指标中五项领先，但真实酶活性仍待湿实验验证。团队进一步提出ScienceRSI设想，以外部验证筛选推理轨迹，保留成功与失败经验，训练下一代模型，形成跨代学习循环。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:22:42+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
