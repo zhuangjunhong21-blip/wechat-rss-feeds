@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-16T08:15:08+08:00",
+  "generatedAt": "2026-10-16T08:21:29+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -21,9 +21,9 @@
           "contentLength": 2569,
           "hasFullContent": true,
           "hash": "023a16a6353e02d60fd92effef0b007e5189ecdb3345e741a32a208f6357215f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者利用Gemini Pro订阅关联的Colab算力，在96GB显存的G4显卡上，通过Codex与Colab MCP部署MiniMax H3开源Base分支。借助剪枝、量化权重，成功生成15秒、1344×768的音视频，峰值显存约54GiB。加入8步LoRA后，Turbo采样速度提升2.5倍，总耗时从18分54秒降至7分55秒，画面细节仍较清晰，但显存占用基本不变。Colab适合临时实验，存在断连和资源回收风险，不宜作为主力生产环境。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:16:22+08:00"
         }
       ]
     },
@@ -111,9 +111,9 @@
           "contentLength": 4572,
           "hasFullContent": true,
           "hash": "19d4a6d6e20591b9f674a3b91aabf2bea3c43db698d026d6d1a43ac2e5642d7a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "阶跃星辰开源 Step 5 Preview 的 BF16、FP8 权重及技术报告，模型在 OpenRouter 周调用榜位居第二。其以600B总参数、27B激活参数和百万Token上下文面向长程Agent任务，通过深窄架构、稀疏注意力、强化学习训练的自主上下文压缩提升计算效率与任务持续性，并改进长轨迹训练。配套工具Step Code优化任务完成率和Token消耗，接入多款Agent工具并限免，降低试用门槛，核心方向是兼顾能力、成本与实际交付。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:16:22+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 6933,
           "hasFullContent": true,
           "hash": "bc5a2408f9ee11ee2db7b54bd2c47d440d4c79df2f827ada4e112c1313fa0e59",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI短剧半年多内供给过剩，仅1.3%的作品达到回本所需播放量，制作费下滑、团队裁员，但短剧之外的AI创作需求仍在增长。TapNow通过与影视飓风合办课程、推出支持对话创作和协作管理的CreativeOS，帮助普通人及企业降低制作门槛、保留创意表达；同时推出海外订阅平台Glanze，以编辑孵化、算力和现金支持探索创作者回报机制。其核心是支持有个人风格的作品，但订阅回本模式尚待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:16:22+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 1146,
           "hasFullContent": true,
           "hash": "384beaf4010817a12df574ea01ff55763acbb5689b1c6f5f359b194102506009",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "天猫双11将于10月20日晚8点正式开卖，10月15日晚8点开启美妆预售，家电、手机、电脑同期直接开售。AI服务首次参与，智谱、MiniMax、千问等厂商推出折扣；具身智能机器人等品类纳入国补，部分家电数码商品叠加补贴低至6.5折。优惠还包括手机券与以旧换新补贴、美妆直播间折扣券、预售免定卡及88VIP消费券。作者建议按购物车金额选择合适券档，也可让AI协助规划优惠。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:19:28+08:00"
         },
         {
           "title": "等了7个月，WorkBuddy终于住进企微，太丝滑了！",
@@ -267,9 +267,9 @@
           "contentLength": 4541,
           "hasFullContent": true,
           "hash": "89b2cf973b6b4dc7711b73180f818688cf5d69a1527006d2330f974b76f8d894",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "前华为小艺大模型负责人唐都钰创办观行数智，押注能自主发现需求、判断介入时机的“主动式物理AI”。团队设计ProAgent双模型架构，由轻量模型持续监测事件流，响应模型规划行动并调用设备，以降低成本和延迟；通过公开视频构建包含行动与继续观察信号的训练数据，并结合设备执行反馈形成闭环。团队还建立覆盖时机、过程和结果的评测体系，在Reachy Mini机器人上验证60个案例。核心挑战是风险判断、职责边界及行动时机。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:19:28+08:00"
         },
         {
           "title": "AI时代，商学院这样培养未来商业领袖",
@@ -279,9 +279,9 @@
           "contentLength": 4886,
           "hasFullContent": true,
           "hash": "56611a806f57ed328612283ae78fe487d5e03e85482242753f9793052454ceed",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI普及后，企业更需要能定义业务问题、判断技术价值并推动组织落地的复合型人才。交大安泰MBA推出“五链人才”培养体系，连接智能、科创、产业、世界与交大资源，计划未来十年联合企业共创1000项AI实景课题，重点培养AI运营优化、前线工程部署和全栈创业经营能力。面向2027级，学制统一为两年，实践课程不低于总课时四分之一。改革强调以真实产业问题驱动学习，培养独立判断与跨界整合能力，人仍是决策与责任的主体。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:19:28+08:00"
         },
         {
           "title": "刚刚，苹果正式迈入5万亿美元时代",
@@ -291,9 +291,9 @@
           "contentLength": 3509,
           "hasFullContent": true,
           "hash": "40d9881e0f4d6e408b0f61c12ee5a47d191fd93136f5e78148828cf44094ea88",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "苹果逆势上涨，收盘市值首次突破5万亿美元，成为继英伟达后第二家达到这一水平的上市公司，新硬件密集发布为市场预期提供支撑。古尔曼爆料称，Apple Intelligence计划于12月随iOS 27.3登陆中国大陆，首批包括通知摘要、写作工具、表情生成和照片消除，新版Siri AI等功能暂不推出，并需联合国内厂商进行本地化改造。文章认为，市值里程碑体现苹果既有商业实力，但AI功能落地滞后，新任CEO特努斯仍需回答苹果如何在AI时代保持引领地位。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:16:22+08:00"
         },
         {
           "title": "AI也能在分子空间里做推演：Scinetics提出可验证的科学推理链",
@@ -315,9 +315,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "21a9067bf2d9a42d80334b9ec731b399d9c7b59d9a4249d983199e3892b2bbf5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位面向AI产业、AI财经商业、AI产品三大方向招聘编辑、主笔和主编，工作地点为北京中关村，接受社招及应届生申请，支持实习转正。岗位分别聚焦芯片与云计算等AI基建、创投财报与商业分析、AI软硬件产品评测，要求具备相应领域认知及采访、写作和结构化表达能力。团队提供新人导师指导、行业交流机会及薪酬福利。应聘者需将简历和代表作品发送至招聘邮箱，并注明应聘方向及姓名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:19:28+08:00"
         }
       ]
     }
