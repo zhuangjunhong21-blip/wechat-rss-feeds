@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-16T07:10:44+08:00",
+  "generatedAt": "2026-10-16T08:15:08+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -39,9 +39,9 @@
           "contentLength": 829,
           "hasFullContent": true,
           "hash": "e187a31f59c21e4bb4650c55a38951b3eeedf6812c9cff2276cd7672b9403797",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "库克向 APPSO 确认，Apple Intelligence 首批功能将于今年10月底在中国大陆推出测试版，包括写作工具、图像消除和实时翻译，全新 Siri AI 暂不在列，此次确认不代表正式版提前发布。此前披露的苹果与阿里合作包含千问能力直接接入，以及面向中国市场联合训练专属模型两条路径，分别提供现成能力和本地化模型基础。合作方案如何对应首批测试、联合模型及新 Siri 何时上线，目前尚未明确。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:13:07+08:00"
         },
         {
           "title": "AI 女爱豆，也逃不过「怀孕退团」的烂剧本",
@@ -81,9 +81,9 @@
           "contentLength": 772,
           "hasFullContent": true,
           "hash": "db7df1b9df9583027ddb2477794df46968a7e4b2758ecff94ca4e7090bf99380",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "截至报告发布，Datawhale总Star数达408,449颗，较6月26日新增55,834颗，GitHub全球组织综合排名由第22升至第18；在知识分享类开源组织中升至全球第3，保持国内第1。增长主要由AI Agent和大模型学习项目驱动，hello-agents季度新增29,809颗Star。7月至9月11日，41个千星项目新增33,378颗Star，其中增长最快的五个项目贡献约75%，热度集中于Agent、大模型学习、RAG和Vibe Coding方向。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:13:07+08:00"
         },
         {
           "title": "最新 Gemini4 重磅发布",
@@ -129,9 +129,9 @@
           "contentLength": 1951,
           "hasFullContent": true,
           "hash": "0fc816aadd4d87b5186278f3d89d5e62a9be860a82e27773a5f2a257ee2e9802",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Google Labs用“差一点就能实现”的清单寻找AI机会：关注尚未成熟但接近可用的能力，持续实验产品形态，待技术跨越临界点后迅速产品化。作者进一步区分技术与产品化两类“差一点”，认为后者无需等待模型突破，可通过降低配置、成本和使用门槛，让少数人掌握的技术服务大众。结合OpenClaw案例，作者提出关注人类减少参与、聊天之外的交互、代码驱动视频、即时生成软件和个性化教学等方向，强调创业应尽早发现已接近可实现的需求。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:13:07+08:00"
         }
       ]
     },
@@ -183,9 +183,9 @@
           "contentLength": 341,
           "hasFullContent": true,
           "hash": "912a986463c3b4e62aa51f9d2adce5c1969b52039f5abb367f788db0e457fe0a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Meta 发布开源模型 Muse Spark Open，称其为迄今美国最强的开源模型。该模型总参数为816B、活跃参数为42B，支持1T上下文窗口及文本、图像、视频、音频输入，擅长长时任务、复杂软件工程和多步骤推理，基准成绩与K3、GLM-5.3接近。通过针对苹果MLX框架的深度优化，模型可在两台M Ultra Mac Studio上本地运行。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-16T08:13:07+08:00"
         }
       ]
     },
