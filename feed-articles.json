@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-17T07:46:30+08:00",
+  "generatedAt": "2026-10-17T07:54:11+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -81,9 +81,9 @@
           "contentLength": 20724,
           "hasFullContent": true,
           "hash": "fbe66916c3ef28e4e480d8bc63f71fb2ccdbd950e88ce2a1a9c4faef89fe5f0e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Karpo 创始人 Leah 认为，Personal AI 的核心是提前捕捉用户尚未明确表达的意图，再据此组织个性化供给，而这一判断尚非行业共识。Karpo 从吃喝玩乐等生活体验切入，结合用户偏好、情境与反馈，提供推荐并完成预订、购票，持续积累数据、改善服务。她判断，任务执行将逐渐标准化，竞争重心会转向意图入口与供给生成；创业公司应先服务好特定人群，行业长期可能形成“一超多强”格局。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:47:44+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 235,
           "hasFullContent": true,
           "hash": "4314ab60596b16887663b79b50dfd790e0de5d5cc664f5477d4f478ff21c95ff",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者到京东 mall 线下体验了当日开售的英伟达芯片笔记本，并已下单，认为机器手感不错，尤其是触摸板顶部也能按压，体验类似苹果。文中称，RTX Spark 芯片的显卡性能大致相当于 RTX 5060，最高可选 128GB 统一内存，足以运行千问 27B 等小模型。现场还展示了尚未发售的 RTX Spark 小盒子，作者将其类比为基于英伟达的新 NUC。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:47:44+08:00"
         },
         {
           "title": "倒挂爬墙、空中翻身...马斯克能飞！",
@@ -147,9 +147,9 @@
           "contentLength": 790,
           "hasFullContent": true,
           "hash": "950820c69f655fabd9d6d662d16d29b4a0e16734e49ad306411f90c71819813c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "特斯拉在SpaceX火箭试验场发布新一代Roadster，演示倒挂爬墙、空中翻身及飞越车队，并称演示车辆采用自动驾驶，现场实测0至97公里时速加速为0.81秒。新车分Performance、Thrust和Rocket三版，逐级加入冷气推进器，Rocket可离地翻转。推进系统使用压缩空气，搭配主动空气动力与底盘风扇吸附。公布续航超480公里、最高时速超370公里，售价未公布，计划2028年投产；Rocket尚未获准上公共道路。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:47:44+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 4390,
           "hasFullContent": true,
           "hash": "d4836c49c2bb13ddba5d2c5c36f0d068eb61d62de9c2cbd64a51b362ab68e1fe",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "企业AI落地的难点不只在模型能力，还在于缺乏可信业务上下文、无法执行实际流程及权限边界难界定。阿里云上的Salesforce通过CRM整合客户数据，以Headless 360和百炼Agents开放业务操作，并沿用用户权限限制AI访问范围；同时借助国内外系统部署与本地渠道集成，支持跨国协作和中国市场运营。核心观点是，AI价值应以报价、客服、协作等日常任务能否在可控、可靠的前提下持续提效来衡量。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:47:44+08:00"
         },
         {
           "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
@@ -177,9 +177,9 @@
           "contentLength": 3161,
           "hasFullContent": true,
           "hash": "fbafb3b58f0fd49227bec837cd1513ff5094f25d4f1915bcde0ff5306f3f8234",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位智库发布企业Agent落地报告，指出个人提效不等于经营价值兑现，企业智能化常受任务定义、数据可信度、判断可验证性、行动落地、权限责任、价值衡量与复制六大断点阻碍。报告提出贯通任务、上下文、判断、行动、控制与衡量的全链路框架，以可信数据和规格驱动开发提升业务分析及软件交付能力。落地应从业务结果倒推，先跑通高价值场景，重设人机分工与异常流程，再沉淀指标、接口、审批规则等可复用资产，实现规模化复制。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:51:25+08:00"
         },
         {
           "title": "68岁亚马逊CTO，劝企业先三思再AI",
@@ -189,9 +189,9 @@
           "contentLength": 4567,
           "hasFullContent": true,
           "hash": "a2de95c91bca6f3513db2eac36e776927577d332682ea1105e9b27eb15cbc0b5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "亚马逊CTO Werner Vogels提醒企业，不应因害怕错过机会而仓促采用AI，而应先明确业务问题、技术适用性与成本，选择够用的模型，减少重复计算。Agent进入业务必须设置授权边界、执行检查和异常处理机制，开发者仍须对其行动负责。AI加速代码生成也会积累“验证债”，团队应按风险审查代码，并让新人通过协作积累判断力。AI的价值在于减轻实际工作负担，可靠落地仍依赖工程细节与人的经验。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:51:25+08:00"
         },
         {
           "title": "AI研究全过程，零丢失打包分享！AIPOCH联合76家科研机构开源Open-Science",
