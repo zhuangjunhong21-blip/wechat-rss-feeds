@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-17T07:10:47+08:00",
+  "generatedAt": "2026-10-17T07:46:30+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -21,9 +21,9 @@
           "contentLength": 2194,
           "hasFullContent": true,
           "hash": "5ac124fea9b35731760430b86ddf4e5a5597c5db1ca429e5e336ef572d55e93b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章称，特斯拉新款 Roadster 在发布会上完成倒挂、腾空和空中转体演示，依靠与 SpaceX 联合开发的高压空气推进系统控制姿态，并以车底风扇产生下压力，现场零至每小时60英里加速成绩为0.81秒。马斯克将其定位为最后一款由人类驾驶的特斯拉，承诺2028年量产。普通版已开放预订，可腾空的“火箭版”仅限受邀购买。文章同时指出，前代量产承诺至今未兑现，Roadster更承担着强化特斯拉科技形象的品牌作用。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:44:24+08:00"
         },
         {
           "title": "刚刚，Mac Studio 迎来小扎最强开源模型，苹果等来了最意外的助攻",
@@ -63,9 +63,9 @@
           "contentLength": 7762,
           "hasFullContent": true,
           "hash": "41a16346c58eb40040f70e25dea9668f3e2a2dd7ea7e24f305a0bc6ee394e38a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale实测华硕ProArt创16 RTX Spark：128GB统一内存成功加载约180B的4位量化模型，输出达34.6 tok/s，推理整机功耗约37—38W，电池续航估算约2.5小时。测试显示，大容量内存适合低激活参数的MoE模型，稠密模型则受带宽限制。离线生成看板、小游戏和演示文稿表现可用，但依赖详细提示词。128GB版售价37999元，主要价值是便携、CUDA生态与敏感数据本地处理，短板是Windows ARM兼容性及复杂任务能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:44:24+08:00"
         }
       ]
     },
