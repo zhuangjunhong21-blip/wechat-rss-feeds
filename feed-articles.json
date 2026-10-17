@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-17T07:54:11+08:00",
+  "generatedAt": "2026-10-17T08:01:13+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -33,9 +33,9 @@
           "contentLength": 4961,
           "hasFullContent": true,
           "hash": "d21b688f19688396a48c66fa4149af5c8b437cf676c2f3468d246ea04bec6522",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Meta 发布拥有8160亿参数的开放权重模型 Muse Spark Open，并与苹果展示多台 Mac Studio 本地运行方案。借助四位量化、MLX 张量并行和雷雳5互联，四台设备生成速度达每秒36.73 tokens，推理与数据可留在用户自主管理的环境中，但成本仍主要适合专业团队。苹果另以 Minions 系统汇集闲置 Mac GPU，分担独立批量任务，展示通过高配设备协同与闲置算力共享推进本地 AI 的两条路径。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:59:07+08:00"
         },
         {
           "title": "iPhone Duo维修价格，换内屏7998元/DeepSeek宕机后给用户「送钱」/国行苹果AI将接入阿里千问",
@@ -45,9 +45,9 @@
           "contentLength": 12511,
           "hasFullContent": true,
           "hash": "3351bb22bb61e6e02155a308c373bd216bfedba99b1dd28b76fd8c1bc549fe8f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "国行Apple智能计划本月推出测试版，首批含实时翻译、照片消除及写作工具，暂不含新版Siri；据消息人士透露，将集成阿里千问能力。DeepSeek发生近5小时API故障后恢复，将按用户此前一周实际API消费全额返还赠金，并排查单点依赖。iPhone Duo保外内屏维修预估7998元，AppleCare+保障下为628元，最终费用需检测确定。其他动态包括多款AI模型开放权重、台积电季度净利润同比增近七成，以及部分投资者下调Anthropic上市估值预期。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:59:07+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 3845,
           "hasFullContent": true,
           "hash": "1d61654c803c9732c91a7c184d23051409bb99334f9213b090c218b22c247c4d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "可灵上线Kling 4.0，支持最长30秒视频直出、最多10帧参考，以及参考视频运镜和替换人物、场景。作者通过追逐、马戏团、打斗、花滑等测试，认为其复杂动作衔接、物理交互、镜头调度及参考可控性有所提升。按会员价估算，30秒1080P视频约16元、720P约9元，建议先用更便宜的Flash版试样，再用正式版生成成片，并将生成成本与废片率共同作为评价指标。10-bit 4K HDR输出尚未上线。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:55:25+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 4046,
           "hasFullContent": true,
           "hash": "085202b8af2d2668679d999535961ee6fbf1a43b79f4646df934f8fc1906287a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "袋鼠帝将于10月24日在杭州观猹大会登台演唱，并回顾自己从害怕公开发言，到练街舞、参加歌唱比赛、主动面试、转行编程，再到裸辞探索AI创业的经历。他认为，勇气来自一次次行动后的成就感，可从小事开始积累，并通过承担必须开口的角色克服紧张；创业则应先明确大方向，再大胆试错，成本较高时要有充分把握。他计划学习声乐、借助AI创作并亲自演唱原创歌曲，也强调线下见面带来的连接与温度难以被AI替代。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:55:25+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 4080,
           "hasFullContent": true,
           "hash": "df3b32731dd299b47206421605b4d428ba958cd5ea8cbe231a534f5dfc06112a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AIPOCH开源AI科研工作台Open-Science及.science包格式，将选定的研究会话、文件版本、计算记录与审查证据一并交付，支持只读查看和派生副本继续研究。系统通过版本关联、引用映射和缺失声明保留研究上下文，避免审查意见错配。受控实验验证了导出导入后的记录关系，公开案例实现固定输入下结果逐字节复现；但重新计算仍依赖输入、环境与权限，跨安装环境交接尚未验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:55:25+08:00"
         },
         {
           "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
@@ -213,9 +213,9 @@
           "contentLength": 2341,
           "hasFullContent": true,
           "hash": "ded6300593c73ef559a6a7a760032c809b7e648c156845840a0d90a01cc0862b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "四川具身科技（EIR）完成超1亿元Pre-A轮融资，资金将用于人形机器人“爱湫”研发迭代、万台级生产基地建设及销售体系搭建。爱湫售价9.8万元起，以情感陪伴为原生目标，通过3D超短焦投影面部、全栈自研架构及数据闭环，协同语言、表情与动作，兼顾任务执行和长期陪伴。公司三大产品线已进入批量交付阶段，德阳量产基地预计2026年底投产，计划分阶段实现千台至万台产能，推动产品从服务场景走向家庭消费市场。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-17T07:55:25+08:00"
         }
       ]
     }
