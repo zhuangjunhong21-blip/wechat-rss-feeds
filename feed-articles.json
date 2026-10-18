@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-18T08:43:50+08:00",
+  "generatedAt": "2026-10-18T08:50:48+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -33,9 +33,9 @@
           "contentLength": 3321,
           "hasFullContent": true,
           "hash": "b23144ffbcc55293b7525861ab63d7df9e37b8c8d660dcc084c4b102cffad898",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "开发者Bhargava打造虚拟随身听Duo-Man，将iPhone Duo的开合映射为磁带舱操作，加入真实按键声、磁带底噪等体验，演示视频获得220多万次浏览，推动周末项目走向正式应用。其他开发者也在探索折叠形态下的阅读、健康和学习工具。AI与模拟器降低了原型开发门槛，但多状态布局、非标准窗口适配及有限的准备时间仍是挑战。文章强调，折叠屏应用的机会在于让硬件形态参与交互，而非单纯放大界面。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:48:46+08:00"
         },
         {
           "title": "量子计算重大突破！谷歌首次在真实芯片上跑通「魔态培育」",
@@ -75,9 +75,9 @@
           "contentLength": 2762,
           "hasFullContent": true,
           "hash": "06012eb896fcc52d99fb2488d02750ee3cef8affee82888d40e78feb831d71c1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek 发布 V4.1-Flash-1017，并同步更新 Harness 0.2.1，网页端、App 和 API 已切换新版。模型通过自反馈强化学习及框架专项优化，提升游戏、3D 建模等完整项目开发能力，多项基准成绩提高，任务耗时和 Token 消耗减少，DeepSWE 测试单任务费用由3—4元降至1—2元，API 单价不变。同时开放 Search、Fetch 接口，均为5元/千次，并以 MIT 协议开源模型权重与代码。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:48:46+08:00"
         }
       ]
     },
@@ -93,9 +93,9 @@
           "contentLength": 647,
           "hasFullContent": true,
           "hash": "879eda59039cd2acc4aeddf7d7b8cb6645f8b5cc1201c2213522d4774befef63",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者实测认为，DeepSeek v4.1 Flash 1017 性价比高、能力超出预期，在代码生成视频、动效和自动化操作电脑方面表现突出，建议用于 AI 编程时开启 Max 思考档位。模型自研全网搜索并开放独立 API，仍然开源；相较上一代，同类任务 token 消耗约减少 15%，输出速度提升 15%—20%。作者据此判断，DeepSeek 已从聊天模型转向能独立完成复杂工作的 Agent 模型。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:48:46+08:00"
         }
       ]
     },
@@ -111,9 +111,9 @@
           "contentLength": 6848,
           "hasFullContent": true,
           "hash": "0f6362335c22509bab61dd56e5d16c8281627568eb619e8363fba6850f5881f9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者分享了售价37999元、配备128GB统一内存的RTX Spark笔记本使用体验：它结合大内存与CUDA生态，以部分速度换取便携和低功耗，可本地运行语言、绘图、视频及语音等模型。作者将部署和调用流程封装为WorkBuddy专家，并用本地翻译模型自制浏览器插件，减少API支出。他认为，持续后台任务会放大云端调用成本，本地模型能降低边际使用成本、释放尝试与创新空间；当前设备仍昂贵，但技术进步有望让个人智能逐渐普及。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:45:11+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 376,
           "hasFullContent": true,
           "hash": "1c8702735ef68e782a58e0f3e56fcece96529d87f3c5769db50f81dec7f3b0b5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek 发布 V4.1 Flash 1017 版本，据原文称，新版整体能力提升，任务运行时间和输出长度缩短，可降低完成同类任务的成本，并在自有 DeepSeek SWE V1.1 基准上领先其他模型。此次重点强调从零开发完整项目的能力，用户用简单提示词即可让模型在无需人工干预的情况下执行开发。此外，DeepSeek 开放了自研搜索 API，原文认为其国内信息检索结果精准，可接入用户的 Harness。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:45:11+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 1626,
           "hasFullContent": true,
           "hash": "06f06026745844d2207db01ad5e9fa06fc0c0684574358edf2a83cdfa211dee1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek 发布 V4.1-Flash-1017，网页端、App 和 API 同步更新并开源权重，11 项基准测试均提升。同等任务耗时和输出更短，DeepSWE 最高档通过率达 77%，单任务成本约 1.3 元。模型通过自反馈强化学习增强从零开发项目的能力，配套更新 Harness。API 新增自研 Search 搜索与 Fetch 网页抓取接口，均为每千次 5 元，相关工具内调用暂免费，11 月 1 日起计费，模型 API 价格不变。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:45:11+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 2644,
           "hasFullContent": true,
           "hash": "9e60a8059365cf4c5774463bb685bc809d79c86befb9e0ab4e58ba35a1b3ffe9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "迪拜正从贸易枢纽向数字经济中心转型，为中国AI、云计算、自动驾驶等科技企业提供商业化场景。迪拜商会计划两年内推出100个专业AI助手，推动智能体技术服务超过29.5万家私营企业，百度、腾讯云、华为云等已在当地布局。文章认为，迪拜连接亚欧非的区位、开放的政策、资本资源及成熟基建，使其既能承接中国科技产品落地，也可成为拓展中东、非洲及欧洲市场的支点。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:45:11+08:00"
         },
         {
           "title": "谢赛宁昔日实习生创业，接手复活Sora，进军好莱坞",
@@ -177,9 +177,9 @@
           "contentLength": 2464,
           "hasFullContent": true,
           "hash": "3b5b0630b71e60a1545b47d74da4fbbc418a11214357077e8c2c288b7f52d0f8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "据The Information报道，Sora前研究负责人、DiT论文第一作者Bill Peebles正与梦工厂联合创始人Jeffrey Katzenberg、Dropbox前首席财务官Sujay Jaswa合作创业，与OpenAI洽谈获取Sora更深层使用权限，开发面向电影制作人的定制软件与服务。谈判尚未落定，能否取得模型权重仍不明确。Sora此前因用户流失及OpenAI战略调整停止独立产品服务，其技术路线如今分别向影视创作工具、媒体生成和机器人研究延伸。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:48:46+08:00"
         },
         {
           "title": "两台宇树G1组队打乒乓：PingpongDuo解锁人形机器人双打协同",
