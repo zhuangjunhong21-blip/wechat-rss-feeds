@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-18T08:50:48+08:00",
+  "generatedAt": "2026-10-18T08:55:49+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -45,9 +45,9 @@
           "contentLength": 2943,
           "hasFullContent": true,
           "hash": "844e349f713895c4b4f5592b118f6455e141861a110e846debd69378e25fc868",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "谷歌首次在 Willow 超导量子处理器上实现“魔态培育”，通过纠错、测量和筛选逐步提高带噪声 T 态的质量，获得逻辑保真度达 99.99% 的魔态，错误率降低四十多倍，但仅约 8% 的尝试被保留。团队还完成了从 Color Code 到 Surface Code 的编码转换，为接入后续容错计算提供验证。这一路径有望降低魔态生产的资源开销，但规模化和商业应用仍需时间，短期不会直接加速生成式 AI。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:52:06+08:00"
         },
         {
           "title": "iPhone Duo发货已排到明年/李斌谈特斯拉会飞：这个我们真没有/美国肯德基换用可口可乐",
@@ -57,9 +57,9 @@
           "contentLength": 10928,
           "hasFullContent": true,
           "hash": "ecb02534cb7ddbde62ee165c5b7f9d7842ca09f61bedabf10eb6b5abfde2d875",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "iPhone Duo 开启预购，国行部分版本发货排至2027年1月；特斯拉展示可借冷气推进器腾空的第二代 Roadster，计划2028年量产，李斌公开点赞。美国肯德基将于2027年起换用可口可乐，中国门店仍供应百事。其他动态包括华为云调整部分AI专业服务价格、DeepSeek整合四个团队成立产品部、腾讯开源 Hy Memory 2.0，以及四部门要求车企如实说明功能边界，不得诱导驾驶人忽视安全责任。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:52:06+08:00"
         }
       ]
     },
@@ -189,9 +189,9 @@
           "contentLength": 3380,
           "hasFullContent": true,
           "hash": "b617ded6673964cd7523ac8f669ba7fc58aee14d56d70c55cef90854f87910a5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "PingpongDuo通过联合站位规划与全身运动控制，让两台宇树G1交替击球、让位和回位，实现乒乓双打协同。系统用强化学习规划双机站位，结合风险模型优先保护击球者空间；通过交换移动与挥拍的训练起点改善技能衔接，并在实测标定的仿真中训练持拍臂修正。仿真中，联合站位使平均连续合法回球数从3.79次增至4.87次，持拍臂修正使单机器人合法回球率从44.2%升至55.6%；实机对打完成18次连续交替回球。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:52:06+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -201,9 +201,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "8cc6c08bf14fe0faeeabe66135dd8a0690068b5980a18087922631ad368ca5e6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业、AI产品三个方向的内容人才，工作地点为北京中关村，覆盖编辑、主笔、主编层级，面向社招及应届生，接受实习并可转正。岗位分别聚焦芯片与云计算等AI基础设施、创投财报与资本动向、AI软件应用与硬件终端，要求具备相应领域认知、采访及结构化表达能力。团队提供新人导师指导、行业交流机会及薪酬福利。应聘者需将简历和代表作品发送至招聘邮箱，并注明申请方向及姓名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:52:06+08:00"
         }
       ]
     }
