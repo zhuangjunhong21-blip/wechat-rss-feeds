@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-19T07:29:58+08:00",
+  "generatedAt": "2026-10-19T07:36:49+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 6,
@@ -39,9 +39,9 @@
           "contentLength": 2946,
           "hasFullContent": true,
           "hash": "c4aa2fd0cc0848e9f60e71c452ea94f9af780f529ce9ec226108769bcce83910",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "谷歌拟以1000万美元收购破产航空公司Spirit三十余年的邮件、聊天、文档及代码，用于改进产品和训练AI。其价值在于保留了跨部门协作、决策、纠错与交接的过程，可供Agent学习办公室任务如何推进。交易已排除乘客数据库，并计划对其余材料去标识化，但员工隐私未获同等审查，工会持续反对。争议核心是：公司倒闭、员工离职且欠薪未清后，他们留下的工作痕迹仍可能被出售，转化为与原组织无关的模型能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-19T07:31:12+08:00"
         },
         {
           "title": "用 GPT-6 魔改 Kindle，我又找到了越狱的乐趣",
@@ -51,9 +51,9 @@
           "contentLength": 3093,
           "hasFullContent": true,
           "hash": "4c8044dd907f0b93d80787d0fb112b87e8f1e8ffd5ece95a46b17d874112cd95",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "开发者 Niraj Rajgor 借助 GPT-6 和社区开源工具 SpiderCat，通过 Wi-Fi 为第十代 Kindle Basic 越狱，并改造成电子相框。模型并未发现新漏洞，而是整合已有技术、修复兼容问题，再通过日志和远程截图建立反馈循环，减少人工介入。但电子墨水屏残影无法在截图中体现，仍需人类观察验证。实验表明，AI 已能通过代码和网络操控硬件，但数字测试无法覆盖真实物理效果，感知能力仍是关键短板。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-19T07:31:12+08:00"
         },
         {
           "title": "看完Anthropic内部工作报告，真替应届生捏把汗",
@@ -63,9 +63,9 @@
           "contentLength": 4090,
           "hasFullContent": true,
           "hash": "b990f364de94528dcc13929c86ffd69794d299fb84e5ae6f8ce9c373e46d03eb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic 内部就业报告显示，2025至2026年，新招技术人员中初级员工占比从27%降至9%，同期公司仍在扩招。AI承担更多执行任务，员工职责转向判断、协调和结果检查，招聘也更重视自主性与判断力。文章指出，入门任务减少可能压缩新人积累经验的机会，而检查AI同样依赖经验。小规模实验显示，直接依赖AI完成任务可能影响学习效果；新人可通过追问原理、亲手实践，并记录发现问题、修改和验证的过程，积累能力与求职证据。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-19T07:31:12+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 16916,
           "hasFullContent": true,
           "hash": "8aec19371c757624ebe0e56ba956d83fc29c64bc29bf462894a5514d888aec0f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Personal Agent正从会话式助手转向围绕个人持续办事的系统，将模型与运行框架、独立执行环境、工具生态和数字身份整合起来，在用户离线后依靠记忆、任务状态和事件触发继续工作。文章对比多款产品的独立身份、应用连接、多智能体协作及自主部署路线，指出核心挑战在于任务中断恢复、权限撤销、记忆纠错、提示注入防护与失败处理。长期在线不等于可靠，任务完成应由外部结果和执行记录验证，测试分数也不能直接代表真实使用成功率。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-19T07:31:12+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 3835,
           "hasFullContent": true,
           "hash": "f5d2a0d694febc4921210da5a08f0e861b435a9adc262bf52b4d02ca581da052",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "REA 将 Ghidra、JADX 等程序分析工具接入 Claude Code、Codex 等 Agent，通过本地工具和 MCP 支持函数搜索、代码查看与调用追踪，帮助研究无源码软件的功能逻辑，再重写、测试和调整。案例涵盖智能家居控制、旧游戏移植、录屏自动缩放、幻灯片编辑及离线语音输入。其核心是串联分析、规则整理与功能重建，结果仍需验证。文章还给出安装方法，建议先用自有或获授权的程序试验，并提及一例原因未明的账号封禁反馈。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-19T07:34:15+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 4950,
           "hasFullContent": true,
           "hash": "35e0c36a556769584dd9b5c8e70e79672719e67b764959f570c0af1f4bd918dd",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "VAST发布并开源实时世界模型EdenLive，将世界状态维护与视觉渲染解耦，由上游系统处理交互规则，模型结合参考画面、目标首帧和提示词，按既有布局与运动生成不同画风。据VAST数据，5B模型在单张RTX 5090上以720P超过24FPS运行，支持分钟级连续生成，端到端延迟为百毫秒级。其可用于游戏预览、视频重渲染和具身数据增强，但高频交互、多角色身份保持及长期视觉一致性仍待改善。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-19T07:34:15+08:00"
         },
         {
           "title": "“大家用AI都太保守了！”Claude Code负责人：我的方法更有野心～",
@@ -147,9 +147,9 @@
           "contentLength": 5882,
           "hasFullContent": true,
           "hash": "ec88580b48f9338b22c3950380cda4b8e644e5ddbc504585be9bb2e193296168",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Claude Code桌面版负责人Felix Rieseberg建议，从速度、高度、深度和广度四个维度更大胆地使用AI：把具体交付物提升为最终业务目标；要求模型使用顶尖专家的原始资料、工具和方法，设定挑战性目标并检验既有假设；引入跨领域思路，避免流于角色扮演。成果应通过代码运行、新数据等外部方式验证，而非模型自评。这些实践需要相应的数据和工具访问条件，也要求使用者更新对自身能力的判断，敢于尝试并允许失败。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-19T07:34:15+08:00"
         }
       ]
     }
