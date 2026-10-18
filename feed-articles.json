@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-18T07:09:32+08:00",
+  "generatedAt": "2026-10-18T08:43:50+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -21,9 +21,9 @@
           "contentLength": 2375,
           "hasFullContent": true,
           "hash": "81e4baf5f70b43ef007b68275e368da929d3029570f924e174e224fb7d389de7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek 发布 V4.1-Flash-1017，通过基于自反馈的强化学习增强游戏开发、3D 建模等能力，官方展示了故宫建模、赛车及《传送门2》复刻等案例，但尚未经 APPSO 独立复现。官方评测显示，新版编程任务通过率提升，耗时和输出长度缩短，单价不变，任务费用可能下降，权重以 MIT 许可证开放。同时推出 Search、Fetch 搜索与网页读取接口，均按每千次有效成功请求5元收费，服务端工具调用将于11月1日起计费。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-18T08:41:44+08:00"
         },
         {
           "title": "他把 iPhone Duo 做成随身听，让 220 万人的青春倒带",
