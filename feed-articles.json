@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-19T07:10:19+08:00",
+  "generatedAt": "2026-10-19T07:29:58+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 6,
@@ -21,9 +21,9 @@
           "contentLength": 4547,
           "hasFullContent": true,
           "hash": "db5c6c630497c07fb98681a2c47786f4562f6bc43c03dbdebbd21f66c0edade2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Claude Code团队将代码审查从逐行人工阅读转向风险分级与多层自动检查：提交前完成模型自检、测试和证据留存，提交后由多Agent找错并验证，低风险改动可免额外人工审批，中高风险由人把关。针对Agent反复互审，设置最多三轮、后续只看新增差异、意见归类去重等规则，并将线上事故纳入回归评测。人工聚焦功能必要性、高危代码、架构和上线责任。该流程下，合入PR翻倍多，回滚率下降逾40%，但扩大免审范围仍需补齐自动熔断机制。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-19T07:27:44+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 297,
           "hasFullContent": true,
           "hash": "035dca4b471d9a89cea8bd9492b0a1b5e0e4cc56d0113144d5cdf292ec0d0033",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "赛博禅心邀请读者于10月18日晚到AGI Bar，一起观看其购买的勇哥餐饮智能体课程直播。课程面向餐饮经营者，聚焦利用AI获取同城流量，尝试解决日常短视频选题、文案和脚本构思等问题，目标是搭建适配门店的专属“餐饮爆店智能体”和AI获客流水线。直播于当晚19点开始，仅向内部学员开放，预约后才能观看。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-19T07:27:44+08:00"
         }
       ]
     },
