@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-20T08:26:54+08:00",
+  "generatedAt": "2026-10-20T08:32:42+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -195,9 +195,9 @@
           "contentLength": 19617,
           "hasFullContent": true,
           "hash": "0948c6342758ffceeb2606809c1b0f394bfe6d51d4ef0e98780ac61c9f80c7c4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "ICAIS 2026两场圆桌围绕AI科研前景与青年成长展开，诺奖、图灵奖得主与研究者、中学生共同讨论技术路线、开放研究和科学发现。嘉宾强调保持探索多样性，以可靠验证、真实用户和实际价值衡量AI进步，并分享全流程开源训练、自动化实验室等实践与设想。面向年轻人，前辈建议追随好奇心与热情，把失败视为学习，敢于挑战难题、质疑教条，并对跨学科机会保持开放。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:31:17+08:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "contentLength": 1760,
           "hasFullContent": true,
           "hash": "a1b0769215f01941a4177d831adc27cf64b17173ac73761eaa33cec781ee6c4d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "YuE2 是由香港科技大学联合多家机构推出的开源音乐生成模型，可根据歌词和风格描述生成带人声与伴奏的歌曲。它先规划包含旋律与和弦的曲谱，再生成音频，支持修改旋律、和声及风格后重新演绎，也可配合 SheetSage2 将录音转为曲谱。作者在 M1 Pro、16GB 内存的 MacBook Pro 上实测，约用4分钟生成20秒双声道音乐，并尝试了中文民谣和说唱。不想本地部署的用户可通过 Noiz AI 在线体验。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:28:13+08:00"
         }
       ]
     },
@@ -231,9 +231,9 @@
           "contentLength": 4300,
           "hasFullContent": true,
           "hash": "5877a7d75f60c29fdb054f8673ee83276c9b045b29507977bf2b915d17cf6fc6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "相干科技正通过芯片、测控、整机与云平台协同，将量子算力推向可调用服务。其超导量子芯片已达百比特规模，寿命超过100微秒，计划于2026年完成百比特整机交付，并同步建设千比特规模云平台，支持图形化编程和API调用。量子计算规模化仍受噪声、成本、编程门槛与系统工程制约，比特数量不等于可用算力。公司正探索金融、超算、气象应用，推动量子与经典算力融合，但相关应用大多仍处于验证阶段。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:28:13+08:00"
         },
         {
           "title": "全栈自研！国产高端互连芯片，稳了!",
@@ -243,9 +243,9 @@
           "contentLength": 3265,
           "hasFullContent": true,
           "hash": "5f0090483cb44ea14924996551ec96f38b1d238514dcbb13b578944dc4cf27b2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "众星微历经六年研发，打通核心IP、芯片、硬件、软件及系统研发链条，已有12款芯片量产，累计出货超80万颗，覆盖通用计算与智能计算互连场景，并发布PCIe 6.0交换芯片、800G多协议AI网卡及多模RAID芯片。文章强调，互连效率是释放大规模算力集群效能的关键，仅提升单卡性能和堆叠卡数存在边际递减。众星微通过全栈自研、长期可靠性测试和质量管理，进入多家整机厂商供应体系，并在运营商、金融等领域实现规模部署。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:28:13+08:00"
         },
         {
           "title": "世界动作模型的“自训练”红利：无专家示范，从自我想象中迭代进化",
@@ -267,9 +267,9 @@
           "contentLength": 1966,
           "hasFullContent": true,
           "hash": "5b8f85e9d63534acb4b74d453edb50a44043b6e06e6daca2305a3a5735ff88d1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位宣布将于2026年12月在北京举办第八届MEET智能未来大会，以“智行合一，驭见未来”为主题，聚焦AI从理解、规划走向真实任务执行与交付，探讨智能体、具身智能、世界模型等方向，以及可靠性、可控性和安全边界。大会将公布2026人工智能年度榜单，从企业、产品、人物三个维度评选五类奖项，报名截至11月16日；同期发布《2026年度AI十大趋势报告》，结合技术成熟度、落地现状与潜在价值分析趋势及代表案例。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:28:13+08:00"
         }
       ]
     }
