@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-20T07:11:04+08:00",
+  "generatedAt": "2026-10-20T08:20:31+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -69,9 +69,9 @@
           "contentLength": 1483,
           "hasFullContent": true,
           "hash": "650994e620f46caad05b53721341a3d18ae9243b4c60d051236130c2f7380038",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "美国国土安全部发布针对DeepSeek的排除与移除命令，要求联邦文职行政机构停止采购并移除相关产品与服务，包括采用DeepSeek实现方案的第三方产品。命令以数据及软件安全风险为由，签发后立即执行，不适用于所有美国个人和企业。例外申请须在签发后60天内提交，该期限并非宽限期，也不从公告刊登日重新计算；移除期间建议加强监测、日志记录及防止数据外传措施。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:17:54+08:00"
         }
       ]
     },
@@ -87,9 +87,9 @@
           "contentLength": 5073,
           "hasFullContent": true,
           "hash": "d6ae9c75b636e42aeb5ec35cd1ead689b11ee6a6222925a428f1976697bde8ee",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Lovart 2.0 发布个人设计 Agent Arti，以长期记忆、自进化 Skill、周期性设计委托和主动式设计能力，承接完整设计任务。它能跨项目积累审美偏好，将重复操作沉淀为方法，自动调研、巡检画布、汇总反馈，并在预算上限内定时执行，关键决策仍由用户确认。文章认为，设计交付物直观、付费习惯成熟且个人上下文可持续积累，因此 Personal Agent 可能率先在垂直工作台落地，竞争核心是理解用户偏好与意图、提高完整任务的委托率。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:17:54+08:00"
         },
         {
           "title": "Meta 押注开源 AI 硬件，我们却从一只五年前的小机器人身上看到了未来",
@@ -117,9 +117,9 @@
           "contentLength": 1747,
           "hasFullContent": true,
           "hash": "6ae06eb4e601aa0131f8c6c63909641d90dc233447e004fa28c9f1305da0c4a0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "与AI协作时，不应过早按既有经验降低目标或接受取舍，而应提出真正想要、看似不合理的高目标，并持续推动AI寻找方案。以网站提速为例，要求从10秒缩至0.2秒，比缩至5秒更可能促使AI重新审视系统架构，而非局限于常规优化。AI首次回答“做不到”不代表任务已到极限，应让它探索、实测并提供限制证据，再决定是否妥协。随着AI能力变化，人类保守的预期也可能成为发挥其能力的障碍。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:17:54+08:00"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "contentLength": 3673,
           "hasFullContent": true,
           "hash": "dca63f489f75260bcde5dbf9e1bf4d31b8d02c8b881ed13f1c74e682c8bf708c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "戴尔希望借新款 XPS 13 重新走近年轻消费者。针对年轻人对轻薄、续航、屏幕、影音与科技美学的需求，产品在国补及优惠后降至六千多元，保留一体成型机身、优质屏幕等工艺与体验，减少日常用不上的规格冗余，强调性能、质感与价格的平衡。戴尔同时通过线下体验、新品品鉴会及即时零售拓展触达方式，将此次调整视为产品线拓宽，希望让更多年轻人负担得起 XPS，并长期建立对品牌可靠性的认知。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:17:54+08:00"
         }
       ]
     },
