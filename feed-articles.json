@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-20T08:20:31+08:00",
+  "generatedAt": "2026-10-20T08:26:54+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -21,9 +21,9 @@
           "contentLength": 4407,
           "hasFullContent": true,
           "hash": "8a8f4c93c6e14681e078b2800bb79d1c00c3a097f94387e0591abb3073bac39b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek开放Search和Fetch接口，可用同一API Key串联搜索、网页转Markdown与模型提炼。Search支持原始问题对齐、高级搜索语法、分层摘要和质量评分，Fetch负责抓取全文。文章给出Python流水线示例，先筛选优质结果，再抓取核心页面并生成带来源的回答。新版Flash缩短输出和任务耗时、降低成本；两接口均为5元/千次，指定工具触发的服务端调用在2026年11月1日前免费。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:21:46+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 2648,
           "hasFullContent": true,
           "hash": "f856cd99195f3ddd6afbe348d87873bba91942c73465eef148db375e53a89b0c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "MiniMax 发布 M3.1 Flash，确认匿名模型 Space Bunny 是其早期版本。官方称，新模型在复杂 Agent、编程、电脑操作和网络安全任务上提升明显，借助稀疏注意力架构，线上推理速度提升近三倍，Agent 综合使用成本降低70%。多项评测显示其具备较强竞争力，但性价比优势随任务而异，部分编程测试仍落后于 DeepSeek。模型定位高频、规模化 Agent 调用，已上线 API、M Plan 和 MiniMax Code，权重计划近期开源。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:21:46+08:00"
         },
         {
           "title": "我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来",
@@ -51,9 +51,9 @@
           "contentLength": 4241,
           "hasFullContent": true,
           "hash": "0f9174988cde3ddad631500e15862a0748a5c68a1a73afe4c8d5ca875ffa1929",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek V4.1 Flash 1017 通过自反馈强化学习提升编程、游戏与3D项目构建能力，并缩短任务耗时和输出长度。实测中，它在35分钟内生成特斯拉飞行交互网页，凭借高缓存命中率将费用控制在约4元；还完成了3D场景、游戏复刻、借助REA还原Typora功能及代码驱动的视频制作，但部分结构精度和视觉效果仍需优化。文章认为，API单价不变而能力提升，降低了一次性交互演示和临时页面的开发门槛，也推动模型竞争转向更高性价比。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:24:52+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 4529,
           "hasFullContent": true,
           "hash": "83cc0b7fd34ccb70f0a0547c67f1169e0b3ea0adea245ed82470b649bdeed575",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Meta 推出开源硬件套件 Muse Gadgets，让个人智能体走出屏幕。类似探索早在2021年便已开始：工程师石川真也为避免陪伴机器人因厂商停服而失去功能，开源了桌面机器人 Stack-chan。社区持续改造外形、制作套件，并于2023年接入 ChatGPT，最终推动商业版获得逾4000人众筹支持。其发展表明，开源社区能通过共同创造拓展 AI 实体交互，并与成熟硬件平台结合，孕育新终端和商业机会。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:24:52+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 3378,
           "hasFullContent": true,
           "hash": "0a021ee4d88c7eab17222a9f30d5e48a63040ab92158f124ac7c448cd1abff18",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者实测纳米Work内置Office编辑器，用Qwen3.8 Max生成可编辑的图解Word说明书，再据此制作含公式、来源标注的Excel和9页PPT，三项任务耗时约3小时。其工作方式是小改动手动完成，繁琐的全局调整交给AI，长任务挂云端运行。实测问题是生成内容常夹杂过多小字。作者认为，Markdown适合与AI梳理思路，Word更适合业务交付；生成后直接按原格式编辑，可减少重新生成和跨工具搬运。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:24:52+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 9787,
           "hasFullContent": true,
           "hash": "df98d4d28b99e63170e3ff20d96a8b549f23c84b2634ea9d00a0f4b92a5dc746",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "一批三十岁上下的技术人凭借研究能力进入中国AI公司的权力核心，在商业成功前便掌握研发方向与算力分配权。杨植麟为新架构推迟K3开训，智谱年轻研究员推动公司押注编程，小米罗福莉带队跨越至万亿参数模型，展现了技术判断、探索自由与跨团队协作的作用。但自由依赖负责人争取授权、协调利益并承担结果。文章认为，这些年轻人虽排斥官僚流程，仍须正视管理：让人才发挥长处，将技术判断转化为组织成果。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:21:46+08:00"
         },
         {
           "title": "理想芯片公司完成 16.25 亿元融资，投后估值 171 亿元",
@@ -165,9 +165,9 @@
           "contentLength": 756,
           "hasFullContent": true,
           "hash": "eb5cb6c55a08b0bc96d44dc48b365e29506fbdd1ff1708cc40e773a7b6880116",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "理想汽车芯片子公司上海马赫心科技完成首轮16.25亿元融资，理想出资10亿元，外部投资者出资6.25亿元，融资后理想持股74.01%。计入杭州经韬可追加的5亿元投资后，公司估值达171亿元，并安排20%股权用于人才激励。理想将芯片和域控制器视为新增长曲线，计划对外供应芯片、拓展汽车以外业务，以摊薄研发成本。融资将用于后续研发与商业化，公司正研发第二代马赫智驾芯片。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:21:46+08:00"
         },
         {
           "title": "年轻人第一次认真选电脑，戴尔想跟他们聊点不一样的",
@@ -255,9 +255,9 @@
           "contentLength": 3401,
           "hasFullContent": true,
           "hash": "2293560a105c74b7288d8ab9b8ddb797b57c4b2ad053db2c42080781e852d2c2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "EVO-WAM让世界动作模型自行生成完整视频与动作轨迹，通过视觉语言模型判断任务是否完成，再用逆动力学模型检验动作与画面的一致性，将通过验证的片段与原始数据混合训练，无需新增专家示范或执行候选动作获取反馈。迭代后，Cosmos3在七个未见仿真任务上的平均成功率从26.9%升至68.0%，三个真机组合任务从20.0%升至76.7%，已见任务表现基本保留。结果表明，经可靠验证的自生成经验可改善新任务表现，但收益存在轮次波动。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-20T08:24:52+08:00"
         },
         {
           "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
