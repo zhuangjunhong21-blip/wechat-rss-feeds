@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-21T08:15:48+08:00",
+  "generatedAt": "2026-10-21T08:22:57+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 3692,
           "hasFullContent": true,
           "hash": "ce0c8e0c3a99f42e188059b7b53892439df65aeea933ea3634b0b31144de0ee4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "VAST 开源实时生成式渲染器 EdenLive，以参考画面约束结构、运动和镜头，通过首帧与提示词控制外观，将规则和状态交给上游交互系统维护。团队称，5B 版本可在单张 RTX 5090 上以超 24 FPS 生成 720P 画面，支持分钟级连续生成，可用于游戏、动画预览、视频风格转换及具身数据增强。同步开源的 EdenGolem 可从玩法描述生成可运行的 3D 灰盒游戏。整套方案推动生成画面接入交互工作流，但复杂长期交互仍待检验。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:17:01+08:00"
         },
         {
           "title": "新 iPad mini 与首款触控 Mac 下周齐发，它俩的「禁忌之恋」要藏不住了",
@@ -33,9 +33,9 @@
           "contentLength": 3998,
           "hasFullContent": true,
           "hash": "d724052cc52d397f7b466380ad27eca1fdc3de9161a4a3c436cd3fced336ee27",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "苹果将于10月29日举行特别活动。据爆料，高端MacBook Pro有望加入触控、双层OLED与灵动岛，减轻机身重量，但可能沿用M5 Pro/Max并涨价；入门款及iMac则预计升级M6。iPad mini预计换用OLED、A20 Pro，调整前摄位置并改进抗水设计，刷新率尚存争议。文章认为，触控Mac将推动桌面软件兼顾键鼠与手指操作，为Mac与iPad共享交互逻辑及未来折叠、二合一设备铺路。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:20:51+08:00"
         },
         {
           "title": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
@@ -45,9 +45,9 @@
           "contentLength": 4112,
           "hasFullContent": true,
           "hash": "362115da1f0d9ce4f5d067f380bb37c330bda1f5b4652d0830dca7115a12ea62",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "记忆张量开源 MemT 1.0，将动态记忆状态纳入模型架构，通过训练学会记忆的读写、更新与调用，以固定体积存储持续积累信息和经验。其在11项记忆基准中领先同组参数化记忆基线；编程测试中，外部系统根据报错提炼并注入经验，模型据此修正行动，提高任务成功率与稳定性。长历史测试还显示其推理速度和存储成本优势，为长期助理和团队经验复用提供技术路径。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:20:51+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 4432,
           "hasFullContent": true,
           "hash": "0abdd94b7024304a9f1fabe43859977a964f2ac7f52f67536816299bd1c446f6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者分享将多个企业本地化项目升级至Qwen3.8-27B的经验，重点测试24GB显卡上的量化与推理加速。HyperQwen默认MTP小词表导致中文草稿接受率偏低，改用完整词表后速度明显提升；双Triton配合CUDA图适合短请求，长上下文则FlashInfer更优。设备铭牌、发票提取及采购分析案例展示了业务应用能力。最终推荐HyperQwen、MTP3、完整草稿词表、FlashInfer并保留视觉，强调按场景综合权衡显存、速度和效果。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:17:01+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 2678,
           "hasFullContent": true,
           "hash": "5f3fa62ebf2d05028245c1ce7065a597e8f8e7ad0765fc9df76707bb68c46792",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者在 WorkBuddy 中实测 Step 5 Preview，用它查看 GitHub 反馈与 PR、复用现有代码搭建并部署 All-In 播客中文精读站、根据截图修复移动端问题，以及修复因 DeepSeek Harness 更新而失效的多个插件。借助已有代码、开发部署 Skill 和浏览器测试，任务整体达到预期，但过程中出现数次中断。作者认为其与顶级模型仍有差距，已能胜任日常网站和插件开发、截图修 Bug 等工作；WorkBuddy 各版本限免至 10 月 25 日。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:17:00+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 3390,
           "hasFullContent": true,
           "hash": "576b31249ae31ce5a5f86109f1c119778909390491e8d74dec8ae8eb39d81490",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "澳大利亚公司Apate.ai打造35万个AI，扮演不同身份的潜在受害者，通过假意配合、反复拖延消耗骗子时间。据公司称，AI已与骗子交谈250万次，累计耗时约17年，并获得银行和电信运营商客户。国内大学生小舟等人则针对利用AI形象“小海”卖惨带货的现象，生成揭露其虚假人设的视频，帮助老人停止购买。两个案例展现了AI反诈的不同路径：降低保护他人的成本，让个人善意得以复制和放大。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:20:51+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 3310,
           "hasFullContent": true,
           "hash": "e3aa347073bc5529641a4b1bed70e5e642373232a0fade357f2dbb59766ca875",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "MemT 1.0 尝试将记忆从外挂文本转为模型内部固定大小的记忆状态：保持主干权重不变，加入记忆模块，自主学习信息的写入、擦除和读取，并通过完整历史与记忆条件下的回答对齐训练。其优势是不必反复携带历史原文，存储与读取开销固定，还能复用任务经验。实验中，写入经验使 SWE-bench Verified 三次均答对的比例从54.0%升至61.6%，但记忆准确性仍逊于直接提供原文。作者认为，这一路径可能支持经验融合及模型自我改进。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:17:01+08:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "contentLength": 2431,
           "hasFullContent": true,
           "hash": "f94157f1ffeee88d590c6f03d4e49e846a1a78ae4ea4cbb732f51a8308930048",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "前英伟达DreamZero团队创办Dream Labs，获9000万美元种子融资，并开放机器人基础模型Dream-1的API。模型采用世界动作模型路线，同时预测画面与动作，以夹爪位置、姿态和开合状态统一表达控制目标，可在无需目标机器人演示数据的情况下，操控部分未见过的双臂平行夹爪机器人。其第三方实测平均得分为59.3%，在已公布配置中居首，但效果仍依赖机器人控制系统，跨硬件与真实场景的稳定性有待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:20:51+08:00"
         },
         {
           "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
