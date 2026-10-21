@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-21T07:10:29+08:00",
+  "generatedAt": "2026-10-21T08:15:48+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -63,9 +63,9 @@
           "contentLength": 5023,
           "hasFullContent": true,
           "hash": "692ff7f98bc3c0a9c8f76d21b3d07bfd514c96c9e5debb1203506ef535744517",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic结合内部AI使用、招聘和人事数据发现，公司扩张期间，技术新员工中初级人员占比从27%降至9%。AI接手基础任务、提升产出，也压缩了新人练手机会；员工工作转向分配任务、审核结果和管理AI，招聘更重视自主性与判断力。小样本实验提示，借助AI完成任务不等于理解知识，主动追问有助于学习。新人可通过验证原理、展示决策过程、参与有真实用户和业务约束的项目积累经验，但个人努力无法替代企业提供的培养机会。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:13:38+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 5329,
           "hasFullContent": true,
           "hash": "2edbe7a4b01c3acd77a7c642175f28772dff7b61f817987af0a8507bcf201b2b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "MemT 1.0通过在Transformer中加入可训练的记忆分支，将经验编码为可更新的内部状态，学习写入、读取与复用，无需反复微调主干。其Nano和Flash型号完成近300B参数规模验证，在代码任务中提升成功率与执行稳定性，表现接近文本经验方案，并降低长历史推理开销。但文本记忆在细节召回、溯源等方面仍有优势。原生记忆为持续学习和递归自我改进提供经验积累机制，其长期收益与跨任务泛化能力仍待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:13:38+08:00"
         },
         {
           "title": "英伟达世界模型团队创业！种子轮拿下9000万美元，具身模型反击通用模型",
