@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-21T08:22:57+08:00",
+  "generatedAt": "2026-10-21T08:28:20+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -135,9 +135,9 @@
           "contentLength": 3678,
           "hasFullContent": true,
           "hash": "363d357da60dce4a7935d3de47d55f117144ae2b8383012d76744d545c186ada",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章对比视频模型与代码生成视频，重点展示国产Fotor Agent制作商用MG动画的流程：根据提示词规划脚本分镜，生成素材并排列到多轨时间轴，文字、数据、图形等元素可独立手动修改，减少反复生成的成本。作者称其制作成本约0.5元/秒，支持原生4K，但含图片或SVG时仅能导出1080P。核心判断是，代码生成视频更适合产品介绍、数据汇报和知识科普，并可与擅长真实场景的视频模型互补。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:24:09+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 2712,
           "hasFullContent": true,
           "hash": "faaf0234dbca5df7614eeac2647126a4dc31e6952971014f664deffec4490bc0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者借助 Codex 打通 Mac 与极米投影仪的控制链路，通过局域网实现按键操作、获取屏幕截图，并采样蓝牙信号实现开机，将控制能力封装为应用和 Skill。Agent 据此循环查看画面、判断并执行操作，完成打开视频应用、查找播放记录等任务。作者还开发了语音助手“小 C”，支持本地唤醒、语音转文字后发送至固定 Codex 会话，以及任务结果朗读，相关项目均已开源。作者认为，这种方式有望扩展到多设备协同，并降低老人观看电视的操作门槛。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:24:09+08:00"
         }
       ]
     },
@@ -225,9 +225,9 @@
           "contentLength": 1966,
           "hasFullContent": true,
           "hash": "39824808ba4e7f8d42e03c8a0200896c7437d1ec0f55d32407158afdd48b7989",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位宣布第八届MEET2027智能未来大会将于2026年12月在北京举行，主题为“智行合一，驭见未来”，聚焦AI从理解、规划走向实际执行，讨论智能体、具身智能、世界模型等领域的落地，以及可靠性、可控性与安全边界。大会同步征集2026人工智能年度榜单，从企业、产品、人物三大维度评选五类奖项，报名截至11月16日，结果将在大会公布。现场还将发布《2026年度AI十大趋势报告》，结合技术成熟度、落地现状与潜在价值分析趋势及代表案例。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-21T08:24:09+08:00"
         }
       ]
     }
