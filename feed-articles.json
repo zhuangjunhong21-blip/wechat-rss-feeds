@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-22T07:09:19+08:00",
+  "generatedAt": "2026-10-22T10:19:01+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -21,9 +21,9 @@
           "contentLength": 5372,
           "hasFullContent": true,
           "hash": "fd0e99e5a57eda6f19f7956ab80fab3ead820fde3e5f1a0f8400bce17ef903f2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek开源DeepInfer推理框架及配套协议组件。作者依据技术报告估算，单集群约2400张计算卡可实现日吞吐155万亿Token，谷价下平均每卡每小时收入38美元。核心方法是利用Coding Agent大量重复上下文的特点，以分布式SSD缓存和高速网络减少GPU重算，并通过有界重放降低计算与存储开销。开源内容涵盖推理加速和协议适配，但缓存管理、分离调度等尚未开放。作者认为，这为第三方部署和长上下文API降价提供了技术路径。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:09:04+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 4088,
           "hasFullContent": true,
           "hash": "494126f087b41a0ab980776c4cbffdd02aa10c2b0a888c94ed529169126a8fd2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek 以 Apache 2.0 协议开源推理框架 DeepInfer 和生产级分词组件 deepseek-recipe，并承诺持续开放新模型推理代码与性能优化。系统通过分离部署、长期缓存复用、异步流水线和投机解码提升吞吐、降低成本，分词组件则统一多家 API 格式并防范特殊标记注入。文章认为，开放生产级推理工程能帮助第三方服务商降低部署成本、实现盈利，也对闭源厂商依靠高价服务和巨额算力投入的商业逻辑提出挑战。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:13:14+08:00"
         },
         {
           "title": "DeepSeek开源推理框架，每卡每小时收入38美元/小天才回应封闭社交争议/特斯拉与SpaceX或将合并",
@@ -81,9 +81,9 @@
           "contentLength": 3041,
           "hasFullContent": true,
           "hash": "cd0095830fdb916a229da873ddc453c0b0ddedf9ecdd200a07e8d995321a2909",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "微软研究院提出多智能体框架 Agensh，不设中心主管，让成员通过共享代码仓库、即时消息和看板，自主认领任务、协商分工、验证并合并成果。在断网、限时六小时的软件重建实验中，使用相同底层模型，1024 个智能体复现 pandoc 的隐藏测试通过率达 55.06%，单智能体为 33.89%。团队还自发形成审查与整合角色。结果显示，扩大协作规模可提升表现、加快进展，但收益并非同比增长，泛化能力、资源投入及维护成本仍待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:06:59+08:00"
         },
         {
           "title": "Personal Agent到底能帮我们做什么？",
@@ -111,9 +111,9 @@
           "contentLength": 16036,
           "hasFullContent": true,
           "hash": "b0826adbf1bbdb0b8bb698c832c0bec76ee9074c33882cfd61e30e032827c693",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Codex 从云端编程 Agent 转向本地工具，最终发展为桌面应用并成为 ChatGPT 的底座。早期云端方案因配置门槛高、难以中途干预及模型能力不足，未能找到产品市场契合点。团队随后重写底层 Agent，结合真实开发场景改进模型，并押注不内置代码编辑器的桌面形态。随着模型增强，多任务委托逐渐可行。其历程表明，AI 产品需要匹配当下模型能力与用户工作环境，通过产品、工程和研究的紧密反馈持续调整，不能仅凭终局愿景一步到位。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:17:24+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 1022,
           "hasFullContent": true,
           "hash": "9d7b890528996d9f476cf3d87c6cff16c4d7f7ca4188e1ce1a2084ef5119c899",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Jev决策模型的价值在于快速处理高频决策，并将疑难样本交给LLM，以降低时延和token成本。但作者认为，通用决策模型难以直接达到复杂业务所需的准确率，仍需业务后训练，其路径与过去基于Bert的分类模型相似，只是底座和上下文能力发生了变化。关键在于通过面向校准决策的强化学习，使输出概率更贴近真实分布；真实软标签和概率校准方法可能构成护城河。并发与速度要求也可能推动小参数模型微调需求回归。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:18:04+08:00"
         }
       ]
     },
@@ -231,9 +231,9 @@
           "contentLength": 250,
           "hasFullContent": true,
           "hash": "ba223ff51aea48ee7f8548fad34091e278546464d89c5ae19a14f9e69e962d7f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者在发布会时下单阶跃手机，收货拆箱后，对整机手感评价很高，尤其喜欢磨砂边框、按键触感、背面设计和 LED 灯屏。但实际体验中的 AI 功能未达预期，目前无法直接操作第三方 APP，也不能汇总各个 APP 内的发票。手机每月赠送 100 亿 token，连续赠送一年，这一权益让作者产生了多买几台作为中转站的想法。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:11:11+08:00"
         },
         {
           "title": "AI 搜索是怎么做出来的",
@@ -243,9 +243,9 @@
           "contentLength": 5116,
           "hasFullContent": true,
           "hash": "84d19d83f690a43a0594e03fa644f091417283491a1772387d8a60675dac3c1f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI 搜索由模型决定检索词，外部程序执行搜索并将结果注入上下文，再由模型组织答案。文章以元宝搜索为例，拆解适配 Agent 的四项工程重点：理解检索意图、筛选可信信源、补充实时信息、降低延迟，涉及排序模型蒸馏、分级质量评估、垂直数据插件及索引与缓存优化。API、MCP、Skill 底层信源相同，区别在接入封装。搜索负责单次查准、查快，多跳任务的拆解、判断与后续检索由 Agent 完成。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:15:19+08:00"
         }
       ]
     },
@@ -279,9 +279,9 @@
           "contentLength": 3890,
           "hasFullContent": true,
           "hash": "3698bdd13e841dd7c299f42573fcc09dff941d7501f62300e0f8c8ad1ea82ad9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "腾讯将WorkBuddy接入企业微信侧边栏与通讯录，支持在授权范围内调用聊天记录、文档、微盘、日程和邮件，理解任务背景，并将成果直接回传会话、微盘及业务流程，减少资料搬运与重复交代。文章通过销售线索管理、券商客户服务和制造企业模具核价案例，展示其串联信息整理、分析与系统录入的能力。企业可沿用企微组织架构和权限体系管理AI，让个人提效延伸至客户经营与跨部门协作。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:18:30+08:00"
         },
         {
           "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
