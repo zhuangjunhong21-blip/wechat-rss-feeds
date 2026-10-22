@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-22T10:19:01+08:00",
+  "generatedAt": "2026-10-22T10:29:39+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -51,9 +51,9 @@
           "contentLength": 11815,
           "hasFullContent": true,
           "hash": "f08b6521c67733c7f4f93fa334547b64c8e96722ad227562a1dcf4576f952771",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek开源推理框架DeepInfer，支持分布式推理、推测解码等功能，称单集群日吞吐达155万亿Tokens，按谷价计算每卡每小时收入38美元。小天才回应社交封闭争议，称跨品牌可通话、收发短信，但微聊、好友圈及视频通话暂不互通。SpaceX与特斯拉分别成立委员会讨论合并，交易仍需股东批准；SpaceX三季度AI算力出租业务已成为最大收入来源。其他动态涉及汽车准入与车灯标准征求意见、AI应用及硬件新品。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:24:01+08:00"
         },
         {
           "title": "制糖年度好价｜满赠有礼，最省购买指南来了",
@@ -93,9 +93,9 @@
           "contentLength": 260,
           "hasFullContent": true,
           "hash": "cc5769db68409939052b926b3058701cdef99994b13ea0ca200a74543ea385df",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 将于10月25日14:00—17:00在杭州云谷中心举办 Personal Agent 交流活动，邀请多位 AI 开发者与实践者，分享最新探索与落地经验。交流范围涵盖 Agent 工作流、AI 视频创作，以及使用 Muse 和 Opus 5.5 制作视频的实践，旨在促进技术讨论、想法交流与同好连接。原文主要发布活动安排及报名邀约，未展开具体技术方法或应用结论。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:21:48+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 358,
           "hasFullContent": true,
           "hash": "31420120f547a3c78151719cdb1e3d4887886a1e6034cfc994538bf495a3b651",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Personal Agent 产品“白艾莉”将二次元养成体验与 AI 助手功能结合：用户可为角色挑衣服、进行塔罗占卜，角色拥有人设和饥饿、困倦等状态，还会写信、发朋友圈，并通过作家、设计师等虚拟朋友协助完成任务。作者试用时，让它基于代码制作全球音乐电台，二十多分钟便跑出了成果。产品还能连接微信、飞书和专属邮箱，定时发送报告，并在用户连续工作两小时后提醒休息、喝水。作者认为，用户需要的不只是提升效率的工具，也希望拥有具备“活人感”的伙伴。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:22:49+08:00"
         },
         {
           "title": "我去！竟然有人把 Personal Agent 做成养成系游戏，体验丝滑 ...",
@@ -159,9 +159,9 @@
           "contentLength": 2872,
           "hasFullContent": true,
           "hash": "a99dcdc73abfc33b8bb526f801025e23241e33ea0429d73225accc5e9649f326",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "白艾莉（Alice）将 Personal Agent 做成养成游戏，以角色人设、换装、书信和点击式引导帮助用户理解功能，通过旅行、朋友圈、视频通话与长期记忆营造陪伴感。它把多 Agent 包装为各具技能的朋友，支持定制角色，并通过广场展示、交换共创内容与角色；同时提供编程、办公、定时任务等工具。作者认为，人格化 Agent 能兼顾效率与关系需求，有机会发展为 AI 原生内容社区，但功能日益丰富后需要做减法。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:22:19+08:00"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "contentLength": 4292,
           "hasFullContent": true,
           "hash": "0564efbc57f868c9350cb86937eaa104961244247eb3be7fcaf5c69d7fc3d7bb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章整理了以Claude Opus 5.5为主的八个创作案例，涵盖手写字体提取、古希腊场景搭建、3D剧情游戏、成都城市讲解、圆明园复原、魔戒故事视频、电视逆向改造及独立游戏开发。案例展示了参考图、真实数据、既有渲染引擎与多种AI工具协作的路径，也说明精细作品仍需持续打磨。作者认为，AI降低了创意表达与开发的门槛，模型的价值在于帮助普通人把想象变成作品，创作者应保持好奇，重视想法与表达。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:24:31+08:00"
         }
       ]
     },
@@ -195,9 +195,9 @@
           "contentLength": 451,
           "hasFullContent": true,
           "hash": "ce161d994d40ddddb44eb77183983c102cf5e26f84efc254e05c02a6d02a8d6d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者参考 CleanFrame 和 cleanyourtv，借助 AI 改造并打包了 guizang TV 电视启动器，用简洁界面替代满是广告的原有界面，仅保留 PS5、Apple TV、哔哩哔哩和投屏等常用入口，并新增壁纸轮播及内置壁纸。用户可让 AI 阅读项目，指导开启开发者模式、允许安装未知应用，完成安装和设置，也可按需求修改壁纸与应用快捷方式。作者提供了项目地址，供小米电视用户尝试。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:23:29+08:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "contentLength": 7684,
           "hasFullContent": true,
           "hash": "87d7fd376ac6719673bbf981a3e9a7fbe5d14b0282ea7461b1e9d6070626521a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者开源了适配WorkBuddy与Miora的三个Skill，分别用于万圣节海报配色、3D盲盒IP设定和品牌宣传片策划，将审美约束与制作流程交给Agent执行。案例展示了先生成底图、核对配色，再用HTML排版文字，以及从素材、分镜到视频生成和剪辑的流程。作者认为，AI设计的差异将体现在风格、成套交付和细节检查，审美经验可以沉淀为可复用的Skill；目前仍有乱码、视频缺音和画布只读等限制。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:25:00+08:00"
         }
       ]
     },
@@ -261,9 +261,9 @@
           "contentLength": 2816,
           "hasFullContent": true,
           "hash": "962118c3908c590a4d1a1bba98d12397d5af1f2326aee0762b5aec2001a10f4f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "本周11个Star增长较快的GitHub项目涵盖游戏转换、AI创作、CAD建模、逆向分析及开发辅助。AnyPS5尝试将PS5游戏转为电脑可运行版本，但能否运行GTA 6仍待发售后实测；ArtCraft支持先布置场景再生成图片和视频；text-to-cad可按文字生成并修改模型。REA借助专业工具分析软件实现，一周新增约24.9万Star，但已有用户反馈使用时遭封号。其余项目涉及软件分析、AI技能、图表与视频制作、插件及长上下文管理。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:19:17+08:00"
         }
       ]
     },
@@ -291,9 +291,9 @@
           "contentLength": 1823,
           "hasFullContent": true,
           "hash": "f102d05760fb3db374d04059fa91d531d68d16283ec3509479ff9512ec83aa69",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "轻舟智航基于地平线单征程6M的城市NOA方案，在7月至10月推动9款合作车型上市、预售或公布上市计划，主要覆盖10—20万元市场。该方案通过软硬协同和安全可解释端到端技术，以较低算力与成本实现城市辅助驾驶。2026年轻舟乘风累计搭载量突破100万台，用户辅助驾驶里程超45亿公里，AEB误触发率每50万公里少于1次。公司计划通过OTA增强复杂场景理解与决策能力，并推进欧洲展示、L4物流车测试及物理AI探索。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:20:07+08:00"
         },
         {
           "title": "特斯拉SpaceX合并更进一步？！特别委员会已成立，马斯克却被踢出谈判桌",
@@ -303,9 +303,9 @@
           "contentLength": 2431,
           "hasFullContent": true,
           "hash": "0f4af63a570268d3dcc22c24da1428643759ba70a7cb643c3049a212a8cd60d5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "马斯克确认，特斯拉与SpaceX已分别成立独立董事特别委员会，评估潜在合并；他因利益冲突无法参与谈判，但支持整合。交易涉及企业价值或超3.5万亿美元，意在协同AI、机器人、芯片及制造资源。目前双方尚未商定条款，也无成交保证。主要障碍包括估值、换股比例、控制权及股东批准，尤其需获得特斯拉全部股份至少50%的支持；收购方向还将影响股权稀释与合并后的控制权。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:19:44+08:00"
         },
         {
           "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
@@ -315,9 +315,9 @@
           "contentLength": 1966,
           "hasFullContent": true,
           "hash": "e8712cab88eabd0464bf862545b057e036916486ddb28df5df6e724e9dba61ca",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位宣布，MEET2027智能未来大会将于2026年12月在北京举办，主题为“智行合一，驭见未来”，聚焦AI从理解、规划走向执行与交付，讨论智能体、具身智能、世界模型、算力等议题，以及可靠性、可控性和安全边界。大会将公布2026人工智能年度榜单，从企业、产品、人物三大维度评选五类奖项，报名截至11月16日；同期发布《2026年度AI十大趋势报告》，结合技术成熟度、落地现状和潜在价值分析趋势及代表案例。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-22T10:20:44+08:00"
         }
       ]
     }
