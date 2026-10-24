@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-24T07:09:34+08:00",
+  "generatedAt": "2026-10-24T10:23:11+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -21,9 +21,9 @@
           "contentLength": 2697,
           "hasFullContent": true,
           "hash": "5cceb4bb087a020cb9940dfc88fbdab57ac6699ea7f73705ac4ae799f4b26216",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "SemiAnalysis 对两个同价 Claude Max 账号的测试发现，灰测账号的五小时额度增加约19%，每周总额度却减少约20%；官方人员先否认调整，随后表示排查。文章结合 OpenAI 缩减订阅额度的案例，指出包月订阅与重度用户持续消耗算力存在矛盾，并以 DeepSeek 的推理部署实践说明工程优化可改善成本与收益。核心批评是厂商不公开计量标准、暗中调整额度，导致用户购买的服务缩水并损害信任。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:14:29+08:00"
         },
         {
           "title": "用 Claude 给小米电视去广告火了，这届用户开始用 AI 整顿智能硬件",
@@ -33,9 +33,9 @@
           "contentLength": 2792,
           "hasFullContent": true,
           "hash": "72ff4f7c3d39d064a960dac0c7de44bae9afe6abe47a8cc1ebd0978f10902069",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "用户借助 Claude Code 清理电视广告、停用预装服务并重做主屏幕，体现了 AI 降低旧硬件改造门槛的能力。类似实践还包括为电子乐器编写定制固件，以及迁移 COBOL 等老旧语言代码。关键在于先理解原系统，再谨慎修改：电视需保留关键组件、备份并逐项确认，金融代码迁移则须严格保持原有结果。评测进步不等于生产可用，越难回退、影响越大的系统，越需要专家审查、充分测试，以及可验证、可撤回的改动路径。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:16:40+08:00"
         },
         {
           "title": "微信回应未适配iPhone Duo/王兴兴：物理AI已经有被击穿的苗头/曝OpenAI接近敲定300亿美元融资",
@@ -45,9 +45,9 @@
           "contentLength": 11272,
           "hasFullContent": true,
           "hash": "fe8b0e417f1aa7c12cb76e8b7ec9fcad3c4d9262a5a2894c7a8a0458f09703a8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "微信表示正推进 iPhone Duo 折叠屏适配，但未公布更新时间。王兴兴判断物理 AI 已现突破苗头，未来数年或有进展，核心难点是模型输入输出与真实机器人的对齐，普及仍需 5—10 年。据报道，OpenAI 接近敲定最高 300 亿美元融资，投前估值达 1.25 万亿美元，最终规模未定。此外，特斯拉三季度净利下降 43%，仍强调 FSD 技术优势；多家公司发布机器人、AI 工具及消费电子新品。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:17:39+08:00"
         }
       ]
     },
@@ -63,9 +63,9 @@
           "contentLength": 2544,
           "hasFullContent": true,
           "hash": "03103a5c1bffc6467c4b364af6999fef10b051a7749a44833671e15fa16403ee",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 发布面向中文学习者的开源教程 Diy-LLM，在斯坦福 CS336 基础上整理与拓展，通过中文讲解、配套代码和实践作业，串联大模型架构、训练、数据处理与系统工程。教程设有16章、6组作业，覆盖分词器、Transformer、分布式训练、缩放定律、推理、评估及对齐，并延伸至多模态。主体章节和全部作业已开放，工具章节与扩展内容仍在更新。具备 Python 和 PyTorch 基础的学习者可从小模型实验入手，通过组件实现、性能分析和评估逐步理解大模型。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:04:11+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 7649,
           "hasFullContent": true,
           "hash": "b4660c529fd8c47addda2ad9257cafa89bc2ce8048dee4c86e7fdfd249e7a999",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "B2B 创业团队出海美国，应先明确目标客户、紧迫需求和差异化价值，不能照搬国内打法。美国客户更偏好聚焦、标准化的产品，重视自主研究、真实效果与供应商风险。早期应寻找需求迫切、决策快且愿意共建的客户，由创始人主导销售，通过试用积累反馈、ROI 数据和本地案例，验证产品市场匹配后再扩大投入、招聘销售。渠道选择应围绕客户的信任来源，避免过早投广告；验证不顺时，也要检查是否选错市场。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:14:58+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 11838,
           "hasFullContent": true,
           "hash": "e6dbb4862a38a308dc06c406e75a325b42f75956e4550f48c0b53e099f23ec13",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "“许愿式编程”能做出可运行的产品，但距离长期稳定运营、向用户收费，还需补齐安全、数据、部署、测试、计费和维护等环节。作者建议上线前让AI阅读实际代码与配置，按工程清单判断适用项，指出具体风险、严重程度及对应文件，对未检查处明确标注“无法确认”，优先列出最值得修复的10个问题，待确认后逐项处理。这种审查只能降低部分风险，不能保证查全或修好；开发者仍需学习工程知识，严肃产品也仍需要专业人员参与。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:08:27+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 2987,
           "hasFullContent": true,
           "hash": "166e15cdea10a9be95465bfeb20b11eeb20ff37d1450285ef3cb7d76c7141100",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "StreamEval 是开源的实时交互视频模型评测项目，覆盖数字人对话与表演、世界生成、文字及参考图驱动的视频编辑五类任务，共设300个案例、五档测试时长，从任务执行、状态一致性、视觉保真度和音画协调四个维度评分。结果显示，画面质量与指令执行能力并不一致，数字人表演和世界生成的指令跟随短板尤其明显。项目公开数据、交互脚本和评分工具，支持开发者接入模型定位问题，也帮助应用团队按场景选型，并计划每月评测新增及更新模型。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:12:40+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 4632,
           "hasFullContent": true,
           "hash": "6874ee411814c9c5e7700cb7fb168df71321091b61e75dc386545742bde69bff",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI让创造变得轻易，也让作者陷入成就感减弱、对突破日渐麻木的虚无：当长期积累的技能不再稀缺，依靠努力、成长和解题建立的价值感便受到冲击。作者以游戏开挂后的失落类比这种体验，并从科举废除后刘大鹏坚持写日记的故事中获得安慰。尽管尚未找到化解虚无的答案，他开始认识到，人生的意义不只在于完成目标，也在于探索、体验与日常生活；即使拥有轻易通关的能力，仍应保有走向未知的好奇心。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:18:08+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 10800,
           "hasFullContent": true,
           "hash": "3452ffb7ed4c396b7d6d24681a99d9887c87b67f57d30d2a3c3dbf20e4da4513",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "2024年，字节Goku视频模型训练连续数月异常。晚点通过访谈项目成员及相关人士，还原团队发现可疑代码、调查及辞退田柯宇的过程。前同事称干扰程序可自动运行、随机触发并隐藏痕迹，田则称仅数次手动停止程序，部分指控仍有争议。事件拖慢项目并持续影响研究人员。田在一审被判赔偿50万元后获得近3000万美元融资，案件尚在二审。报道追问：AI人才与资本竞争中，管理者和投资人是否充分关注成果取得的方式及职业伦理。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:06:20+08:00"
         },
         {
           "title": "一座西班牙老厂，等来了一家中国车企",
@@ -165,9 +165,9 @@
           "contentLength": 3798,
           "hasFullContent": true,
           "hash": "ece2622e8a64288f7f9e454c6b27566f88a704c9fbde938dd53ec2f3d762f1f8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "零跑B10在Stellantis西班牙萨拉戈萨老厂下线，标志着零跑从对欧出口转向本地制造。合作将零跑在欧洲增长的订单与Stellantis闲置产能结合，带动工厂增岗、加开夜班。零跑还自建配套电池工厂，主导技术标准和运营，核心工艺参数及研发数据留在国内。双方由零跑提供技术、创新与速度，Stellantis提供制造能力及市场网络。这表明，欧洲为保住汽车制造业正借力中国技术，关税虽能提高进口车价格，却难以阻止中国技术标准进入欧洲工厂。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:01:59+08:00"
         }
       ]
     },
@@ -183,9 +183,9 @@
           "contentLength": 4298,
           "hasFullContent": true,
           "hash": "876febdf789566da19fe584361bbd2583a02957bed9aeb0b0a91d2c716ea9934",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "中国电信星辰实验室开源29B意图理解模型Xing4.0-29B-Intent，可同时识别用户意图、提取执行参数，支持本地部署。作者结合冷启动分类评测、电商评论分类及截图工具Ta的自动打码、框选案例，展示其相较Jev的效果与速度优势。文章认为，专用模型可通过请求中的标签适配不同业务，以较低成本承担Agent中的大量判断任务；后续竞争关键在于参数提取是否准确完整，本地部署则有助于满足延迟与隐私需求。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:15:49+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 4063,
           "hasFullContent": true,
           "hash": "946bde8cbc54892431f982836fc3d92fd8ec83588ccb4a09fa9c192a03930ed4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "国务院办公厅公布适应人工智能技术发展、构建就业友好型发展方式的意见，从六方面部署18项任务，推动技术进步与就业促进相协调。要求优先在劳动力紧缺、高危岗位应用人工智能，稳慎把握劳动密集型行业应用节奏，对可能造成较大就业冲击的项目开展就业风险评估，鼓励企业探索失业缓冲期并提供转岗支持。同时培育新职业和创业机会，加强人才培养与技能培训，完善劳动权益、社会保障及就业风险监测应对机制，增强就业创造效应、减缓岗位替代影响。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:10:37+08:00"
         }
       ]
     },
@@ -219,9 +219,9 @@
           "contentLength": 3648,
           "hasFullContent": true,
           "hash": "d4b2c239e9de8783287c1f9f0193d53b8acaf651b0bef88576e4b89e7d8937bb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Hi3D开放基于Sparc3D架构的V1.0模型源码与权重，以约200万个筛选后的3D资产训练，通过粗网格与参考图逐级细化几何，支持最高1536³分辨率，最新V3.0提升至2048³。技术报告显示，V1.0多视图保真度和细节丰富度在所列方法中领先，切片成功率达90%。Hi3D Agent将生成、修改、工程优化与应用交付串联，支持打印、游戏和动画工作流，并通过开放模型及MCP接口服务开发者与企业。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:15:27+08:00"
         },
         {
           "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
@@ -231,9 +231,9 @@
           "contentLength": 6511,
           "hasFullContent": true,
           "hash": "6592d1dfbae24e7bb08249cf9af0a9b1912fc72197ea7e7c554059d27af426e1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "达瓦科技凭实时世界模型Scenes AI获NVIDIA创业企业展示半程卓越企业奖。该系统从摄像头画面解析并维护世界状态，通过控制层与渲染层分工，仅更新变化区域，实现局部编辑与跨帧记忆。其34B模型每步激活约4B参数，在单张消费级RTX显卡上实现720P、25帧实时输出。训练依托约180TB结构化世界状态数据，并结合仿真与生成数据，面向影视、直播和互动展示等应用。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:16:14+08:00"
         },
         {
           "title": "多Agent也会帮倒忙！80B给9B支招，准确率反降23.6个百分点 | NeurIPS'26",
@@ -243,9 +243,9 @@
           "contentLength": 4711,
           "hasFullContent": true,
           "hash": "68a36e45072b04de81a68363b542b11faa03bc9fbb865f87325ac4f2f6b4ea05",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "亚利桑那大学等团队发现，多Agent通信即使保留完整决策信息，也可能因接收模型理解困难或动作选择错误而降低准确率。80B模型向9B模型发送短消息，在ContextBench上提升14.2个百分点，在ToolSandbox上却下降23.6个百分点。研究将通信效果拆为信息收益与处理代价，提出无需重训、按任务和接收模型选择跳过通信、发送短消息或原文等策略，可节省token，但准确率存在取舍。结论主要针对下一步决策，完整任务效果仍需验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:20:02+08:00"
         },
         {
           "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
@@ -255,9 +255,9 @@
           "contentLength": 1966,
           "hasFullContent": true,
           "hash": "94ac501ba1976ced5a446e27ffed894c48d8f0bf53e4ab7ae2b275ab70e61aae",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位宣布，MEET2027智能未来大会将于2026年12月在北京举行，以“智行合一，驭见未来”为主题，聚焦AI从理解、规划走向执行与交付，讨论智能体、具身智能、世界模型、算力等议题，以及可靠性、可控性和安全边界。大会同步征集2026人工智能年度榜单，从企业、产品、人物三大维度评选五类奖项，报名截至11月16日，结果将在大会公布；同期还将发布《2026年度AI十大趋势报告》，分析技术成熟度、落地现状与潜在价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-24T10:17:13+08:00"
         }
       ]
     }
