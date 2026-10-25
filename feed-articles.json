@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-25T07:09:50+08:00",
+  "generatedAt": "2026-10-25T09:13:42+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -21,9 +21,9 @@
           "contentLength": 3339,
           "hasFullContent": true,
           "hash": "4c021332b980a9b3ccc52be4e41e049b283c987f02df8260a72c7bff2d3dfd41",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "一项实验让两个无预先密码约定的Claude会话通过普通插画传递隐藏文本：图片转成PNG、移除源码后，50条跨15种语言的消息仍有78%被解出，跨模型解码成功率最高达88%。编码主要利用物体高度、倾角、摩斯密码和窗户亮暗矩阵，几何信息比颜色数值更耐渲染失真。作者用Opus盲测三张原图，均通过Python图像处理准确还原信息，认为这种默契源于共享的古典密码知识。目前解码仍依赖外部脚本测量像素，可通过工具日志追踪。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T08:58:16+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 3846,
           "hasFullContent": true,
           "hash": "3ad725cb33c9aca050bc3ffc0ec3725e711d32d598ace2bc12551523d850de08",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Arc 宣布将于12月22日停止桌面版服务，用户迁移不仅涉及数据，也涉及标签与工作区的使用习惯。文章梳理四种替代方案：Dia 提供专用迁移入口，成本最低；Zen 最接近 Arc 的侧边栏与空间操作；Chrome 搭配 Workona 兼顾兼容性和项目管理；Vivaldi 以丰富原生功能重建工作流。迁移前需分别备份链接、密码和笔记等数据。Arc 的自动归档及可复位固定标签仍难完整替代，选择应取决于最想保留的功能。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T08:59:02+08:00"
         },
         {
           "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
@@ -51,9 +51,9 @@
           "contentLength": 4372,
           "hasFullContent": true,
           "hash": "5c6513a9533da4a7c7f21d767f7077fd9503aeebbb5579593d666efdb31dee54",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Kimi 发布旗舰模型 K3.1 Pro，拥有3万亿级参数和100万上下文，并推出输出速度提升至普通版2至3倍的高速版本。APPSO 实测其3D场景、交互网页、动效生成及软件复刻能力，认为其审美、长程编码和调试表现明显增强；官方公布的两项金融基准成绩也超过部分闭源旗舰。文章指出，该模型尚未全面超越顶尖闭源模型，但让国产模型重新参与前沿能力竞争，强调跑分接近不等于实际能力相同，复杂任务仍需要能力上限更高的旗舰模型。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T09:00:33+08:00"
         },
         {
           "title": "Kimi K3.1 Pro发布，超GPT-6杀回前4/首部「龙标」AI电影上映/国办：减缓人工智能应用就业替代影响",
@@ -63,9 +63,9 @@
           "contentLength": 10944,
           "hasFullContent": true,
           "hash": "f1a62a77268a3b2260c079b89adff57746787ba055334d3c17577635a0fef56a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Kimi K3.1 Pro 上线，支持百万 token 上下文，在 Artificial Analysis 智能指数中排名第四，计划于11月4日前开放完整权重，价格较前代降低33%。国办提出探索失业缓冲期，通过提前告知、转岗培训和就业风险评估减缓 AI 对就业的冲击。首部取得公映许可证的 AI 院线电影《三星堆：未来往事》上映，AI 主要生成视觉素材，创作与史实核验仍由主创把关。另有 OpenAI 训练环境加固、全球 PC 出货下滑及多款新品动态。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T09:01:00+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 1279,
           "hasFullContent": true,
           "hash": "89c96b311af8102ba82b1d2566f86644880e901b1118988d901958e30b1a58b6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale与浙江省人工智能学院、杭州电子科技大学及杭电校友企业四方合作，成立FDE产业赋能中心，发布浙江FDE100先锋人物、100个AI落地案例及杭电FDE微专业课程，推动前沿部署工程师人才培养。该体系以真实案例为教材、实战结果为认证依据，通过企业需求和项目实践，形成标准制定、课程教学、产业实战与结果评价的闭环。未来计划拓展企业内部工程师培训，目标是在中国培养一万名FDE工程师，推动AI在各行业落地。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T08:58:39+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 5000,
           "hasFullContent": true,
           "hash": "4e0d425d8f213efa7f954ec7318cb46bc0a84999f05d8977559879ddfdca7e30",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者通过可拆解的3D相机、泰拉瑞亚地图编辑器和文学城市可视化等任务，实测Kimi K3.1 Pro的编程、审美与3D能力。相机案例中，其交互和视觉得分最高，35项光学读数全部正确，整体完成度仅次于Claude Opus 5.5，但仍有结构和导出单位问题。作者主观认为，其综合能力超过GPT-6.1-Sol，在已测国产模型中居首，已能进入日常工作流，为实际生产提供国产替代选择。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T09:05:15+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 5187,
           "hasFullContent": true,
           "hash": "ec58b57517d37fa0fb6c94cc286b9295874182d469953dc2359c45f5eafc8bed",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Kimi发布旗舰模型K3.1 Pro，参数规模2.8万亿，支持百万Token上下文，计划开放完整权重，API价格较K3基本减半，并推出价格翻倍的高速版。文章结合官方跑分及3D建模、空间还原、视频动效等实测，认为其3D能力已接近GPT-6 Astra，能综合平面图、风格图和视频重建场景；动效较以往国产模型明显进步，但仍逊于Opus 5.5。生成的宣传片尚需打磨，科普内容准确性仍需人工核对。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T09:09:20+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 1656,
           "hasFullContent": true,
           "hash": "d7edc59fc1f73a5ea4af96bbe16a9472e0bc2aa6c63bf64962f1adf19f88164c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章汇总四个开源项目：ESP32 iPhone Agent 用开发板连接视觉模型与 iPhone，通过观察屏幕执行点击、滑动等任务；geo-sleuth 根据照片中的文字、地标或地形线索定位，并提供朝向、误差范围和卫星证据图；CCBaga 管理 Claude 本地账号状态，支持资料切换、缓存清理、指纹轮换及环境验证，被部分用户用于防封；PlayCover 让 Mac 运行 iOS 应用和游戏，支持键鼠、手柄及触控映射，实际可用性取决于应用和版本兼容情况。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T09:00:11+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 3475,
           "hasFullContent": true,
           "hash": "2d57b6da27b19d690acbe8e5e9a9defdf1219c589e0a9d087455862f9903576c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "云端大模型消耗大量存储产能，模型扩张与硬件资源的错配推动智能向终端迁移。无量火科技的Ember推理引擎通过轻量模型预测所需参数，按需从闪存加载，让手机运行30B模型。据公司实测，MoE和Dense模型内存占用分别降低80%和50%，推理质量基本不受影响。引擎还利用深度学习优化调度，积累并共享运行经验。公司进一步推出AI原生操作系统FlareOS，计划于2027年1月联合伙伴发布软硬一体化产品。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T08:59:28+08:00"
         },
         {
           "title": "27小时通关《我的世界》！4个Gemini Agent累计阵亡605次，烧掉520美元",
@@ -165,9 +165,9 @@
           "contentLength": 2835,
           "hasFullContent": true,
           "hash": "eeac8ac15750829e9917191a1f06fa00e3e5c71d1bf889337d71b13c53528a9f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Google DeepMind让4个Gemini 4 Argon Agent仅凭“击败末影龙”的目标，在随机《我的世界》地图中自主分工，通过Mineflayer读取状态并编写JavaScript操控角色。它们共享经验、救回物资，最终排查出水晶持续为巨龙回血的障碍，历时27小时、阵亡605次后通关，费用约520美元。实验展示了多Agent拆解长程任务、协作纠错和失败恢复的能力，也暴露出较高的时间、试错与计算成本。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T08:59:49+08:00"
         },
         {
           "title": "机器人会自己攒Skill了！复旦提出具身自进化新框架",
@@ -177,9 +177,9 @@
           "contentLength": 3272,
           "hasFullContent": true,
           "hash": "e037a6538d2c3f8e0b82cf6598e6c03fe91f313ca90e08687fcddb0278423246",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "复旦大学团队提出具身智能框架RoboSkill，解决通用机器人Agent虽能通过现场推理完成任务、却因反复观察和尝试而耗时过长的问题。框架利用触觉反馈加快物理状态判断，并将有效策略与执行代码保存为技能，供后续任务调用和持续更新。实验中，技能积累使GPT-5.6-Sol在仿真中的平均耗时从94.5分钟降至35.9分钟；文字与代码结合也提升了一次成功率。技能还能跨任务、跨模型复用，为机器人持续积累能力提供路径。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T09:03:12+08:00"
         },
         {
           "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
@@ -189,9 +189,9 @@
           "contentLength": 1966,
           "hasFullContent": true,
           "hash": "cc281180c3e8536d28f725072cfdb2cf3d7557f4fbb25c83d58d72f6db30bf6b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位宣布将于2026年12月在北京举办第八届MEET2027智能未来大会，主题为“智行合一，驭见未来”，聚焦AI从理解、规划走向真实任务执行，探讨智能体、具身智能、世界模型等领域的落地，以及可靠性、可控性与安全边界。大会同步启动2026人工智能年度榜单征集，从企业、产品、人物三大维度评选五类奖项，报名截至11月16日，结果将在大会公布，并发布《2026年度AI十大趋势报告》。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-25T09:07:17+08:00"
         }
       ]
     }
