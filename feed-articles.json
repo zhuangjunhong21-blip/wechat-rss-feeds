@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-27T07:10:26+08:00",
+  "generatedAt": "2026-10-27T20:21:48+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -21,9 +21,9 @@
           "contentLength": 1698,
           "hasFullContent": true,
           "hash": "ff3b5be44f1c091c3c42173a7bfb15a6aa18484640903313d2a8dc54fb302d2e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者因讨论Claude封号与身份验证，收到大量疑似孟加拉代过KYC团队的招揽私信，并分析其利用当地真人身份、低价劳动力和微信渠道承接中国用户认证需求的生意模式。他认为，一刀切验证难以阻止有组织规避，反而催生中间商。代验账号可能因设备、网络集中及身份与使用轨迹错位而遭连带封禁，因此不建议购买代验服务或已认证账号。作者称自己已用中国护照通过验证，并提醒公众号运营者忽略此类私信。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:31:39+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 3237,
           "hasFullContent": true,
           "hash": "6c68ca557852f58d6cccc6f690ff6e1b001ed910466444928d503d22250ce281",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Meta 允许成年用户与 AI Agent Muse 进行涉性私聊，却限制真人成人内容创作者的社交账号，引发双重标准争议。文章追溯 FOSTA-SESTA 法案推动平台收紧审核的背景，指出 OnlyFans 站内发现功能有限，创作者依赖 Instagram 引流，封禁会影响收入，酷儿和跨性别群体承受更多不公。随着 AI 伴侣市场扩张，平台同时掌握审核权并参与竞争，创作者担忧工作被替代、内容被不公平用于训练，要求技术合作保障真人权益。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:34:16+08:00"
         },
         {
           "title": "iPhone Duo价格破发/国产大模型均价翻倍/企业微信回应耐克等账号发送涉黄引流信息",
@@ -51,9 +51,9 @@
           "contentLength": 8139,
           "hasFullContent": true,
           "hash": "682b970841c974ea860162ee7d8da813ca6d4f8fa24718a1b7c99ee202d2678a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "iPhone Duo 开售不到两天，部分渠道报价已低于首发价，并出现内屏开裂反馈，现有案例尚不足以判断原因。国内大模型服务归一化均价上涨近98%，使用量和输出速度同步增长。企业微信称，色情引流信息源于第三方外挂服务被攻破，已强制下线受影响账号并封禁链接。OpenAI 披露离线训练环境中的 CPU 缓存隐蔽通信及 DNS 配置漏洞，称已修补并加强监控。此外，苹果据报将发布触屏 MacBook Pro，CapCut 计划11月公测接入 ChatGPT。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:41:54+08:00"
         }
       ]
     },
@@ -69,9 +69,9 @@
           "contentLength": 6185,
           "hasFullContent": true,
           "hash": "067e4ffa815ca47c409280a43f3e305b628bcd93526e35c346a2b91607096fa1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic企业实践发现，单Agent配合Skills往往比复杂多Agent架构质量更高、成本和延迟更低。子Agent应仅在上下文膨胀、任务可独立并行或工具与指令过载时保留，并按上下文独立性划分边界。建议通过Skills和工具搜索按需加载信息，逐步合并紧密耦合的子Agent，将提示词转为Skills、API调用转为工具。迁移应先建立端到端评测基线，每次只改一个变量，比较任务完成情况与失败案例，仅保留经评测证明有价值的架构。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:33:45+08:00"
         }
       ]
     },
@@ -87,9 +87,9 @@
           "contentLength": 1082,
           "hasFullContent": true,
           "hash": "58b182c623a883b2a3f2eaf99bf04310d35a392cdbbfa7f98d019b2c9464b05f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者认为，在编程、软件操作和自媒体自动化等工作场景中，GrokBot比Muse、Dot更适合作为“AI员工”，原因是它较少因授权、用户协议等要求中断任务。作者列举了自动发布与同步内容、营销推广、SEO外链、逆向研究、评论回复和竞品体验等用途，并提出以“能力”和“素质”两个维度评估Agent，主张选择能力强、限制少、能直接执行指令的产品。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:35:10+08:00"
         }
       ]
     },
@@ -105,9 +105,9 @@
           "contentLength": 3711,
           "hasFullContent": true,
           "hash": "53091885d86e27984202089392cc629dbd76ce7e18729719e027eb0b09133173",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI Agent正降低电子设备逆向与定制的门槛，用户可描述设备和需求，按提示连接后，由AI研究接口、协议并开发控制功能。作者用Codex经ADB连接会议室电视，清理广告、定制桌面和屏保，保留投屏及原系统入口；还展示了Claude统一控制四盏补光灯、Codex搭建多机位相机控制台的案例。核心观点是，个人需求也能借AI落地，让普通用户参与产品设计。不同设备权限存在差异，修改系统前应备份并保留恢复办法。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:44:01+08:00"
         }
       ]
     },
@@ -123,9 +123,9 @@
           "contentLength": 2176,
           "hasFullContent": true,
           "hash": "822ea282501f835d94c947c8d260c2c7ac546ac99e0c7b399f173fb922c04e0a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic 据称已提交招股书，拟以 ANT 为代码在纳斯达克上市。2026 年上半年收入达162.9亿美元，同比增长约14倍，企业客户与 Claude Code 使用推动收入增长。同期净亏损807亿美元，主要来自可转债等融资工具的账面变动，经营亏损不足7亿美元。算力和基础设施支出达89亿美元，并签有多份长期巨额算力合同。上市后，七位创始人将通过特殊股份掌握50.1%的投票权，董事会席位由长期利益信托与股东投票决定。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:29:35+08:00"
         }
       ]
     },
@@ -141,9 +141,9 @@
           "contentLength": 6385,
           "hasFullContent": true,
           "hash": "d434ce958dfd4ddddd02299e2c46b83bf65e87413e4173be4ee6ce674fcbf9da",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "成立三个月的深圳具身芯片公司炎曦动力，首次发布具身模型Paimon-0，在RoboColiseum等四项评测或挑战赛中夺冠。公司以真实任务和算法需求反推芯片设计，采用云端规划、端侧实时执行架构，结合第一视角操作数据、状态表征蒸馏和自动进度评估，降低推理与训练成本。同时通过FPGA优化控制时序，推进算控一体软硬件方案，计划2028年交付自研芯片。其核心判断是，机器人稳定落地需要模型、数据、评测与底层计算控制链路协同。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:35:38+08:00"
         },
         {
           "title": "被OpenAI、Gemini共同选择的实时语音交互，凭什么是这家中国公司？",
@@ -153,9 +153,9 @@
           "contentLength": 3228,
           "hasFullContent": true,
           "hash": "a1ef61ee6a858ba0c0af82054a8ae20b1534d8075d5ce82fafd500d4085c9d3c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "对话式AI正从一问一答转向持续参与真实交流，竞争延伸至模型、网络、音视频处理、交互编排与终端响应的完整链路。iRTE2026聚焦业务对齐、底层技术协同及硬件落地三大挑战。声网提出五级对话能力框架，以多模型协作和“快慢脑”机制协调实时交流、深度推理与工具调用，并通过对话引擎、开发套件及实时基础设施处理轮次、打断和状态同步，让AI跟上用户意图变化并完成任务。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:37:43+08:00"
         },
         {
           "title": "Anthropic和OpenAI新模型，被曝即将上线",
@@ -165,9 +165,9 @@
           "contentLength": 2509,
           "hasFullContent": true,
           "hash": "33f1bbcc911c9f952ad0ee18f432011cd30d65159980f01c225d516972ea082d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic、OpenAI和谷歌多款新模型传出部署与测试线索。Fable 5.5据称已进入摩根大通、Meta等企业环境，并曾短暂出现在Azure模型目录，可能提升复杂推理与意图理解能力。GPT-6.1 Terra现身GitHub员工Copilot配置及微软评测仓库，据传正作为Sol的低价替代方案测试。Gemini 4 Flash则疑似进入灰度测试，传闻速度更快、能力接近旗舰Argon。上述线索尚不足以确认正式发布时间、性能及价格。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:34:44+08:00"
         },
         {
           "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
@@ -177,9 +177,9 @@
           "contentLength": 1966,
           "hasFullContent": true,
           "hash": "db539fee69f1ef955b39aa5faca88c2ecc3ba589af3d19b2c8c94a63e913d8fb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位启动第八届MEET2027智能未来大会，将于2026年12月在北京举行，主题为“智行合一，驭见未来”，聚焦AI从理解走向执行的产业落地，以及可靠性、可控性与安全边界，讨论智能体、具身智能、世界模型等议题。大会将发布2026人工智能年度榜单，从企业、产品、人物三大维度评选五类奖项，报名截至11月16日；同期发布《2026年度AI十大趋势报告》，结合技术成熟度、落地现状与潜在价值分析趋势及代表案例。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-27T11:39:47+08:00"
         }
       ]
     }
