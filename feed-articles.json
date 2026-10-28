@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-28T10:02:29+08:00",
+  "generatedAt": "2026-10-28T10:11:55+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -75,9 +75,9 @@
           "contentLength": 4098,
           "hasFullContent": true,
           "hash": "936764fdc393e412f1b233f0873719892190114f5266318409a44d55b46e6cc2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenAI 宣称其 AI 模型取得三项突破：证明所有维度的局部平滑化猜想，进而推导卡凯亚猜想等结论；提出指数时间假设的反证；构造涉及量子色动力学及杨－米尔斯理论存在性的证明，后者尚不涵盖质量间隙问题。相关成果仍待外部专家审查，部分材料已公开，物理学证明暂未发布。此前 AI 数学手稿曾出现错误，此次转由专家验证、整理，也凸显科学研究的瓶颈可能从寻找证明转向核验和理解成果。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T10:07:00+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 3850,
           "hasFullContent": true,
           "hash": "adc5a693f930844d9f51f1429fa7ba15f90bee4f6821ee8b4246ed21efd30d05",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "SoMark开源文档解析模型OXR仅有1.3B参数，覆盖13类文档元素，将阅读顺序判断交给视觉语言模型，并通过递归自我改进筛选错例、生成数据、迭代训练。文章以六大场景18个案例对比PaddleOCR，OXR在复杂表格、公式、代码及图文阅读顺序上表现更好，支持将化学结构式输出为SMILES，本地测试速度也更快；但生僻字识别、竖版内容完整性和跨页表格合并仍有不足，适合优先用于研报、拍摄PPT和商品详情页解析。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T10:09:04+08:00"
         }
       ]
     },
@@ -255,9 +255,9 @@
           "contentLength": 2173,
           "hasFullContent": true,
           "hash": "bd45467269d6ecd4410febe0da3588268f918dc2893c39a80de4147057e090b5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "五个 GitHub 开源项目通过原生移植或重编译，让部分 Switch 游戏在电脑和苹果移动设备上运行：MacNativeGames 支持两部塞尔达作品，nxnative 面向 iPhone 和 iPad 移植多款游戏，LASRecomp 将《织梦岛》带到三大桌面平台，mush8 提供《马里奥赛车8 豪华版》及联机功能，OpenSmash-Ultimate 推进《大乱斗特别版》的 Windows 移植。使用通常需自备游戏文件、密钥并完成构建，兼容性和性能仍在完善。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T10:02:54+08:00"
         },
         {
           "title": "盘点 3 个安全相关的开源 Skill，都是最近登上热榜的。",
