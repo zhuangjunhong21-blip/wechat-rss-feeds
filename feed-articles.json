@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-28T07:09:45+08:00",
+  "generatedAt": "2026-10-28T09:44:45+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -21,9 +21,9 @@
           "contentLength": 1060,
           "hasFullContent": true,
           "hash": "86890ed806258a332e00fd0330befd667ec03c1fe125d8a91078057bce08a262",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章援引Anthropic招股书称，2026年前三季度，5%至7%的收入来自后来被限制或封禁的违规客户，按文中估算约16.5亿至23.2亿美元。该口径指封禁前已消耗并确认的服务收入，作者进一步将其与封号不退款、剩余额度作废联系起来，并转述外界推测，认为大头来自竞争对手批量调用API进行模型蒸馏。文章还称，被封用户重新注册可能带来重复收入，并结合近期封禁与身份验证加强，判断上市后风控难以放松，提醒Max订阅用户注意风险。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:31:49+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 3929,
           "hasFullContent": true,
           "hash": "39b27d6961f4a0c46f1bcf4e2882110ee94c39632f21e900970d31645119e9a9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "谷歌 DeepMind 发布世界模型 Genie 4，可通过文字生成最长约120秒的可探索虚拟环境，支持实时修改场景、物理模拟、原生音频及角色对话。它结合 Gemini 的推理与规划能力，在模拟中分解任务、观察结果并调整行动，有望用于机器人训练、电影预演、游戏原型和工业仿真。目前仍受长期一致性、空间与物理准确性等限制。其核心方向是让 AI 在虚拟环境中反复尝试、预测行动后果，推动能力向现实任务迁移。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:35:58+08:00"
         },
         {
           "title": "看完首部龙标 AI 电影，我想跟《牛来》道歉",
@@ -93,9 +93,9 @@
           "contentLength": 3163,
           "hasFullContent": true,
           "hash": "0c107b89843bb16c3a985c58ae2a0b8335b172cccade7c6d9febeac23b0869b0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者用近一周、8个重度任务测试Kimi K3.1 Pro，覆盖三维建模、工程开发、后端排障和视频制作。模型能持续运行一天多，交付通过76项检查的Godot游戏工程，也能快速定位修复代码问题，体现长程执行与自我调试能力。但室内建模的比例、采光仍有偏差，视频的字体、遮挡、嘴型与音色仍需人工调整。测试累计消耗约80亿Token，699元订阅套餐的5小时额度很快耗尽，配额成为重度使用的主要限制。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:38:12+08:00"
         },
         {
           "title": "Datawhale招人啦！多个岗位开放中！",
@@ -105,9 +105,9 @@
           "contentLength": 333,
           "hasFullContent": true,
           "hash": "63d43d66b7d7ba7d3a08c84a4396725126029be788d2be6c35fb634b4bad825e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale开放杭州云谷中心线下实习招聘，岗位包括活动运营、测试、AI产品技术（Agent方向）、前端开发和后端开发等，面向对AI感兴趣、希望参与真实项目并积累实战经验的人。应聘者需将PDF简历发送至DatawhaleHR@datawhale.club，文件以“姓名-应聘岗位”命名，并注明是否接受杭州线下实习、可实习时长、每周出勤天数、毕业届别及当前年级，可实习3个月以上者优先。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:42:21+08:00"
         }
       ]
     },
@@ -207,9 +207,9 @@
           "contentLength": 13225,
           "hasFullContent": true,
           "hash": "f840452c5f14b85479f7065aa2f81501b354c09c9d48484ab4a025dd5f13a841",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "中国车企依托成熟供应链、对标畅销车型、平台复用和仿真技术，将新车开发周期缩至18至24个月。但激烈竞争和固定上市节点也促使部分企业压缩试制、跳过样件阶段、减少测试与整改，将未解决的问题留到交付后，通过OTA或免费更换零件补救。电动化减少了部分研发工作，也带来电池、底盘和智驾的新验证需求。监管正强化研发测试要求。“速成车”的关键区别，在于靠技术提升效率，还是让验证不足的产品流向市场。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:33:53+08:00"
         },
         {
           "title": "高毛利之外，国产 GPU 还有一笔 “软件账”",
@@ -219,9 +219,9 @@
           "contentLength": 8716,
           "hasFullContent": true,
           "hash": "77f29d6ecaa5994ad76550a6254653f7d66bbd6a4b141dd83a1b6174f8385aed",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "国产 GPU 的竞争不仅在硬件，也在软件生态与客户迁移成本。CUDA 积累的工具、代码和工程经验形成壁垒，国产厂商无论选择兼容还是自建体系，都需持续承担适配、维护与交付投入。高毛利率未必反映订单背后的研发和工程成本，收入增长也不等于软件已形成规模效应。长期盈利的关键，是将客户定制经验沉淀为可复用的编译器、数学库和部署工具，使新增订单不再依赖同比例增加的人力，让研发投入逐步转化为可反复变现的软件资产。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:40:16+08:00"
         }
       ]
     },
@@ -237,9 +237,9 @@
           "contentLength": 3047,
           "hasFullContent": true,
           "hash": "6d62f339debe64738d75fbab0834de20f7083f6239c23a0f919e70e52ecf197a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Few Shots 平台邀请用户带上 Agent，挑战数学、科学与工程领域的开放难题，通过读取指定技能文件即可参与。首批上线10道题，涵盖11维接吻数、矩阵乘法、拉姆齐数、AES最小电路及旅行商问题等。提交结果由验证器复算，题目、答案与纪录均在 GitHub 公开，新纪录归于参与者账户，取得进展还可获 AGI Bar 酒水兑换券。平台计划每月举办线下分享，首场定于10月29日在北京举行。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:29:42+08:00"
         }
       ]
     },
