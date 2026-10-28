@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-28T09:44:45+08:00",
+  "generatedAt": "2026-10-28T10:02:29+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -51,9 +51,9 @@
           "contentLength": 4030,
           "hasFullContent": true,
           "hash": "7dc948351c974c599d342a4c68ece80cc0a9348ea85e9feab6f258da8f47ad51",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "首部获龙标的AI电影《三星堆：未来往事》票房低迷，暴露出叙事跳跃、人物动机薄弱、依赖对话解释情节等问题。影片虽在大场景、细节一致性和部分表情表现上取得进展，却缺乏支撑长片观看的电影美感。文章认为，问题不能简单归咎于AI，创作者仍需筛选生成素材、掌控叙事与表达。AI能提高制作效率、拓宽想象空间，但技术试验的意义不能替代作品质量，观众最终买单的仍是故事。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:55:30+08:00"
         },
         {
           "title": "中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0",
@@ -63,9 +63,9 @@
           "contentLength": 4611,
           "hasFullContent": true,
           "hash": "f3d78d7c3c9e227b541a20a9bcacad36f01adb9c34275e93e9807f5074d2fc44",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "灵光2.0主打从被动响应转向持续管理生活事务。APPSO通过解读宠物保单并跟进病况、计算双11优惠与跨平台盯价、识别自动续费、动态调整周末旅行等体验，展示其长期记忆、后台执行和主动提醒能力。文章认为，个人Agent的价值不仅是完成指令，更在于分担预判需求、比较方案和跟进结果的认知劳动；服务连接、用户授权与可靠执行是关键，最终决定权仍应由用户保留。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:49:18+08:00"
         },
         {
           "title": "王的猜想，被 AI 一夜通关",
@@ -123,9 +123,9 @@
           "contentLength": 16708,
           "hasFullContent": true,
           "hash": "ff553a6c22417a6f753770e508edd33bb16efe72e58909cc0d46d23bc6c7f3d7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "K2 Lab创始人王铭认为，垂直Personal AI应直接交付商业结果，以用户收益覆盖算力成本。旗下Moras面向海外中腰部达人，承接选品、内容创作、发布与复盘，不收订阅费，按成交佣金分成；公测首季促成超1000万美元交易，帮助近万名达人首单成交。产品通过持续回报逐步获取用户信任、授权和个人信息，并探索训练垂直模型，降低成本、提升转化。长期目标是成为创作者与商家的商业基础设施，推动Agent间协作交易。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:53:26+08:00"
         },
         {
           "title": "聊Agent商业化、做AI产品、链接全球资源，近期这些活动别错过",
@@ -135,9 +135,9 @@
           "contentLength": 3135,
           "hasFullContent": true,
           "hash": "bb79b9ef526625388ce8371c500693eed6c9bffe19bfd67e8202ab1c7b79cfb9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Founder Park 汇总了10月至11月在北京、上海、新加坡、旧金山及杭州举办的多场创业与AI活动，聚焦Agent商业化、产品落地和全球资源对接。北京Idea Rush讨论获客、收费、开源替代与商业模式；新加坡Founder Show为面向全球市场的AI团队提供路演及合作交流机会。其他活动涵盖开源项目增长、Agent构建与模型选型、跨境出海、量子计算与具身智能，以及模型、机器人和基础设施等技术议题，供创业者、工程师与投资人按需求参与。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:57:39+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 1078,
           "hasFullContent": true,
           "hash": "c3dd6b8777550333832a552d09dd7a1718edc2747984b701567f917c11b8c9cc",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者提出“私人视频导游”方法，让AI减少寻找视频的时间，把更多时间留给亲自观看感兴趣的内容。先向AI明确关注领域、栏目范围和个人兴趣，再在ChatGPT中设置每日定时任务，推送相关访谈并说明推荐理由。用户自行筛选，借助重点段落的精确时间戳跳转观看；遇到想核实的模糊观点，可通过浏览器插件定位原片段，也可根据近期关注的问题询问其他段落推荐。核心是让AI辅助发现和定位内容，保留亲自观看、理解细节的过程。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:45:10+08:00"
         }
       ]
     },
@@ -267,9 +267,9 @@
           "contentLength": 1392,
           "hasFullContent": true,
           "hash": "e366ab477100ff03d6500d253df938c7d4861ae9131f4cbf3f87db8ee14e70a5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "三个近期登上热榜的安全开源项目覆盖代码审计、Agent 运行隔离与安全测试。Cloudflare 的 security-audit-skill 通过多 Agent 检查与独立复核，区分已确认、待验证和已排除的问题；NVIDIA OpenShell 用沙箱和策略限制文件、系统调用及网络访问，并由运行环境注入凭据，新增高风险权限需人工审核；Claude-Red 将多领域安全测试及报告方法整理为可复用步骤，更适合有基础的安全从业者开展授权测试、漏洞研究或 CTF 训练。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:59:42+08:00"
         }
       ]
     },
@@ -285,9 +285,9 @@
           "contentLength": 5461,
           "hasFullContent": true,
           "hash": "e9616caa34a97997583ce163bd4328822be56da2ac5ed975518146ad5770cd7f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "国产开源文档解析模型OXR仅有1.3B参数，在OmniDocBench等三项基准登顶，可识别表格、公式、化学结构图等13类元素。其后训练引入递归自我改进（RSI），通过错误筛选、归因聚类和针对性数据生成，在不新增人工标注的情况下持续迭代。架构上独立部署可插拔版面分析模块，由主模型承担识别与阅读顺序判断，单张RTX PRO 6000解析100页耗时101秒。代码、权重及评测流程均已开放，并提供免费API。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:47:15+08:00"
         },
         {
           "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
@@ -297,9 +297,9 @@
           "contentLength": 5387,
           "hasFullContent": true,
           "hash": "d373fb9803e963e83ba9ba830ff29f28a1c76051061d7e2c6f2fa1c67c9b94eb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "百度发布并开源文心Unlimited OCR 2，通过稀疏参考滑动窗口注意力机制，按需筛选相关页面及视觉信息，并以分块解码、边界缓存复用和及时释放控制显存占用，实现超长文档连续解析。技术报告显示，百页级测试中峰值KV缓存从47GB降至1.77GB，减少约96%；16路并发吞吐量提升至3.65倍，两项多页解析评测得分均居参评模型首位。实测约43分钟完成884页《指环王》，支持跨页内容衔接。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T09:51:24+08:00"
         }
       ]
     }
