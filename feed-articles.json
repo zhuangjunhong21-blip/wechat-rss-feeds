@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-28T10:11:55+08:00",
+  "generatedAt": "2026-10-28T10:16:11+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -189,9 +189,9 @@
           "contentLength": 7162,
           "hasFullContent": true,
           "hash": "756f7e6c314488e6298d4d8e8a417611309545a8f469ead65f6fe376dcbbda51",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic据称计划IPO募资约1000亿美元，文章从招股书梳理收入增长、亏损构成、算力承诺和治理机制等11个细节。其收入五个季度增长约30倍，训练与推理效率提升推动二季度经营利润转正；上半年807亿美元净亏损主要来自可转债等公允价值变动。同时，公司承担巨额长期算力采购义务，创始人通过特殊股份掌握50.1%投票权，并设置公益捐赠机制。约900%的净收入留存率及新模型贡献超八成季度收入，凸显客户需求扩张与模型迭代压力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-28T10:13:21+08:00"
         }
       ]
     },
