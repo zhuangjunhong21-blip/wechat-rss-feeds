@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-29T12:46:28+08:00",
+  "generatedAt": "2026-10-29T12:51:49+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -21,9 +21,9 @@
           "contentLength": 6636,
           "hasFullContent": true,
           "hash": "be0b97d32912f8b2889e81b3d3856a086dc5e951d70ae181225bc10273dda834",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "讯飞输入法16.0.1通过“意图成稿”，将截图、复制文本提炼为任务信息，结合长期记忆中的表达偏好，在不同聊天框生成汇报、提醒或沟通草稿。实测还展示了语音改口纠错、嘈杂环境下中英混说识别，以及可自定义的表达技能和互动“键盘搭子”；部分功能存在安卓与iOS差异。文章认为，输入法的AI升级应围绕真实表达需求，减少搜集信息、组织语言和修改文字的负担，同时提供情绪陪伴，让机器适应人的习惯。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:47:30+08:00"
         }
       ]
     },
@@ -51,9 +51,9 @@
           "contentLength": 421,
           "hasFullContent": true,
           "hash": "ef5329800e2230f25fb3a4a26f890cb7d6152c8c732731c14bf99f74b4ec1ede",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale与WPS将于10月30日14:00—16:30在浙江大学紫金港校区举办面向浙大全体在校生的AI工作台实操活动。参与者将从课程汇报、文献阅读、调研分析等真实学习任务出发，在2.5小时内整合常用工具、资料与工作流程，搭建适合自身专业、可重复使用的AI工作台，推动AI融入日常学习。完成实践作品后，还有机会获得AI Agent Engineer能力认证证书。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:47:07+08:00"
         },
         {
           "title": "和真正赚到钱的 OPC 们聊一聊！南京见！",
@@ -117,9 +117,9 @@
           "contentLength": 2446,
           "hasFullContent": true,
           "hash": "f82cba1bf0252735de9bb8f801e61cf694a2a54da9f0413ac3dd8dfdd4f3fca8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "WorkBuddy接入LibTV后，可在对话中完成参考视频分析、创意讨论、歌词设计、素材准备及视频生成，减少跨工具搬运。作者以说唱MV《早点下班》为例，建议按完整句子或自然停顿拆分音频，明确人物、观众反应和镜头安排，确认后逐段生成、检查调整并合成，避免一次生成整支长片。电商视频也可先调研用户反馈，再围绕痛点制作。作者用一两个小时完成MV，但成片仍有瑕疵，且WorkBuddy内暂无法实时查看LibTV的镜头生成进度或预览调整。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:46:41+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 4647,
           "hasFullContent": true,
           "hash": "d70556d76984ccb9e958cfd2aa58420859ca1fce4f725156dc1af5d9d30a3018",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Google发布世界模型Genie 4，提升画质、物理交互、世界一致性与实时控制，并新增同步音频和人物对话。文章比较视频生成与3D世界模型路线：前者动态交互强，但受记忆、算力和稳定性限制；后者空间稳定、便于导出，但动态能力不足，两者正逐步融合。Google还引入Gemini负责观察、规划和引导。作者认为，世界模型有望改变游戏与互动影视的生产方式，让开发者专注规则设计，由AI生成细节与事件，使用户参与故事创造。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:47:57+08:00"
         }
       ]
     },
