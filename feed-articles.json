@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-29T07:11:02+08:00",
+  "generatedAt": "2026-10-29T12:46:28+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -39,9 +39,9 @@
           "contentLength": 342,
           "hasFullContent": true,
           "hash": "0370785eb4a153d4362b624125b36dc8bdd3319f1b7485bb7baae46c88589c92",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Google DeepMind 发布世界模型 Genie 4，可根据文字生成供用户自由探索的虚拟世界，支持实时移动镜头、改变天气、添加人物及与场景角色对话。模型还能实时生成物理运动、环境音效和人物反应，并结合 Gemini 的推理能力模拟连续发生的复杂事件。该技术未来有望用于游戏开发、电影制作和机器人训练，目前仍处于研究预览阶段，仅向部分测试者开放，尚未全面上线。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:42:40+08:00"
         },
         {
           "title": "浙大见！亲手打造你的AI工作台",
@@ -63,9 +63,9 @@
           "contentLength": 386,
           "hasFullContent": true,
           "hash": "d636611ea150eef6a3470262d7630523d3e10e16aa8a7ca8da01a124ec8ce0de",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale「OPC 来碰头」南京站将于11月1日14:00—17:00在南京阿里中心举行，邀请4位已跑通商业闭环的实战派创始人，围绕OPC如何赚钱交流经验。分享方向包括ToB产品如何切入企业需求并促成持续付费、用AI进行内容获客并将老板IP打造转化为服务生意，以及企业赋能FDE如何深入业务落地并获取订单。现场还将介绍OPC专项支持，安排1小时以上深度交流，报名采用申请审核制。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:46:02+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 9207,
           "hasFullContent": true,
           "hash": "163f4845df383121fb1740e206f13d8dc207952714ae88fedb6e6bc2ba50dfbf",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Founder Park 梳理了20位独立开发者及其产品，呈现三类机会：解决录音、做饭、运动等生活痛点，改善翻译、图片处理、电脑清理等工作流程，以及为Agent提供浏览器访问、模型切换、状态提醒和协作工具。Coding Agent让学生、设计师、研究员等也能独立完成产品开发与上线。案例体现的路径是从自身真实需求出发，缩小首版范围、尽快发布，再通过搜索、开源社区或应用商店获取用户，探索买断、订阅等收费方式。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:40:27+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 1100,
           "hasFullContent": true,
           "hash": "8d8bc314b41b9b2cbba7d54c5b7a5c3fa0d45d70dcd657f165208d059fd280ce",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic招聘负责人Felix Rieseberg称，其招聘已放弃传统编程面试，转而查看简历、作品集和候选人自建原型，关注产品品味与用户意识。作者认为，工作中大量使用AI、面试却禁止AI并考察算法默写，与实际能力脱节。基础知识仍重要，但理解原理和识别AI错误不同于限时背题。作者主张围绕真实项目、用户与收入、运维经历，以及借助AI学习和超越AI的能力展开面试，并看好采用这类方式的AI原生小团队。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:31:59+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 7964,
           "hasFullContent": true,
           "hash": "fb0ab0c4ee52cffeb41d350db638da1d395c9d38f2581e8562e23b041d7ddeff",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "西湖心辰创始人蓝振忠选择扩散语言模型路线，希望通过并行生成提高推理速度、数据利用率，并统一多模态生成。团队以分块扩散推动模型扩至千亿参数，正训练并行思维链模型，在同一模型内同时展开多条推理路径。据公司数据，新模型将首个回答 token 响应时间压至4秒以内，业务指标提升10%至40%。蓝振忠判断，下一个机会是能自主检查、修正结果的全模态智能体，当前应优先突破算法瓶颈，再扩大模型规模。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:36:13+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 7490,
           "hasFullContent": true,
           "hash": "188ce4ca81f4cbd97411533d36c7bae8a1f750ad5676863fa827cc653f256c8c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "WorkBuddy接入LibTV后，可结合本地文档、飞书等上下文完成创意策划、分镜设计、图像与视频生成，并自动配置画布节点、参考图和提示词。作者以仓颉.Skill宣传片、耳机电商广告和个人网站动效展示流程，分享显式开启音频、用多角度产品图替代3D建模、到LibTV手动提交以节省WorkBuddy积分等技巧，还提出通过定时任务批量出片。核心观点是，两者分工协作减少资料搬运和手工操作，降低个人及一人公司的视频制作门槛。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:34:04+08:00"
         }
       ]
     },
@@ -189,9 +189,9 @@
           "contentLength": 5376,
           "hasFullContent": true,
           "hash": "b9207382512b1c5ee9288a0f0e827b78604b5840803a0c0595f377cd189f5292",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "面壁智能与 OpenBMB 开源 MiniCPM-OCR，由 1.3B 文字识别模型和 2B Jev 校验模型组成。前者将照片、扫描件和 PDF 转为可编辑 Markdown，支持表格、公式及方向自适应，并通过 DSpark 投机采样提速；后者对照原图为识别区块打分，让低分内容进入人工复核，也可从多个 OCR 结果中择优组合。文章展示其六项识别评测中四项第一，内部测试中法律文书有 85% 区块免检且全部正确。两套模型均以 Apache 2.0 开源，支持网页体验和本地部署。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:38:19+08:00"
         }
       ]
     },
@@ -207,9 +207,9 @@
           "contentLength": 3612,
           "hasFullContent": true,
           "hash": "f24057af19852befef0431fccf47b48bf6cf6dc6557be8d5eb2eb1e03cb25fdc",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章按原帖点赞数盘点了 X 上 11 个 AI 辅助制作的游戏案例，涵盖科幻射击、《小王子》星球探索、蜘蛛侠城市穿行、卡丁车和方块三国战斗等，部分已开源或提供网页试玩。这些案例展示了 AI 在代码编写、素材生成和玩法实现中的作用，也有项目依赖原版游戏文件及社区工具。制作工具方面，网页 3D 游戏常用 Three.js；角色可先通过生图确定形象，再用 Tripo 转为模型、Blender 调整，最后借助 Unity 组织场景与玩法。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-29T12:44:41+08:00"
         }
       ]
     }
