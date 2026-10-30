@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-31T07:08:59+08:00",
+  "generatedAt": "2026-10-31T07:39:09+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -69,9 +69,9 @@
           "contentLength": 345,
           "hasFullContent": true,
           "hash": "ed543d3e187a64f6ac215ff5f68ec4b70524afbcb98af76f56e86653653d22c9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 组织社区贡献者，历时半年多，经过创作、内测、公测和反复打磨，发布斯坦福 CS336 中文教程。教程在翻译基础上进行本地化改造，补充背景知识与原理讲解，完善作业实现和实践指导，整理更详细的参考资料，并加入国产模型案例。制作主要依靠社区贡献者逐步打磨，而非直接用 AI 批量生成，旨在帮助中文学习者更容易上手并深入理解大语言模型。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-31T07:35:41+08:00"
         }
       ]
     },
@@ -141,9 +141,9 @@
           "contentLength": 8896,
           "hasFullContent": true,
           "hash": "41373f3147de8faa6350fdb30a5c7a24b96ed6e495e527b67396be5be8d04df8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "宁德时代正通过换电，将电池从一次性销售的汽车零部件转为长期运营的能源资产。面对补能效率瓶颈及换电标准不一、投入高、用量不足等难题，公司以标准化电池、金融租赁和跨行业共建铺设网络，优先切入网约车、物流和重卡等高频场景，并整合监测、回收与电网调峰。巧克力换电已覆盖200城、建成2520座站，重庆率先盈利，但全网商业闭环仍待验证。其长期目标是拓展租赁与能源服务收入，降低对整车销量和一次性电池销售的依赖。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-31T07:35:18+08:00"
         }
       ]
     },
@@ -159,9 +159,9 @@
           "contentLength": 3656,
           "hasFullContent": true,
           "hash": "2975ce227e3e9281eaa2c0554e088462b3e92e42f36d98dc338d8e8840a9db82",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OiiOii的全能复刻功能将代码与视频模型结合：写实产品、人物由视频模型生成，文字、界面和动效交给代码，以兼顾画面质感与文字清晰度。用户上传参考视频、产品图并说明卖点，即可沿用镜头、节奏和转场结构，批量替换产品或生成多个营销版本。生成时保留工程文件与可复用素材，便于局部改稿；作者建议先用480p验证，再升级高清以节省积分，并认为批量生产与低成本修改是这一方案的核心价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-31T07:35:56+08:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "contentLength": 4131,
           "hasFullContent": true,
           "hash": "94a41a8335dd7ef62dbce19f08fea44e53077c5bd23a6fc2b1161f2a64ab7a8c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "面壁智能开源算子生成系统ForgeKernel，仅凭数学定义和硬件约束，在B200上经22.5小时、42轮无人干预迭代，将DeepSeek的FlashMLA Prefill算子耗时从518微秒降至472微秒，提速9.8%，此前还登顶昇腾三大硬件榜单。系统通过拆分架构设计与实现、积累实测硬件知识、以最佳版本为对手持续优化，在29项对比中有24项打平或超越专家实现。其方法可跨硬件迁移，已接入训练框架，推动人类专家转向环境搭建、目标设定与验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-31T07:36:15+08:00"
         },
         {
           "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
@@ -225,9 +225,9 @@
           "contentLength": 2473,
           "hasFullContent": true,
           "hash": "e618be39a972cc65b5e726395f17f89c7c2424e8c53c9d441eac002a7b98c824",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenAI更新模型准则，提出忠于人类意图、减少伤害、诚实透明、促进人的自主性和关怀五项核心价值。模型应结合语境与记忆理解真实需求，兼顾长期利益并保留用户决定权；不得追求自我保存、囤积资源或商业收益，须配合监督、纠正与关机，在授权范围内行动。准则同时强调安全底线、青少年保护、能力边界和现实人际联系，并将“助手”统一改称“GPT”，体现对其通用智能系统定位的调整。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-31T07:35:31+08:00"
         },
         {
           "title": "量子位2026人工智能年度榜单，正式启动！",
