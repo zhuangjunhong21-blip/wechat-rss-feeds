@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-30T08:15:55+08:00",
+  "generatedAt": "2026-10-30T08:41:42+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -93,9 +93,9 @@
           "contentLength": 5715,
           "hasFullContent": true,
           "hash": "a4bd875a3760ebbe758af209c57385a68dc628925c549d1beb1fe8f99bbf7bc7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者因手机验收多个AI项目时频繁切换、搬运上下文，转而试用TRAE开发者个人助理。其全局助理整合历史与跨项目资源，项目助理拆分并行任务、联调并汇总结果，用户可通过飞书下达目标和拍板。实测中，助理复用三个项目的数据、模板和部署资源，完成模板趋势网站MVP。作者认为，核心价值是让AI从执行单项任务转向持续推进整体工作，尤其适合实验项目；目前仍有子任务偶尔卡住、汇报不及时的问题，本地任务也需电脑保持开机。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T08:30:36+08:00"
         }
       ]
     },
@@ -111,9 +111,9 @@
           "contentLength": 3263,
           "hasFullContent": true,
           "hash": "2b2cd3e68814d95dd57b125fe35ef68b2ced86e62e76eea5e1ea6b3a72837eff",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "腾讯推出Buddy One，以WorkBuddy串联腾讯会议、腾讯文档、ima和腾讯网盘。免费ID统一账号身份，支持四款产品共享积分；数据打通目前以只读为主，写入仍需连接器。微信手机端和电脑端可将聊天记录转给WorkBuddy，结合连接器执行录入日历等任务。VIP每月700元含5万积分，并附会议、文档会员及网盘空间。作者认为，这标志着腾讯正以WorkBuddy整合产品生态，探索以任务为核心的个人Agent入口。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T08:27:48+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 3776,
           "hasFullContent": true,
           "hash": "eb5f0fa2943e3b2f70b8672f571a2466ec3cccb7a7780eaaf80c94c9553c30a9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者用即梦 AI 短剧工作室、Suno 和 Claude 制作并开源了性转马尔福桌面应用，结合第一人称互动短剧、桌面陪伴和好感度解锁机制。制作流程包括拆解剧本、建立角色与场景资产库、生成分镜、用 3D 导演台调整站位及低成本样片预演，再生成视频。通过统一脸部参考保持角色一致，让桌面动作从同一锚点画面开始并结束，实现连续播放；最后用代码完成剪辑、特效和程序。作者认为，一体化工具与 AI 编程降低了个人制作互动内容的门槛。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T08:32:38+08:00"
         }
       ]
     },
@@ -183,9 +183,9 @@
           "contentLength": 3249,
           "hasFullContent": true,
           "hash": "9f709f319124689a39fc2b9d6b8a22f667ebe30ea8e26f71b7fb9b61340d8ad2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "ChatGPT 为 Pro 和 Business 订阅用户提供月度 API 额度：Pro 按档次每月获赠100、200或500美元，Business 按席位计算，每个工作区每月上限500美元。付费满7天后，可在账单页关联 API 组织领取，无需绑卡即可使用。首次额度按当前账单周期剩余时间折算，此后续费自动发放满额，当期未用完即清零。Plus 不参与，一个订阅只能绑定一个 API 组织，更换或解绑需联系客服。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T08:35:21+08:00"
         }
       ]
     },
@@ -225,9 +225,9 @@
           "contentLength": 3234,
           "hasFullContent": true,
           "hash": "29e51ef4f4a749f47e73bddf4f77b68061640d71edcd7806ef73934e9770d098",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "强化学习可能提高大模型单次答题准确率，却压缩多次尝试时的探索空间。研究团队提出PSN-RLVR，在解题前给部分参数加入小幅扰动，并让同一扰动贯穿整段推理，配合样本权重校正与自适应噪声调度进行训练。实验显示，该方法在多种模型上提高了多次尝试成功率，其中一个数学模型的平均pass@256提升4.8个百分点，单次成绩基本持平；科学问答和编程任务也获益。案例观察到基线有限采样中未出现的解题角度，但不能证明原模型无法产生这些思路。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T08:27:15+08:00"
         },
         {
           "title": "量子位2026人工智能年度榜单，正式启动！",
