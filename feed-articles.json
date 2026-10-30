@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-30T07:11:29+08:00",
+  "generatedAt": "2026-10-30T08:15:55+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -21,9 +21,9 @@
           "contentLength": 3917,
           "hasFullContent": true,
           "hash": "bf3e9f9861df33ae53b3d8b102adb406b3a8ac90df122bbbc12878dfee79e37b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "七牛云推出限时至11月底的Conatus Free活动，实名认证用户每天可获1亿Token，单笔充值大于100元可提升至10亿，每日零点重置。作者称其融合DeepSeek V4.1 Flash与GLM-5.3 Flash，支持1M上下文、工具调用等能力，并通过抓取模型数据生成网页验证效果。免费通道存在请求频率限制，高频Coding Agent调用可能触发429报错；额度耗尽后直接拒绝请求，不扣账户余额。作者建议搭配付费模型使用。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T07:35:56+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 4645,
           "hasFullContent": true,
           "hash": "3d08ae2b1a1acfafe7741fde189510931801435218223eac74065265770c886f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "即梦短剧工作室将剧本创作、角色与场景资产管理、分镜设计、视频生成及后期修改整合为完整流程。实测展示了 DreamScript 编剧、资产复用、3D 导演台和智能预演，以及片段重拍、截帧注释修改等能力，并支持续集制作、风格重制与本地化。活动叠加后，Seedance 2.5 参考视频生成最低约0.19元/秒，但降本关键还在于提前验证、复用资产和减少返工，让创作者能持续打磨作品。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T07:43:14+08:00"
         }
       ]
     },
@@ -57,9 +57,9 @@
           "contentLength": 8389,
           "hasFullContent": true,
           "hash": "cd29ddf9eae0a5850e117010fe8332ef22fd1e45f77c774b730b3b42eb295bd4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "2026腾讯广告算法大赛与KDD Cup联合举办，禁止多模型集成，围绕多域行为序列与静态特征的统一建模展开。八套获奖方案主要改进查询生成、跨层信息传递、低阶信号直达输出及全局交互规则。实验表明，单纯加宽加深模型往往无益，扩容须同步引入有效信息；行为序列可适度压缩，高密度稠密特征则需保留结构。赛事已开放数据集、基线与方案综述，为算力和延迟受限的推荐系统提供可比较的工程参考。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T07:38:28+08:00"
         }
       ]
     },
@@ -75,9 +75,9 @@
           "contentLength": 4679,
           "hasFullContent": true,
           "hash": "2040573012d83fa91344f575b79dace88aef63eb8512aa4ceefbcb1f4dbadc50",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Genspark 发布第二款硬件 VoicePad，面向工位场景，以五个自定义按键支持语音输入、调用 Agent 和会议记录，也可绑定其他 AI 与办公应用。它与面向会议的 SecondBrain Note 分工，补充软件连接器无法获取的线下及碎片化上下文，为 SecondBrain 工作记忆层提供信息。Genspark 判断，未来多数任务将由语音发起、键盘微调，因此以开放兼容争取高频入口，并按场景布局硬件，让 Agent 更理解用户、完成工作。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T07:50:09+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 9129,
           "hasFullContent": true,
           "hash": "69cb9d872c915979a9ac42e6307bf70cf356f675b74fd96c9ebe9acecdc7b1c9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic 招股书展现了其依靠前沿模型、编程应用和企业付费客户快速增长的路径：2026 年上半年收入超 160 亿美元，二季度实现经营盈利，巨额净亏损主要来自融资工具重估。公司广泛使用 AI，以较小团队提升产出，但承担了 8550 亿美元算力采购承诺，未来面临收入增长不及预期、低价竞争及业务向编程之外扩张的不确定性。治理上，创始团队掌握多数表决权，长期利益信托控制多数董事席位，并通过安全评估和公益安排约束经营。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T07:33:39+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 6228,
           "hasFullContent": true,
           "hash": "5799913b9c8587b05c376056431abb35cb0d093a32526b3e575df5a8a0165a2c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "SenseNova-6.8-Code2Video是可本地部署的27B开源代码生视频模型，配套Skill按规格编写、代码渲染、画面自检和验收组织制作，支持参考视频复刻与局部修改。作者通过动态图解、广告、科普、音乐同步等案例测试，认为其适合动态图形及风格化2D、3D动画，但不适合写实画面，生成耗时较长，精细度和长程稳定性仍逊于顶尖闭源模型。其主要价值在于满足内网隐私需求，为企业培训、科普和自媒体提供可本地运行的制作方案。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T07:41:02+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 5163,
           "hasFullContent": true,
           "hash": "604f4e8fbeb97c708b1bb0f5d0aaf10417169017824f22a156bb467f44de2b44",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "天数智芯发布天垓300、端侧彤央TY1200及天数智算软件栈，展示云、软件、端协同布局。据文中实测，天垓300在PD分离部署下单卡吞吐为H200的1.05倍，现场文生图也更快；TY1200在多个大模型和世界模型测试中超过Thor T5000，并演示离线视频生成、合同审查和机器人训练部署。软件栈通过Agent与Skills自动完成环境部署、性能调优及算子开发，旨在降低适配成本，让算力更高效、可预期、可持续。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T07:47:43+08:00"
         },
         {
           "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
@@ -213,9 +213,9 @@
           "contentLength": 4595,
           "hasFullContent": true,
           "hash": "5fed3c8df0cc3c3539dec9347e63a704f21d47d51d4e69db5ffac7b924d9bc6b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Genspark发布视频Agent工作台Media Studio，以大语言模型统筹剧本、分镜和制作，调度20多家厂商的70多个模型版本，在同一画布完成图像、视频、配乐与字幕。实测覆盖rap、电影解说和商战短剧，零基础用户可通过自然语言推进创作。“故事圣经”保存角色与场景设定，配合自动检查返修、局部重拍和低清草稿减少返工。但成片仍有音画不同步、跳帧和穿帮，审批操作较繁琐，三个视频案例消耗约4.5万积分。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T07:45:18+08:00"
         },
         {
           "title": "后训练越多模型越“轴”？给参数加点扰动，探索能力回来了 | NeurIPS'26",
@@ -237,9 +237,9 @@
           "contentLength": 2386,
           "hasFullContent": true,
           "hash": "9276dcce55f60c005bfd8e25ef2380c8a83a10f6d19fc377aad29f4d81324c40",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位启动2026人工智能年度榜单评选，从企业、产品、人物三大维度设置领航企业、潜力创业公司、杰出产品、杰出解决方案及创业新锐五类奖项。评选强调AI在真实场景中的应用与价值，综合考察技术创新、商业化进展、市场认可和行业影响力，其中创业新锐原则上不超过40岁、所属公司成立不超过两年。报名截至2026年11月16日，结果将在MEET2027智能未来大会公布。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T07:59:47+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -249,9 +249,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "06034ac122873d787670ae9d3b2a42bade26581010d3856f8b8f6c49424bb844",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业、AI产品三个方向的内容人才，工作地点为北京中关村，面向社招及应届毕业生，接受可转正实习。岗位覆盖编辑、主笔、主编，分别侧重AI基建技术解读、创投财报与商业分析、应用及硬件终端评测，按能力匹配层级，重视结构化表达、采访及专业理解。团队提供新人一对一指导、行业交流机会及薪酬福利。应聘者需将简历和代表作品发送至招聘邮箱，并注明应聘方向及姓名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-10-30T08:04:38+08:00"
         }
       ]
     }
