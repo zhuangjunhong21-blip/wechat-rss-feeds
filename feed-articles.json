@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-01T07:09:32+08:00",
+  "generatedAt": "2026-11-01T07:11:31+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -21,9 +21,9 @@
           "contentLength": 4548,
           "hasFullContent": true,
           "hash": "7294f69476507c04fa7539174e43cd8cdb6430ab81a15ebec3d429c85e9aa4ff",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AA智能指数升级至v5.0，将60%评分权重转向私有测试与隐藏答案，并调整评测结构，国产及开放权重模型普遍降分。分项结果显示，国产模型在编码、办公Agent任务上仍有竞争力，主要差距集中于科研工作流、前沿物理和冷门知识。作者认为，这与强化学习资源优先投向编程、国内旗舰更新慢于海外有关；新版也引发黑盒评分及裁判模型公正性质疑。文章呼吁国内厂商在降低推理成本之外，加快新一代旗舰发布，提升综合能力上限。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-01T07:09:55+08:00"
         }
       ]
     },
@@ -69,9 +69,9 @@
           "contentLength": 3044,
           "hasFullContent": true,
           "hash": "9fbfcb62df0aff84b8360d77f1b2be1b30b31f73a2f9611ed8a0dad70f86c278",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek开源dsh-superagent-prototype，探索面向团队与多任务的自主Agent底座。架构由常驻Router统一协调跨平台交互，独立Worker并行执行任务；通过两级事件过滤、话题订阅直通、按需召回和后台投机执行降低调度开销。系统结合异步工具调用、云端状态管理与本地执行环境，以及外部Watchdog监测，支持持续运行。文中实验显示，多任务并发下任务完成时间p95从传统方案的29.5分钟降至15.7分钟。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-01T07:10:08+08:00"
         }
       ]
     },
@@ -87,9 +87,9 @@
           "contentLength": 4915,
           "hasFullContent": true,
           "hash": "c7b8493abe930a6395e3868891d4fd96c18c53c7bc349f5eac89ca3070b75418",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "10月开源模型呈现任务细分趋势，决策模型成为突出热点，当月开源超过10个，主要面向分类、路由、审核、工具选择等场景，强调结构化输出与校准概率。汇总还覆盖代码智能体、文档解析、多模态理解、图像生成、语音、游戏世界模型及生物科研等方向，不少模型注重端侧部署、低成本推理和长上下文。作者认为，Jev类模型口碑分化，但为后训练带来机会；本月超大模型相对较少，AA榜单更新后，开源与闭源模型的纸面差距再次拉大。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-01T07:10:08+08:00"
         }
       ]
     },
