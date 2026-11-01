@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-02T07:09:06+08:00",
+  "generatedAt": "2026-11-02T07:10:13+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 6,
@@ -63,9 +63,9 @@
           "contentLength": 5760,
           "hasFullContent": true,
           "hash": "7878a9a93749d096ed9d774dce0bf37eb578afde60e8735922c965a276903749",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "建筑本科生烤鸽与5人跨国团队用5天制作了山城解谜游戏《此城未逝》的场景，以真实地形、路网和建筑规则驱动生成，并通过多Agent分工、截图审阅、回执和版本记录推进协作。团队还开发MonkeyHub，将模型、参数、构件关系、图纸与批注串联，支持持续修改和任务交接。实践表明，AI加快执行后，人的重点转向明确要求、运用专业知识判断结果，并通过来源核对、独立评价和重复实验验证可靠性。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-02T07:09:24+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 5322,
           "hasFullContent": true,
           "hash": "0cd3a42308337c9839081d6fcf36c973b17009812fec64711bc0069ca8c0f1c2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "LobeHub 将 Agent 融入团队协作，重点解决任务交接、决策材料准备和遗漏巡检。其方法是明确各 Agent 的岗位与职责，以个人助手、项目主管和执行 Agent 三层分工过滤信息，并拆分运行循环、会话状态和执行环境，支持持续在线及跨项目直接交接。随着执行提速，瓶颈转向验收，开源工具 Acceptance 让 Agent 在真实产品中自检，提交截图、录屏和日志，由人审核，并将打回意见沉淀为标准。团队自评处于 L3，正探索自治协作与组织自我改进。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-02T07:09:36+08:00"
         }
       ]
     },
