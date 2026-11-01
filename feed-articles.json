@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-02T07:15:27+08:00",
+  "generatedAt": "2026-11-02T07:24:03+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 6,
@@ -21,9 +21,9 @@
           "contentLength": 3657,
           "hasFullContent": true,
           "hash": "28856198509d79f69ebf437de8859733605da2542a30c8decdf8d2c8f99ba2ae",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI 数据中心需求正推高电脑价格：芯片厂商将先进产能转向利润更高的 HBM、服务器内存和企业级 SSD，挤压消费级供给，使内存、硬盘与显卡成本上涨。苹果直接提价、取消入门款，PC 厂商则通过调整型号、配置或缩减存储容量转嫁成本，平价整机和 DIY 装机门槛同步抬升。高价促使消费者延后换机，全球 PC 出货量明显下滑。文章指出，扩产周期漫长，存储供不应求可能持续至 2030 年，便宜电脑短期内难以回归。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-02T07:21:11+08:00"
         },
         {
           "title": "ChatGPT要和Codex共用额度，免费重置时代结束了",
@@ -33,9 +33,9 @@
           "contentLength": 3124,
           "hasFullContent": true,
           "hash": "1e8e311bbae768c8f7a1096cb138826c26769222323dd96f152456d4c3becfcf",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenAI 计划从12月起，将 Plus、Pro 和 Business 套餐的 ChatGPT 与 Codex 用量合并，按 tokens 计量，Instant 聊天除外。模型和任务复杂度会影响消耗，但各档额度及具体生效日期尚未公布。此前的缓存优化和部分套餐提额，仍未消除用户对额度耐用性的担忧，Plus 未获本轮提额尤其引发不满。同时，设备关联多个个人付费账号将受限制。合并能否改善体验，取决于共享池大小与使用效率。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-02T07:20:49+08:00"
         },
         {
           "title": "这个 AI 相机，让你的 iPhone 也能拍出《侏罗纪公园》",
@@ -81,9 +81,9 @@
           "contentLength": 2615,
           "hasFullContent": true,
           "hash": "55bba0f691d6f6c89e8dcdef89ad2edaeb0829e9d911f54d68559d820811e39d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者通过多个案例展示豆包工作等 Work Agent 的应用：辅助整理药物警戒邮件、标记紧急报告并交由人工复核；结合定时任务与浏览器操控自动签到领取额度；将文档转成动态科普视频，分析热门视频的情绪节点与运镜，再把制作流程保存为 Skill。核心观点是，用好 AI 的关键在于理解自身业务、拆解并讲清工作流程。建议先选一件重复琐碎的任务，跑通后固化为可复用的 Skill。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-02T07:20:36+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 2844,
           "hasFullContent": true,
           "hash": "afc220a705e238a4b5a3e27a8a717c8aef228420d36ee16c29808e7b1492ecdc",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章称，OpenAI原计划融资300亿美元，目前仅获110亿美元；Anthropic拟投入逾8000亿美元建设算力基础设施，却可能在上市后无法获得投资级信用评级，推高借贷成本。与此同时，科技巨头的AI资本支出侵蚀现金流，纳指及多只科技股大跌。文章认为，资本市场正重新评估AI企业持续烧钱、盈利不足的风险，融资趋严可能标志着行业泡沫出清的开始，但不改变作者对AI长期前景的看好。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-02T07:20:13+08:00"
         },
         {
           "title": "Jev新成果，再次引爆开源",
@@ -147,9 +147,9 @@
           "contentLength": 3276,
           "hasFullContent": true,
           "hash": "fad35ba1dbbd93bd250314165fea670702163d8b39c6c7f63e1151edf6aa9d9c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "TypeSafe AI联合Treg开源找人工具，由Agent理解需求并调度数据接口，Jev筛选候选人，再补齐履历和验证邮箱，可用于招聘、拓客及人物研究。按Treg公布的测试，292人名单的邮箱查找成本较Clay低逾85%；Claude Code接入后，B2B拓客任务正确率从43%升至78.2%。邮箱查找最低0.0089美元，未找到不收费，验证和资料补全另行计费。已有用户反馈搜索结果不够准确，实际效果仍需检验。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-02T07:21:00+08:00"
         }
       ]
     }
