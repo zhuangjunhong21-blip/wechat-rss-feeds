@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-02T07:10:13+08:00",
+  "generatedAt": "2026-11-02T07:15:27+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 6,
@@ -99,9 +99,9 @@
           "contentLength": 2963,
           "hasFullContent": true,
           "hash": "9826d63fba84248154b2df129da0f3b4c2b201b28f0ce4309c7a0cf2b957f3b5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "据文中援引的OpenAI帮助文档，12月起Plus和Pro用户的ChatGPT与Codex将共用按Token计算的额度，模型越高级、思考越深、任务越复杂，消耗越多，Instant聊天除外。作者认为，这将结束高强度聊天近乎不限量的体验，尤其影响同时聊天和编程的用户。额度合并反映了算力成本、营收压力及Agent计费方式的变化，但也会带来“计价器效应”，迫使用户精打细算。作者期待未来AI能像网络流量一样，逐渐摆脱用量焦虑。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-02T07:10:21+08:00"
         }
       ]
     },
