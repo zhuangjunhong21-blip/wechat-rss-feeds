@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-03T07:08:58+08:00",
+  "generatedAt": "2026-11-03T07:14:56+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -81,9 +81,9 @@
           "contentLength": 1311,
           "hasFullContent": true,
           "hash": "9f9fa1ca10ec86c4bedd465b47a339aed4c158a66243104b67ac76ed55d1bb03",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者基于个人观察，判断AI泡沫可能即将破裂。他列举智谱股价大幅回撤、模型公司估值下调传闻、GrokBot成本收入失衡、SpaceX与CoreWeave融资成本高企，以及Character.AI进入破产重整等信号，并关注ChatGPT、Codex及Anthropic套餐收紧额度。其核心判断是，大模型企业亏钱抢用户的模式难以持续，对外部资金的依赖加深，而资金变贵、投资人趋于犹豫。作者同时声明，这些判断带有主观偏见，财经并非其专业。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:10:06+08:00"
         }
       ]
     },
@@ -237,9 +237,9 @@
           "contentLength": 6125,
           "hasFullContent": true,
           "hash": "650a9233fad910fbb6bf17abb3924e7c0d27b8759f4ea3eaff0f4ae7aac171eb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "清华AIR孵化的水木分子成为央视“中国AI创业十骏”中唯一的AI制药公司。其对话式研发平台ChatDD通过生物医药模型、智能体和可复用技能包，将专家经验融入任务规划、分子设计及临床开发，并以平台服务与自研管线双轮驱动，利用实验反馈持续优化研发流程。据团队介绍，首条自身免疫双特异性抗体管线从立项到确认临床前候选分子仅用七个月，显示出早期研发提效潜力；最终价值仍需落实为临床进展与患者可用的新药。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:09:55+08:00"
         },
         {
           "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
