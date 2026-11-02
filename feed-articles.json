@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-03T07:14:56+08:00",
+  "generatedAt": "2026-11-03T07:24:51+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -33,9 +33,9 @@
           "contentLength": 3483,
           "hasFullContent": true,
           "hash": "02b72d7a0eee3d568987e0ec45f7fa975f46588bde163bbbdafc41327558187e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic 官网源码及第三方配置出现 Mythos 5.5、Fable 5.5 标识，开发者展示疑似 Fable 5.5 生成的复杂 3D 场景与交互游戏；GPT-6.2 Astra 则现身 Codex 使用统计和 API 响应，部分截图显示百万 token 上下文。两家均未正式官宣，演示缺乏完整调用证据，性能评价也有分歧。这些线索引发了对 11 月旗舰模型集中更新的猜测，也凸显厂商面临用户预期不断抬高的压力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:23:41+08:00"
         },
         {
           "title": "新iPad Air曝光， 换上OLED屏/2030年前将有两名中国人登月/Claude限制Opus 5.5复刻游戏",
@@ -45,9 +45,9 @@
           "contentLength": 11584,
           "hasFullContent": true,
           "hash": "aa18d129c41c3d431394a1a1b78ef9ed676d36c40eadc8fe660093c81dce0e35",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "苹果据曝计划于2027年上半年更新三款iPad，Air拟换用OLED屏，Pro或加入均热板。中国首次载人登月计划由3人组队、2人着陆月球，目标在2030年前完成。AI方面，ChatGPT与Codex将从12月起共享额度，Instant聊天不扣额度；Claude Code限制Opus 5.5复刻特定现有游戏，原创及自有素材游戏仍可制作。西湖大学新设世界模型研究中心，计划三年内构建千亿参数模型，强调数据、架构与训练方法同样关键。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:24:30+08:00"
         }
       ]
     },
@@ -63,9 +63,9 @@
           "contentLength": 1781,
           "hasFullContent": true,
           "hash": "644572ae7f3dc32db5a3853bb504d3647b4ccb0c35c6758940f66d290bbbe00c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale开源中文学习项目Agentic RL Lab，基于Tinker和PyTrio的Train API简化训练工程，降低算法复现门槛，已复现14篇论文中的算法。项目面向具备Python和深度学习基础的学习者，按策略更新、教师反馈蒸馏、外部工具交互及复杂任务四个阶段组织内容，涵盖GRPO、Search-R1、ReTool等方法。建议对照文章与代码，从小规模实验起步，再通过更换数据、调整奖励和对照实验，验证方法的适用条件。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:22:46+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 8817,
           "hasFullContent": true,
           "hash": "c0fd8e006fc1bd3476c3c4fd9465f280f387046fd7153e1180b5c15a9db7cbeb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者在RTX 4090、24GB显存和48GB内存环境下，对比Qwen3.8-Flash-Next与27B量化模型。两者在发票识别、翻译和信息抽取中表现接近，27B在目标定位、采购汇报及速度上更有优势，Flash-Next在机械蝴蝶建模任务中表现更好。Strata通过分层存储专家等方式让Flash-Next适配24GB显存，但测试时占满48GB内存。作者综合效果、速度和资源占用，仍推荐27B作为本地部署首选，并附Strata的Windows部署步骤。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:23:53+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 2461,
           "hasFullContent": true,
           "hash": "3d7fb280f57761f15ee998471b4247e8275b091480874a16ec512f250ab70b90",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI 并行任务增多后，人类注意力成为管理瓶颈。作者实测 TRAE 个人助理“TRAE 宝”，展示全局助理如何通过微信、飞书接收任务，理解项目背景并跨项目推进开发；项目专属助理则可自动拆分任务、查找其他项目代码并复用功能。作者认为，编程个人助理正从单次代码生成走向持续理解开发工作，减少切换会话和人工调度，让用户专注目标与决策。当前仅支持本地设备和项目，相关入口任务自 10 月 29 日起限免一周。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:24:19+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 9518,
           "hasFullContent": true,
           "hash": "48e759952c7b1e89d6b30ffda46cb67ac325ab093ebdc4e7b92d44c394c637bf",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "红果以免费观看、短广告变现和算法分发，复制番茄小说路径，通过保底补贴吸引制作团队，以低成本、快周转和数据竞争重塑影视生产。短剧紧跟社会情绪，围绕即时爽感快速试错。到2026年9月，红果日活突破2亿，收紧制作补贴并计划取消看剧金币奖励后，优势仍扩大。这套机制降低了入行门槛，也强化平台控制，推动创作者追逐短期爆款、承受高强度消耗；随着AI进一步压低成本，部分真人短剧团队又转向AI漫剧。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:22:58+08:00"
         },
         {
           "title": "对谈临界点 CEO 乔天杰：金牌、独角兽和量产信仰",
@@ -165,9 +165,9 @@
           "contentLength": 1396,
           "hasFullContent": true,
           "hash": "532dc598aad06e6385467bcec88e5f331abaf312bf3f2e26852ad7f6d890be71",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "临界点于2026年1月从智元独立，五个月内估值突破10亿美元，团队从十几人增至百余人，预计全年销售三万台设备，其中灵巧手一万五千台。CEO乔天杰认为，灵巧手技术复杂，需要独立投入资源；智元既是投资人和客户，也是产品验证场景。公司希望通过量产出货、场景反馈和快速迭代形成飞轮，持续拓展外部客户。他判断灵巧手是具身智能落地的关键，目标是成为机器人产业中的“宁德时代”。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:22:34+08:00"
         }
       ]
     },
@@ -183,9 +183,9 @@
           "contentLength": 3567,
           "hasFullContent": true,
           "hash": "0e2b6cbfd50c66bb72b2a7ed5f00593c8d3548e4186f16bdd3b3ede479ab3159",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "腾讯推出跨应用AI协同体系Buddy One，以WorkBuddy为中心连接腾讯会议、文档、ima知识库和网盘，解决资料分散、上下文割裂与算力额度独立的问题。用户免费绑定账号后，可跨应用检索资料、汇总进展、同步内容和复盘项目，积分在四款产品间通用；会议内容需开启AI纪要或录制才能被引用。VIP则打包多项会员权益。作者认为，AI的实际价值在于融入真实工作流，通过生态协同减少重复劳动。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:23:53+08:00"
         }
       ]
     },
@@ -249,9 +249,9 @@
           "contentLength": 3408,
           "hasFullContent": true,
           "hash": "ba4e276b517c0690dced9f6500f6f742efc4a193de982c310cf70674ac2666bb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "小米团队开源AI硬件HachimoDock，自制成本约150元，融合桌宠陪伴、实时语音交互、电脑端Agent操控和智能家居联动。用户可通过聊天分配任务、查看执行状态，自定义角色与外壳，并用自然语言创作游戏和工具组件。项目已公开软件源码、硬件物料清单及装配教程，希望降低AI硬件创作门槛。低成本、个性化玩法与多场景用途带动复刻热潮，相关开发板和屏幕出现涨价、缺货。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:23:15+08:00"
         },
         {
           "title": "不用考生实测就知道题难不难：这个AI试题评测框架把考试难度“量化”了 | TMLR",
@@ -261,9 +261,9 @@
           "contentLength": 2757,
           "hasFullContent": true,
           "hash": "32cb997b6499a5d2870620ed479992f23cb38f034ff86c0e800e3aa8c8a695a3",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "研究团队提出Epi2Diff，将大模型解题轨迹划分为八类认知片段，提取长度、片段占比及相邻转移等83维特征，结合题目语义预测人类试题难度。在四个真实测评数据集的单次主实验中均领先，SAT数学准确率达73.0%，较最强基线提高3.2个百分点。消融实验表明，推理过程的顺序信息也有预测价值，并非推理越长题目越难。该框架可辅助新题预评估，但仍依赖人类难度标签、目标人群验证和专家复核，不能替代教育测量。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:23:28+08:00"
         },
         {
           "title": "量子位2026人工智能年度榜单，正式启动！",
@@ -273,9 +273,9 @@
           "contentLength": 2386,
           "hasFullContent": true,
           "hash": "d499ea31d31d89f23f659f30882409f50456363ad89f00de575ab0204bc1af42",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单启动报名，围绕AI从技术验证走向规模化落地，重点关注真实场景中的应用成效与商业价值。榜单从企业、产品、人物三大维度设置领航企业、潜力创业公司、杰出产品、杰出解决方案和创业新锐五类奖项，综合考察技术创新、市场落地、业务增长及行业影响力。报名截至2026年11月16日，结果将在MEET2027智能未来大会公布。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:23:28+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -285,9 +285,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "dcc807274f8fe2d87dc9ebd225fd1399eab7a1333b0dacac438d3138c8f6bf87",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业、AI产品三个方向的内容人才，覆盖编辑、主笔、主编层级，工作地点为北京中关村，面向社招与应届毕业生，接受实习并可转正。岗位分别聚焦芯片与云计算等AI基建、创投财报与资本动向、软件应用与硬件终端，要求具备相应领域认知、采访及结构化表达能力。团队提供新人一对一指导、行业交流机会及薪酬福利。应聘者需将简历和代表作品发送至招聘邮箱，并注明方向与姓名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T07:24:07+08:00"
         }
       ]
     }
