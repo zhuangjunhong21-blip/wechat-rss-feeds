@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-04T07:09:04+08:00",
+  "generatedAt": "2026-11-04T07:15:42+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -39,9 +39,9 @@
           "contentLength": 3552,
           "hasFullContent": true,
           "hash": "5e6db1565105454d20abc986fe4bcb8892d8ff1bdca0516051524456427e5455",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "国行 Apple 智能开放开发者测试，计划随 iOS 27.3 正式推出。实测涵盖系统写作工具、视觉智能、照片消除、智绘表情、录音与通话摘要及 Siri 升级，并通过千问扩展创作、问答和复杂任务处理。亮点是融入日常操作、减少信息整理成本；不足包括照片消除痕迹明显、偶发闪退、连续使用发热，部分功能入口未找到。复杂任务仍需跳转千问，下一代 Siri 的个人情境理解与跨应用执行尚未上线。首批基础功能整体中规中矩，连续完成复杂任务的能力仍待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:10:02+08:00"
         },
         {
           "title": "递归的尽头是爱心？给 AI 看颗🧡，它写代码的方式就变了",
@@ -183,9 +183,9 @@
           "contentLength": 11304,
           "hasFullContent": true,
           "hash": "2ff8c6269853bcb1ae621c21dd9ccc5765d4366d5ce7d20816d2ab8493442c43",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic 招股书显示，客户集中度下降、企业采用加深，但三季度收入环比增速降至47%，长期算力承诺达8954亿美元。两位投资人认为，AI行情的核心变量是企业需求能否持续、收入能否追上算力开支，应跟踪客户留存增购及单位算力收入。Coding之后，知识工作和企业工作流是拓展方向，但未必复制编程业务的爆发速度。行业正从追求模型能力转向成本、整合与投资回报，为垂直应用、推理优化和本地部署带来机会。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:10:02+08:00"
         }
       ]
     },
@@ -249,9 +249,9 @@
           "contentLength": 2961,
           "hasFullContent": true,
           "hash": "462538a86fc583b426a78c78d4028416485715c67e34bd10727bae631ad5c291",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "美团发布面向长程智能体任务的原生多模态模型 LongCat-2.5，总参数1.6万亿、激活480亿，支持1M上下文。模型将图像离散化后与文本联合训练，并利用真实仓库任务及失败轨迹开展强化学习，提升代码开发和跨软件自动化能力，部分长任务评分较上代提升3至13倍。训练与推理全程使用国产AI加速卡，通过超节点并行和W4A4量化，训练单卡吞吐较基线提升86%，推理吞吐提升约四成。实测展示了交互式3D场景和经营分析报告生成能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:10:20+08:00"
         }
       ]
     },
@@ -291,9 +291,9 @@
           "contentLength": 2582,
           "hasFullContent": true,
           "hash": "e41f80247e76d21b2acea984aa4c0412a4a8bad9647b22a172666ad64e9ffd55",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "2026年B站超级科学晚展示了聚变能、人工血小板等进展，并组织500人佩戴非侵入式脑机接口参与互动。脑机接口已帮助部分患者处理网店订单、控制机器狗和重返游戏。蔡磊认为，2027年可能成为规模化临床应用的破局之年，但从个案走向普及仍有距离。植入方案需权衡信号质量与手术创伤，长期稳定性、安全性、量产成本及解码能力仍待验证，研发也面临资金持续投入的挑战。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:10:30+08:00"
         }
       ]
     }
