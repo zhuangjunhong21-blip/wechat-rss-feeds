@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-03T07:24:51+08:00",
+  "generatedAt": "2026-11-03T10:52:06+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -135,9 +135,9 @@
           "contentLength": 9030,
           "hasFullContent": true,
           "hash": "0b804acef824b36b44fcaf13c35f19f5105e214d06916593c9dd147a061296ee",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "卡兹克分享了一年搭建Agent自动化系统的经验，核心是用事件触发任务，让人只处理关键决策。系统由自动化中台统一接收事件、分派模型、去重并留存记录，本地Agent结合专属Skill执行开发、运维和浏览器任务，再由CI中台完成审查、检查、合并、发布与上线核实。需要人工判断的事项通过飞书卡片提交，已定决策沉淀为规则，避免重复询问。整套方法旨在降低注意力消耗，兼顾成本、效率与交付质量，同时保留作者亲自阅读用户反馈的环节。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T10:50:58+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 3074,
           "hasFullContent": true,
           "hash": "0def0ac75ab918545a45db362ad5bbe5c7cf07b7a599609e145e653780a7c40b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "TRAE 推出面向开发者的个人 Agent「TRAE 宝」，以全局助理和项目助理两级入口管理任务，将项目管理与执行会话分离。全局助理负责跨项目调度、进度查询，支持绑定飞书或微信；项目助理将需求整理为含验收标准和约束的任务单，按依赖拆分并异步安排执行、汇总结果。示例中，它能跨项目读取素材，并行制作海报、文案和酒单，保留售罄信息。11 月 2 日至周日 24 点，从 TRAE 宝入口开启任务免积分。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T10:50:41+08:00"
         }
       ]
     },
@@ -219,9 +219,9 @@
           "contentLength": 3956,
           "hasFullContent": true,
           "hash": "c2fc1b54f27d1bc02c91e571786a267243514da42344eb0a2dafdaacb949d625",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章盘点了10月Star增长较快的19个GitHub项目，重点涵盖本地语音处理、大模型接口聚合、网页设计技能和Agent工具。VoiceStudio整合声音克隆、配音及批量任务；FreeLLMAPI汇集免费模型接口，按用量和可用性切换；Hallmark、taste-skill与Impeccable通过设计规划和浏览器检查改善界面同质化问题；T3 Code支持手机远程操作电脑上的Agent，Agent-Reach整合多平台内容读取能力。其余项目涉及安全审计、会话记忆、上下文管理、视频生成及跨平台开发。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-03T10:50:41+08:00"
         }
       ]
     },
