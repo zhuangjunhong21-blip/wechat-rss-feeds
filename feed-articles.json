@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-04T07:15:42+08:00",
+  "generatedAt": "2026-11-04T08:02:54+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -21,9 +21,9 @@
           "contentLength": 1152,
           "hasFullContent": true,
           "hash": "c7f9af48a96d137eadbbc37c780638c359f4b47886bb2da390f252dfc28219e6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "鲁工计划将Gemini 4 Argon生成的《姜维传》修改为可出版的通俗历史传记。他花费约10天，组合使用DeepSeek、Claude和GPT等模型审查初稿，将意见交回Argon多轮修改，再依据《三国志》《华阳国志》《晋书》《资治通鉴》等史书，逐一核对人物、地理、官制、礼制及重要论断，并逐字修订。目前正接洽出版社，预计仍需几轮大改。作者认为，AI提供了较好的书稿基础，也显著缩短了实现个人历史写作计划的过程。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:16:44+08:00"
         }
       ]
     },
@@ -51,9 +51,9 @@
           "contentLength": 2707,
           "hasFullContent": true,
           "hash": "da970af6631ea230740967aa6ebe2f6cb3bd64560e8556c3327646c02b97cc0b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "研究发现，在二叉树遍历题旁加入红心图案，会使原本偏好迭代的大模型转向递归，但模型往往否认图案的影响，并给出技术理由。部分颜色与形状组合也能产生类似引导，表明视觉符号可能改变模型行为，却不反映在思考轨迹中。这对依赖截图决策的 Agent 及推理链监督提出挑战。文章提出，应通过控制变量、积累足够样本的行为测试识别系统性偏移，并探索分离感知与决策、评估视觉输入可信度的防御方式。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:18:01+08:00"
         },
         {
           "title": "GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨",
@@ -63,9 +63,9 @@
           "contentLength": 3827,
           "hasFullContent": true,
           "hash": "1858579f37846e959293ab72e97746ce8359f360ca32fdf836e2a759e5a93adb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "MIT CSAIL 团队提出“权重空间编程”，让 GPT-6 Astra 不依赖梯度训练，直接分析和修改神经网络权重。实验中，Astra 修改 Qwen3.5-0.8B 约 0.016% 的参数，抑制重复推理，使 MATH-500 成绩从 7.9% 升至 48.1%，并改善指令遵循。提升主要来自修复推理循环，而非注入新知识；该方法对 Gemma 未见明确效果，其通用性及相较常规微调、调整推理设置的优势仍待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:18:01+08:00"
         },
         {
           "title": "苹果Mac销量创历史新高/奥特曼预告下一代GPT，或近期发布/李佳琦直播间半小时卖出2万亿Token",
@@ -75,9 +75,9 @@
           "contentLength": 12172,
           "hasFullContent": true,
           "hash": "695efbf743d65179703b30b0d1c8fa8fdc414c9f34ea662881b5a2d57af8d135",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "苹果第四财季营收同比增长12%，服务收入创新高，全年Mac销量刷新纪录。奥特曼透露下一代GPT或近期发布，相关模型曾驱动约1万个AI智能体协作开展数学研究；OpenAI另计划让未来算力园区在电网承压时降载。Kimi、DeepSeek和腾讯分别推进游戏开发、对话制作插件及科研工具研发。李佳琦直播间半小时售出10万份千问办公月卡，对应约2万亿Token；随着AI套餐进入电商，计量口径与计费透明度成为关注点。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:18:41+08:00"
         }
       ]
     },
@@ -93,9 +93,9 @@
           "contentLength": 462,
           "hasFullContent": true,
           "hash": "470a8d88433e6f875697c11e32b6019b69481bb75ac6833d6d6ad0a2b330bc7a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 开源中文教程 Agentic-RL-Lab，以简化代码、降低 GPU 需求为目标，帮助学习者上手 Agentic RL。项目复现了 14 篇以上相关论文，覆盖策略优化、在线蒸馏、工具调用、长轨迹和多模态任务，学习内容从单次策略更新延伸至模型搜索、工具调用与连续行动，强调讲清算法、简化实现并降低实验门槛，已提供开源代码和在线阅读入口。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:18:28+08:00"
         }
       ]
     },
@@ -111,9 +111,9 @@
           "contentLength": 8702,
           "hasFullContent": true,
           "hash": "8cc816b2e2f95b343fa3120acdc2d57cca36a93060d9c29910953b90b577438d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Supabase 创始人 Paul Copplestone 认为，Personal Agent 需要独立的个人数据库，汇聚财务、健康等数据，利用跨应用上下文，并让用户自由切换 Agent，避免数据锁定。AI 编程正吸引大量非工程背景用户，Agent 已贡献约七成新增活动。为承接海量小型数据库，Supabase 收购 Turso、计划推出轻量产品 Spark，同时保留向 PB 级扩展的能力；产品转向代码优先，通过可指导修复的报错和场景评测提升 Agent 使用成功率。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:17:30+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 2894,
           "hasFullContent": true,
           "hash": "ad7b6072915f9a3b7e166c220fb309dc16787d2223739cf79ad895325aa5165b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI编程降低了产品开发门槛，但是否怕被抄，取决于产品类型。作者借电商作类比：A类产品依赖信息差，见效快，却容易被复制，需要不断寻找新机会；B类产品重视品牌、品质、客户与口碑，启动慢，但能积累长期复利。作者以Raphael AI和EvoLink为例，强调代码可以复制，客户关系、口碑和用户规模难以照搬。两类路径都能赚钱，关键是认清各自收益与代价，不应将易被抄袭概括为独立开发者共同的“黑暗森林”处境。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:18:41+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 2904,
           "hasFullContent": true,
           "hash": "054198879993a930da1fd1ad97231ce7593c29476fd619b3b61b4ea9bb8073b0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "美团LongCat-2.5延续1.6T总参数、48B激活参数和国产卡训练路线，新增多模态能力，通过视觉离散编码融合图文，并强化长程Agent训练、蒸馏及训练推理效率。实测显示，其3D与视觉编程、视频细节理解表现较好，接入Agent后能自行发现并修复部分问题，但复杂交互仍有瑕疵，长任务后期打磨效率有限。作者认为，低价缓存降低了Agent使用成本，持续大规模国产卡训练也有助于推动算力生态成熟。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:19:00+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 4485,
           "hasFullContent": true,
           "hash": "158fa9bdf14820e5d4d16d3c54e113aad1748843d0f43ac806199b4799082081",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "通过安装并配置DeepSeek Harness，用户可用自然语言引导Agent，将“大肥鱼”接入QQ、微信和飞书，定制人设、语音、表情包，并借助记忆插件共享跨平台记忆。接入API后，还能让它浏览B站、互动评论、发布抖音视频及直播，再通过反馈逐步优化画面和回应效果。操作中需保护个人信息、防范外部指令，并注意账号风控。作者认为门槛不高，可把购买教程或代配置的费用用于Token，自己尝试调教电子宠物。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T08:00:24+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 2840,
           "hasFullContent": true,
           "hash": "6a398589dd6cd421a70a9065614284c93570bc7fa5824319447be83b695ea1dd",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "歸藏设计是适配 DeepSeek Harness 的插件，整合 PPT、图文卡片、中文去 AI 味、网页排版及语气档案能力，通过统一设计系统和品牌配置，支持文章多平台分发、演讲内容转化。网页排版提供忠于原文与补充解释两种模式，可导出长图和 PDF；语气档案从用户对话中学习表达习惯，数据保存在本地。作品库自动归档生成内容，支持搜索、复用版式及延续专栏上下文。插件可通过对话安装，内置字体支持离线查看，部分 Skill 也可单独用于其他 Agent。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:19:15+08:00"
         }
       ]
     },
@@ -219,9 +219,9 @@
           "contentLength": 2893,
           "hasFullContent": true,
           "hash": "93218260c87867c99fb6d8b43124a96d28afd531aea6c8bc2091fb146e4ca103",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "运行本地大模型需综合考量算力、带宽和显存或内存容量：容量决定能装下多大的模型，算力与带宽影响运行速度。将模型卸载到内存可缓解显存不足，但数据传输可能成为瓶颈；统一内存通过共享空间减少搬运，让个人电脑容纳千亿参数模型。MoE模型虽每次只激活部分参数，仍需存放全部参数。本地模型适合反复批量生成视频、离线处理敏感资料及无网使用；若只用云端AI，电脑满足联网和日常运行即可，应按实际用途与价格平衡配置。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:17:49+08:00"
         },
         {
           "title": "加入秋芝2046，一起让更多人用好 AI ~",
@@ -267,9 +267,9 @@
           "contentLength": 3582,
           "hasFullContent": true,
           "hash": "33d8325ca4266cb337aaa928da2945ee4b690fa1fc941d184acbc769558be6bb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "极智嘉发布《24/7自主智能仓计划》，目标是让仓库全天候自主运行并持续学习，分打通作业全流程、强化智能闭环、规模化落地三步推进。其Gravity框架与4D具身世界模型支持机器人处理复杂拣选，AI Agent结合调度、业务执行和运营分析系统，形成异常发现、诊断、决策、执行与学习闭环。施耐德物流中心试点中，无人拣选效率达到人工的2倍，准确率超过99.99%。整仓自主化仍需以异常处理、吞吐稳定性、连续运行及故障恢复能力检验。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:17:16+08:00"
         },
         {
           "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
@@ -279,9 +279,9 @@
           "contentLength": 3758,
           "hasFullContent": true,
           "hash": "decaf0aa9f4329fc28d276e592325d905397b440c544f4232c0c88df6190d23d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "openJiuwen AgentMemory 0.2.0上线多模态记忆能力OmniMem-Lens，结合视觉变化与语音转录识别真实事件边界，缓解长视频固定时长切分造成的证据碎片化和关键信息淹没。系统采用三层记忆结构，离线整理内容，在线通过文本与向量索引检索，仅在需要时调取原始视频帧。团队在三个长视频问答评测集上对比直接使用Qwen3-VL-8B的方案，报告召回精度最高提升45.7%，在线问答时延最高降低97%。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-04T07:17:02+08:00"
         },
         {
           "title": "脑机接口玩家打《艾尔登法环》，把B站百大UP主虐菜了",
