@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-05T15:22:17+08:00",
+  "generatedAt": "2026-11-05T15:38:19+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -39,9 +39,9 @@
           "contentLength": 3499,
           "hasFullContent": true,
           "hash": "79cac37dc4a77d6068b94a010c8695cd3b58986f3a9b7b875053e6c8443b4b57",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "达喀尔青奥会首次将奥运赛事带到非洲，阿里巴巴以当地 Sabar 鼓文化为入口，通过千问驱动的互动装置生成观众击鼓视频，并提供赛事智能问答；开幕式则用 Wan 3.0 配合分段生成、人脸追踪等工程手段，呈现约百位真实青年的 AI 合奏。幕后专有云支撑票务、签证及成绩发布，计划赛后移交塞内加尔政府，转为国家主权云。文章强调，技术本土化应尊重当地文化、服务实际需求，并留下可持续使用的基础设施。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:36:08+08:00"
         },
         {
           "title": "实测腾讯 Hy4：我用它复刻《王者荣耀》， WorkBuddy真能接大活了",
@@ -51,9 +51,9 @@
           "contentLength": 5372,
           "hasFullContent": true,
           "hash": "f42c404401a66d7f3aaf9aa4dd732377ff20aac8b5f229b0ed2b5fe4f9244e4a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "APPSO 实测腾讯 Hy4 正式版在 WorkBuddy 中的长程任务、视觉理解与交付能力：通过 /goal 保持目标，结合图片、视频理解及截图反馈，完成迷你 MOBA、应用复刻、Blender 建模和批量论文办公文档等任务。测试显示，其长任务稳定性、执行效率和视觉效果较预览版提升，日常办公与创意任务大多可一次交付；复杂电脑操作仍需多轮引导，应用复刻也存在数据接口缺失等问题。文章认为，模型与工具链协同比单项跑分更能体现实际价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:35:13+08:00"
         }
       ]
     },
@@ -87,9 +87,9 @@
           "contentLength": 1853,
           "hasFullContent": true,
           "hash": "06ebc2246518fe750e16a3f83421c0516ced90570a34f3608dcf992cacb331ad",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "混元Hy4正式版新增原生多模态能力，支持1M上下文，可在WorkBuddy中使用。作者通过相机、键盘和折叠手机3D拆解、工厂仿真、无框线表格识别、MG视频及公众号转小红书图文工具等任务实测，认为其长程任务稳定性、Agent执行、视觉理解和3D建模能力较Preview明显提升，但思考耗时较长，部分建模细节仍有简化，工具开发需多轮调整。作者据此判断其进入国产模型第一梯队。WorkBuddy国内外版于11月4日至15日23:59限时免费。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:36:38+08:00"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "contentLength": 5122,
           "hasFullContent": true,
           "hash": "9ceae941a0162f653e22d880c4422dbeca6caa187c1791b2ed0a3168980a313e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "VAST发布V·STAR人才计划，面向年轻研究者开放3D生成基础模型、三维理解与智能体、世界模型三类方向，目标是让AI从生成内容走向构建可持续交互的世界。Tripo P系列通过扩散模型生成原生网格，改善拓扑、部件控制与编辑能力；EdenLive将世界状态及规则维护与画面生成解耦，实现实时连续渲染。公司以实习生推动核心模型的经历说明，人才培养需提供定义问题、主导验证的机会，以及数据、算力和协作支持，并配套开放薪酬与期权激励。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:37:55+08:00"
         },
         {
           "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山人工智能实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
@@ -189,9 +189,9 @@
           "contentLength": 5323,
           "hasFullContent": true,
           "hash": "bb201ea0352f219a88f9735464f9040315ecf9219f3e16e0bc3e7bd550ea748e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "招商局狮子山人工智能实验室发布并开源具身推理模型“驭物™ Lion-ER-35B-A3B”，总参数约350亿，每个Token仅激活约30亿参数。团队以8个领域、39项能力构建蓝图，通过证据核验、人工复核和评测反馈迭代31.2万条训练样本，重点提升空间、轨迹及任务状态推理。模型在十项公开基准上均优于基座，综合均分65.29，表明围绕能力设计和优化数据，可在不显著增加推理开销的情况下提升具身推理表现。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:35:42+08:00"
         },
         {
           "title": "机器人抄果蝇“作业”？清华团队用果蝇大脑“接线图”，让具身智能学会了自适应",
@@ -201,9 +201,9 @@
           "contentLength": 4097,
           "hasFullContent": true,
           "hash": "12e814539efb076c3df9727e07b6a0b58e376b0150c8173b210eaea0ff89e9ce",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "清华团队将成年果蝇神经连接组构建为固定网络核心，仅训练感觉与运动接口，在仿真中测试具身控制。结果显示，其平地匀速表现与多层感知机接近，但在跨障碍、转向、变速及复杂迷宫中更优，并能适配双足至六足的不同身体。通路分析与干预发现，机械感觉、上行和下行通路自发参与动作调节，控制输出对小幅扰动也更稳定，表明生物神经连接结构可作为可复用先验，帮助智能体适应身体与环境变化。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:37:03+08:00"
         },
         {
           "title": "量子位2026人工智能年度榜单，正式启动！",
@@ -213,9 +213,9 @@
           "contentLength": 2386,
           "hasFullContent": true,
           "hash": "8b8c4a8507f287f6f6419a822de5cbfa1fd8538a277a6bbb119256630d2626e6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单启动报名，从企业、产品、人物三大维度设置领航企业、潜力创业公司、杰出产品、杰出解决方案及创业新锐五类奖项。评选关注AI从技术验证走向规模化落地，综合考察技术创新、实际应用、市场认可、商业化表现及行业影响力；创业新锐原则上不超过40岁，所属公司成立不超过两年。报名截至2026年11月16日，结果将在MEET2027智能未来大会公布。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:37:29+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
