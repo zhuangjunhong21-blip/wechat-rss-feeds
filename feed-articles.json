@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-05T07:09:27+08:00",
+  "generatedAt": "2026-11-05T15:22:17+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 1068,
           "hasFullContent": true,
           "hash": "a144c8f8a5435ef026aff61f253c1d55c7c49f3138690cfacea5e34b5faa1bbe",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "鲁工将用Claude Opus 5.5制作历史人物3D地图人生轨迹视频的流程封装为lifetrail Skill，并公开源工程，已完成李白、苏轼等六位人物的视频。该工具以声明式人物配置驱动八阶段流水线，涵盖史料研究、独立核查、旁白配乐、审片与渲染，要求每个里程碑至少有两个非维基来源，并整理47条踩坑经验，减少史实、纪年和画面错误。目前仅在Claude Code搭配Opus 5.5的环境中验证，其他组合效果未获确认。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:18:34+08:00"
         }
       ]
     },
@@ -69,9 +69,9 @@
           "contentLength": 6358,
           "hasFullContent": true,
           "hash": "26b861bd6449e4ba8f4edbd32d27f9ff7ecfde38c4382e8bad9968d37b31a408",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "ChatGPT周活达12亿，触发网页检索的查询量约为谷歌搜索量的五分之一，长期上下文与个性化推动搜索使用增长。个人助手Dots仍消耗大量算力，OpenAI计划通过模型提效及订阅、广告、积分收入覆盖成本，并谨慎开放代办权限。语音功能周活2.5亿，用户使用后持续性强；图像生成量达每周15亿张，用途逐渐转向实际工作。产品将合并Chat与Work模式，并推动界面向随对话实时变化的可交互画布演进。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:19:27+08:00"
         }
       ]
     },
@@ -123,9 +123,9 @@
           "contentLength": 6155,
           "hasFullContent": true,
           "hash": "1c9783aaf373e0241020c646328512aa56706bf8b86d2c9add22a5afb99f056d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "LobeHub已从聊天框架演进为多智能体协作平台，通过主管与执行Agent分层、事件触发、云端调度与执行环境分离，以及以Task归集上下文，减少人工分派和盯进度的负担。作者以README维护实测展示自动拆任务、分工和跨日续接，也记录了任务卡死、需人工干预的局限。其Acceptance工具支持逐项验收与返工。文章认为，Agent正走向组织化协作，工程架构将成为关键竞争力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:19:02+08:00"
         }
       ]
     },
@@ -141,9 +141,9 @@
           "contentLength": 689,
           "hasFullContent": true,
           "hash": "f5babfea2f970fc40151215b9e955e3d619d61a8745c0789375dfab8a249657e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "微信小程序向个人开发者开放虚拟支付，可售卖功能解锁等虚拟商品，要求服务类目含“工具”，并完成认证和备案。Android 手续费为1%、T+3结算，iOS佣金为12%、约45—60天结算，所有终端合计每月限额10万元。同时新增零抽成赞赏，用户可通过“喜欢开发者”按钮支持开发者；流量主开通门槛从500 UV降至100 UV，支持零代码接入广告；平台还将主动保护原创小程序名称和搜索结果，打击仿冒及恶意抄袭。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:19:53+08:00"
         }
       ]
     },
