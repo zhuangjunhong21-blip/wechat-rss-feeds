@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-05T15:38:19+08:00",
+  "generatedAt": "2026-11-05T15:43:43+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -105,9 +105,9 @@
           "contentLength": 7340,
           "hasFullContent": true,
           "hash": "34db966b3d1d6ab19f3c826e80557aa80603d696f8ff24ba473fb9929a4bd2a4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "卡兹克将折腾一年的Agent自动化系统重构并开源为Agent-Autoloop，采用轻量内核与插件架构，将事件、Agent、通知通道和代码交付解耦。系统按规则接收事件、分派任务，自动执行可处理事项，需人工决策时存档挂起，审批后恢复。通过事件溯源、指令与数据分离、跳数熔断，降低重复执行、提示注入和循环调用风险，并展示舆情汇总、价格核查、故障巡检及内部需求自动开发等实践，希望借自动化节省人的注意力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:39:01+08:00"
         }
       ]
     },
@@ -159,9 +159,9 @@
           "contentLength": 2645,
           "hasFullContent": true,
           "hash": "d45736950ee7e3098acdff3b17aecf2b170fc9b1f0ba7f0674eb7df826a9abd7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章汇总了九个借助 Agent 和代码制作视频的 GitHub 开源项目，覆盖知识解说、艺术动画、动态设计、软件宣传、插画绘制和卡通故事等场景。这些工具通过预设风格、提示词、分镜和可修改源码，将主题、口播或已有素材编排成动画，部分支持网页播放及视频导出。制作方法强调先确认大纲、风格与分镜，再生成画面、合成旁白和字幕，并保留工程以便调整复用；部分项目需额外准备生图、配音或本地渲染环境。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:39:35+08:00"
         }
       ]
     },
@@ -225,9 +225,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "46ebed48b1d4036b6042982e1cf3e91fb4f41543e6d7df084ec391ba9ed09f88",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业、AI产品三个方向的内容人才，工作地点为北京中关村，覆盖编辑、主笔、主编层级，面向社招及应届毕业生，接受实习并可转正。岗位分别聚焦芯片与云计算等AI基础设施、创投财报与商业分析、AI应用及终端产品评测，强调专业理解、采访和结构化表达能力。团队提供新人一对一指导及薪资福利。应聘者需将简历和代表作品发送至招聘邮箱，并注明应聘方向与姓名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-05T15:38:34+08:00"
         }
       ]
     }
