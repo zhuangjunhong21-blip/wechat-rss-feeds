@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-07T07:24:15+08:00",
+  "generatedAt": "2026-11-07T07:29:40+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 7530,
           "hasFullContent": true,
           "hash": "50343392d5f5de5568bc058e4ae058183d497fddbea6728aae0fa170a19cece2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "美团LongCat-2.5采用全国产算力训练与推理，具备1.6万亿参数、1M上下文，通过模芯协同降低API成本。作者在Claude Code中，以断网环境和预设验收测试，对比其接手失败代码、性能排障、静态站开发、论文复现及看图生成3D场景的表现。结果显示，它在接手修复和视觉还原上领先对照组，建站与论文复现通过全部验收；性能修复达标但留有一处边界缺陷。其特点是充分阅读材料并主动自测，代价是部分任务耗时更长。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:26:20+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 2724,
           "hasFullContent": true,
           "hash": "7dbd939c8defc3a85f42edc652bac08d883afbeedf304c48b4d4df13032c5e61",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "World Labs 发布研究预览 Demo Frameboy，通过优化自回归世界模型 Atlas 的推理，在浏览器中以最高每秒15帧串流画面，让用户实时探索由单张图片或文字生成的三维场景，并支持多视角照片合成新视图。实时功能也已接入处于封闭测试的 Viewfinder，可结合色彩与深度信息逐帧搭建空间。目前系统仍依赖昂贵的云端高性能 GPU，团队希望推动其成为下一代生成式渲染器；文章将 AMD 拟收购 World Labs 与软硬协同降本提速联系起来。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:26:43+08:00"
         },
         {
           "title": "2027年放假安排公布，更少调休/DeepSeek Harness日活破154万/触屏MacBook Pro今天开卖",
@@ -51,9 +51,9 @@
           "contentLength": 9093,
           "hasFullContent": true,
           "hash": "4492913008dc35d61f69eb4a13e39cdbe7b44015fc3b6360da906c143040e4a7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "2027年放假安排公布，春节从除夕起连休9天，需补班两个周日，劳动节休5天、国庆节休7天。科技动态方面，苹果触屏MacBook Pro与M6款同步发售；DeepSeek Harness单日活跃用户达154万，计划建设官方插件市场；OpenAI向获批安全团队开放GPT-6 Cyber。行业数据显示，三季度DRAM营收大涨主要由涨价推动，全球平板出货同比下降23%，鸿蒙电脑累计发货突破百万台。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:28:18+08:00"
         }
       ]
     },
@@ -87,9 +87,9 @@
           "contentLength": 2608,
           "hasFullContent": true,
           "hash": "f40094b6fe6fea0354800fb95ed0d1fee4c1cdcba3b9cc2fa5f416dbbb0094e0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "NorthCUA开源了基于Qwen3.5的三档电脑操作模型及配套Harness，通过中期训练、长轨迹监督微调和真实环境强化学习提升GUI能力，并以工作笔记、历史压缩、验证与检查点恢复支撑长任务。Nano的Ultrafast选择层可处理有限选项决策，减少生成调用。实测能完成网页资料整理、表格录入和部分游戏任务，但长流程依赖上下文记忆，复杂策略与大场景建模仍有局限。核心价值在于模型、数据、训练和运行系统的完整开源方案。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:27:40+08:00"
         }
       ]
     },
@@ -105,9 +105,9 @@
           "contentLength": 4247,
           "hasFullContent": true,
           "hash": "c90d0b75fa5a18a4d1b4463d25a580645fa4bb479a3cfb0f268b80cff1e8eced",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章将美国AI相关股票大跌与中期选举后的监管主张、地方反数据中心政策联系起来，认为禁止先进AI的联邦法案虽难通过，地方停建措施仍会冲击算力扩张预期。其核心判断是，AI收益集中于科技公司和资本市场，电费上涨、资源压力等成本却由当地居民承担，技术进步快于红利普及，因而引发选民反对。作者主张，AI发展的成效最终应体现为普通人收入、服务、机会和自由时间的改善。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:28:00+08:00"
         }
       ]
     },
@@ -123,9 +123,9 @@
           "contentLength": 11439,
           "hasFullContent": true,
           "hash": "f22da221c1b0d5437e53f0b5468e740c92c1c7de22876ba4a1d17969aff5d60e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "千觉机器人创始人马道林认为，具身智能的关键难点在接触物体后的精细操作，通用大模型越强，触觉感知的缺口越突出。千觉以视触觉传感器为基础，打通数据采集、加工、训练和模型验证，强调先保证物理测量准确、数据一致，再扩大规模。触觉仿真主要用于规模化评测和补充真实数据。行业转向商业落地后，传感器量产一致性和让机器人真正用好触觉的全栈能力，将成为核心竞争要素。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:27:20+08:00"
         },
         {
           "title": "晚点独家丨自然选择完成 A+ 轮融资，要靠社交网络参与 Personal Agent 竞赛",
@@ -135,9 +135,9 @@
           "contentLength": 1921,
           "hasFullContent": true,
           "hash": "09830abd95b9e19d46d8c9497205072eeaab7f523265b46353147449960d8e78",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "自然选择完成A+轮融资，累计融资超1亿美元。旗下AI社交产品Elys将改版，强化个人智能体能力，计划通过社交互动积累用户兴趣、经历和人际关系信息，主动推荐人、内容及服务，以应对创业公司缺乏用户数据的难题，但仍面临外部软件和服务接入挑战。另一款3D AI陪伴应用EVE仍在探索方向，希望让AI进入用户现实生活，而非局限于角色扮演。两款产品均处于热门且竞争拥挤的赛道。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:27:02+08:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "contentLength": 3741,
           "hasFullContent": true,
           "hash": "f91d8333dba9ee66c66c3fd328eaa697823afb9b103ae3a043413271b3797533",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "国防科技大学与清华大学团队提出ICRPM，利用近期任务与风险记录，预测策略下一次更新后的任务风险，缓解传统方法因预测滞后而选错训练任务的问题。该方法结合时间衰减滑动窗口复用历史数据，无需额外rollout或环境交互。消融实验表明，关键是前瞻预测，而非Transformer结构或单纯增加历史数据。在回归、连续控制及大模型RLVR实验中，风险排序与下游表现整体改善，Countdown平均准确率达65.4%，运行成本与原方法接近。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:24:35+08:00"
         },
         {
           "title": "量子位2026人工智能年度榜单，正式启动！",
@@ -225,9 +225,9 @@
           "contentLength": 2386,
           "hasFullContent": true,
           "hash": "47ae5795b1f535449dd2e97ff9f27c04ce6bae9353b4eba6838aa67186596896",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位启动2026人工智能年度榜单评选，从企业、产品、人物三大维度设置领航企业、潜力创业公司、杰出产品、杰出解决方案和创业新锐五类奖项，重点关注AI在真实场景中的应用价值、技术创新、商业化成果与行业影响力。各奖项分别考察业务与技术能力、发展潜力、产品及方案落地表现、创业者贡献等。报名截至2026年11月16日，结果将在MEET2027智能未来大会公布。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:25:24+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -237,9 +237,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "8ec5bc9d610ed7acb64944d4d4664fdd95230cf6a4f5ea352907e3b9db2e712e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业和AI产品三个方向的内容人才，覆盖编辑、主笔、主编各层级，工作地点为北京中关村，面向社招和应届毕业生，接受实习并可转正。岗位分别聚焦芯片与云计算等AI基础设施、创投财报与商业分析、AI软硬件产品评测，要求具备相应领域认知、采访及结构化表达能力。团队提供新人一对一指导、行业交流机会及薪酬福利。应聘者需将简历和代表作品发送至招聘邮箱，并注明方向与姓名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:25:02+08:00"
         }
       ]
     }
