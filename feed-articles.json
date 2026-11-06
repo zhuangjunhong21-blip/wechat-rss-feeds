@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-07T07:13:26+08:00",
+  "generatedAt": "2026-11-07T07:24:15+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -153,9 +153,9 @@
           "contentLength": 5613,
           "hasFullContent": true,
           "hash": "65ede18d300ba544994b846df5f6254d277ae0aaadb004ea4bc42fc0c0155138",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "SAG2将知识库的语义判断推迟到查询阶段：建库仅用BM25关键词索引，无需调用大模型、生成向量或配置GPU；检索时由JEV筛选证据，再提取关键词逐轮追踪多跳线索。文章引用测试称，11,656段文本建库仅需2.36秒，多跳检索表现优于一代。其开源桌面工具SAG Wiki可直接索引本地文件夹并自动增量更新。作者通过历史文章、维基词条、半导体研报和源码检索实测，认为其能降低维护成本、减少查找调用并提高效率。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:22:42+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 1539,
           "hasFullContent": true,
           "hash": "195711181ef1d558ddaaa84e9aa8973a06899d335d25064aa03d2e0f99264518",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Reason Network 是一个连接不同电脑和不同用户 Agent 的开源通信项目，支持 Claude Code、Codex 等工具互相发现、发送消息和委托工作。它汇总会话所属人员、项目、分支及忙闲状态，帮助 Agent 找到相关协作者，减少人工转述上下文。设备间优先直连，失败时通过中继转发，传输采用端到端加密，并可按文件夹关闭接入。目前主要依靠状态共享和消息沟通协调任务，同文件修改提醒仍在开发，代码冲突仍需版本管理和人工检查解决。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:23:32+08:00"
         }
       ]
     },
@@ -189,9 +189,9 @@
           "contentLength": 3237,
           "hasFullContent": true,
           "hash": "d2382cfba396b5d23c3fda229598274e8ccbdf16f5d0567291e8c340ac55f421",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位实测即梦短剧工作室，以美高轻喜剧展示从灵感、剧本、角色与场景资产到分镜和视频生成的完整流程。平台支持对话修改、智能预演、3D导演台、480p试生成及局部重拍，帮助验证人物站位和镜头设计，降低试错成本，但生成内容仍需人工检查和调整。面向持续创作，平台提供团队协作、API及创作者扶持；机构伙伴计划涵盖试用、IP对接和宣发支持，最高奖励档可获单部10万元现金及价值10万元积分。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:23:55+08:00"
         },
         {
           "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
@@ -201,9 +201,9 @@
           "contentLength": 2195,
           "hasFullContent": true,
           "hash": "f630c7f98c5dca7c1629aa6379d662492d0394dc94344c4aa69a61ebafed6c59",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "墨芯完成近10亿元C+轮融资，距上一轮近10亿元融资仅5个月。公司以权重与激活双稀疏算法为基础，通过算法、软件、硬件协同设计，减少无效计算和数据搬运，降低推理成本。其推理集群已在国内四大片区部署，2026年第三季度营收实现数倍增长。遥感模型适配实测显示，在几乎不损失业务精度、无需重训下游任务的条件下，推理吞吐最高提升2.88倍、模型压缩最高达7.64倍。公司计划年底前推出SP200板卡，并将升级软件栈以降低部署门槛。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:23:05+08:00"
         },
         {
           "title": "rollout预算最该花在哪？不是Transformer，而是风险预测的向前一步｜NeurIPS'26",
