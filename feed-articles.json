@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-06T07:09:28+08:00",
+  "generatedAt": "2026-11-06T10:54:46+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -21,9 +21,9 @@
           "contentLength": 2874,
           "hasFullContent": true,
           "hash": "8c781ab61dbe10b06da8c8df9491bcff279a5210f144fdc91f254be23282c355",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "GPT-6 Astra修改Qwen3.5-0.8B的0.016%权重后，数学成绩大幅提升，主要原因是通过前向传播定位并消融复读方向，减少思维链死循环，释放模型已有能力，而非赋予新能力。文章区分了小网络规则写入、工具辅助可解释性分析和定向权重编辑三类实验，并指出数学能力不足的Gemma经同类编辑几乎没有提升。作者认为，这类方法适合修复特定故障，无法替代梯度下降学习复杂表征。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:48:45+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 4658,
           "hasFullContent": true,
           "hash": "465f39c0bfb8b377388ab612e72e94182d32fe97279109cbc0993d9c9003b7cb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenAI 发布网络安全模型 GPT-6 Cyber，可自主发现漏洞、验证利用方式并协助修复，漏洞利用测试成绩较上一代提升约51%，在 Linux 内核中开发出948个可运行的漏洞利用程序，并发现81个 Firefox 未知高危漏洞。其攻击能力被评为严重风险，采用身份认证、分级授权、持续监控等措施限制滥用，首批仅向获批用户开放。文章指出，防御者需要同等级的攻击工具，但如何兼顾合法使用与防范滥用，仍是关键难题。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:47:28+08:00"
         },
         {
           "title": "Gemini 正在成为美国师生「不得不用」的 AI",
@@ -51,9 +51,9 @@
           "contentLength": 3079,
           "hasFullContent": true,
           "hash": "7ce8798243522982da6bc3b650dc4d79876ec29d66da5fff8206bc47c484feb6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Google 宣布将于2027年初默认关闭 K-12 教育账户的 AI 工具，由学校决定是否启用，但关闭 AI 也将失去 Google 搜索。文章指出，Chromebook 与教育办公套件的广泛覆盖及长期积累的教学流程，使学区难以承担退出成本，所谓选择权因此受到捆绑限制。部分学区担忧 AI 助长作弊、削弱独立思考和信息来源多样性，引导式学习功能也未能完全阻止直接生成答案。争议核心是平台利用教育基础设施优势推广 AI，压缩学校自主决策空间。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:49:12+08:00"
         },
         {
           "title": "刚刚，GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
@@ -111,9 +111,9 @@
           "contentLength": 752,
           "hasFullContent": true,
           "hash": "73aabe2a9c9539d2c1f70a8a72620dd99404b7b124a62f9e136f87bdf5d3c6ee",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "极客公园创新大会2027将于12月5日至6日在北京798艺术区举行，以“Revaluation 价值，另有答案”为主题，聚焦AI如何重估工作、创作和生意中的既有经验、传统优势与潜在机会。大会将汇聚创新者与实践者，后续数周陆续公布更多嘉宾及议程。主舞台之外，还将设置五场小场深谈，围绕Personal AI、AI创作、具身智能、硬件与Maker、AI实践，交流一线判断与关键问题。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:48:22+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 6471,
           "hasFullContent": true,
           "hash": "7ca16d359d0458059f65fdac2ad8ba96bbe91ea990a56d7f4fef23b1563d5c8e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "中国品牌出海正从依靠供应链、低价和搜索流量，转向积累消费者认知与信任的3.0阶段。SUPVAN、GL.iNet等案例显示，品牌需要从当地生活需求定义产品，在流媒体等购物之外的场景建立认知，并将功能参数转化为使用价值。亚马逊广告等零售媒体通过关联曝光、搜索与交易，让新客、复购和长期销售回报更易衡量。但长期经营仍取决于品牌能否明确自身定位，在各个触点持续兑现一致的价值与承诺，融入海外消费者日常。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:50:40+08:00"
         },
         {
           "title": "好车，应该也是时间的朋友",
@@ -177,9 +177,9 @@
           "contentLength": 4221,
           "hasFullContent": true,
           "hash": "1a24be4ca00adb4a4a135dcc2d69217532a43ae62c72aa1c3ad83802e869b2d4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "新能源汽车技术快速迭代，但家庭用车的长期价值更取决于耐久性、养护成本和残值。智己以 LS8 NEO 等车型为例，与宁德时代联合优化电池快充、低温电量估算和寿命，依托上汽历时八年研发、百万公里试验的线控转向技术，通过冗余设计和底盘协同保障安全，并持续改进机械按摩座椅与乳胶坐垫。核心观点是，新技术应经过充分验证，在性能、安全、舒适与成本间取得平衡，让车辆多年后仍可靠好用、养得起。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:49:12+08:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "contentLength": 3287,
           "hasFullContent": true,
           "hash": "ec715af0c1b2e74cf842d2b58d3c7a5d2baa3f563af6ff40629a1fee65b01ba0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者实测在Qoder CN中调用Qwen3.8-Flash与开源仓颉Skill，将5.4万字的《读毛选，走出人生困局》提炼为Agent可调用的统一Skill。流程通过20多个子任务并行完成提取、写卡和测试，耗时30多分钟，消耗约332 Credits，按文中估值约10元。文章还梳理了注册赠分、每日签到及双十一首购优惠，提醒邀请码须在注册前输入，且中国站与国际站账号独立，主张利用算力优惠将书籍方法论转化为可复用的生产力工具。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:50:15+08:00"
         }
       ]
     },
@@ -231,9 +231,9 @@
           "contentLength": 2884,
           "hasFullContent": true,
           "hash": "d49ac671c13501ef6fcd9c84e962ee2df72bbb4f63c89d4ed28d9f05bb84a781",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "腾讯混元发布 Hy4 正式版，首次加入视觉与电脑操作能力，支持百万 token 上下文，API 价格与预览版一致。模型针对专业软件操作、跨应用长任务和金融场景训练，展示了建模、游戏制作、长图识别及经营分析等案例。Agent Arena 评测录得 4.7% 净提升，单任务成本为 0.55 美元；金融专家众测及腾讯内部业务评测也有提升。Hy4 还结合 Hyra 2.0 参与模型训练优化和科研任务，后续计划开放权重并推出 Flash 版。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:52:38+08:00"
         }
       ]
     },
@@ -249,9 +249,9 @@
           "contentLength": 2406,
           "hasFullContent": true,
           "hash": "72f9799c72b9e4e7baf2f1606a724806b1e9297f635f34abac5f85f036abd2e9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章汇总了七个覆盖日常生活、健康、做饭、投资常识、恋爱、人际交往和学习成长的 GitHub 项目，合计近30万 Star。其中，生活指南整理767条建议，延寿指南提供64条附论文来源、适用人群与局限的健康建议，做饭指南明确原料用量和步骤；投资指南侧重金融概念科普，恋爱 Skill 区分事实、推测与未知后给出行动建议，人情世故指南提供情境分析与表达示例，人生进阶指南强调记录目标、保留练习与反馈并持续复盘。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:51:14+08:00"
         }
       ]
     },
@@ -267,9 +267,9 @@
           "contentLength": 4626,
           "hasFullContent": true,
           "hash": "44e22a033cf1b036d89c60a56ead8dde36fcbc14b5f8c6b7b487f8ee32347391",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "海亮科服推出基于OpenSpan生涯大模型的e生涯平台，提供选科、兴趣培养和升学规划等服务，基础规划免费。平台通过多轮对话收集学生表现、兴趣、家庭预算与目标，结合知识图谱、政策资料和专家智能体形成建议，并以成长档案支持持续调整。案例展示其如何将笼统问题拆解为具体路径及适用条件。文章认为，面向人生重要选择的AI，需要把可靠的专业知识与个人情况联系起来，解释判断依据，并随情况变化更新建议。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:47:52+08:00"
         },
         {
           "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
@@ -279,9 +279,9 @@
           "contentLength": 4941,
           "hasFullContent": true,
           "hash": "ecd634fb834be50c4c659782ba7964fe64c5b85bee115acf40f1ffe89aa0389d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "第五届多多农研科技大赛要求团队从零搭建国产化智能草莓工厂，以果实品质、成本能耗和持续运营能力检验方案。参赛者在徒长、授粉和病害等问题中认识到，算法与设备必须结合种植经验、遵循植物生长规律。冠军“赛博农人”通过监测光合作用、蒸腾及叶片动态，让AI调整环境，50天收获284.45公斤草莓。往届团队则将植物工厂落地西藏，改善当地鲜菜供应。赛事强调以实际产出和经济可行性衡量农业技术。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:51:39+08:00"
         },
         {
           "title": "淘宝MNN团队开源0.3B手机模型，iPhone 18 Pro上离线跑出350 token/s",
@@ -291,9 +291,9 @@
           "contentLength": 8261,
           "hasFullContent": true,
           "hash": "ca1134e19966dc2d88b31f9220ffa513abc229a6cadefce7660891417ba921ab",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "淘宝MNN团队开源约3亿参数的MNN-Pocket-0.3B，面向手机应用共享算力、内存与能耗的需求，协同优化模型结构、词表、训练、量化及推理引擎。模型在iPhone 18 Pro上离线解码约350 token/s，INT4部署文件为173MB，在指定iPad测试中峰值内存增量为228MB。通过多阶段预训练、多教师蒸馏与量化感知训练，模型兼顾指令遵循和部署效率，并在电商评论抽取、全端侧语音对话中验证适配能力，开放多阶段权重供研究和应用开发。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:52:38+08:00"
         },
         {
           "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
@@ -303,9 +303,9 @@
           "contentLength": 1966,
           "hasFullContent": true,
           "hash": "96ac01cb51a2ef6ae772fa581b07135b9530c7ddcdd7251338c7b2ae1c0a9e72",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位将于2026年12月在北京举办第八届MEET智能未来大会，以“智行合一，驭见未来”为主题，聚焦AI从理解、规划走向执行与交付，探讨智能体、具身智能、世界模型、算力等议题，并关注可靠性、可控性与安全边界。大会将发布2026人工智能年度榜单，从企业、产品、人物三大维度评选五类奖项，报名截至11月16日；同期发布《2026年度AI十大趋势报告》，结合技术成熟度、落地现状和潜在价值分析趋势及代表案例。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:52:07+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -315,9 +315,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "c25faa2eea40c7c0b5f8037e1c329d5835b4027fae2e83181acb1fe1f927ebad",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业、AI产品三个方向的内容人才，覆盖编辑、主笔、主编层级，工作地点为北京中关村，面向社招及应届毕业生，接受实习并可转正。工作分别聚焦芯片与云计算等AI基础设施、创投财报与商业分析、软件应用及智能终端评测，强调专业理解、采访能力和结构化表达。团队提供新人导师指导及薪酬福利，应聘者需向招聘邮箱提交简历和代表作品，并注明应聘方向。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:53:10+08:00"
         }
       ]
     }
