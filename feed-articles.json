@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-07T07:09:11+08:00",
+  "generatedAt": "2026-11-07T07:13:26+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -69,9 +69,9 @@
           "contentLength": 4186,
           "hasFullContent": true,
           "hash": "e6e4cc1c7e8f05878fef60b23fb39ac10466ff2932c90b0071ea21fdb9964e34",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "李飞飞与 Jeff Dean 的对谈区分了任务层面的自我改进与真正的递归自我改进：只有改进能反哺研究系统本身，使其更善于提出假设、设计实验并形成可迁移的方法，才算 RSI。自动化可减少实验交接与等待，却无法突破计算耗时、实验因果依赖和自然规律。两人还讨论了海量实验促进理论归纳，以及机器探索证明、人类提炼思想与工具的科研分工。文章认为，当前 AI 研发提速主要仍来自流程优化和人机协作，不能等同于自主递归进化。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-07T07:10:21+08:00"
         }
       ]
     },
