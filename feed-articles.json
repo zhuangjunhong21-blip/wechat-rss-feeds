@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-06T11:00:01+08:00",
+  "generatedAt": "2026-11-06T11:10:18+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -63,9 +63,9 @@
           "contentLength": 3590,
           "hasFullContent": true,
           "hash": "84180c4b43e888a5c15924f64ef098c56afbac21a489382459ffb37b386508a6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenAI 发布 Images 2.6，向 ChatGPT、Codex 和 API 开放，图像生成速度提升 50%，支持文字生成 GIF，并改善多轮编辑一致性。API 提供侧重速度的 Flare 和侧重画质、细节保留的 Sunburst。实测可制作角色表情包、线稿动画等短时循环动图。更新还加入图像标记、SVG 导出及复杂度控制，API 单价保持不变。文章认为，修改、衔接与交付效率将成为 AI 生图融入专业设计工作流的关键。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T11:07:01+08:00"
         },
         {
           "title": "ChatGPT新增GIF生成/王兴兴：明年大概率是机器人行业临界点/张雪回应校招10万起薪被嫌低",
@@ -75,9 +75,9 @@
           "contentLength": 11237,
           "hasFullContent": true,
           "hash": "aead0d8b2ee187b74268d5ebc23c6364789e853f1a0846acbd514874699bc5f2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "ChatGPT新增GIF生成，支持文字或照片输入、调速及逐帧修改；王兴兴判断明年大概率迎来机器人行业或模型临界点，规模应用仍需提升泛化能力与效率，小米人形机器人工厂测试累计作业超8小时。张雪回应校招年薪10万元起引争议，强调招聘是双向选择。此外，调查显示69%的中国受访者至少等到2027年才换手机，AI换机驱动力有限；苹果收紧员工AI预算，国内推进智能体自律与AI立法。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T11:05:17+08:00"
         }
       ]
     },
@@ -93,9 +93,9 @@
           "contentLength": 402,
           "hasFullContent": true,
           "hash": "82b29dafe92e43cae087e17f4add723096ff58c757e3d669b4349eed00dcb84e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "GPT-Image 2.6 新增 GIF 动图生成能力，可通过文字描述，或上传静态角色图片并指定挥手、眨眼等动作，制作循环动画，用于动态表情包和品牌 IP 动画。此次更新还提升了生成速度，相比上一代快约 50%，低画质模式下最快约 6 秒生成一张图片；同时改善多轮编辑的一致性，更好地保留人物、场景与细节。目前，新模型已接入 Codex 和 API。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T11:00:15+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 1785,
           "hasFullContent": true,
           "hash": "5fc51466309c9a56ead55e6ef5d9ecbdc0ffb07dca90b562441352de916c3c57",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者发现自己的AIGC产品用户和收入增长，利润却下降，并将行业盈利承压主要归因于Seedance 2.5的高昂API成本：视频生成每秒一块多，难以沿用过去按成本三至五倍定价的模式。AI编程又加剧了产品体验和营销同质化，用户随优惠迁移，迫使厂商低价甚至亏本竞争。作者认为，融资后烧钱抢用户的头部产品尤其难盈利，而小团队可通过压缩人力和营销成本、服务垂直用户，保留净利润。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T11:05:46+08:00"
         }
       ]
     },
@@ -195,9 +195,9 @@
           "contentLength": 201,
           "hasFullContent": true,
           "hash": "e3d630728c4ddede71ef1e608f0887f803abed6c9d73201b0bd1eccfde36c8f8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "GPT-image-2.6 发布，文章提到其主要新特性是可以直接生成 GIF 动图，并展示了用它制作的近期流行的大肥鱼表情包，其中第三张为动图。作者尝试在 Codex 中调用 2.6 未果，随后转到 GPT 中完成制作。文末几张图片附有提示词，读者可复用这套提示词，生成不同的大肥鱼表情包。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T11:06:19+08:00"
         }
       ]
     },
