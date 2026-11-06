@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-06T10:54:46+08:00",
+  "generatedAt": "2026-11-06T11:00:01+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -147,9 +147,9 @@
           "contentLength": 2552,
           "hasFullContent": true,
           "hash": "61a7ba607845473273177b300a3c8ac68d04462dece093c2eaf2ab567a96a20b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者实测Vivix的W1视频模型与A1交互角色模型：W1可凭游戏截图和文字生成音画，并通过流式生成接收追加指令，延续场景、加入怪物、改变剧情；多镜头叙事能协调运镜、动作、声音与节奏，估算生成30秒约需1.4元，低成本源于超低步数蒸馏。A1支持定制数字人、实时对话和打断接话，但仍有动作僵硬、明显卡顿。整体体验显示，视频生成正尝试从一次性出片转向持续交互，画面质感与交流流畅度仍待优化。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-06T10:59:31+08:00"
         }
       ]
     },
