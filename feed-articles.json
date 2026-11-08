@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-08T08:09:07+08:00",
+  "generatedAt": "2026-11-08T08:24:43+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -21,9 +21,9 @@
           "contentLength": 3908,
           "hasFullContent": true,
           "hash": "4318a070d2c5b14d5008cbda08a43c2d0b73b315aeea3a4101a4d42c6a98ee93",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "生成式 AI 带来海量语料、训练日志和模型备份的长期归档需求，推动磁带市场增长，富士胶片计划投资约100亿日元，将相关产能提升至五倍。磁带凭借低成本、低能耗和离线隔离优势，适合低频访问的冷数据，但随机读取较慢，且存在设备兼容与数据迁移成本。现代磁带单盒原始容量已达40TB，材料与记录技术仍在进步。机械硬盘也因容量和成本优势受益，显示传统存储技术正在AI数据中心获得新的增长空间。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:20:12+08:00"
         },
         {
           "title": "爆火的《持械入宋》里，AI 找到了爱它的观众",
@@ -33,9 +33,9 @@
           "contentLength": 2435,
           "hasFullContent": true,
           "hash": "c0c26539adf6a064c8af13c30d0db42b76990b617a8c2145eb423a7496bd78ba",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "全片由AI生成角色与画面的《持械入宋》以现代小队穿越宋朝为设定，已更新约千集，累计播放量超过120亿。仿真人形式借助观众对历史剧、战争剧的视觉经验，降低战争、群像和历史场景的制作门槛，但仍需剧本改编、人物设定与反复生成来维持连续性。其持续吸引观众的关键，是网文式情节推进、短剧节奏和成熟分发机制。AI剧的价值不只在于画面逼真，更在于能否适配题材与观看场景，把故事持续讲下去。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:21:39+08:00"
         },
         {
           "title": "AI短剧《持械入宋》120亿播放登顶红果榜首/全球首个仿生机器人主播发布，张艺谋设计/中国空间站刷新人造低温纪录",
@@ -45,9 +45,9 @@
           "contentLength": 8689,
           "hasFullContent": true,
           "hash": "c05b7d34a53b3d9edeaa87e5d02bc24933dcd4f7b8390308944b1783f01a9a76",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI短剧《持械入宋》累计播放超120亿次，登顶红果AI推荐榜，10人团队通过独立人物素材和多轮生成完成制作，创始人否认网传收益说法。新华社与优必选发布张艺谋参与形象设计的仿生机器人主播，可播报新闻并检索审核素材回答提问。中国空间站借助微重力环境和激光逐级冷却，将铷原子云等效温度降至9.7皮开尔文，刷新纪录。其他动态涉及微短剧侵权治理、AI长期任务助手、多模态模型及消费电子新品。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:21:25+08:00"
         }
       ]
     },
@@ -63,9 +63,9 @@
           "contentLength": 6504,
           "hasFullContent": true,
           "hash": "778991b586ccfa9f94fac4ed570ae2cb8fc47c5be303189ba03b355ac8ff6e52",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale梳理了GPT-Images-2.6的十种应用，涵盖循环动图、游戏动作素材、多角度角色设定、商品广告、SVG图标、圈选修改、草图渲染、界面原型、知识图解与翻译、四格漫画。操作重点是明确保留特征、限定修改范围，并逐步检查一致性。文章认为，图像生成正从随机尝试走向设计与开发流程，但游戏素材、交互页面和专业图解仍需人工复核或工程加工，同时提供附来源与提示词、可分类筛选的开源创作图鉴。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:20:24+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 8841,
           "hasFullContent": true,
           "hash": "8ba2cd1cfe688f41d9fe898b250aa1b799ed9e5f2ce1be3bea01c0e34d9bc968",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "闫俊杰在首次英文播客采访中表示，中美模型最后5%的性能差距可能比前95%更难追，关键是持续进步的速度。MiniMax将低推理成本视为核心优势：既降低客户使用成本，也支持更大规模的后训练，推动模型提升。公司通过开源获取开发者反馈，计划将语言与视频模型合为统一模型，并推动Agent自主设定目标、验证结果。截至8月，其年化收入运行率超8亿美元，B2B贡献逾80%，但盈利仍面临价格竞争与前沿研发成本上升的挑战。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:21:25+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 1819,
           "hasFullContent": true,
           "hash": "458c6110fad040d66c9c75d25c6dc89c15890706d7b411259a43329062373849",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者不看好由AI自主创业赚钱的“零人公司”，认为当前大模型擅长沿已有知识和成熟方向推进，却缺乏提出正确问题、发现新方向和发明新原理的能力。文章以狭义、广义相对论及相关AI研究作对比，区分顺势完成突破的“临门一脚”与发现未知机会的“从0到1”。作者主张，创业者应先找到自己确信正确、却鲜有人认同的重要判断，再借助AI完成后续执行；AI越强，能独立识别创业方向的人越有价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:19:53+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 2449,
           "hasFullContent": true,
           "hash": "dba8bbe5bb40431684eb4d0133b4f2997db037b59d3a4e3d138e97c7eef58d43",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "SuperCLUE-Office横测8款国内办公智能体，豆包工作以85.33分居首，Kimi Work、WorkBuddy分列二、三，豆包文档处理得分领先第二名近5分。测评以真实文件任务检验可编辑交付物，结合脚本检查与裁判模型评分，对编造数据扣分、超时判失败。作者结合会议待办、群聊整理和表格处理经验，推测豆包优势与飞书打通及Trae工程积累有关，同时强调单次测评有局限，应按任务选择工具，以实际效率提升为准。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:21:03+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 5561,
           "hasFullContent": true,
           "hash": "54c7345f47f97a77ad9716b7db9d440ab46bd654272bbee394e59d77d59c4d56",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AFK AI的开源产品Comma采用与DeepSeek Super-agent设想相近的单Router、多Worker架构，以长期主对话统一调度并行任务，缓解用户管理多个会话的注意力瓶颈。系统支持跨应用协作、全天候监听与主动执行，将长期状态保存在模型上下文之外，并利用任务结果、人工修改和验收反馈训练专属小模型，通过评测后替换旧版。文章以此说明，Agent Harness正从追求任务吞吐量，转向承接长期责任与复杂事务。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:20:51+08:00"
         },
         {
           "title": "为了去AI味，人类开始主动写烂文章了......",
@@ -165,9 +165,9 @@
           "contentLength": 3553,
           "hasFullContent": true,
           "hash": "c2cffa3683390299b8bdcccd24a39be30c56351a62c7e85eb3c244be17d997c7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "为摆脱“AI味”，一些写作者刻意制造错别字、残缺句式，回避破折号、比喻等正常表达，而AI也在模仿这些“人味”。文章结合多起作家因AI检测争议遭取消出版或移出奖项候选的案例，指出检测器仅提供统计近似，却深刻影响作者命运，促使人类迎合检测标准，甚至借助AI工具证明自己。作者担忧，这种压力会成为新的语言规训，损害表达多样性，并推动“人类创作”认证及人机混合语言的出现。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:20:35+08:00"
         },
         {
           "title": "机器人自己写代码修自己，成功率从17.5%涨到95%：具身智能有了不动权重的自进化框架",
@@ -177,9 +177,9 @@
           "contentLength": 2312,
           "hasFullContent": true,
           "hash": "76e449aaff32e38d929d76e3859dc68ed1d78ce603f9dac6f8850bb47d0656f6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "清华大学与新加坡国立大学团队提出并开源VISTA，让机器人在不更新模型权重的情况下，通过主动探索和修改代码提升能力。Meta-agent分析执行记录，在仿真中补充证据，改进组织技能、工具和决策逻辑的Harness；候选版本经独立评估，表现更好才被保留，技能与经验可跨轮继承。实验中，LIBERO-Pro整体任务成功率从17.5%升至95.0%，其他仿真基准也有提升，真实环境中的持续自进化仍待探索。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:20:51+08:00"
         },
         {
           "title": "前排围观！MEET2027报名通道已开启，首批重磅嘉宾已就位",
@@ -189,9 +189,9 @@
           "contentLength": 3489,
           "hasFullContent": true,
           "hash": "d2ce7aba3eb6a6587cbc2d2ae18f6075ecf7c2f3058bfd20d16f479269e11fcb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位MEET2027智能未来大会将于2026年12月9日举行，报名已开启。大会以“智行合一·驭见未来”为主题，聚焦大模型与Agent工程化落地、具身智能规模化应用、AI原生组织及企业数智化转型，探讨AI从演示走向交付、从单点能力走向系统效能的路径。首批嘉宾包括王金桥、方跃、方汉等。现场将发布人工智能年度榜单及《2026年度AI十大趋势报告》，榜单申报与报告案例征集分别于11月16日、20日截止。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:21:15+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -201,9 +201,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "c05dfd3395ba36a9525c8cd98ea3827269af851845068f811fb905bb60ad869c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业、AI产品三个方向的内容人才，覆盖编辑、主笔、主编层级，工作地点为北京中关村，面向社招和应届毕业生，接受实习并可转正。岗位分别聚焦芯片与算力基础设施、创投财报与商业模式、AI软件及硬件终端，要求具备相应领域认知、采访及结构化表达能力。团队提供新人一对一指导及薪酬福利，应聘者需发送简历并附代表作品，邮件注明方向与姓名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:21:51+08:00"
         }
       ]
     }
