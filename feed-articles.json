@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-08T07:09:20+08:00",
+  "generatedAt": "2026-11-08T08:09:07+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -135,9 +135,9 @@
           "contentLength": 3793,
           "hasFullContent": true,
           "hash": "a3f7ede0a8a3d2fe4c6f2b5909b698804a6eb8343bbc545f68327e33338bf0c3",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "父亲因丙肝去世、自己罹患睾丸癌后康复的经历，强化了 Dario Amodei 对时间的紧迫感，推动他用技术加速科学研究。受理性主义、有效利他主义及奇点思想影响，他相信 AI 既能改变人类未来，也可能带来生存危机。在百度、谷歌及 OpenAI 从事研究后，他因安全理念与控制权之争与 Altman 决裂，带团队创立 Anthropic。其核心信念是由重视安全的人率先造出强大 AI，这也贯穿其监管、军事用途限制及放缓前沿开发的主张。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-08T08:07:35+08:00"
         }
       ]
     },
