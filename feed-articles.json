@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-09T08:09:32+08:00",
+  "generatedAt": "2026-11-09T08:25:15+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 6,
@@ -21,9 +21,9 @@
           "contentLength": 2822,
           "hasFullContent": true,
           "hash": "bb5f72519ef7c6c76c9aad3ee6a3363c437b90e6fef8115db280a1c32605f544",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "千问办公在李佳琦直播间以一分钱售出10万份会员月卡，实际成交额约千元，核心目的在于拉新与用户启蒙。直播通过办公、家校和亲子场景，将抽象的AI能力转化为具体用途，也暴露出商业化与商品化的差距：消费者购买了积分和使用权，仍需自行将其转化为工作成果。行业正探索会员算力包、垂类任务工具和硬件入口等路径，但持续付费仍取决于用户能否理解用途、跨过使用门槛，并获得可预期、可验证的价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-09T08:22:12+08:00"
         },
         {
           "title": "GPT-6 给 Codex 造了个拓麻歌子身体，硬件改造自由真要来了",
@@ -33,9 +33,9 @@
           "contentLength": 3488,
           "hasFullContent": true,
           "hash": "b1dd6d1b655412102cc05c0659b5aaaeee08872f3908e862f82b8ed0b452acb9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "两名 OpenAI 员工借助 GPT-6 Astra，不到一周完成可与 Codex 语音交互的电子宠物式硬件原型设计，但投产仍因公差、装配和生产限制经历多轮修改。文章结合 CAD 重建、赛车零件工程和马自达仿真案例，展示 AI 从生成设计走向评估与迭代的能力，并提出由人定义目标、AI 承担工程任务、制造测试反馈驱动修改的开发模式。其关键判断是：可靠交付仍需专业工具与人工把关，制造流程和真实实验数据可能成为硬件企业的核心壁垒。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-09T08:22:58+08:00"
         },
         {
           "title": "Claude创始人的魔幻半生：挺过睾丸癌，逼宫奥特曼，算「几只鸡抵一条人命」",
@@ -45,9 +45,9 @@
           "contentLength": 6521,
           "hasFullContent": true,
           "hash": "872b3dc6c65c8d12042d595ff8211eb8fe64e1b92a29ae5e2c2f5b260484249e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "达里奥·阿莫迪经历父亲病逝、自己罹患睾丸癌后，从物理与生物医学转向人工智能，希望借 AI 加速科研、挽救生命。他受理性主义及有效利他主义部分思想影响，重视技术收益，也长期警惕失控风险。文章结合同学、同事等人的回忆，梳理其在百度、Google、OpenAI 的经历，以及因研究、安全和治理分歧离职创办 Anthropic 的过程，呈现其伦理使命、权力诉求与商业竞争之间的张力，最终追问：掌握变革性技术的少数人，将如何替所有人决定未来。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-09T08:23:32+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 8733,
           "hasFullContent": true,
           "hash": "fa7a0e64516d88a882bf40f71024fa9afb9e5ee1f7e80c184508bb0b86286b51",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Personal Agent 的创业机会在于，通过长期理解用户、主动服务和反馈积累，让价值生长在基础模型之外。高昂的算力成本、不成熟的基础设施与交付难题，使盲目追求用户量和 ARR 风险巨大。创业者可从高价值、反复发生的垂直需求切入，逐步建设上下文管理、任务编排和用户建模能力。核心壁垒不是圈占个人数据，而是持续交付价值形成的信任与深度协作关系；扩张节奏应匹配资源，确保真实任务和反馈能转化为可积累的产品能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-09T08:22:58+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 5362,
           "hasFullContent": true,
           "hash": "12066942ca7755dd9354d4e2278e0862b47854a2c8970fbe6a10456769ca90ac",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "华西医院与华为合作，将AI用于病历生成、医保审核和医学科研，减少信息检索、整理与重复录入。院方披露，病历生成智能体已辅助生成逾310万份病历，节约书写时间60万小时，内容仍由医生审核负责。双方统一建设算力、数据和模型平台，通过可溯源知识库、按任务选模型及日夜错峰调度，兼顾准确性与运行成本，并以白皮书和样板点分享经验，帮助其他医院减少从零建设的成本，将资源投入本院数据接入、临床验证与流程调整。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-09T08:22:41+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 1479,
           "hasFullContent": true,
           "hash": "c93b05b4f01c1ac482de7735302fbe7c2c19be5f9a68c9379c99dbed243a4135",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "terminal-mac 利用苹果虚拟化技术，在 Mac 内运行独立的 macOS，并将桌面显示在支持的终端中。接入 Claude Code、Codex 等工具后，Agent 可通过截图、点击、输入和快捷键操作虚拟桌面，用于应用测试等任务，避免与用户争用鼠标键盘或改动主机剪贴板。首次使用需安装系统、创建账号，并授予录屏和辅助功能权限；此后可复用应用与配置。项目仍处早期，运行会额外占用本机处理器、内存和存储资源。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-09T08:23:17+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 5742,
           "hasFullContent": true,
           "hash": "11cf408acb6e532f8c51881a359ecb3ae0f531b911dfc0276ba081d63f2c3d5c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "LobeHub将多Agent协作引入日常研发，由主管Agent拆解和分派任务，Coding Agent编写代码，再经AI审查、修改与人工审核合并。作者实测中，AI编辑团队不到8分钟产出6条选题，随后沿用成果，新增开发和QA角色，约30分钟完成资讯网页。其机制包括共享工作空间、执行与会话状态分离，以及附带测试、截图等证据的验收流程，支持后台持续执行和跨任务接力，人类保留最终验收权。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-09T08:22:12+08:00"
         }
       ]
     }
