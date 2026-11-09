@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-09T07:09:16+08:00",
+  "generatedAt": "2026-11-09T08:09:32+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 6,
@@ -63,9 +63,9 @@
           "contentLength": 4640,
           "hasFullContent": true,
           "hash": "63f6734147646fa33e5567f83e8102d74c1ebee87dca42cf2d0f2f371bfa079c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "李沐详解 BosonAI 全双工模型 Higgs Realtime Duplex：以端到端架构直接处理音视频，按160毫秒窗口同步接收输入、生成输出，结合分段思考和异步工具调用，实现持续感知、适时接话与执行任务。团队采用45B MoE，通过多模态训练、强化学习和多老师蒸馏提升能力，并压缩音视频 token、仅保留最近5分钟完整上下文以控制成本。其判断是，该方向仍处早期，数据、架构与训练方法比单纯扩大模型更关键；全双工版本已开放候补名单。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-09T08:06:11+08:00"
         }
       ]
     },
