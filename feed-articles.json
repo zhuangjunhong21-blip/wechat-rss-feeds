@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-11T07:09:34+08:00",
+  "generatedAt": "2026-11-11T07:18:01+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -39,9 +39,9 @@
           "contentLength": 1091,
           "hasFullContent": true,
           "hash": "249db99db757d4ab0a3d993b281422039b0938f475eb27de86c5a40014b67445",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic 更新《支持地区政策》，将于当地时间11月12日生效，覆盖 Claude.ai、Claude Code、API及第三方平台提供的模型。使用资格取决于用户所在地、企业注册地、总部及股权和实际控制关系：用户身处不支持地区，或所属企业注册、总部位于不支持地区，或被当地个人或实体多数持有或控制，均受限制。因此，人在海外或通过海外公司接入也未必合规。中国大陆暂未列入支持名单，账号持续可用性成为依赖 Claude 的开发者需考虑的成本。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T07:16:40+08:00"
         },
         {
           "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
