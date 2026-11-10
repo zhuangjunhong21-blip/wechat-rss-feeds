@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-10T11:34:31+08:00",
+  "generatedAt": "2026-11-10T11:44:47+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 5452,
           "hasFullContent": true,
           "hash": "361183a317035ee0b6933774867a5dc4ed77a56c1752ec6d24fcb8038d95f07d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Google AI订阅的价值在于整合云服务、算力、编程和创作工具。文章比较Pro与两档Ultra，梳理Cloud赠金、Colab显卡、Antigravity、Gemini Notebook、Flow及Project Genie六项权益，说明领取方法、额度和适用场景，并提醒开发者赠金与Colab不能共享给家庭成员，部分功能受地区限制。作者认为，国内开发者若充分使用Cloud赠金、Colab、Antigravity和Flow积分，比仅用Gemini网页聊天更能发挥订阅价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:39:04+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 5420,
           "hasFullContent": true,
           "hash": "6d6e59dfa081df63413a07fc60344262ca06e75c08260e24bb097bace59bd683",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic 发布 Claude Fable 5.2 和 Mythos 5.2，重点提升编程、推理与科研能力。文章称，Fable 登顶第三方智能榜单，通过千个 Agent 协作完成操作系统开发及费马大定理形式化证明，并拓展至硬件设计和机器人控制，相关科研成果仍待验证。Fable 面向公众，Mythos 主要向获审机构开放；标准 API 降价约20%，同时限制可能加速 AI 研发的能力。发布也折射出公司放缓研发的主张与上市商业压力之间的张力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:36:51+08:00"
         },
         {
           "title": "实测 Seedream5.5，豆包想把 AI 作图接进整条工作流",
@@ -51,9 +51,9 @@
           "contentLength": 4533,
           "hasFullContent": true,
           "hash": "2f083c836d339d789d4710e43a429c5f1e5fd0ef55a7e560ea8a9ce9a1b8361b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Seedream 5.5 升级多轮编辑、写实质感和文字渲染，支持原生透明背景及最多约100层图层拆分。APPSO实测展示了连续局部修改时保留非编辑区域、制作透明贴纸和复用海报素材的能力。接入豆包工作后，它还能结合获授权的飞书群聊、文档梳理设计需求，并联动其他技能制作网页、海报和社媒配图。AI作图的价值由单次生成延伸至修改、复用和交付，成为完整创作工作流中的一环。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:37:31+08:00"
         },
         {
           "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini",
@@ -63,9 +63,9 @@
           "contentLength": 3910,
           "hasFullContent": true,
           "hash": "d73af1a6153031998940da1674c15c86b381dfc7f2bc30e251c1db9bea90cb06",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "苹果公开人形机器人研究 HALO，以宇树 G1、Mac mini 和千问模型组成自主系统，通过编排、动作生成和实时控制三层架构执行任务。团队不依赖人工遥操作采集，而在虚拟家庭中合成近300小时训练数据，再迁移至真机。在6个陌生真实环境的360次测试中，机器人完成坐下、钻桌底、推箱子等任务，平均成功率达91%，组合任务约70%。研究展示了仿真训练的规模化潜力，但技能仍有限，新增技能还需人工设计动作提示和关键帧。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:40:55+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 6947,
           "hasFullContent": true,
           "hash": "add18b7a8b5e1b36c114eec95da5ae30a447c37ed4e1ec4b7a0a778b974d02a3",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "深度原理团队开源科研模型 Hydrogen-1.0，基于 GLM-5.3 后训练，拥有753B参数，以MIT协议开放完整权重。训练结合科学文献、专家问答、含失败实验的电子记录及智能体探索轨迹，通过监督微调与强化学习优化科研决策。其FSR通过率达38.3%，配套Mira平台展示了文献证据评估、实验数据分析、反应路径推演和材料优化能力。团队坦言，从失败数据中学习仍待探索；关键推导、实验安全与临床判断仍需人工核实。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:38:07+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 1035,
           "hasFullContent": true,
           "hash": "87ed289f3c91c6d02185fd1d5b2da6f0e2185c8cfc18403869f92f6b72f75bc7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者将“用好AI”分为提效与赋能：前者缩短既有工作的耗时，后者让人完成原本没有能力做的事。文中以一位软件创业者借助AI独自学习设计PCB板、推进硬件量产为例，说明赋能的潜力。作者认为，大厂分工精细、责任约束较强，员工难获跨领域承担核心任务的机会；创业者和小公司则常需处理陌生事务，更有条件发挥AI的赋能价值。差异主要来自环境，而非个人聪明程度。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:41:49+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 5128,
           "hasFullContent": true,
           "hash": "b91b1116050ae972ac8865113cb5355aca248bacbc5481f846be7a9a80fa5f74",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "千问办公2.0推出Team Agent，通过协作空间关联多个钉钉群、文档、表格和听记，让多人共享上下文并共同驱动AI完成任务。作者实测了跨群结合PDF答疑、汇总多人诉求筛选省考岗位，以及核查并修改PPT等场景，认为其价值在于从个人提效转向团队信息流转与协同。目前协作仅对企业版开放，圈选修改尚不稳定，生成文件和待办也无法自动回传原群。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:38:33+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 2337,
           "hasFullContent": true,
           "hash": "74fba8da1aa6167e734d6a94191bbdd559fc379d4bd5eabd9fab3585628b2d42",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章汇总了七个开源项目：Public APIs 按类别整理公开接口及接入条件；OpenMausBot 用联系人和群组集中管理多个 Agent；Claude Code Game Studios 提供游戏开发角色与工作流模板；Handy 和 Hex 支持本地语音输入，后者可配置专用词纠正；Lightpanda 通过省去页面绘制降低浏览器自动化开销；FreeToken 协同显卡、CPU 和系统内存，在消费级硬件上运行支持的大型 MoE 模型，并提供兼容接口连接 Agent 工具。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:37:14+08:00"
         }
       ]
     },
@@ -189,9 +189,9 @@
           "contentLength": 3232,
           "hasFullContent": true,
           "hash": "61de3aba6fa9ee2dbe96cf7eb026db146a4ec1cc07bcaf4848850b890c779ef1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "计算机专业大二学生Katie控诉学校滥用AI：教学资料错误频出、作业量激增，使用AI的规定反复变化，导师关怀也被自动邮件替代。她认为，管理层追求规模化、削减教学成本，使师生承受代价。相关讨论呈现分歧：资深从业者强调AI能促进学习，新人则面临入门岗位减少的压力。文章借Katie重拾编程小游戏的经历，呼吁保留学习与创作中的探索欲，反思教育被效率和功利目标主导的问题。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:41:21+08:00"
         },
         {
           "title": "具身智能出海，物流先行",
@@ -201,9 +201,9 @@
           "contentLength": 4324,
           "hasFullContent": true,
           "hash": "8c6734c3e92cffafedd3babf8bffcbdeab7cf682d5780272bd79d173e912add6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "菜鸟宣布向AI与具身智能企业开放全球仓网，提供拣选、拆码垛、配送、巡检等真实物流场景，通过持续运行、多样包裹及环境变化，帮助机器人训练、验证并提升泛化能力。同时推出“科技出海三日达”，整合全球快线、空运和仓网，覆盖样机运输、批量交付、海外备货、返修及本地运维。此举将研发验证与海外交付衔接起来，也服务于菜鸟提升物流生产力、拓展科技出海业务的目标；其相关科技出海收入已同比增长一倍以上。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:39:39+08:00"
         },
         {
           "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -213,9 +213,9 @@
           "contentLength": 2518,
           "hasFullContent": true,
           "hash": "d0bc3ca00d9a42a028f84fdbff3256c2a782f01f9433948e49ffb94e8ac05321",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单征集将于11月16日截止，设置领航企业、潜力创业公司、杰出产品、杰出解决方案和创业新锐五类奖项。评选聚焦AI从技术验证走向规模化落地，重点考察技术创新、实际应用、客户与市场认可、商业化能力及行业影响力，强调在真实场景中解决问题、交付结果。各类别设有具体参选条件与评价标准，结果将在量子位主办的MEET2027智能未来大会上公布，大会定于12月9日在北京举行。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:40:06+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -225,9 +225,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "3ad24105b14433c9fc6077efba83085696c4000e03192f47547493f92d8c319b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业、AI产品三个方向的内容人才，工作地点为北京中关村，开放编辑、主笔、主编各层级全职岗位，面向社招及应届毕业生，并接受可转正实习。三个方向分别聚焦芯片与云计算等AI基础设施、创投财报与资本动向、软件应用与硬件终端，要求具备相应领域认知、采访及结构化表达能力。团队提供新人导师指导、行业交流机会及薪资福利。应聘者需将简历与代表作品发送至招聘邮箱，并注明应聘方向及姓名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-10T11:40:30+08:00"
         }
       ]
     }
