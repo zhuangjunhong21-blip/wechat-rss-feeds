@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-11T07:24:02+08:00",
+  "generatedAt": "2026-11-11T11:26:08+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -21,9 +21,9 @@
           "contentLength": 1314,
           "hasFullContent": true,
           "hash": "5d703241a97457cf7483f9cfbb59d5a83dcbe3e8c73ba7bc355e1770c47793ea",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Claude Fable 5.2发布，原文称其在长程Agent编程、跨学科推理及硬件与机器人控制等基准上超越Opus 5.5和同期竞品。Pro用户可在11月16日前使用最多50%的周套餐额度体验，并获一次额度重置。作者建议利用体验期攻坚项目，重点使用两条提示词：全面检查Claude Code配置与防护缺口；排查项目流程中的缺陷、不一致、瓶颈及闲置代码，仅依据复现、明确需求或测量实施最小修复，再用现有检查验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:18:21+08:00"
         }
       ]
     },
@@ -51,9 +51,9 @@
           "contentLength": 4868,
           "hasFullContent": true,
           "hash": "660f80a71763c0276e0455e16225f7be4579dad63a89ddb66ec8e0fbff3023a4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "MiniMax 发布并开放 H3 Image 权重，针对图像生成与编辑优化，支持最多16张参考图，实测生成4096×4096图像约需10至20秒。APPSO通过产品爆炸图、文字海报、游戏界面及多种摄影风格测试，认为其兼顾复杂指令理解、文字排版、细节表现与视觉审美，并可通过API融入Agent工作流，支持连续修改和一致性创作。开放权重也让开发者能够自主部署、微调模型，构建面向设计、游戏和内容生产的工具。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:19:05+08:00"
         },
         {
           "title": "Fable 5.2 还没捂热，Gemini 4 神秘新模型就刷屏了",
@@ -63,9 +63,9 @@
           "contentLength": 2107,
           "hasFullContent": true,
           "hash": "713f6486cba24e90d584dd9ad4c593827e7639f6a4a14ccb2d56679caee4b7b6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "谷歌 Gemini 4 新检查点 Krypton 的早期测试结果流出，显示其在代码生成动画、SVG 和 3D 场景方面较 Carbon、Argon 更精细，还能用 JavaScript 合成音乐与环境音效，但往往需要更长时间和更多代码。随着 Hydrogen 基准测试消息曝光，谷歌模型发布与泄露节奏已按周计算。文章认为，谷歌正探索以生成耗时换取作品完整度，但演示能否稳定复现、效率与效果能否兼顾，仍待正式发布后验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:22:41+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 295,
           "hasFullContent": true,
           "hash": "44f1b99632a4daa09b1ae6f3c61a4b6835063cabd0d1b0921fb1745c8dad96d6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 联合商汤小浣熊发布《街道办AI智能化白皮书》，从基层工作的实际需求出发，梳理12类高频任务，明确可交由AI处理的工作，并聚焦照片自动生成台账、工单智能归类、公文一键排版三个典型场景，提供简单易上手的操作方法，旨在让AI分担重复劳动，为基层工作人员腾出更多时间和精力服务群众。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:19:08+08:00"
         },
         {
           "title": "刚刚！Anthropic首次公开Claude记忆架构！",
@@ -93,9 +93,9 @@
           "contentLength": 6603,
           "hasFullContent": true,
           "hash": "5bed0bd82f5542a05677ff24fff625f99e18fc8dbce3de54ced43c2e70001393",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic披露Claude长期记忆架构，以原始执行流水、记忆笔记、结构化Wiki和开局注入索引构成四层体系，通过离线Dreaming核对原始记录、纠正错误、合并去重并修补知识链接。文章强调，长期记忆应优先沉淀隐性规则与策略，避免琐碎、易变信息挤占上下文；生产实践采用轻量索引与按需检索，兼顾准确率和成本。核心结论是保留原始底账、持续维护记忆，并给予强模型判断空间，避免僵硬限制。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:18:30+08:00"
         }
       ]
     },
@@ -111,9 +111,9 @@
           "contentLength": 10814,
           "hasFullContent": true,
           "hash": "bdc574e6f645ab69adcfcfe374bb923f6ee05e67652b1fffcd300467d1510170",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Mercor两年内年化收入从100万美元增至超20亿美元，业务重心转向组织专家构建评测与强化学习环境。CEO认为，合成训练数据将更多由实验室内部生产，但模型能力边界之外的评测仍需人类定义；数据价值取决于真实性、难度和验证方式，带反馈闭环的任务远比静态资料值钱。公司已开展定制后训练，并认为应用公司可借公开评测推动模型补齐所需能力、降低对单一模型的依赖。物理世界是下一数据前沿，但面临调度复杂、迭代慢、可靠性要求高及模拟与现实差距等挑战。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:19:40+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 721,
           "hasFullContent": true,
           "hash": "b41cdf85e051934320d694777ef1d7e3b70183f035d4e433b7edc811338ff061",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者称，Anthropic将于11月12日实施更严格的Claude使用限制：身处中国等不支持地区的用户、总部位于这些地区的公司，以及由相关主体直接或间接控制或持有一定比例股份的美国公司，均可能被封号，即使员工身在美国也不例外。限制范围还覆盖Claude Code、API、第三方云平台及授权经销商提供的模型。作者称已核实官网政策，并将此举解读为Anthropic在IPO前通过扩大封号增加利润。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:18:03+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 4074,
           "hasFullContent": true,
           "hash": "8a25dbd1eaef44b80a9bde91d5c73ea86ff4ac543407e09159fe40413902370b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者实测 Seedream 5.5 的多轮编辑、真实性、透明图处理、参考图生成与文本渲染，认为其连续换装时能较好保持人脸和背景稳定，雪景细节及中文小字表现明显提升。透明背景与图层分离可提高图标设计和素材加工效率，信息图生成也适合辅助学习。但多人参考图仍有面部漂移，部分生僻字不够清晰。作者认为此次更新对电商、短剧、影视和广告创作具有实用价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:19:40+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 9736,
           "hasFullContent": true,
           "hash": "6135d6009aeb7dae97c43555660ab63cc8218a0abc782ede75a15d55e98556a8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "SimpleX 推出 Tetra-1 预览版，将自然语言与蛋白质三维结构融入同一推理模型，使其能边推理边调整结构，并解释生命机制。团队通过跨学科协作、结构编码探索及严格筛选测试信息，检验模型能否推导而非记忆答案。据文中披露，模型数小时内推导出 PTP1B 隐藏口袋，部分测试成绩超过 AlphaFold 3 和 IsoDDE，显示推理有望弥补数据不足。其目标是帮助科学家筛选研究方向、加速药物研发，但模型仍会犯错，结论仍需研究者和实验验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:20:18+08:00"
         }
       ]
     },
@@ -183,9 +183,9 @@
           "contentLength": 2718,
           "hasFullContent": true,
           "hash": "d350c8133f72b62fb63e551b3009834b38f51559ca360a0741d8fddfd71221e7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "蚂蚁灵波开源触觉模型 LingBot-Touch，将视触觉、磁触觉和压阻式传感器读数统一为触觉 Token，供机器人动作模型使用。模型以4983小时真实触觉数据训练，通过遮蔽部分测点学习接触信息。532万参数版本在两款灵巧手、26项真机任务中验证，拉拉链成功率从原始读数方案的15%升至59%，并能沿用参数适配训练数据之外的灵巧手，提升精细操作与跨硬件应用能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:19:17+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 1312,
           "hasFullContent": true,
           "hash": "6741603ae4606dbf9a473898e2c27290949b5e6c8c4d6592797535f132376f24",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章汇集了利用设备运动传感器实现交互的开源项目：WatchPointer 将 Apple Watch 变成指向鼠标，AirCursor 让支持头部追踪的 AirPods 通过转头、点头控制 Mac 光标；subvox 采集做口型时的下颌和头部运动，通过小词表样本匹配尝试识别词语，无需语言模型，目前仍处于验证阶段，重新佩戴后可能需重新采样；LidTap 则利用部分 MacBook 内置传感器辨别屏幕敲击位置，触发快捷操作。耳机盒空中鼠标尚未开源。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:19:50+08:00"
         }
       ]
     },
@@ -219,9 +219,9 @@
           "contentLength": 4611,
           "hasFullContent": true,
           "hash": "0bee2ce419b8baacbf74d6dd84e83c74ba6b1636e366d6db4fb92f67ed04ff2b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位实测字节Seedream 5.5，发现其在手表时间连续编辑100轮的任务中，虽后期仍有畸变，但整体保真度优于GPT-Image 2.6。测试还覆盖多图广告合成、透明素材融合、电影感图像、密集多语言文字、动作迁移、图层拆分及GIF制作，强调精准编辑与多轮一致性对电商、设计和影视前期制作的价值。模型生成速度提升，官方称2K方图编辑单张约0.28元，不到Seedream 5.0 Pro的一半，目前已上线即梦、豆包和豆包工作。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:22:06+08:00"
         },
         {
           "title": "Agent自演进驶入“双轨时代”！openJiuwen RSI再升级，首发TTSE经验学习框架",
@@ -231,9 +231,9 @@
           "contentLength": 6610,
           "hasFullContent": true,
           "hash": "abdf78267b42a024d1f1538e9b0d308b6cc5ce44e286da848fb4e6ec6c87c176",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "openJiuwen推出TTSE双轨自演进框架，将Agent经验分为环境事实FACT与条件式技巧TIP，通过归因、退役、矛盾合成和归纳，持续验证与更新经验，减少环境变化导致的经验失效。五项基准评测显示，双轨机制可在不修改模型参数的情况下提升任务表现，消融实验支持其优于单轨方案。框架已落地WorkSwarm，办公案例中减少了试错与工具调用；综合办公评测中，任务表现提升3.81%，输出Token消耗降低30.09%。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:21:31+08:00"
         },
         {
           "title": "一图生成不穿模的驾驶视频，物理合理性Waymo实测第一丨港科广新框架已开源",
@@ -243,9 +243,9 @@
           "contentLength": 3088,
           "hasFullContent": true,
           "hash": "b0ff0ac60c196cded3e94bddd9a761b2f17e291fd5874144e10734096cd9241a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "港科大（广州）团队开源Motion Forcing，可凭单张图像和车辆轨迹生成驾驶视频。框架将生成拆为轨迹、深度视频和彩色视频三层，先确定空间与遮挡关系，再补充外观，并通过遮蔽部分轨迹训练物理推演能力，分别控制自车与他车运动。在Waymo的100段真实驾驶视频测试中，其动作连贯性和物理合理性优于Seedance 2.0与Wan 2.6，但画面质量逊于两者，密集小目标、严重重叠及不合理轨迹仍会导致出错。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:22:09+08:00"
         },
         {
           "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -255,9 +255,9 @@
           "contentLength": 2517,
           "hasFullContent": true,
           "hash": "4b2a38ea27ae180cc3fc27732be9ef6fdf122e57f997c80e78396a5b7bc55f39",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单征集将于11月16日截止，设置领航企业、潜力创业公司、杰出产品、杰出解决方案和创业新锐五类奖项。评选强调AI从技术验证走向规模化落地，重点考察技术创新、实际应用、市场认可及商业化成果，并结合业务、资本、团队与行业影响力等维度评价。结果将在MEET2027智能未来大会公布，大会将于12月9日在北京举行，聚焦AI交付与系统效能。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-11T11:20:21+08:00"
         }
       ]
     }
