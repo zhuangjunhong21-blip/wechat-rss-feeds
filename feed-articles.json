@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-12T10:18:50+08:00",
+  "generatedAt": "2026-11-12T10:24:17+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -21,9 +21,9 @@
           "contentLength": 811,
           "hasFullContent": true,
           "hash": "cecd8fb7f224b36a54943df2707e20b8abba5f381971497359af0c51e109e1f6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者结合榜单与实测比较Claude Fable 5.2和Gemini 4 Carbon，强调跑分仅供参考。Fable 5.2榜单领先，实际使用中表现精准高效，适合复杂项目、从零搭建系统和科研难题。Carbon在可视化、LoRA微调及写作等任务中表现出色，尤其文字自然，适合写作与长篇资料考据；但Antigravity CLI运行缓慢，影响体验，作者推测与基础设施问题有关，完整实测尚未完成。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:19:39+08:00"
         }
       ]
     },
@@ -51,9 +51,9 @@
           "contentLength": 9535,
           "hasFullContent": true,
           "hash": "3116ae76b4214ccc8911072dd294e22ac907d50ff5d0d0447a8918ef6f978ef3",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "苹果支持社区宣布11月20日永久关闭，现已转为只读，后续技术帮助转向官方支持网站。据媒体报道，黄仁勋再被曝婚外关系，英伟达董事会或讨论其去留，此前已启动独立调查。字节据报计划数周内推出类似Meta Muse的AI助手，张一鸣强调训练数据优先，预计2029年或2030年才能竞争最前沿模型能力。此外，腾讯上线元宝搜索，百度、阿里发布模型预览版，Stripe完成收购OpenRouter。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:19:55+08:00"
         }
       ]
     },
@@ -69,9 +69,9 @@
           "contentLength": 328,
           "hasFullContent": true,
           "hash": "0813032f60776ebfae09ca5c5eed2c07a9881bffad011f720a88b7911aa1b64c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 携手开源社，在 COSCon’26 第十一届中国开源年会邀请 Simplex AI 创始人张博，围绕“由本地 AI 驱动的专属个人智能体”进行分享。活动聚焦 AI Agent 进入个人设备后可能带来的新机会，探讨本地 AI 如何支撑个人智能体，以及人人拥有专属 AI 助手的未来可能性。分享时间为14:20至14:50，可扫描海报二维码预约；预告未披露具体技术方案、实现方法或实践结论。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:20:53+08:00"
         },
         {
           "title": "COSCon'26 特邀嘉宾公布｜徐旭初",
@@ -81,9 +81,9 @@
           "contentLength": 237,
           "hasFullContent": true,
           "hash": "51ec061de6b7e521adec003759fbc8921b63e53c72563aa22b3de1d6064c6abc",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 携手开源社，邀请人工智能开源生态学院创始院长徐旭初，作为 COSCon’26 第十一届中国开源年会特邀嘉宾，带来《开源生态育人新范式》主题分享。分享聚焦如何培养开源的下一代，探讨开源生态与人才培养结合的新可能，时间为14:00至14:20。活动可通过扫描海报二维码提前预约，公告尚未披露具体培养方法或结论。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:20:26+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 3011,
           "hasFullContent": true,
           "hash": "488c69e10f8fdb96c005276a306064137ffbb2996779cc888f88561cf87f729c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "EnConvo 以一体化入口整合多个 AI Agent，通过 ACP 协议接入 Codex 等工具，并支持插件、Skill、MCP 和 PopClip 扩展。功能覆盖屏幕操作、划词问答、截图、记忆管理、视频会议同传、网页开发及手机远程派发任务。作者体验后将其视为贴近工作流的“AI 操作系统”，认为适合多工具订阅者、重度 Mac 用户和远程小团队，但功能繁多也会增加普通用户的使用压力。其核心判断是，Agent 竞争正在从模型能力转向与用户工作流的融合。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:22:14+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 7321,
           "hasFullContent": true,
           "hash": "b0ef70aaca2d5e2c14b52082227518ef09a3365b2f0e4388ed6bee99463d60aa",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "未来医生MedGPT尝试将顶尖医生的隐性经验转化为可调用的决策系统，通过模拟多学科会诊、补充关键信息、比较治疗路径和检验风险，辅助复杂病例诊疗。在40例肺癌灰区病例、250名医生参与的对照实验中，AI辅助使医生方案平均评分提升24.1%。其探索指向高水平临床决策能力的规模化供给，但实验仅评估方案质量，尚未验证患者实际获益，仍需多中心及真实世界前瞻性研究。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:22:17+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 3255,
           "hasFullContent": true,
           "hash": "039c5c45369ca1778d82ed3430d28ada09ea504ed3eece089d6c205bb4d7df43",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者用 Fable 5.2 约6小时、消耗4.5亿 Token，经过7轮试玩反馈，制作出含连招、弹反、Boss和配音的国风3D动作游戏，并将素材压缩进约30MB的单个HTML文件。方法是先调研规划，用即梦生成设定图、Tripo转为模型，再调整动作、打击感和特效，并非一句话生成。作者将流程整理为涵盖工具调用、视觉核对、战斗设计与打包优化的Skill，以减少返工，并认为AI降低制作门槛后，网页游戏将迎来更多创作与分发机会。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:19:58+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 3636,
           "hasFullContent": true,
           "hash": "f30529e4682c644935a28b826c9dbafbc96e04d36c1ede8b45b0709ea2383c87",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "百度发布纯文本 MoE 模型文心 5.5 Flash Preview，总参数 280B、激活 14B，支持 1M 上下文，生成速度达每秒 200 token 以上。API 已上线千帆，权重计划于 11 月 25 日开源。模型展示了游戏开发、程序化建模、办公文件交付及视频制作能力，通过多路由、上下文缓存压缩、ECHO 投机解码和自动研究系统 ERNIE Evolve 优化推理效率。该版本仍处于后训练阶段，整体评测与前沿模型存在明显差距。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:21:32+08:00"
         }
       ]
     },
@@ -189,9 +189,9 @@
           "contentLength": 1333,
           "hasFullContent": true,
           "hash": "2a891bc91b65ca36b1a919a5aed31fe6a043af17bed14d0ce3acd98d60cc1dad",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "三个新开源项目分别面向手机运行桌面系统、AI 复刻软件和架构图生成。Henge 无需额外准备 Mac，即可在 iPhone 本地下载恢复镜像、安装并模拟运行 macOS，支持文字和文件共享。Craft Anything 通过观察、开发、检查、修改的循环复刻网站，在多种屏幕宽度下核对效果，Deep 模式可分析代码与文件。stack-diagram 可将自然语言技术描述转为架构图，自动处理官方图标、分组和连线，生成浅深色版本，并导出图片、网页或 React 组件。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:21:38+08:00"
         }
       ]
     },
@@ -207,9 +207,9 @@
           "contentLength": 3856,
           "hasFullContent": true,
           "hash": "2bbea6c21b2eecac082f05e34b99f117d057d310368dc33dce0173e2b2909b46",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "双十一期间，罗永浩在直播间以首月9.9元推广AI开发平台TRAE，展示生成短剧调研报告、将5万多字资料制作成两版PPT，以及从手绘草图开发跨应用语音输入工具。文章认为，AI市场正从售卖算力和对话额度转向交付可用成果，编程智能体通过托管代码、环境配置等环节，降低非专业用户开发工具的门槛。高中生开发羽毛球指导应用、创作者搭建老人守护助手等案例表明，清晰表达真实需求，正成为普通人将想法转化为应用的关键。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:22:08+08:00"
         },
         {
           "title": "上海造、香港连，中国AI加速走向全球",
@@ -219,9 +219,9 @@
           "contentLength": 4242,
           "hasFullContent": true,
           "hash": "3430ab8692229c5fd0fb37b6408b3ddd9e8a3c94bfce115ccac0eb1c1a00e1e9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI资本定价趋于审慎，行业竞争重心正从模型参数转向产业回报，企业面临的关键瓶颈是场景、资金、市场与规则的连接。上海依托研发、制造和应用场景推动技术落地，香港则凭借国际资本、法律服务与市场网络支持企业出海。WAIC通过沪港两地活动将资源对接常态化，12月10日至11日在香港举行的盛会将聚焦技术趋势、产业兑现及全球化，并设置投融资、出海、产业与人才专场，为中国AI企业连接全球资源。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:22:53+08:00"
         },
         {
           "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
@@ -231,9 +231,9 @@
           "contentLength": 3561,
           "hasFullContent": true,
           "hash": "4c8b5253793820f97bb42ed5f757bfd056fcb197dbfe0e9ada8280ae52e1b3c1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic启动IPO路演，计划11月19日登陆纳斯达克，完全摊薄估值从此前市场讨论的2万亿美元降至约1.4万亿美元，IPO与战略私募合计融资最高近904亿美元。公司三季度营收169.56亿美元，环比增长47%，但算力及基础设施费用占比升至58%，调整后营业利润率降至15%，另有约9000亿美元采购及租赁承诺。公司拟通过多芯片组合、直接租赁芯片及AI辅助研发降本，并拓展办公场景；收入能否覆盖巨额投入仍待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:23:02+08:00"
         },
         {
           "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -243,9 +243,9 @@
           "contentLength": 2517,
           "hasFullContent": true,
           "hash": "392457784644bcdb03e983802d9a95711f54472ba9ba8388a2954e45249ea9ea",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单征集将于11月16日截止，设置年度领航企业、潜力创业公司、杰出产品、杰出解决方案及创业新锐五类奖项。评选强调AI在真实场景中的交付能力与商业价值，综合考察技术创新、产品落地、市场认可、业务增长及行业影响力，关注近一年取得显著成果的企业、产品和创业者。评选结果将在MEET2027智能未来大会公布，大会将于12月9日在北京举行。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:22:59+08:00"
         }
       ]
     }
