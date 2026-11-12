@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-12T10:12:14+08:00",
+  "generatedAt": "2026-11-12T10:18:50+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -39,9 +39,9 @@
           "contentLength": 2254,
           "hasFullContent": true,
           "hash": "8bf6b31760b05cf5757bc2de01c98e5626d79ca137d2f50405b6678bf4965cf2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章援引媒体报道，称黄仁勋面临婚外情传闻、董事会可能讨论罢免及美国扩大芯片运输制裁等多重压力，并将其解读为政治与资本力量推动的“逼宫”。作者认为，英伟达业绩强劲，危机主要来自外部，而高度依赖黄仁勋、缺乏明确接班体系的治理结构放大了风险。文章警告，若其被迫离任，可能冲击公司战略执行与全球AI产业预期，甚至触发泡沫破裂。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:13:18+08:00"
         },
         {
           "title": "黄仁勋再曝婚外情，英伟达董事会或启动罢免/字节或推出「中国版Muse」/苹果支持社区将永久关闭",
@@ -99,9 +99,9 @@
           "contentLength": 6370,
           "hasFullContent": true,
           "hash": "4e0c156b83dc122bb6e5e6c047397f553113a19b7e3a6a2b79971024457c3719",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者推荐独立开发者订阅每月200美元的Antigravity Ultra，理由是可使用Gemini 4 Carbon和Claude Opus 5.5，且两者额度独立计算，并附带多智能体协作、云盘等权益。作者实测以Carbon主力开发、Fable 5.2收尾检查，认可Carbon的编程、中文表达及界面设计能力。同时提醒，Opus额度消耗较快，若能稳定使用Claude官方套餐，无须仅为Opus订阅；使用时应正规直订、避免第三方逆向代理。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-12T10:13:18+08:00"
         }
       ]
     },
