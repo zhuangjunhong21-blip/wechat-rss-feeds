@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-13T07:15:01+08:00",
+  "generatedAt": "2026-11-13T07:20:46+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 8,
@@ -21,9 +21,9 @@
           "contentLength": 1967,
           "hasFullContent": true,
           "hash": "b361eeb831c06447074f6d36de3a4ffb8e95616f63274467c8c614edf78ca906",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者通过图形生成、网页复刻、学术调研、纪实写作和图像模型LoRA微调等任务实测Gemini 4 Carbon，认为其能力接近Claude Opus 5.5。Antigravity的/swarm多Agent协作完成了论文分专题整理与核验，连接Colab和Drive完成了模型训练与成果同步。作者认为，长程任务竞争取决于模型、Agent工具链与云端算力的整合；Carbon补强了模型能力，但推理速度慢、订阅额度少仍限制日常使用。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:17:02+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 847,
           "hasFullContent": true,
           "hash": "ffb7db092a69b24697154c8bf22a58d39a67d04d95c60b646d66a7f6412ec856",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "豆包工作宣布接入 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等第三方模型，让用户在同一平台按编程、写作、数据分析等任务需求选择模型，减少工具切换。平台同步标注各模型的额度消耗倍率，便于比较成本，并推出指定时段优惠，下调豆包 2.1 Lite 和 DeepSeek V4.1 Flash 的消耗倍率。随着多模型进入办公场景，模型选择范围与使用成本正成为影响平台体验的重要因素。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:17:45+08:00"
         }
       ]
     },
@@ -69,9 +69,9 @@
           "contentLength": 279,
           "hasFullContent": true,
           "hash": "49ac9b2ec12c70534508b9251c857efa96c516df753bc999b338c9e7fc8502d8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 携手开源社，邀请模思智能 CEO 李世民在 COSCon’26 第十一届中国开源年会分享《MOSS系列模型开源生态构建》，时间为16:00至16:30。分享将围绕 MOSS 系列模型的开源探索，讨论模型开源后如何吸引更多开发者参与、推动协作并走向生态共建，让开源模型产生更大价值。标题称模型开源四天下载量突破百万，正文未提供相关数据细节或具体生态建设方法。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:16:57+08:00"
         },
         {
           "title": "AI+医药，能碰撞出怎样的新可能？",
@@ -81,9 +81,9 @@
           "contentLength": 308,
           "hasFullContent": true,
           "hash": "e7d6c0f419091dcc6bb51e8a8bd2a8105f2c2db5ac36ab622c8f0dd45f32d26a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale携手开源社，在COSCon’26第十一届中国开源年会邀请世界人工智能开源大赛（GOAI）总冠军、华东医药博士后王哲，分享AI药物分子设计的探索。分享将从GOAI大赛实践出发，讨论如何利用AI设计更有希望成为药物的分子，以及人工智能与医药研发结合的新可能。活动时段为15:20至15:50，原文未披露具体技术方法或研究结论。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:17:17+08:00"
         },
         {
           "title": "COSCon'26｜Jennie Sun：让 AI 真正落地",
@@ -93,9 +93,9 @@
           "contentLength": 313,
           "hasFullContent": true,
           "hash": "931538b1ec3f62f9c4f65a0caab2d61b6ace21839a5380f999f7d283309946bd",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 携手开源社，在 COSCon’26 第十一届中国开源年会邀请 Syntaxis AI FDE 专家 Jennie Sun，分享《从 Demo 到交付：FDE 如何打通 AI 走进产业的最后一公里》。分享聚焦 AI 演示惊艳却落地困难的问题，探讨 FDE 如何推动 AI 从技术演示走向真实业务交付、创造业务价值，时间为 14:50—15:20。原文为活动预告，未展开具体方法或结论。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:17:22+08:00"
         }
       ]
     },
@@ -111,9 +111,9 @@
           "contentLength": 667,
           "hasFullContent": true,
           "hash": "8c06059c52cd09f320b1de6cef646734c4a727e0ce86e0d0654f90ae301072a6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Founder Park 新一期 Idea Rush 将围绕“人和 Agent 怎样协作”展开讨论，关注从 AI 同事、多 Agent 团队到持续运转的 Auto Loop 等协作模式，以及它们在金融、创作、游戏和日常生活中的应用探索。上一期活动汇集审图、医药合规等五类实践，并讨论专业知识壁垒、真实需求与商业化路径。本期邀请开发者、创业者、技术负责人及重度用户携想法、项目和使用经验参与，强调全员交流，报名需审核，不接受空降。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:18:03+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 9483,
           "hasFullContent": true,
           "hash": "0a99d16d113203ceccfb05867abc8d94e51a976fbf969731a2a4b195c4a7f632",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "前字节、美团招聘负责人魏小康认为，顶尖大模型人才决定巨额算力投入的成效，亿元年薪并不贵，花钱却解决不了问题才是泡沫。随着基座模型竞争收敛，普通优秀人才已供过于求。他判断，模型能力与成本已支持应用落地，2027年AI应用将爆发，十余名善用AI的全栈人才可承担过去约两百人的产研工作。组织重心将转向招聘、文化与利益分配，大厂规模收缩和线上白领就业压力可能持续，机会与回报进一步向少数人集中。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:17:25+08:00"
         },
         {
           "title": "低垂的果实摘完后，电商下沉的新故事",
@@ -141,9 +141,9 @@
           "contentLength": 4678,
           "hasFullContent": true,
           "hash": "225cf830721cbcaff300ef3f67b57a77bc3693f420f8d7c839a13d2239d45a6b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "电商单纯比拼低价后，面临品质难辨、商家流量成本高和工厂承压等问题，竞争转向供应链深度协同。京喜通过类自营模式承担选品、运营、物流和客服，结合销售数据协助工厂备货与反向定制；在生鲜领域介入种植标准、保底包销、催熟和运输，同时承担销售风险。核心是按生产者能力重新分工，减少重复投入，让低价建立在可靠的品质、交付和服务之上，使生产者愿意持续投入、消费者放心购买。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:17:58+08:00"
         },
         {
           "title": "AI 改变中国出海品牌的第一年",
@@ -153,9 +153,9 @@
           "contentLength": 5581,
           "hasFullContent": true,
           "hash": "47265ec13a719de8f95ba9c70d92f2c25e41fa8a7629f5c70c2f459e55b320fd",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "2026年，AI正从文案、制图深入中国出海品牌的选品、合规与经营决策。卖家通过分析搜索、评论和成交数据识别未满足需求，指导产品研发；借助自动巡检、预警和文件生成，将合规风险管理前置。亚马逊则整合注册、上架、检测与仓储配送工具，降低多站点重复投入，让小团队也能复用首站经验、提前规划全球市场。AI缩短了新卖家的经验积累路径，但企业上限仍取决于产品力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:18:09+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 5103,
           "hasFullContent": true,
           "hash": "f9d9fafe9579f6584f5c09e96026200045941efabeb2859b738b4115e6a0cdf4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Personal Agent 的价值在于替用户把事办成，沿用日活、使用时长等争夺注意力的指标，可能驱使产品增加打扰，背离替用户省心的目标。作者提出，北极星指标应围绕用户交付了多少事务、Agent 办成了多少事务，并与收入关联。灵光公布的“托管量”是一个可能合理的方向，还可结合托管率、完成率和按事务计算的留存衡量价值，但托管事务的定义与统计口径仍待统一，人工接手频率则可作为性能优化指标。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:17:32+08:00"
         }
       ]
     },
@@ -189,9 +189,9 @@
           "contentLength": 1061,
           "hasFullContent": true,
           "hash": "fb9f7a0786a19b7b1ebe0ec8386b2b7dfe209e5c64c7c6dc955d563646f4b65a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "豆包工作等本地 Agent 可用于电脑体检、空间清理、性能与网络排查及系统设置。建议先检查磁盘占用、大文件、重复文件、旧安装包和开机启动项，按优先级列出待处理清单，说明风险与预计释放空间，经用户确认后再操作，清理后复查。示例中，电脑仅剩6.7GB空间，报告估算低风险清理可释放约48GB。此外，还可定时生成并更换壁纸、分析资源占用与网络卡顿原因，以及调整外接屏位置、默认应用和快捷键。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:17:50+08:00"
         }
       ]
     },
@@ -207,9 +207,9 @@
           "contentLength": 6091,
           "hasFullContent": true,
           "hash": "01f1e12e7a2eba740d542eb691d3e752a0578f05b5eb05a51b40bf65f2800c59",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "具身训练数据迈向百万小时，清洗、标注与后处理成为模型迭代的重要瓶颈。百度智能云百舸通过数据版本管理、工作流复用及算力调度，减少重复加工，并优化模型训练与部署。据百度披露，Droid-W和MegaSaM相机位姿恢复方案的GPU用时分别下降31%和43%；在单机8卡特定测试中，π0.5训练吞吐提升至原来的2.36倍，损失曲线基本一致。目前其已服务70多家具身产业链企业，核心是将工程经验沉淀为可复用流程，让同样投入支持更多轮研发。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:16:45+08:00"
         },
         {
           "title": "都2026了，腾讯居然又做了个搜索引擎？！",
