@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-13T07:09:04+08:00",
+  "generatedAt": "2026-11-13T07:15:01+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 8,
@@ -57,9 +57,9 @@
           "contentLength": 7666,
           "hasFullContent": true,
           "hash": "a8dc8b093ae442dd5f35d78c38561354443de49a8e5e3ce7a9174036758a1be7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale十一月组队学习推出21门课程，覆盖LLM、Agent、AI编程、FDE、AI硬件、AI Infra及AI4S七大专题。首次开设的Agentic RL Lab以GRPO和在线策略蒸馏实验为主线，通过两周原理学习、代码阅读与小规模训练入门，并提供多轮搜索与工具调用训练选修内容。其他课程涉及智能体开发、RAG、推理优化、GPU计算及科研实践。活动采用同伴交流共学模式，各课程时间重叠，每人限报一门，报名后须在本周内入群。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:10:00+08:00"
         },
         {
           "title": "开源4天下载破百万！MOSS CEO现身开源年会",
@@ -219,9 +219,9 @@
           "contentLength": 2309,
           "hasFullContent": true,
           "hash": "9ea184569a68318bce8a3a2660b3bfa328b61639c0b67e1f76ac51b220789b9a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "腾讯推出独立网站“元宝搜索”，试图融合传统网页搜索与AI问答。产品将广告单独标注并支持整块折叠，优先展示政府机构、品牌官网等权威信源，结合千亿级网页索引及公众号、视频号等腾讯生态内容，保留来源供用户核验。它支持文字、语音和图片输入，提供AI总结、连续追问、学术文献解读与翻译，并根据问题动态组合结果页面。其核心思路是兼顾原文查证与AI信息整理，但用户是否愿意重新打开独立搜索网站，仍有待观察。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:10:00+08:00"
         },
         {
           "title": "深度研究准确率提升4.97个百分点！清华腾讯让Agent学会“论功行赏”",
@@ -231,9 +231,9 @@
           "contentLength": 3696,
           "hasFullContent": true,
           "hash": "322b0284702dfb106a229cfe9fa699b3d90fae4980ac94c1be8559f78b874498",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "清华与腾讯研究者提出TreeOPSD，解决长程Agent强化学习中动作贡献难区分、固定信用在连续更新中失效的问题。方法从共享前缀的分支轨迹估计每轮操作贡献，将其转为有界教师目标，并依据当前策略与目标的差距动态调整更新力度，无需额外训练Critic或引入外部教师。在30B-A3B模型上，四项深度研究评测平均准确率达21.20%，较GRPO提高4.97个百分点，较同用树式采样的TreePO提高3.61个百分点。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:10:00+08:00"
         },
         {
           "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -243,9 +243,9 @@
           "contentLength": 2517,
           "hasFullContent": true,
           "hash": "19d2620cd0fa92800e10b01e6c4a0e72f6864b67af84ef6c99904c1fc94cd56a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单征集将于11月16日截止，设置年度领航企业、潜力创业公司、杰出产品、杰出解决方案和创业新锐五类奖项。评选强调AI从技术验证走向规模化落地，重点考察技术创新、真实场景应用、市场认可及商业价值，并结合业务、资本、团队和行业影响力等维度评价。创业新锐候选人原则上不超过40岁，所属公司成立不超过两年。结果将在量子位主办的MEET2027智能未来大会公布。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-13T07:10:00+08:00"
         }
       ]
     }
