@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-14T07:14:58+08:00",
+  "generatedAt": "2026-11-14T07:20:45+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -33,9 +33,9 @@
           "contentLength": 10042,
           "hasFullContent": true,
           "hash": "274bffd9d9122bb9e9053f7256c42a47904ca4f3cd98d995c87effd8471d91ab",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "科技资讯聚焦企业人事与AI产品进展：英伟达宣布黄仁勋辞任，由首席财务官临时接任，特朗普推荐库克；接近腾讯人士否认“裁员50%”，称管理层提出核心业务提效与AI原生业务探索两条路线。微信“看一看”测试短剧入口，支持找回观看记录。谷歌发布Gemini 4 Hydrogen，百度推出模型交易平台“词元所”，火山引擎发布提速降价的视频模型。Claude十月网站访问量环比增长23.78%，增幅超过ChatGPT和Gemini。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:20:02+08:00"
         }
       ]
     },
@@ -75,9 +75,9 @@
           "contentLength": 324,
           "hasFullContent": true,
           "hash": "b15fa5e33306b1d53b512f8f5ae23ab0291deb9b5edeaefeccd229073530589b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 携手开源社，邀请华为软件工程工具专家胡智勇在 COSCon’26 第十一届中国开源年会分享“AI Naive”软件开发，主题为“不卷 AI Native，做快乐的 AI Coding 创客”。分享提出，不必只围绕 AI Native 和编程效率展开讨论，也可换个角度，探索更轻松、有趣的 AI Coding 玩法。活动时段为17:00至17:30，原文为预约预告，未披露具体开发方法或实践结论。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:19:20+08:00"
         },
         {
           "title": "COSCon'26｜王琦：开源如何改变科研？",
@@ -87,9 +87,9 @@
           "contentLength": 295,
           "hasFullContent": true,
           "hash": "78c8114f7046672b1d31350c2b4cde067b4002c7d4df9ed9f58bc00bcf0c7baf",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 携手开源社，邀请中国科学院自动化研究所助理研究员王琦，在 COSCon’26 第十一届中国开源年会上分享《开源如何加速 AI 科学家的到来》。分享将围绕 AI 从辅助科研走向参与科学发现，探讨开源技术与 AI for Science 的联系、开源生态如何推动 AI 科学家发展，以及未来科研方式的可能变化。活动时间为16:30至17:00，可扫描海报二维码预约。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:18:58+08:00"
         }
       ]
     },
@@ -105,9 +105,9 @@
           "contentLength": 10358,
           "hasFullContent": true,
           "hash": "785da1c45e390504157e39991a1cbe28891ca486ac2dfc04b439a05d0f2d0325",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者以 Raphael AI 用户反馈的改图失真问题为切入点，实测 Seedream 5.5 的连续编辑、真实感、文字渲染和透明图输出能力。商业海报连续修改十轮后，非编辑区域与关键细节保持稳定，二维码均可识别；多图合成也较好保留人物身份、动作及场景关系。测试还展示了自然材质与人像纹理、密集中文小字和原生 RGBA 透明素材的表现。作者认为其适合反复改稿、中文商业物料和免抠图交付，但极小文字仍需人工检查。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:19:45+08:00"
         }
       ]
     },
@@ -141,9 +141,9 @@
           "contentLength": 2336,
           "hasFullContent": true,
           "hash": "61f7cb8c9242c68ea1a77a6b9b94843e4cd8940d253e4a2293f368da22a14807",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者通过三个实际项目测试 Qwen4-Max Preview：用 DuckDB 在26分钟内查询4800万条 HackerNews 数据，生成11种编程语言热度对比网页，发现 Rust 上升、PHP 退潮；调用四个 Agent，16分钟整理海外 AI 资讯并生成90分钟播客主持报告，附来源链接和性质标注；重新设计安克录音豆客户端，并接入本地语音转写模型。作者据此认为，该模型在数据分析、信息整理和开发方面已属国产第一梯队，但界面设计仍有瑕疵。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:19:12+08:00"
         }
       ]
     },
@@ -159,9 +159,9 @@
           "contentLength": 7444,
           "hasFullContent": true,
           "hash": "c945ed68736b45505dd602f51ae7c07ef4f1962bf0e76ea1691c20f0a9fc38fe",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章围绕所谓黄仁勋辞职事件，追溯美国对华AI芯片出口管制、第三国采购与远程算力租赁，梳理Megaspeed、黄乐及相关芯片交易网络，并串联情报监控、婚外情报道和董事会行动。作者将事件解读为美国政府内部政策分歧、国会收紧出口管制与媒体连续披露共同推动的政治风暴，认为私人关系成为施压抓手，最终促成黄仁勋离职。相关指控主要来自文中转述的媒体报道，政治“收网”则属于作者判断。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:19:39+08:00"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "contentLength": 4142,
           "hasFullContent": true,
           "hash": "d590f7bea1a4f97934e13c99f55dc34b45baac368fad42dfae879dae3d7b9f01",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "中国自主品牌乘用车份额从2020年的38.4%升至2026年三季度的70.2%，背后是车企与供应商长期研发、联合开发和持续迭代。国产空气悬架突破技术与量产门槛，推动高端配置进入主流价位，也让合资车企更多采用中国方案。问界称新M8按全新车型标准投入15亿元，升级底盘、感知、三电及座舱。文章认为，持续投入形成“产品放量、资金回投研发、技术服务新车”的循环，是中国汽车提升品质、建立竞争优势的关键。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:19:03+08:00"
         },
         {
           "title": "因私人关系退位的大公司CEO们丨晚点小数据",
@@ -189,9 +189,9 @@
           "contentLength": 1117,
           "hasFullContent": true,
           "hash": "a0ea8837536493b80aff6d635738630c9c8c037b426e6714adb8518bd673706f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "2000年以来，11位标普500公司CEO因职场私人关系离职，其中8位发生在MeToo运动后，反映董事会对权力滥用、偏袒及关系披露更为敏感。文章将黄仁勋离任置于公司治理与国家安全压力下讨论，指出其持股不足3.4%且无超级投票权，难以对抗董事会。英伟达的产品决策、CUDA生态、供应链合作及客户融资均深受其主导，失去创始人后，维持竞争优势并激励已积累财富的团队将成为重大考验。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:19:25+08:00"
         }
       ]
     },
@@ -225,9 +225,9 @@
           "contentLength": 4766,
           "hasFullContent": true,
           "hash": "14ba72c606ffb17957935879c252b86eb60f91553d511840922eff7364e1abad",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "未来医生与三甲医院团队以40例复杂肺癌病例，对MedGPT及250名三甲医院医生进行统一评测。MedGPT在750次方案比较中有88%获更高评分，辅助医生后总体得分提升24.1%。系统通过多专科智能体分析、证据匹配和模拟推演，生成包含适用条件、风险与验证步骤的多条治疗路径，供医生审阅。研究显示其支持复杂诊疗决策的潜力，但评测针对诊疗策略，后续仍需在更多临床任务中验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:20:18+08:00"
         },
         {
           "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
@@ -237,9 +237,9 @@
           "contentLength": 5751,
           "hasFullContent": true,
           "hash": "fa36fe84dca57a6c829534c934d05b25df841a796a216623f9113de278672eaa",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "openJiuwen发布RSI原生AgentOS，通过覆盖界面、网关、服务端及Agent执行与协作环节的扩展机制，让Agent按用户需求生成扩展包，在WorkSwarm中作为系统插件启用，并根据实际任务反馈持续修改。扩展支持热插拔、版本管理和故障回退，可实现桌宠、上下文监控、团队协作可视化、企业鉴权及运行环境适配等功能，形成从需求提出、开发安装到试用改进的递归自我改进闭环。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:20:10+08:00"
         },
         {
           "title": "谷歌追着A社打，Carbon刚出就发最强小模型：给旗舰打工Token消耗猛砍24%",
@@ -249,9 +249,9 @@
           "contentLength": 2845,
           "hasFullContent": true,
           "hash": "7241612fdc04d3b9730fcb005a9d1c5568d7678e343214bc4f7dac83973e8cfa",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "谷歌推出轻量模型Gemini 4 Hydrogen，接替3.8 Flash，重点提升编程、工具调用和长程Agent任务能力。据公布测试，其任务完成速度提升2.5倍，Terminal-Bench 4.1成绩从18.2%升至57%，虚构性陈述减少逾5倍。Antigravity新增协同调度器，由Carbon负责规划、Hydrogen负责执行，测试中成功率接近单用Carbon，配额消耗降低24%、速度提升19%。模型支持百万Token上下文，正向全球开放。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:19:48+08:00"
         },
         {
           "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -261,9 +261,9 @@
           "contentLength": 2517,
           "hasFullContent": true,
           "hash": "dbd585ef4eea7f5459c27c75f00fb404a60b356769e94088d92765f3e67dfbda",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单征集将于11月16日截止，设置领航企业、潜力创业公司、杰出产品、杰出解决方案及创业新锐五类奖项。评选聚焦AI从技术验证走向规模化落地，重点考察技术创新、真实场景应用、市场认可与商业化成果，并结合业务、资本、团队及行业影响力等维度评价。创业新锐原则上不超过40岁，所属公司成立不超过两年。评选结果将在12月9日于北京举办的MEET2027智能未来大会上公布。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-14T07:19:53+08:00"
         }
       ]
     }
