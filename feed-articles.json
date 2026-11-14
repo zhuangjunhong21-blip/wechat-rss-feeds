@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-15T07:13:07+08:00",
+  "generatedAt": "2026-11-15T07:26:09+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -63,9 +63,9 @@
           "contentLength": 2154,
           "hasFullContent": true,
           "hash": "bb65c9e4ce20dc2d97c0355fb7385d6fe0c143095d94251cdedc04d1eadf21d0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "哈佛研究生课程 CS2680 以 Mads 智能体系统贯穿14周，前半程学习多智能体协作、上下文与记忆管理、评估及成本权衡，后半程深入 GPU、推理调度、KV Cache 和量化优化。课程以五项递进作业替代期末考试，从监控界面、运行时开发推进到本地模型部署与全栈优化，强调智能体架构和推理基础设施协同改进。大纲、课件与阅读清单已公开，学习需具备系统课程基础及 Python、PyTorch 能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T07:25:04+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 6698,
           "hasFullContent": true,
           "hash": "46f13da9c6f3a88664e11634a4d379906501e668f2204dce60f1cbbb3b6459d5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "欧莱雅通过2020年启动的BIG BANG美妆科技共创计划，将外部技术接入研发、生产、包装和营销场景，已有100多个项目形成商业合作。柏垠生物、擎仓机器人、惠城环保和FansAI的案例展示了联合研发、产线验证、材料试点及品牌AI探索等不同路径。其核心机制是以真实业务需求匹配技术，通过内部团队持续共创和严格验证推动商业化，再借助供应链、全球市场及股权投资扩大应用。获奖只是起点，能否持续满足质量、安全、效率等业务标准，才决定技术的长期价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T07:24:44+08:00"
         }
       ]
     },
