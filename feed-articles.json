@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-15T07:26:09+08:00",
+  "generatedAt": "2026-11-15T11:20:14+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -21,9 +21,9 @@
           "contentLength": 3421,
           "hasFullContent": true,
           "hash": "52460a2e6c756ee15b61f77f97e7eb02f753ef4531c20a67c3c18dc4c49cfe90",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Claude Meetings 以可见参会者身份加入会议，实时生成可共同编辑的文档、白板、表格和行动项，会后自动归档，将 AI 从会后记录工具转为会中协作伙伴。Anthropic 正借此串联办公工具与应用连接器，进入企业工作流，缩短讨论到交付的时间差。但会议数据的存储、保留及管理权限仍待说明，全程留档也可能抑制试探性表达。文章强调，AI 摘要包含筛选，若成为唯一参考，可能遗漏重要判断；过度追求即时产出，还会压缩探索与建立信任的空间。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T11:14:38+08:00"
         },
         {
           "title": "马斯克回应聘用黄仁勋建议：那将是我的荣幸/余承东重申华为与赛力斯分工/OpenAI撤销独立机器人团队",
@@ -33,9 +33,9 @@
           "contentLength": 8169,
           "hasFullContent": true,
           "hash": "a4178722a7d5ae3a3de3a9f348aba4d07db56f43a85f17653ac96d7f5dd33387",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "英伟达员工呼吁黄仁勋复职，马斯克回应聘用建议称“那将是我的荣幸”；余承东重申华为负责问界核心技术、产品定义和设计，赛力斯负责工程落地、制造及销售服务。OpenAI撤销独立机器人团队，将研究并入通用模型研发，硬件与应用另归应用部门。其他动态包括DeepSeek开放搜索、文件和语音工具接口，LangChain融资3亿美元，以及两部门提出2030年新型储能装机达3亿千瓦、平均储能约3小时的目标。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T11:16:33+08:00"
         },
         {
           "title": "刚刚，DeepSeek 开放全家桶 API，人人都能打造自己的超级 App",
@@ -45,9 +45,9 @@
           "contentLength": 2901,
           "hasFullContent": true,
           "hash": "563318e59f3bb4fa94913bfdde8eaa95583714209a8beab552f45c107719e4d3",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek 将联网搜索、深度思考搜索、文件解析、链接阅读及语音交互等能力通过 API 向第三方开放，并提供可导入历史对话的开源聊天 Demo，帮助开发者复现官方 App 体验。搜索、OCR、语音识别与合成等能力也可独立调用，减少基础工具开发，但需额外支付工具调用费用。文章认为，随着 AI 编程与基础能力接入门槛降低，开发者可更专注具体需求，未来的“超级 App”可能是仅服务个人的高度定制工具。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T11:16:30+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 2016,
           "hasFullContent": true,
           "hash": "a371145a7699be521ed88a00a278b1c52d466864b764262547b740e4cbf6f390",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章汇集 Next Token 过去九期播客的30条AI认知，将Token视为新货币，认为AI降低创作门槛后，产品竞争更依赖品味、分发、注意力与信任。AI原生软件应让模型循环执行任务，工具可替换，但上下文与记忆应归用户所有；结构化输出稳定不等于判断正确。组织应走向个人全栈闭环，企业转型优先培训一号位。文末提供基于播客内容制作的Skill，供检索观点、挑选案例及辅助调研汇报。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T11:15:23+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 26480,
           "hasFullContent": true,
           "hash": "6c690708c4d12de99c2df756bf8f1f10f5f2547daa7c19ad890ee98e218ee2c1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "《潮汐战线》是作者借助 AI 开发并开源的《高级战争》精神续作，支持浏览器游玩和自定义 mod。游戏采用海陆空回合制战棋玩法，包含33个兵种、29位指挥官、6幕27关战役及24张自由对局地图。手册详解阵营差异、生产占领、兵种克制、地形防御、科技研究和陨星碎片强化等机制，核心是通过占领建筑积累资源、协同兵种作战，以占领敌方司令部或歼灭敌军获胜；自由对局支持电脑对战、同机轮流操作、结盟与战争迷雾。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T11:15:05+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 1783,
           "hasFullContent": true,
           "hash": "1b9ab018412f27e41a6c418323698f29cd1574a30a34a7c43d1cf9ddc0f3d4e8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章搜罗了五个开源项目：gif-factory 根据参考图、画风和动作要求，让 Agent 制作循环 GIF；cinecode 将创意转成脚本，通过代码生成画面、声音和剪辑并导出视频；claude-animated-shorts 主打55至70秒竖屏动画故事，支持按镜头调整；知了 Cicada 采集系统声音，提供实时双语字幕、会议总结、录音回听和文档导出，部分功能需配置 AI 密钥；MyGo Music 是跨平台桌面音乐播放器，可管理本地音乐，并通过插件扩展音乐来源等功能。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T11:16:04+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 7096,
           "hasFullContent": true,
           "hash": "fa63f6d79c84c16e9cc6d513cf4727b84531a176d7e4e691d20f1514c2c5e496",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "联想宣布在张家口建设万全混合词元母本工厂，首期规划15000P异构算力集群，预计年产2000万亿Token。方案结合绿电、私有与公共Token服务、端边云协同及多模型路由，按任务质量、时延、成本和数据边界调配资源，并从设备、机房和业务调度三级优化效率，目标是百万Token综合成本优化70%。母本工厂将验证并推广调度与运营方法，核心是以有效任务交付和长期成本可控衡量AI基础设施价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T11:15:16+08:00"
         },
         {
           "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
@@ -165,9 +165,9 @@
           "contentLength": 1827,
           "hasFullContent": true,
           "hash": "01b00d06e8ffbd0440b11e6c8d53207dcff027e8dfe8b8d6b69bffb0501206f9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "折纸飞机教学网站Foldable Flight登顶Hacker News，收录109款纸飞机，提供难度筛选和详细视频教程，机型包括可飞91米的“萤火虫5号”和能扇动机翼的“翼龙”。创始人Kyle Boyer从小设计纸飞机，坚持不使用剪刀、胶水和胶带，曾众筹出版教程，并在2022年红牛纸飞机世界锦标赛特技项目中并列第七。他将纸飞机视为“功能性雕塑”，探索一张纸中尚未发现的几何解法。网站也引发网友分享童年记忆与代际传承经历。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T11:15:37+08:00"
         },
         {
           "title": "轻量模型搜索能力追平前沿闭源：重新定义环境，刷新多模态搜索能力",
@@ -177,9 +177,9 @@
           "contentLength": 3209,
           "hasFullContent": true,
           "hash": "2db03ff5afba9dc5cba590a5ad541a754a5ea1ba4b6d999f7c1ac5b294bf2209",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "阿里巴巴Accio等团队提出多模态搜索框架Neos，通过构造必须依赖中间视觉证据的多跳任务、区分失败轨迹中的关键错误与有效探索，并交替训练搜索策略和证据接口，提升小模型持续获取、筛选与核验图文证据的能力。Neos-9B和35B在十项基准上的均分达60.7和64.7，35B距Gemini-3.1-Pro工作流差2.4分，单项与GPT-5.6-Sol工作流持平；9B训练期间平均工具调用减少约32%。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T11:16:01+08:00"
         },
         {
           "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -189,9 +189,9 @@
           "contentLength": 2517,
           "hasFullContent": true,
           "hash": "cec378010158b52f79958e20715f6ac6e4370612d888fb9bf34e8e8fc4473e4e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单征集将于11月16日截止，设置领航企业、潜力创业公司、杰出产品、杰出解决方案及创业新锐五类奖项。评选强调AI从技术验证走向规模化落地，重点考察技术创新、真实场景应用、市场认可与商业化成果，并结合业务、资本及行业影响力等维度评价。结果将在MEET2027智能未来大会公布，大会定于12月9日在北京举行，聚焦AI从演示走向交付、从单点能力走向系统效能。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-15T11:15:43+08:00"
         }
       ]
     }
