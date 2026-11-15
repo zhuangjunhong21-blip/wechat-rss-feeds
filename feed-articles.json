@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-16T07:09:06+08:00",
+  "generatedAt": "2026-11-16T07:13:13+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 8,
@@ -21,9 +21,9 @@
           "contentLength": 4491,
           "hasFullContent": true,
           "hash": "ab61e4fddfff3450137eef1f7b65cb4812aa1858197fdbe3f30456e183a3f11f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者将Qwen4-Max Preview接入Claude Code，测试三维网页、网站复刻、地形视频、传记写作、医学分割训练和桌面软件六类任务。结果显示，其复杂工程能力较前代明显提升，能通过探针实测、反复调试和验证完成交付，科研任务也能识别评估偏差并披露局限；但写作、审美及首轮代码精度仍有短板。作者认为它已具备实用的Agent工程能力，但高质量交付依赖终端反馈和大量Token消耗，性价比仍待正式定价检验。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:11:06+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 2770,
           "hasFullContent": true,
           "hash": "0d3371205b4f6fe01b283b48f63f2a0112808ffda040bd38049381d978b57cc0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "CAIM1 是一款主打影像来源认证的相机，计划通过安全芯片在拍摄时生成加密证明，写入去中心化存储网络，并打印含时间、位置及凭证钱包访问口令的纸质小票。它采用开源硬件与3D打印外壳，目标是在录制4K 60帧视频时实时完成签名，计划2027年第一季度推出，但尚缺实拍与定价。其探索反映了AI时代真实影像举证成本的上升，也揭示了硬件认证的边界：能证明影像来源，不能证明场景未经摆拍或内容就是真相。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:10:34+08:00"
         },
         {
           "title": "AI 打车，拿到「大结果」了吗？",
@@ -51,9 +51,9 @@
           "contentLength": 2718,
           "hasFullContent": true,
           "hash": "956347487a59730c044f393f2282d167864f09d4e37805fc48eed44c7488ad76",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Uber 一周约3.2亿笔叫车与配送订单中，外部AI助手仅带来约500笔外卖和4趟叫车，显示演示热度尚未转化为使用习惯。原生应用已能快速完成熟悉任务，Agent的需求理解、授权确认及应用跳转反而增加操作成本。国内千问借生态打通与补贴获得大量订单，但优惠结束后的留存仍待验证。生活服务的高频不会自动变成Agent的高频，关键在于能否持续比现有应用更省事。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:10:34+08:00"
         },
         {
           "title": "14 万人请愿黄仁勋回归，谁比英伟达更急",
@@ -63,9 +63,9 @@
           "contentLength": 3568,
           "hasFullContent": true,
           "hash": "d8d1e8dd561ccc149ab66690801434fbf28b349c6dc810233904cfb5769fde4d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "黄仁勋辞任后，要求其复职的请愿两天内获14万人签名，马斯克等科技界人士公开支持。挽留背后是供应链、创业融资与公司管理对他的高度依赖：关键交易依靠个人信用，重大投资多由其拍板，约60名高管直接向他汇报。AI创业公司担忧融资收紧，机构股东要求审慎换帅。董事会尚未确定继任者，黄仁勋仍面临独立调查、国会作证及国家安全相关调查，其能否回归最终取决于调查结果、政治因素与股东对换帅代价的权衡。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:11:15+08:00"
         },
         {
           "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
@@ -75,9 +75,9 @@
           "contentLength": 3030,
           "hasFullContent": true,
           "hash": "160bded5763b3e2287b21da35497c27059e39f11bb44ecfa5f2ef296558308a3",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "SpaceX 星舰第15次完整试飞中，Ship 42 释放26颗星链V3卫星，绕地球14圈、飞行逾22小时后返回，首次被发射塔机械臂成功捕获；超重型助推器则因发动机提前停机，放弃回收并自毁。此次成功验证了轨道飞船返回发射地并由机械臂回收的关键能力，为完全重复使用、降低太空运输成本及月球和火星任务推进奠定基础。但飞船能否再次飞行仍待检查，轨道加注、长期可靠性和高频运营等难题也尚未解决。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:12:22+08:00"
         }
       ]
     },
@@ -93,9 +93,9 @@
           "contentLength": 2378,
           "hasFullContent": true,
           "hash": "66632b6769ba4584bdaf6efb8108df8a00ac76cea93642da6678be5c63901300",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "北京大学与天津大学团队提出并开源三维空间智能基准 SpatialScout，涵盖80个室内场景、3140个目标物体，要求视觉语言模型自主移动摄像头、关联跨视角物体，借助三角测量持续构建物体中心地图。评测兼顾定位精度与目标覆盖率，最佳模型全目标平均IoU为41.71%，高精度定位仍困难。轨迹分析提示，有效观察、跨视角对应和几何工具使用比增加交互更关键，低几何残差也不保证定位正确。数据来自仿真环境，真实场景表现尚待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:10:34+08:00"
         }
       ]
     },
@@ -111,9 +111,9 @@
           "contentLength": 9637,
           "hasFullContent": true,
           "hash": "1312b6dd6a44d010093caa566dfab2d7d49737f3ed85587e51b13458a5090ab5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "蚂蚁灵波首席科学家沈宇军认为，通用大模型虽可能控制机器人，但成本、实时响应和物理感知要求决定了具身原生模型仍不可缺。端侧负责实时操作，云端承担复杂规划与数字服务。灵波通过输入输出抽象适配不同硬件，强调以训练反馈寻找数据质量、成本与规模化的平衡，沉淀感知工具链和数据基础设施。落地需结合通用底座、场景后训练与配套工具链。他预计，未来一年模型路线和数据标准将出现首轮收敛，加速行业分化。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:12:02+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 3353,
           "hasFullContent": true,
           "hash": "23e087ac9c5b6005a3d15c1f434c3224c2460cb4d30d8e1ec41047139bacbed8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "刘小排称，经与 Dodo Payments 团队协商，通过其专属邀请链接注册可享 3.9%＋0.40 美元费率，免国际卡及订阅附加费，20 美元跨国订阅扣费为 1.18 美元。平台采用 MoR 模式，支持国内个人开户，代办全球税务合规及防欺诈，集成微信等多种支付方式，并内置按量、积分计费和许可证管理。提现满 1000 美元免打款费。作者建议出海开发者配置多个支付网关，以降低收款中断风险。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:10:34+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 10006,
           "hasFullContent": true,
           "hash": "56585c3589a9a25285f6936207ee32a0339b3be542ed0b1dedfdbc8f8b54cb7d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "围绕黄仁勋因婚外关系风波辞职，受访者认为，英伟达可能同时失去战略决策核心、供应链协调者和向 AI 行业提供融资与信用支持的关键人物。管理层趋于谨慎、出口监管收紧，或冲击公司收入及算力企业扩张；AMD、博通可能短期受益，但难以化解行业资金瓶颈。中国模型厂商面临高端算力更难获取、成本上升的压力，国产芯片适配或加速，产能仍是制约。嘉宾同时认为，模型能力提升与使用成本下降，仍可能孕育新的应用机会。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:11:14+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 3260,
           "hasFullContent": true,
           "hash": "035d10f1f51e3460e5af128ee20c39ba2b031a0d06ec85ce01aa3bf6cf5e883b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Claude Fable 5.2 发布不到一周，开发者已用它制作网页游戏、3D 动画、绘画和音乐。案例包括单条提示词驱动、耗时约八小时完成的 FPS 游戏，用 Blender 制作并渲染的 4K 短片，以及实时绘制油画笔触、包含数百场景的交互网页。文章借这些案例提出，强大的编程能力正扩展至视觉与声音创作，模型能通过代码构建场景、控制镜头和生成交互体验，但部分成果仍需较长运行时间、付费算力或外部工具配合。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:11:26+08:00"
         }
       ]
     },
@@ -183,9 +183,9 @@
           "contentLength": 810,
           "hasFullContent": true,
           "hash": "14b1244ea35746dc96f21ef55b243ecb42b8daaad3968e2f1b37518738b1db8d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位公布MEET2027智能未来大会第二批8位嘉宾，包括百度王颖、分子之心许锦波、蚂蚁健康顾进杰、相干科技金贻荣，以及面壁智能、商汤科技、太初元碁和第六镜科技的相关负责人，议题聚焦AI产业落地，覆盖AI4S、医疗Agent、量子计算、多模态模型、AI基础设施、国产算力与工业检测等方向。大会将于12月9日在北京金茂万丽酒店举办，计划汇集近30位学术界、产业界和创业一线嘉宾，开展全天分享与现场交流，目前已开放报名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:11:48+08:00"
         },
         {
           "title": "全球AI音乐榜第一易主！中国黑马首次上榜就干翻Suno",
@@ -195,9 +195,9 @@
           "contentLength": 6066,
           "hasFullContent": true,
           "hash": "3ac3a80a8d10eb7971857b9c1fa0688a5315b6239bcaba5d510bceb564b04cfe",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "中国团队ACE的音乐生成模型ACE Music v1首次登上Artificial Analysis音乐人声榜，以1160分领先Suno v6共16分。实测显示，其生成速度快、曲风覆盖广、人声较自然，但中文演唱仍有提升空间。模型采用Symbolic CoT技术，先生成可编辑乐谱再生成音频，支持Agent参与创作。ACE通过面向大众的Music和专业创作者的Studio形成产品布局，并利用用户授权的专业创作轨迹推动模型迭代。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:11:18+08:00"
         },
         {
           "title": "历史首次！SpaceX成功回收星舰飞船，绕地球14圈后精准入库",
@@ -207,9 +207,9 @@
           "contentLength": 1992,
           "hasFullContent": true,
           "hash": "509754e1c56f483ec4617221b277f14cc57be345b7af485e9640d874251304b7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "SpaceX第15次星舰试飞首次实现上面级飞船从轨道返回后由发射塔机械臂捕获。飞船绕地球14圈、飞行超过22小时，完成离轨制动、大气层再入及动力着陆，最后约18秒内完成点火、翻转减速与捕获。原定两级回收计划未能实现：首次尝试返塔捕获的V3助推器因返航点火异常，自动取消捕获并转向墨西哥湾，最终触发飞行终止系统解体。SpaceX称应急程序按设计执行，故障原因仍待调查。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:11:42+08:00"
         },
         {
           "title": "2B模型拿下98.4%成功率！浙大VLA新成果让机器人学会状态变化",
@@ -219,9 +219,9 @@
           "contentLength": 2819,
           "hasFullContent": true,
           "hash": "fc2abfd4fa78605c2cc6d6f7fca316d32a95e39c3ab7f94d0280d2c731a38f3b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "浙江大学OmniAI团队提出VLA-Δ，将机器人操作中的物理状态变化转化为显式预训练监督，改善动作符合流程却未完成目标的问题。模型基于2B视觉语言骨干，通过结构化变化槽位、稠密光流和未来状态差异文本，学习任务进展、空间位移及接触关系变化，并据此生成连续动作。在LIBERO上平均成功率达98.4%，真实双臂机器人五类任务平均成功率为68.0%，表明直接学习状态变化有助于提升机器人操作能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:11:57+08:00"
         },
         {
           "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
@@ -231,9 +231,9 @@
           "contentLength": 2517,
           "hasFullContent": true,
           "hash": "b7f3e31aa539d7d8fc65d04a520826656779a326d1b8632a71f8cb3c2cbbf1c7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位2026人工智能年度榜单征集将于11月16日截止，设置年度领航企业、潜力创业公司、杰出产品、杰出解决方案及创业新锐五类奖项。评选聚焦AI从技术验证走向规模化落地，重点考察技术创新、实际应用、市场认可、商业化表现及行业影响力，旨在梳理年度产业实践，为行业与决策者提供参考样本。结果将在MEET2027智能未来大会公布，大会定于12月9日在北京举行。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:12:17+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -243,9 +243,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "e5cefa38e31a23047709e7799fad59928e42d0aaad7b4fc7a8c979ed9c4df1ee",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位招聘AI产业、AI财经商业、AI产品三个方向的内容人才，覆盖编辑、主笔、主编层级，工作地点为北京中关村，面向社招及应届毕业生，接受可转正实习。岗位分别聚焦芯片与云计算等AI基础设施、创投财报与商业动向，以及AI应用和硬件终端，要求具备相应领域认知、采访写作或结构化表达能力。团队提供主编级导师指导及薪酬福利，应聘者需将简历和代表作品发送至招聘邮箱，并注明应聘方向与姓名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-16T07:12:08+08:00"
         }
       ]
     }
