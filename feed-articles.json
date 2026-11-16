@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-17T07:09:37+08:00",
+  "generatedAt": "2026-11-17T07:18:42+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 13,
@@ -21,9 +21,9 @@
           "contentLength": 1184,
           "hasFullContent": true,
           "hash": "bb27b41fb8cae1d4ce77a8a9da813df54939f98f635ef9eb31b652237fe58632",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者对比了视频生成模型驱动的纯AIGC路线与通过前端代码渲染视频的Vibe Video路线，并以自己制作的台湾岛3D地理视频及他人的实景渲染、主机装机视频为例，认为Claude Fable 5.2强化了代码生成专业视频的能力，可在半小时内完成初版，再通过多轮交互完善细节。作者据此看好纯语言模型在视觉创作中的潜力，同时强调专业视频仍需核对数据、地标和细节，不熟悉的严谨领域应请专业人士审核。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T07:15:20+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 4777,
           "hasFullContent": true,
           "hash": "19fd3397e363cca0710400c9405a2d9534e7d4dfe83941b97b7e20d857bef5a8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "APPSO 在 WorkBuddy 中对比测试腾讯 Hy4 flash 与 DeepSeek V4.1 Flash，发现两者在十项代码和办公任务中的交付质量整体相近，前者耗时和成本更低。交互式 3D 帆船案例中，Hy4 flash 用时半小时、预计花费 0.23 元，DeepSeek 用时一个半小时、细节更丰富。文章认为，评估 Agent 应综合质量、耗时和成本；日常办公、研究及原型开发适合用 Hy4 flash，复杂软件工程则更推荐 Hy4。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T07:16:45+08:00"
         },
         {
           "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
@@ -81,9 +81,9 @@
           "contentLength": 3535,
           "hasFullContent": true,
           "hash": "06553a7b872e2f05d44d0f1258933dc7bd0d355f981768115251f9bb1374dd35",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Google Cloud Tech 工程师 Annie Wang 公开多模态 Agent 记忆课程及开源项目 FashionMind，主张按数据性质设计记忆：精确事实存关系数据库，动态偏好存语义记忆，音视频只保留提炼结论。新会话开场前并行读取事实与偏好；明确指令实时写入，偏好由后台异步总结，避免阻塞语音。项目还通过正则匹配商品、等待记忆加载后接通音频、使用本地会话状态，权衡延迟与连接稳定性。核心是明确存储边界与读写时机，而非将所有信息塞入向量库。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T07:15:45+08:00"
         },
         {
           "title": "Datawhale招人啦！8个岗位开放中🐳",
@@ -111,9 +111,9 @@
           "contentLength": 8870,
           "hasFullContent": true,
           "hash": "2ae275b42b325d39849b8a3e2438f2ec9c430cd856300e00cf09d4f53f739461",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Founder Show展示了8款面向全球市场的AI产品，覆盖个性化学习、虚拟宠物、Agent社会经济系统、游戏创作、视频生产、授权存证、概率预测及营销增长。核心思路包括：围绕用户目标动态调整学习路径，为人与Agent协作重构游戏引擎，用可复用代码统一视频制作，以模型之外的硬件和协议记录授权，通过多Agent独立分析校准预测，并用真实回答数据持续优化GEO。共同关注点是模型能力增强后，产品如何凭借场景理解、基础设施和持续迭代形成商业价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T07:16:05+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 6539,
           "hasFullContent": true,
           "hash": "bf8af510b6768dc466d7c90ccaeba450da8d2e66a2a6f97366664831090a33ba",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "阿里发布 Qwen4-Max，作者认为其补齐了 Qwen 超大规模旗舰的短板：前端双盲榜位列全球第六，多项代码修复和长程任务评测超过同场对比的 Claude Opus 5.5。模型通过混合架构降低 Token 消耗，并以持续交付机制支持复杂任务中的逐步校准；缓存命中价低至每百万 Token 0.5 元，Work360 单任务均费下降58%。其黑盒软件复刻和默认前端审美仍有差距，建议日常使用 High 档，明确验收标准并迭代完善。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T07:17:01+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 3048,
           "hasFullContent": true,
           "hash": "c0fe56f2c87ade5d348ba855a38c1689e3536c3a0c0d08397551418104a375f4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者实测在 Workbuddy 中免费使用腾讯 Hy4 flash，约一小时搭建马斯克访谈资料网站，将英文转写整理成中文文章，补充 B 站视频，并通过多轮提示迭代出话题热力图、企业关注趋势、英语学习等模块，随后开发配套 MCP 和 Skill，支持检索访谈与视频时间戳。其方法是结合开发部署技能，明确用户画像，再让模型自主提出优化方案。作者认为该模型速度、质量和性价比提升明显，但任务跑偏时仍需人工纠正，产品也需持续迭代。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T07:17:07+08:00"
         }
       ]
     },
@@ -273,9 +273,9 @@
           "contentLength": 5625,
           "hasFullContent": true,
           "hash": "8534abbc24fecc7a2fc9b9a2ef6c6bfa2d9d03e3898b9bedac57086862a54309",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "光轮智能推出RoboFinals RL Envs，为机器人模型提供可交互的强化学习仿真环境，展示超过8分钟的汽车维修任务，将灵巧操作、工具使用、柔性物体交互及连续状态变化纳入同一流程。其SimFoundry底座结合物理求解、真实参数测量和Agent驱动生成，并由专家参与校准，提供可判定的任务目标与训练反馈。环境与独立评测共享任务定义，支持策略反复试错、优化和检验，回应物理AI从单一动作走向复杂长程任务的训练需求。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T07:16:21+08:00"
         },
         {
           "title": "Claude破解千页哥德尔手稿：80年前他差一步拿菲尔兹奖",
@@ -285,9 +285,9 @@
           "contentLength": 6065,
           "hasFullContent": true,
           "hash": "a5e188d306de355f273751000e4648525e84be9ef95b3bed546b89d818263ae4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "赫尔辛基大学逻辑学家冯·普拉托将团队多年转录的1009页哥德尔手稿及研究资料交给Claude，数日内得到650页解析。据其描述，Claude串联跨页线索，修正关键定义，重构了接近完成的选择公理独立性证明，并梳理出663个定理及14个未被探索的逻辑学主题。约400个定理可直接通过Coq验证，约200个经补充条件后成立，约50个错误。相关论文、解析与验证代码尚未公开，外界暂无法独立复现。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T07:15:58+08:00"
         },
         {
           "title": "长视频推理耗时减半！中大、港理工等提出免训练压缩新方法｜NeurIPS'26",
@@ -297,9 +297,9 @@
           "contentLength": 3890,
           "hasFullContent": true,
           "hash": "db3ccdff8953c9172ea4a5901aa12a1907350b3843374edf8e5c7146b69e37ee",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "中山大学、香港理工大学等团队提出免训练视觉Token压缩方法V-CAST，在送入语言模型前完成剪枝：依据相邻帧特征变化分配预算，结合特征差异与激活强度筛选帧内细节，并保留原始时空坐标。研究在6个模型配置、10个基准上验证，Qwen3-VL-8B在32帧输入下仅保留25%的视觉Token，仍保持98.2%的表现；768帧音视频实验保留97.1%的表现，总推理耗时降低50%，显示合理分配时空预算可兼顾理解能力与效率。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T07:16:36+08:00"
         }
       ]
     }
