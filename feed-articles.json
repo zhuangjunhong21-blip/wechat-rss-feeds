@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-17T11:16:41+08:00",
+  "generatedAt": "2026-11-17T11:23:36+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 13,
@@ -51,9 +51,9 @@
           "contentLength": 3286,
           "hasFullContent": true,
           "hash": "00e1eaa2c894ba54af5d4ea47253c2814bfbed68cf9319f24610aab8891f0017",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章称，黄仁勋因婚外情风波辞职后，正与心腹探讨重返英伟达担任CEO，科技高管、投资人及逾16万请愿者推动其回归，但请愿者身份标签未经严格核验。文章认为，支持者主要担忧其离开削弱开源AI扶持、供应链协调及长期技术押注能力。尽管短期产品与产能已有安排，回归仍受制于董事会、独立调查及外部反对，结果尚未确定。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T11:18:05+08:00"
         },
         {
           "title": "突发｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时",
@@ -63,9 +63,9 @@
           "contentLength": 8728,
           "hasFullContent": true,
           "hash": "a4a77f132d376f33240e47712390112e04a6e3104446cc5c3d2cec40ae7c6e2a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "科技资讯聚焦企业人事、智能硬件与服务故障：黄仁勋据报考虑重返英伟达担任 CEO，复职请愿签名超16万，董事会仍在寻找继任者；苹果首款智能眼镜计划明年6月发布，主打 Siri 调用第三方应用，无 AR 显示，依赖 iPhone 运行，进度仍可能延后；微软持续超30小时的服务故障已恢复，初步归因于网络升级遗留问题。此外，HomeView 首批实测暴露语音控制和账户切换问题，SpaceX 首次用发射塔接住从轨道返回的星舰上级飞船。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T11:18:53+08:00"
         }
       ]
     },
@@ -93,9 +93,9 @@
           "contentLength": 204,
           "hasFullContent": true,
           "hash": "66b267b0332146c31d1411674f4681425aceccedc4fb481500448a78ca341584",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 开放新一轮招聘，共有8个岗位，涵盖前端开发、社区运营、活动运营、人事行政实习等方向，工作地点位于杭州云谷中心。招聘面向有意加入 Datawhale 的求职者，完整岗位信息需通过文中二维码查看。感兴趣者可了解具体岗位后投递，也可将招聘信息推荐给身边正在寻找工作或实习机会的朋友。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T11:18:05+08:00"
         }
       ]
     },
@@ -183,9 +183,9 @@
           "contentLength": 3954,
           "hasFullContent": true,
           "hash": "61c2a6b049ab28b94864db33ea1d35917403239f6d7a120cc016600fbe6c133a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "AI生成的单文件HTML可用极小体积呈现可交互的3D场景，关键在于借助Three.js封装图形接口，并通过程序化生成，用代码描述模型、贴图和声音的生成规则，再由浏览器实时渲染。文章以1.4MB游戏和97KB水世界为例，建议创作时明确场景、禁用外部素材、拆分独立组件，并兼顾光照氛围、交互和性能；还可让独立子Agent只看截图提出美术问题，反复修改。作者认为，AI降低了普通人创造3D世界的门槛，其价值也在于创作乐趣。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T11:18:50+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 11892,
           "hasFullContent": true,
           "hash": "b69ce2739fdb3113cbce839da5848922cdcf27500a7f639e46eafe06451235ec",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "乌兰察布凭借低温、风光资源和低电价，成为AI算力建设重镇。巨额服务器投资与交付压力推动建设方提前备货、模块化施工、增加人手赶工，全球设备供应链却日益紧张。为保障服务器持续运转，数据中心配置大量冗余供电、散热和消防设施，并依靠严格运维降低故障风险。但建设热潮对当地民生的带动有限：施工岗位随完工消退，长期运维岗位稀少，运营税收和电力消纳贡献不及想象，城市配套与居民生活未同步改善。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T11:18:05+08:00"
         }
       ]
     },
@@ -237,9 +237,9 @@
           "contentLength": 1939,
           "hasFullContent": true,
           "hash": "62d70f631bff5b4f8679bc6b74568f5f06021434f97d7f01069fd77f41145149",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "阿里发布 Qwen4-Max，采用原生视觉 MoE 架构，支持百万 token 上下文，在编程、长程任务及行业评测中较上一代提升。模型通过稀疏注意力等架构改进，将每个 token 的激活参数减少约 25%，同任务 token 用量降低 24%–49%，在自建 Work360 评测中平均任务费用下降 58%。长任务支持先交付可用首版，再根据反馈迭代，应用覆盖建模、办公、工业编程及科研。模型已上线千问平台，AGI Bar 免费开放至 11 月 22 日。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T11:18:33+08:00"
         }
       ]
     },
