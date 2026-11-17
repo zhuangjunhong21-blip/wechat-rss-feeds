@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-18T07:09:05+08:00",
+  "generatedAt": "2026-11-18T07:14:13+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 11,
@@ -21,9 +21,9 @@
           "contentLength": 885,
           "hasFullContent": true,
           "hash": "48289a746a23431ff643ec4cc6f7f219977e558ef869b27d49e95832677d57df",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者称，Anthropic近期再次加强Claude账号封控，收紧对不受支持地区及相关企业的使用限制，国内用户面临直接封号和频繁身份验证。文章区分Persona与Portal两类KYC：作者曾用国内护照通过前者，但称后者使用国内护照基本会被封号。同时，苹果礼品卡充值后订阅Claude的方式也遭遇苹果与Claude双重风控。作者认为，稳定使用Claude需要解决网络、支付、手机号及身份验证等问题，并建议做好账号可能短期失效的准备。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:09:38+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 5380,
           "hasFullContent": true,
           "hash": "4c568f05814ad899c4a121f0ba5828d324f5312cffb23725a76d49d5454abafd",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek 免费版新增长对话续聊、单次输入和每日对话额度限制，且暂无会员订阅。高频用户可在官方开放平台充值，通过电脑端 Harness 或手机浏览器端 Chat Demo 使用 API，并迁移历史记录。API 按 Token 用量计费，历史上下文也计入输入，搜索等工具另收费，普通问答成本低于智能体任务。Chat Demo 数据保存在本地，导入会覆盖现有记录，跨设备同步需另行配置。也可通过接入 DeepSeek 的第三方平台付费使用，但需关注积分规则与实际账单。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:10:54+08:00"
         },
         {
           "title": "曝英伟达董事会不考虑让黄仁勋回归/iPhone Duo新增人脸解锁/AI演员方桃子代言美瞳被罚款",
@@ -51,9 +51,9 @@
           "contentLength": 8675,
           "hasFullContent": true,
           "hash": "1fa0479347617678b6f9ae34013be4a14fe57b50e15a15ea91fc97a1d098ed25",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "科技资讯涵盖AI、手机与产业动态：据报道，英伟达董事会暂不考虑让黄仁勋回归，仍聚焦相关调查；iPhone Duo测试版新增外屏人脸解锁，但支付等操作仍需指纹或密码。阿里Qwen4-Max与腾讯Hy4 flash主打降低任务成本，DeepSeek因算力不足限制长对话。AI角色“方桃子”运营方因虚构美瞳使用体验、未经审查发布医疗器械广告，被罚68288元。另涉及腾讯AI业务转型、车企成本上涨及多项产品与文娱消息。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:10:54+08:00"
         }
       ]
     },
@@ -69,9 +69,9 @@
           "contentLength": 2341,
           "hasFullContent": true,
           "hash": "efaff04ec63e4bddc0c698f0184765c171964a6998075619e22a19f852edba0f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Datawhale 与 RadixArk 联合推出大模型推理工程实战教程 zero-to-sglang，提供中英文内容，旨在衔接理论概念与工业级源码。课程分五阶段，涵盖推理服务部署、计算与显存原理、从零实现 mini-sglang、真实 SGLang 源码解析，以及性能分析和开源 PR 协作。全部文字课程已上线，配套视频持续更新。学习者需具备 Python 与 PyTorch 基础，无需 CUDA 经验，部分阶段无需 GPU 或可在 CPU 上调试。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:09:38+08:00"
         }
       ]
     },
@@ -87,9 +87,9 @@
           "contentLength": 11246,
           "hasFullContent": true,
           "hash": "7a85931679d41c22cf2facca031541231e95b6124330fecac6377855d4fbe68b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Photon 为 Agent 提供手机号、邮箱及消息通信 API，接入 iMessage、WhatsApp 等渠道，获450万美元融资，5至8月收入增长10倍。其底层数据表明，Personal Agent 增长快，但普遍留存不足，主动交互多停留在通知，陪伴类产品黏性更强。公司计划扩展身份认证、行为分析、支付和记忆能力，以通信合作关系、部署经验和稳定性建立壁垒，并通过品牌建设与产品驱动增长获客。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:10:23+08:00"
         }
       ]
     },
@@ -105,9 +105,9 @@
           "contentLength": 1963,
           "hasFullContent": true,
           "hash": "c582a12c57deda0e7c735487441eb1b26f2a236e5cfd75520c437f602790b224",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者以年轻创业者遭遇网暴为引子，对比王思聪与追觅创始人俞浩受到的舆论待遇，认为人们更容易接受依靠家庭获得财富，却会对白手起家的成功者苛刻挑刺。作者将这种差异归因于自尊防御：他人的出身可以成为差距的借口，而相似起点者的成功更易引发怨恨。他借舍勒的观点解释贬低成功者的心理，并提醒创业者保持独立判断，专注产品、交付和商业结果，避免为迎合旁观者耽误自身行动。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:11:33+08:00"
         }
       ]
     },
@@ -123,9 +123,9 @@
           "contentLength": 2352,
           "hasFullContent": true,
           "hash": "b58fb9b8f6a17fc85089f796d9b5a9ce3328294bc0e7c913ece47adeb52af261",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Qwen4-Max正式版沿用GDN与QSA混合注意力等架构，参数规模扩至2.4T。作者实测发现，其思考更短、Token消耗更低，但智能性提升未达到跨代预期。视觉推理、路径规划和MG叙事动画表现较强，完整通过六关推箱子测试，解决了预览版第五关的死角问题；前端美感、3D物理逻辑仍有不足。三国杀项目功能基本完整，但界面需多轮优化。作者认为其处于国内头部，普通办公场景够用，复杂任务与Claude、GPT仍有差距，并期待后续开源。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:11:04+08:00"
         }
       ]
     },
@@ -141,9 +141,9 @@
           "contentLength": 10742,
           "hasFullContent": true,
           "hash": "4408340c266aff45f056acfd5d74c993c4b40bba2063ef314e996e04983c8248",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "卡兹克重返淘宝设计团队体验一天，发现AI已覆盖创意素材、知识查询和设计交付。团队自研TaoDesign，将多年业务知识与规范转为风格库和Skill，支持生成可编辑交互稿、数字用户测试及代码交付。实操中，他因过度描述、忽视业务而受挫，改为逐页生成并沿用规范后效率明显提升。评审与访谈表明，AI接管重复执行后，设计师更需要理解用户、清晰描述方案并作出判断，团队也正从交付设计转向交付设计能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:11:33+08:00"
         }
       ]
     },
@@ -159,9 +159,9 @@
           "contentLength": 11882,
           "hasFullContent": true,
           "hash": "98bd5619537a0863bbde08c6167e3b760ae5594e0a48d650ec4b9c02935d26b8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "LiberAI 创始人刘松铭认为，基模将占据通用感知与规划层，创业公司的机会在于与硬件紧密结合的物理操作，因此选择模型、本体和数据采集的全栈整合。其世界动作模型 Liber-0 通过混合视频、手套与真机数据训练，验证了零样本操作及人手技能迁移；实验显示，手套数据可替代约75%的真机遥操数据并降低成本。公司计划用两至三年跑通可复制、可盈利的标杆场景，以成本和部署效率竞争，长期面向个人机器人市场。核心不确定性是技术转化为商业价值的速度与路径。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:09:38+08:00"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "contentLength": 907,
           "hasFullContent": true,
           "hash": "4ffb770fedd8fe46ee94c7093a1d7ab29105b1e01af39962658751d07e26c36d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "据原文，辞职五天的黄仁勋在X上表示，只要董事会认为合适，他愿重返英伟达担任CEO。美国商务部与司法部同时公布Megaspeed调查进展：商务部于2024年启动出口管制调查，2025年5月向英伟达调取销售记录；英伟达于6月将其列入禁售名单，美方随后联合新加坡执法人员开展最终用途核查并约谈其CEO。此后，司法部接手主导刑事调查，两部门表示将合作追究可能存在的犯罪行为。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:09:38+08:00"
         }
       ]
     },
@@ -195,9 +195,9 @@
           "contentLength": 1886,
           "hasFullContent": true,
           "hash": "d918c727436c1391eb5093e524ea961011efbf3d18f51bb25342cc3c25771f24",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "百智办公 MonkeyAI 是由 MonkeyCode 发展而来的开源团队 AI 工作台，已有 5000 多个 GitHub Star。它将员工客户端与企业管理后台整合，支持统一配置文本、图像和视频模型，按成员或分组共享知识库、Skills、专家及 MCP 连接器，并通过积分额度、调用统计和扣费记录管理消耗。员工登录后可使用授权资源完成海报编辑、PPT 制作、文档处理和数据分析等任务。团队可在自有 Linux 服务器部署服务端，通过 Windows 或 macOS 客户端接入。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:10:54+08:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "contentLength": 4817,
           "hasFullContent": true,
           "hash": "0929861536a3be9faf8d75e6dcaf50ecd1595948ef376c70b75b9addfe9f5b4b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "小红书REDpath校招技术沙龙围绕AI时代的岗位变化、新人成长和技术价值展开。公司开放产品工程师专项，提供AI使用资源，推动工程师参与从需求到交付的全流程，并探索推荐Agent和Data Agent。技术负责人强调，应根据实际问题和业务收益选择技术，避免盲目使用大模型。世界杯画质优化、3D空间照片等案例展示了新人承担核心项目的机会；算法决策则需兼顾社区生态与用户体验，必要时放弃短期时长收益。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:10:23+08:00"
         },
         {
           "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -225,9 +225,9 @@
           "contentLength": 793,
           "hasFullContent": true,
           "hash": "d6c260d869c04e2ffd0112b543ad11c7a21a872e51d5640c847891c6cf20f145",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "李沐正式出任Aimotion联合创始人兼CTO，同时继续担任Boson AI同职。Aimotion面向汽车等高价值、长决策周期行业提供AI销售与营销方案，近期完成数千万美元A轮融资，由BAI Capital领投。两家公司将融合底层模型能力与真实产业场景，联合研发产业级世界模型及商业AI Agent，通过建模商业规则、客户决策与业务因果关系，支持场景推演、趋势预判和长期规划，推动AI从被动问答走向自主执行复杂销售业务。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:10:23+08:00"
         },
         {
           "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
@@ -237,9 +237,9 @@
           "contentLength": 3869,
           "hasFullContent": true,
           "hash": "b196b2ddd88686d512c361cf16aeec8909b33b4ddcdd0b1db093271435180fd3",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位公布MEET2027智能未来大会第二批嘉宾，涵盖百度、分子之心、蚂蚁健康、相干科技、面壁智能、商汤等企业，议题涉及个人超级智能、AI蛋白质设计、医疗大模型、量子计算、高效多模态模型及算力基础设施。大会聚焦AI从模型能力走向可交付系统的变化，强调以系统效能和真实产出衡量技术价值，探讨产业落地及底层支撑。活动将于12月9日在北京举行，同期发布人工智能年度榜单和年度AI趋势报告，趋势案例征集截至11月20日。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-18T07:10:20+08:00"
         }
       ]
     }
