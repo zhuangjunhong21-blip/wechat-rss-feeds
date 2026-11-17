@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-17T07:18:42+08:00",
+  "generatedAt": "2026-11-17T11:16:41+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 13,
@@ -147,9 +147,9 @@
           "contentLength": 2093,
           "hasFullContent": true,
           "hash": "c3bd1a22e90a422b7710699e77ef5fcaf559cdd9db1df1a5b28394e7fb3e1e1d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "腾讯混元发布Hy4 flash，支持多模态和百万长度上下文，API价格较Hy4降低，并接入WorkBuddy，11月30日前限时免费。实测显示，其响应和任务完成速度更快、输出更简洁，适合办公及高频重复工作，能完成表格还原、物理实验演示和交互场景生成；但前端、3D及后端表现较正式版下降，复杂任务需多轮引导，视觉推理仍有重复操作。作者认为，flash与正式版补齐了不同任务场景的选择，但与海外顶级闭源模型仍有差距。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T11:14:42+08:00"
         }
       ]
     },
@@ -219,9 +219,9 @@
           "contentLength": 8501,
           "hasFullContent": true,
           "hash": "495e9ba959654e97ea877ed10e784d0b1d8d9769c20f65faab3c151785ad3404",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者通过团战复刻、13角色30秒一镜到底、真人表演、动漫、广告及动效素材等案例，实测Seedance 2.5 flash，认为其效果接近完整版2.5，生成更快、重试更少。720P视频API约0.99元/秒，比完整版便宜约34%，但最高仅支持720P、参考图限10张。制作方法包括用Agent拆解分镜、批量调用API、拼合角色参考图并检查结果。作者建议日常试错和量产用flash，重要镜头再用完整版Draft模式验证并升级清晰度。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T11:14:42+08:00"
         }
       ]
     },
@@ -255,9 +255,9 @@
           "contentLength": 2489,
           "hasFullContent": true,
           "hash": "91e60c468bb3553cd47145341f9650de79678d1fe7e155d0080806d562227606",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章盘点了8个近期新开源、Star增长较快的项目：S2Arm将自备Switch游戏转换到苹果设备；DeepSeek chat-demo提供可接入个人API Key的聊天网页；Yogurt在本地转写会议、生成纪要并检索记录；SuperMimic借助世界模型训练人形机器人模仿动作；Agentes Chat让AI参与团队群聊与任务协作；HolyArrs自动管理影音入库和字幕；islandcn提供React灵动岛组件；Abyssal Garden用约97KB的HTML构建可潜游的3D海底。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-17T11:14:40+08:00"
         }
       ]
     },
