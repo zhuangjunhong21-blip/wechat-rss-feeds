@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-19T07:09:58+08:00",
+  "generatedAt": "2026-11-19T07:22:01+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 7,
@@ -21,9 +21,9 @@
           "contentLength": 3368,
           "hasFullContent": true,
           "hash": "72718077d85add81c62de19276e307c2daa0bb9be650274e965b918357090717",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "英伟达在黄仁勋辞职后举行首场财报会，董事会明确无意恢复其CEO职务，并启动永久CEO遴选、设立常设合规监督委员会。2027财年第三季度营收达1158亿美元，同比增长103%，数据中心业务及算力需求仍强劲。公司通过大规模股东回报稳定市场，既有长期资本承诺也使客户生态短期难以松脱。但超预期业绩无法消除治理疑虑，失去创始人后，技术迭代、合规与对云巨头的议价能力能否延续，仍待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:20:53+08:00"
         },
         {
           "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
@@ -33,9 +33,9 @@
           "contentLength": 4374,
           "hasFullContent": true,
           "hash": "bcaf67ea018aac2d9b335f44ee1afa1c7ce570c8f3bc733b5b21554b4bbedc4a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "GPT-6.2 Astra 与 Sol 主打专业能力提升和成本下降，在科研、办公及3D设计等测试中表现突出，但开发者反馈其长期任务易中断、偏离目标、解释不清且指令遵循不足。作者通过三组图形与交互项目实测，认为负面评价有所放大，模型表现取决于任务场景，部分问题可能与外围执行框架有关。文章强调，推理降价不等于项目总成本降低，真实工作中的效率、可靠性和交付质量比跑分更重要，用户应结合自身工作流程判断模型是否实用。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:20:50+08:00"
         }
       ]
     },
@@ -51,9 +51,9 @@
           "contentLength": 4895,
           "hasFullContent": true,
           "hash": "720e17f5c83c613fa2571e3aa573c160c199abc205e703cf295da6daded0252c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者用搭载 RTX Spark、配备128GB统一内存的华硕 ProArt GR1X，部署本地多模态模型，经 Codex 和飞书桥接搭建全天在线的远程 Agent，并通过五轮手机指令完成动画制作、素材替换、事实核查及1080p精修，保留可复用脚本。文章还提出，将工作流中的纠偏反馈整理为 SFT 样本，将可验证的工程任务用于 GRPO 对齐，让轻量或定制模型逐步适应个人需求；强调本地推理不按 Token 计费、文件留存本机，以及复用工作成果的价值。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:14:45+08:00"
         },
         {
           "title": "WorkBuddy 教师课程正式上线 Datawhale官网",
@@ -63,9 +63,9 @@
           "contentLength": 520,
           "hasFullContent": true,
           "hash": "1a2438705781a9d818274b4d2b48f541c87f2672ebb49a16abeb731023935a6b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "江南大学联通主义学习研究团队制作的 WorkBuddy 教师实操课程已上线 Datawhale《AI新手村》“教师赋能”栏目，同系列图文教程在 GitHub 公开。课程共11节，覆盖备课与课堂产出、科研与资料研读、行政办公与效率提升、进阶协作与移动办公四大方向，涉及教案与教学PPT生成、论文提炼、知识库搭建、成绩统计、任务自动化及技能复用等。课程结合图文教程、视频演示和操作步骤，部分提供练习模板，帮助教师将AI用于教学、科研与日常办公。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:15:21+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 487,
           "hasFullContent": true,
           "hash": "db32cdaba0766af7d18a7e2c288bd2114cadf16d616c5f45739d512ded9b1645",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "随着 Agent 从聊天助手转向接手任务、加入团队乃至独立运行工作流，人与 AI 的协作关系正在变化。新一期 Idea Rush 将围绕 AI 同事、多 Agent 分工和持续运转的 Auto Loop 展开交流，探讨这些模式在金融、创作、游戏及日常生活中的产品机会。活动面向开发者、创业者、技术负责人和重度用户，鼓励参与者携带项目、经验与问题共同讨论，报名需审核。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:20:23+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 5337,
           "hasFullContent": true,
           "hash": "3c56ce64cfea519b8c38efeecd1381b9801de495effb7a3d76db73b0d0ec7812",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "范式智能发布有声视频生成模型Phai-M1，支持文生视频、图生视频、首尾帧过渡和多素材参考，可同步生成对白与环境声。文章称16GB显存即可运行，生成15秒720p视频约需3分钟。作者通过八组案例测试，认为人物情绪、环境氛围和音画同步已有可用效果，但存在表情过度、火焰偏大、水流静止等问题，复杂打斗稳定性不足，建议生成15秒左右的短镜头再剪辑。模型在昇腾平台完成后训练优化，权重尚待开源，本地部署有望降低短剧试错成本。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:15:17+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 5326,
           "hasFullContent": true,
           "hash": "07e73270be5358e8ddb78f9c13dcbbf651225b672935f12a3c5d2df0235a7713",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者分享通过Mirasim使用Claude Fable5.2完成短视频剪辑、Three.js海底场景、开源项目优化和代码生成宣传片的实践，认为其能处理复杂、长时间任务。五项任务消耗约140美元额度，叠加充值活动实际支出约70美元。Mirasim支持按量付费、接入本地Agent、多会话并行及Bot分派任务，并提供跨会话上下文和任务管理。作者无法技术验证模型纯度，认为工具更适合有Agent经验者，也提醒关注偶发延迟、中断及敏感代码经第三方转发的风险。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:20:40+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 5105,
           "hasFullContent": true,
           "hash": "01ff210e22f3777a96a962d983088d3147f9cee0636970fd33044f45f0951b57",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "可灵推出Kling Image 4.0，支持原生8K图像、单图最多2000字、70余款预设字体，以及最多10张连贯组图和超长详情页生成。实测涵盖多人物剧照、中文排版、系列海报、多图商品融合及故事分镜，展示了细节清晰度和跨图一致性。模型采用理解与生成统一的Transformer架构，结合最高15K Token指令处理、结构化视觉语言和原生Agentic能力，旨在承接更完整的创作需求，减少复杂设计的修改成本。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:14:14+08:00"
         },
         {
           "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
@@ -165,9 +165,9 @@
           "contentLength": 2580,
           "hasFullContent": true,
           "hash": "09dc697c8f3042164b52afe323476971681ed5b02888abfb5d342235888ebd69",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "范式智能首次发布自研通用语言模型Phai-A1和真人影视视频生成模型Phai-M1。据官方介绍，A1面向代码开发与智能助手场景，支持原生百万Token上下文，单张RTX 3090即可运行，同等质量下响应速度较同参数级模型快8至10倍；M1支持音画同步，约3分钟生成15秒720P视频。两款模型均基于华为昇腾完成全链路训练优化，已接入范式旗下产品，计划近期在Hugging Face和ModelScope开放权重。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:14:18+08:00"
         },
         {
           "title": "5个追踪器替掉动捕棚：上海AI Lab把具身数据采集做成了可穿戴管线",
@@ -177,9 +177,9 @@
           "contentLength": 4607,
           "hasFullContent": true,
           "hash": "1d2057e2f46f037017250cfcdf6a085e93cbe851b456f784f2757ef2f7fa7d74",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "上海人工智能实验室发布EgoExplorer，以5个追踪器、数据手套和头戴相机，在无需改造环境的情况下同步采集视觉、全身运动、手指姿态与触觉。其C³管线通过标定、运动补全及物理约束重建全身动作，评估中身体点误差较最强基线降低71.9%。团队已发布100小时真实场景数据及重建代码，初步验证了多模态联合生成和仿真人形机器人动作迁移的可行性，真实机器人学习收益仍待验证。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:14:48+08:00"
         },
         {
           "title": "活动报名｜MEET2027最新嘉宾阵容，12月9日北京见！",
@@ -189,9 +189,9 @@
           "contentLength": 5584,
           "hasFullContent": true,
           "hash": "f33a438df43f2adbcd78e6618af62d6e255aeb4826671bbd657f783a664656db",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位主办的MEET2027智能未来大会将于12月9日在北京金茂万丽酒店举行，主题为“智行合一·驭见未来”。大会聚焦AI从模型能力走向可交付系统产出，探讨智能体融入组织、机器人进入产线及底层算力支撑等议题。目前已确认王颖、方汉、王金桥、许锦波等16位嘉宾，覆盖大模型、企业转型、医疗、生物计算、具身智能、AI基础设施和量子计算等领域。活动将安排全天议程及交流时间，更多嘉宾仍在确认中，现已开放报名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-19T07:14:48+08:00"
         }
       ]
     }
