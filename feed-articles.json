@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-20T07:14:35+08:00",
+  "generatedAt": "2026-11-20T11:46:19+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 3848,
           "hasFullContent": true,
           "hash": "8f637ae3be1b3250e746db36f71154f971c1f08039f02aeafe803338fe858771",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "语音编程的价值在于融入工作流，而非单纯替代打字。作者以网易叭哥说为例，展示三种用法：在编程工具的规划模式中长篇口述需求，自动去除口头禅、处理改口并整理结构；配合鼠标快捷键和小声拾音，边验收页面边提出修改；将中文口述直接转为英文工程指令。工具还支持跨应用适配、术语词库和录音失败重试。作者认为，这些能力有助于补足需求上下文、减少返工和输入切换，免费不限额度则降低了尝试门槛。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:43:36+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 4837,
           "hasFullContent": true,
           "hash": "af5cda0bcc82b6506fce843189d38db83c42622034902aa3e544d885e3b84d89",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic以813.4亿美元公开发行规模登陆纳斯达克，却遭AI加速派与安全派联合反对。文章梳理其营收增长、9009亿美元算力承诺，以及利用Claude加速下一代模型研发的“闭环”策略，指出公司一面警告递归自我改进的失控风险，一面将其作为融资卖点。其“先赢得竞争才能保障安全”的逻辑，加上创始人与长期利益信托掌握控制权，引发权力集中争议。文章强调，拯救人类的使命感不能成为扩张权力、要求用户无条件信任的理由。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:41:11+08:00"
         },
         {
           "title": "GTA6发售，99分登顶榜一/Anthropic今晚上市，发行价83美元/腾讯WorkBuddy日活破千万",
@@ -51,9 +51,9 @@
           "contentLength": 13069,
           "hasFullContent": true,
           "hash": "558290ca16708444eb4ea0fd00bc07e7c338bb4aaa48adfb2f2dc00f20ea5cf1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "《GTA 6》登陆 PS5 与 Xbox Series X|S，媒体评分达99分，评测肯定双主角叙事与开放世界体验，也指出操作和显示问题。Anthropic确定IPO发行价为每股83美元，估值约1.5万亿美元，业务增长仍伴随高额成本与亏损。腾讯WorkBuddy日活突破千万，带动云收入增长35%，算力投入同时加重现金流压力。其他动态包括谷歌发布主打复杂任务与低成本的Gemini 4 Neon，以及AI办公多模型接入、视频生成升级和企业智能体落地。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:43:01+08:00"
         },
         {
           "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
@@ -63,9 +63,9 @@
           "contentLength": 3731,
           "hasFullContent": true,
           "hash": "284258408deeabec9eada379ffb6290c99c9cb89f283d550687ce168efb8bca7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "谷歌发布主力模型 Gemini 4 Neon，并同步上线应用、API及编程环境，面向软件工程、知识工作和科学推理。模型支持百万上下文，每百万输入、输出 Token 分别收费3美元和15美元。官方测试显示，其综合能力、Agent编程及长上下文检索表现突出，但部分代码与图表任务仍落后于竞品。文中同题实测中，Neon耗时略长于Claude Opus 5.5，成本却不足其一半，核心竞争力是以较低价格提供接近顶尖水平的能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:43:40+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 3260,
           "hasFullContent": true,
           "hash": "f5bedb3cc9bb5b9d6a7f58f7125d9b154331d2f3c390216b401688e4c6403ef8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "2026年APEC工商领导人峰会上，多位中国企业家围绕AI商业落地、科研和机器人展开讨论。李彦宏强调应用创造最终价值，企业需打破岗位边界、数字化隐性经验并打通工作流；TCL称相关AI应用近三年创造约25亿元综合效益。科研中，AI可辅助预测、减少试错，人仍需提出和验证问题。人形机器人正从单一工位积累场景数据，扩大部署仍受泛化能力制约，未来还需应对制造、可靠性、售后、安全及算力挑战。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:41:11+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 15186,
           "hasFullContent": true,
           "hash": "4eb4d93e173228ae46accd859c449c3bb2d4ef784685dd968e5a9ab3a80fbdfd",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "商汤联合创始人林达华认为，模型竞争应围绕用户价值建立迭代闭环，权衡成本、通用性与专业性。商汤选择优化几百B规模模型，转向办公和视频创作，Seko聚焦完整创作流程后用户增长7至8倍。同时，公司保留20%资源投入无产品出口的前沿研究，在部分空间智能任务中发现模型越大、数据越多反而表现越差。他强调，长期竞争力来自原创积累，模型训练的新瓶颈是构造真实任务环境，智能也需要语言之外的感知与交互。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:41:45+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 3285,
           "hasFullContent": true,
           "hash": "bbe6df83a5840edb3701b380d7d30d254ad11a98521f3c900c767164430ec542",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者实测搭载64GB统一内存的华硕ProArt GR1X，运行本地大语言、图像及视频模型，语言模型解码约每秒47至49个Token，可完成运营数据分析等办公任务。通过cpolar内网穿透，将本地API开放给其他电脑、手机和语音硬件，作为个人算力中台；再用ComfyUI串联剧本、分镜、图像及音视频生成，完成12镜头短片。作者认为，小型主机已能覆盖日常办公与短片创作，但设备价格仍高，64GB版本运行大型视频模型需使用压缩版本。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:42:35+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 5078,
           "hasFullContent": true,
           "hash": "3a1638d5c6447338878208e8255d7d28d78a7a5e20a38a25ecc844cb035db1ad",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "企业消费正从流程线上化走向智能体协作，目标由压低采购价格扩展到减少跨系统操作和管理时间。美团企业版与亚信科技已跑通双 Agent 从差旅申请到预订的流程，让企业自身工作流直接调用外部服务，员工在关键节点确认。美团也将 Agent 用于收票、咨询和审核。文章指出，A2A 能连接任务，但授权、责任与异常处理仍需探索；消费入口迁移后，服务商能否获得订单，最终取决于供给、价格、企业规则适配和履约能力。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:41:32+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 2957,
           "hasFullContent": true,
           "hash": "b8770c4a8c6ad82335f8657cb1ea4b320b6312e1384f7369ae0cd50eeab79871",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者实测在WorkBuddy中搭配Hy4 flash、仓颉Skill和需手动安装的video-downloader Skill，将45分钟访谈蒸馏为可调用的Skill，耗时约9分钟，并用其回答人生意义、流量等问题。此外还测试了游戏开发和长截图文字提取。作者认为，Hy4 flash凭借多模态、长上下文、较快速度及免费额度，适合视频蒸馏和较简单的开发任务，但能力与Fable5.2仍有明显差距，免费额度用完后会消耗积分。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:41:41+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 1846,
           "hasFullContent": true,
           "hash": "624c10b61f26a6d96587853604b288552041b491b3843aba503a8a3fb77f7f39",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "围绕《GTA 6》主机首发及PC版时间未定的背景，文章盘点四个开源项目：Veyra可处理视频、采集卡及PS5串流画面，尝试超分和补帧；AnyPS5尝试将PS5游戏转换为电脑程序，但能否稳定运行《GTA 6》仍待验证；chiaki-ng可将PS4、PS5串流到电脑或Steam Deck；KytyPS5-GTA专门优化PS5版《GTA V》的模拟运行，作者已提供帧率测试，其结果并不代表《GTA 6》的性能。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:42:44+08:00"
         }
       ]
     },
@@ -189,9 +189,9 @@
           "contentLength": 4591,
           "hasFullContent": true,
           "hash": "75ed725e41f7e4a7fdbd813ba343bd7a4527a4c17f5e7e3a868cfad18a6c8db2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "具身机器人走向产业现场，面临算力成本、仿真与真机差距、跨设备适配及稳定运行等工程难题。华为云以昇腾云提供弹性算力，通过CloudRobo贯通数据管理、模型训练、仿真验证、真机部署和持续迭代，并发布CloudRobo-WM1.2世界模型。同时联合高校、机器人企业及行业客户，推动工具、数据和方案复用，配合渠道与资金支持降低研发和落地门槛。核心思路是从单点技术竞争转向全链路协作，让机器人在真实场景中持续稳定作业。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:42:01+08:00"
         },
         {
           "title": "英伟达RTX Spark迷你主机来了！书桌角落放一台，全家MacBook的AI活它全接",
@@ -201,9 +201,9 @@
           "contentLength": 3626,
           "hasFullContent": true,
           "hash": "412ceb40853e4c465b12c491f33830655670a36131286ac82c76b3c1ff053bdd",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "英伟达推出4399美元起售的RTX Spark迷你桌面主机，搭载N1X超级芯片，配备20核CPU、6144核GPU和128GB统一内存，可运行最高120B参数大模型，并通过PAIR技术承接MacBook等设备的AI任务，支持全天候运行。现场还展示了RTX Spark笔记本用于机器人训练、机械臂控制和办公智能体。文章强调，本地部署可减少文件外传及云端Token支出，但所列成本优势基于高强度使用假设。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:42:14+08:00"
         },
         {
           "title": "10GB显存跑图像模型，误差从9.4%降到4.26%：魔搭开源码率可调的权重压缩方案",
@@ -213,9 +213,9 @@
           "contentLength": 3883,
           "hasFullContent": true,
           "hash": "b718ab589ff34a821f46185e88426bd65308aacd546c0d53809bf10620dec74b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "魔搭团队开源权重压缩方案EntroPack，将E8格量化与熵编码结合，支持按显存预算精细调整码率，无需激活校准或微调，并通过误差优化和GPU并行解码兼顾精度与效率。在Qwen-Image-2.1的10GB显存预算下，采用4.8bpp量化，将权重重建误差从NF4的9.4%降至4.26%；在大语言模型LoRA训练中，2bpp配置将显存峰值从25GB降至19GB，实现24GB消费级显卡微调。方案已接入扩散模型及语言模型训练部署生态。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:42:20+08:00"
         },
         {
           "title": "活动报名｜量子位「MEET2027智能未来大会」重磅嘉宾阵容公布！",
@@ -225,9 +225,9 @@
           "contentLength": 5584,
           "hasFullContent": true,
           "hash": "1bcee45707f3acdf9c9ad5ef903c525f73d47eb17441c3943567b1b7f3365bee",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位主办的MEET2027智能未来大会将于12月9日在北京金茂万丽酒店举行，主题为“智行合一·驭见未来”，已确认王颖、方汉、王金桥、许锦波等16位嘉宾，覆盖大模型、智能体、医疗、机器人、算力基础设施及量子计算等领域。大会聚焦AI从模型能力转向可交付系统产出的趋势，邀请学术、产业和投资一线实践者，探讨技术进入真实场景的路径及底层支撑，并安排参会交流，现已开放报名。",
+          "summaryModel": "gpt-6.1-sol",
+          "summaryAt": "2026-11-20T11:42:41+08:00"
         }
       ]
     }
