@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-21T07:09:28+08:00",
+  "generatedAt": "2026-11-21T08:10:40+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -21,9 +21,9 @@
           "contentLength": 2708,
           "hasFullContent": true,
           "hash": "94b2c6f2ff30cec23be6ef4f15ad8f26589ba6e973f0b86e0675dff6a422d642",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "鲁工用 terrain3d 制作黄山、庐山和雁荡山的 3D 地形短片，实测了 WorkBuddy 5.11.3 的任务分组与跨设备迁移。历史对话可拖入分组、置顶和排序，每组最多关联 16 个本地文件夹，并可指定主要文件夹。两台电脑登录同一账号并保持在线，即可导入对话、分组目录关系与记忆、单个不超过 100 MB 的托管产物及定时任务配置。导入会自动跳过已有任务，迁入的定时任务默认暂停。作者在 Windows 上打开从 Mac 导入的对话，接着制作短片，省去了重新交代分镜细节的步骤。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:10:02+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 4450,
           "hasFullContent": true,
           "hash": "15392f295e995cde416fdb07adfaf447f7a083fd9401b67619c43bda779cee11",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "车企承诺将供应商账期缩至60天约一年半后，回款改善有限。截至2026年9月底，10家可比车企应付账款及票据周转天数中位数约178天。晚点走访8位产业链人士并梳理15家车企财报，发现车企借远期票据、延迟验收开票和年度压价拖长回款，多数供应商因依赖订单不敢断供或起诉。中汽协已启动对17家重点车企的付款评估，但多数车企缺乏结清超期欠款的资金，强推缩短账期可能使车企进一步压低采购价，将成本转回供应链。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:08:40+08:00"
         },
         {
           "title": "药明康德的底牌：当全球供应链安全遇上中国商业效率",
@@ -183,9 +183,9 @@
           "contentLength": 2333,
           "hasFullContent": true,
           "hash": "c2326107e98c747f0995623565774a892e99c1decd04fd77e88074f6e4c46826",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "据文章转述，Anthropic 数学家 Levent Alpöge 宣称，他与 Claude 找到了黎曼猜想的证明，同一方法可推广至广义黎曼猜想。他们将多次 θ 提升串成链，模拟 Stepanov 方法中的重数。针对长度为 X 的 von Mangoldt 和，Claude 提出将链长取为 √X。Alpöge 称论证已在 Lean 中完整形式化，无需额外假设。发布时仅公开了 Lean 代码，常规论文尚未写成，截至发稿也无人公开核对代码。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:09:42+08:00"
         }
       ]
     },
