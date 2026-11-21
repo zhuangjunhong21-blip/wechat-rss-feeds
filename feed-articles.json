@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-21T08:10:40+08:00",
+  "generatedAt": "2026-11-21T08:17:00+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 10,
@@ -39,9 +39,9 @@
           "contentLength": 4417,
           "hasFullContent": true,
           "hash": "e6e32f4e2d5524274e3de2cddd8fb7140fbf3f371670b5a846439b83a71d4625",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章以 Anthropic 纳斯达克上市为切入点，梳理其首日上涨 17.07%、市值达 1.27 万亿美元带来的员工和早期投资人账面收益。作者认为，Claude Code 和企业市场推动了公司崛起，但其营收增速已放缓。面对 9000 亿美元的算力与基建采购承诺，Anthropic 借上市拓宽融资渠道，同时拓展办公业务、以折扣和预算条款争夺客户。文章由此追问，一家以防范 AI 风险为使命的公司，在增长和季度财报压力下，能否在必要时放慢研发。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:13:26+08:00"
         },
         {
           "title": "代表英伟达拒绝黄仁勋回归的，凭什么是他？",
@@ -51,9 +51,9 @@
           "contentLength": 4979,
           "hasFullContent": true,
           "hash": "ba0db02b4b1a1e5fc7b7c622a7c934788e18442761a63feb35c771d06743af7d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章以英伟达董事会拒绝黄仁勋回归为切入点，解释为何由哈维·琼斯代表董事会表态。他自英伟达创立起担任董事，长期参与公司治理与继任规划，也曾在新思科技主持CEO交接，因此获任董事长并负责遴选接班人。文章对照乔布斯离开苹果时的权力与战略之争，指出英伟达此次换帅源于创始人的个人行为及治理合规问题，并认为黄仁勋打造的CUDA生态、芯片路线图和高管梯队，正是英伟达能够脱离创始人独立运转的基础。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:14:24+08:00"
         },
         {
           "title": "Anthropic上市首日市值一度突破2万亿美元/曝苹果开发AI智能体/阿里CEO：未来大部分模型依赖国产芯片训练",
@@ -63,9 +63,9 @@
           "contentLength": 14434,
           "hasFullContent": true,
           "hash": "fd379993238fa9a77403ee6769255936fe42df3d89833e1e62c13b43afe2e89c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "APPSO 汇总科技行业动态。据报道，Anthropic 纳斯达克上市首日市值一度突破 2 万亿美元，收盘较发行价上涨 17.07%。苹果招聘信息显示，其正开发可编写代码、浏览网页并跨应用执行多步任务的 AI 智能体。阿里季度净利润同比增长 207%，吴泳铭称已用平头哥国产芯片训练下一代模型，预计国产算力占比将持续提升。其余消息包括富智康据报获得 OpenAI 手机组装订单、腾讯削减元宝投入，以及旅行者 1 号距地球达一光日。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:14:17+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 380,
           "hasFullContent": true,
           "hash": "5c0c20df52d8065076adc6dd01508a4372db56afb7af5e3896b262682494ffa3",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "第二期玄武FDE企业AI落地实践营将于11月21日14:00至17:00在南京市玄武区江苏国际数据港二期OPC超级梦工厂举行，13:40开始签到。活动从企业真实业务场景出发，讨论如何将大模型应用到业务智能体中，以及如何设计智能体工作流。现场设有问题诊断和方案共创环节，参与者可带着实际业务难题，与专家和同行一起探讨可行的AI落地方案。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:11:30+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 431,
           "hasFullContent": true,
           "hash": "01a2dd0bf443ec408652fc6d8bd94d29e99aeb6b1ce0752ecf3b880e453ad34a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Mercor 的年化收入两年间从 100 万美元增至 20 亿美元，大量创业团队也涌入训练数据、评测和 Agent 任务市场。文章汇集 Mercor CEO Brendan Foody 和康奈尔研究者 Jinyan Su 的观察，从模型后训练、强化学习评测和物理世界数据切入，梳理五种数据销售方式及行业灰色地带，探讨模型厂为何持续外采数据，以及数据质量、技术能力和客户关系如何影响数据公司的盈利与竞争壁垒。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:13:11+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 5893,
           "hasFullContent": true,
           "hash": "98ae3fc1fa5fe778ebbb9b0917ef6b70f283c2c2903b54da19c6209cd9104e6a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "DeepSeek Harness 发布满 100 天，作者分享了 13 个插件玩法，涵盖插件市场、历史会话导入、上下文与费用统计、长对话压缩、主题桌宠、手机远程和长期记忆，并演示如何用创造模式自制可复用的提示词卡插件。作者建议安装前查看权限扫描结果，按需启用插件，以减少冲突、更新后的兼容问题和额外 Token 消耗。作者认为，皮肤和桌宠吸引用户参与，而社区的尝试也逐渐催生了上下文管理等实用工具。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:14:47+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 7510,
           "hasFullContent": true,
           "hash": "da851f10b7656b64a5cf4f79f19a5e4326ac771611319af07f67715ee954862b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "药明康德被移出美国国防部1260H名单后仍面临政策不确定性，2026年前三季度营收却同比增长38.59%。文章从一体化经营、规模和合规记录解释其韧性：药物发现业务为后续开发和生产导入订单，高昂的更换成本促使客户留存，中国工程师规模和运营效率支撑交付，提前扩建的多肽产能承接了GLP-1需求。公司同时剥离非核心业务，在主要客户市场附近扩建产能。文章认为，竞争对手可以用资本扩产，但经得起持续审计和复检的质量合规记录需要长期积累。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:11:08+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 3903,
           "hasFullContent": true,
           "hash": "03b94fe2605c1a45d6f51af6e4af22888f0aa62ad610bcc0215f7d56695ce99e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "袋鼠帝用火山引擎的 Seedance Managed Agent 制作了一支老式凉鞋广告。这个基于 Seedance 和 Seedream 的创作智能体负责解析原片、设计脚本和分镜、列出参考图清单，并自行编写提示词生成图片和视频。作者通过对话和实拍参考图纠偏，最后剪辑配乐，复现了奢侈品广告的质感和反差幽默。作者认为，它降低了参考图规划和分镜设计的门槛，但网页聊天框不便整理素材，生成的图片和视频仅保留 24 小时。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:14:17+08:00"
         }
       ]
     },
@@ -201,9 +201,9 @@
           "contentLength": 1448,
           "hasFullContent": true,
           "hash": "fd55c4c1757f76c0516b9e56a86b514c119c089e51859bf424f218559e426fbb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "谷歌 Chrome 团队开源了 Modern Web Guidance，可作为 Skill 装入 Codex、Claude Code 等编码助手，减少 AI 沿用旧版网页开发写法的情况。它将专家审核过的指南按场景整理，让助手在写代码前通过命令行按关键词和需求语义在本地搜索，查阅推荐写法与浏览器兼容方案。文中以聊天框和图片加载为例，说明如何避免拼音组字时按回车误发消息，以及如何优先加载首屏封面、延迟加载下方配图。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:13:32+08:00"
         }
       ]
     },
@@ -219,9 +219,9 @@
           "contentLength": 5096,
           "hasFullContent": true,
           "hash": "9c142bd2aab267767d8ac6026431480143e1e6dc17effb2e6bdbfd2d503ee057",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "华为云发布基于昇腾训练的具身世界模型CloudRobo-WM1.2，在RoboTwin 2.0和LIBERO-Pro 2.0上分别以88.98%和81.73%的平均成功率位列第一。模型联合训练感知、预测与动作，利用监督掩码保留信息不全的样本，并支持不同机器人本体及多种推理模式。华为云围绕昇腾优化训练框架、算子和推理部署，通过CloudRobo打通预训练、强化学习和真机部署，计划于11月30日开放模型权重、推理和后训练代码。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:13:04+08:00"
         },
         {
           "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
@@ -231,9 +231,9 @@
           "contentLength": 3000,
           "hasFullContent": true,
           "hash": "712a622b611145c822cd475f097d7107ba59c9798f659abdaad6b29d9c7c0bf7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "35家实验室为936个AI智能体提供算力、API预算和研究方向。智能体在共享社区自主提出假设、运行实验，12周内发布936篇论文，并通过提交可运行代码、原始数据和声明账本供同行复核。它们还自建期刊，审查代码时发现有实验泄露答案。对202对主题匹配的AI与人类论文进行盲评发现，AI论文在实验严谨性和复现细节上得分更高，人类论文在创新性和研究重要性上占优，筛选有价值的成果仍需大量人工核查。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:11:50+08:00"
         },
         {
           "title": "活动报名｜量子位「MEET2027智能未来大会」重磅嘉宾阵容公布！",
@@ -243,9 +243,9 @@
           "contentLength": 5584,
           "hasFullContent": true,
           "hash": "20d81626d8b2f9714ffdd07013ef39426d8b42941aba9c0413dcdf3bbbfd7c72",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位公布MEET2027智能未来大会的16位已确认嘉宾，并开放报名。大会将于12月9日在北京金茂万丽酒店举行，主题为“智行合一·驭见未来”。文章以模型接手任务、机器人进入产线、智能体嵌入组织流程为例，指出2026年AI领域的显著变化发生在交付现场。大会将汇聚学术、产业和投资界的一线实践者，围绕AI如何从模型能力转化为可交付的系统成果，探讨谁在推动实际应用，以及哪些底层技术和基础设施提供支撑。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-21T08:12:11+08:00"
         }
       ]
     }
