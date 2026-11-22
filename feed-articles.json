@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-23T07:09:42+08:00",
+  "generatedAt": "2026-11-23T07:14:03+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 6,
@@ -21,9 +21,9 @@
           "contentLength": 4019,
           "hasFullContent": true,
           "hash": "d8f28fcdb64fd42747f5b047c4d76c3557d7405c39b3df0623a2b69cf97f0dde",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "从日本近畿大学用AI制作招生视频、尼崎市补选海报使用虚构面孔，到国内电商用AI模特替代实拍、KTV用生成画面填补原版MV，文章梳理了AI如何降低内容制作成本，以及由此产生的真实性与审美问题。调查中，95.8%的受访者认为AI卖家秀增加了下单时的不确定感。文章认为，实拍图本身就是购物体验的一部分，商家省下的制作成本可能转化为消费者的信任成本，而长期接触粗糙内容也会削弱人们对品质的感知。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:10:34+08:00"
         },
         {
           "title": "在 iPhone Duo上跑 Windows 11，Gemini 4 Carbon又整大活了",
@@ -33,9 +33,9 @@
           "contentLength": 4156,
           "hasFullContent": true,
           "hash": "755f6ec1bd54c8b7b17c0f3a7d2190db6fb21b8d47af0845568c135643c1b3c7",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "谷歌 AI Studio 的 Ammaar Reshi 借助 Gemini 4 Carbon 开发开源项目 WindowsiOS，让 iPhone Duo 无需越狱或云端串流即可在本地运行 Windows 11 ARM64。项目复用 Henge 的动态二进制转换和 JIT 编译技术，适配 Windows 内核与虚拟硬件，已演示运行 Edge 和 AI 编程工具 Antigravity。文章以此说明 AI 已参与底层系统工程，但项目部署仍需开发工具，性能、稳定性和应用兼容性有待第三方验证。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:11:57+08:00"
         },
         {
           "title": "突发！Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
@@ -45,9 +45,9 @@
           "contentLength": 2832,
           "hasFullContent": true,
           "hash": "dff69ac4425cfeddf295cd86475b2cc45dcabf74919ccaaf56454f334836f7c2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "据报道，Anthropic 数学家 Levent Alpöge 与 Claude 合作完成了黎曼猜想的形式化证明，并取得涉及狄利克雷 L 函数的部分广义结果。Lean 和 Mathlib 社区核对了定理定义，复现了约 1700 万行代码的编译结果，并用多个独立检查器验证证明，随后确认其正确性。Alpöge 主导研究方向，Claude 直接参与推导并提出关键思路。证明规模庞大，Alpöge 希望将其简化为数学家易于阅读和讨论的论文。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:11:57+08:00"
         }
       ]
     },
@@ -63,9 +63,9 @@
           "contentLength": 455,
           "hasFullContent": true,
           "hash": "c4f88130f828336b691d21a3ced963476a2848999c598f3454500360e5647fae",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "一份由 Claude 辅助完成、包含 1700 万行 Lean 代码的黎曼猜想证明，在社区公布验证通过后受到质疑。数学家詹妮·洛瑞恩·尼尔森提交论文，主张 Alpöge 提出的证明无效，指出其中某些数学条件可能被定义为对任意输入都成立。文章还援引网友的提示词示例，说明 AI 可以尝试生成通过 Lean 检查的逻辑链，却未真正证明猜想。争议仍待数学界进一步论证。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:10:34+08:00"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "contentLength": 7143,
           "hasFullContent": true,
           "hash": "a4381d2437c84bdab30f1bb93d4cdfdf3426e59c9b1cb2f46ff86e82c4fbbd6e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者花费上千元，以 High 档对比 GPT-6.2 Astra、Gemini 4 Carbon 和 Fable 5.2 在视频剪辑、代码生成视频、3D 游戏、3D 网页、网页复刻和写作中的表现。作者认为，Fable 5.2 综合领先，剪辑审美和游戏细节更好；Astra 执行稳定、性价比较高；Carbon 适合复杂长任务，速度较慢；加测的 Gemini 4 Neon 长文写作最出色。三款模型的网页复刻表现接近，作者也指出测试场景有限。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:11:57+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 2910,
           "hasFullContent": true,
           "hash": "9eb6a4f0fd37e165fb7f226a9ca79aca20de15f839a9583d03b1223024a06606",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章称，Lean 和 Mathlib 社区在 Levent Alpöge 发布约 1700 万行 Lean 代码后一天内完成核验，并发表联合声明确认黎曼猜想的形式化证明有效。核验者复现编译结果，用独立工具比对待证命题，并通过 Lean 官方内核和多个独立检查器验证证明，确认主定理仅依赖标准公理。此次核验还覆盖 Dirichlet L 函数版本的广义黎曼猜想。文章称，连证明发布者也未能读懂这份证明。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:11:19+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 2242,
           "hasFullContent": true,
           "hash": "d173b9e1749c55d033d67855f4f7eb9ce8773eed73a9bc4733fec7d8a7eee495",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "《GTA 6》登陆 PS5 和 Xbox Series X|S 后，官方尚未公布 PC 版，多个 GitHub 项目尝试让游戏在 Windows 上直接运行。Leonida 已提取部分 Xbox 版素材、转换两万六千多个着色器，并跑通自制测试程序。Xbox2Windows 验证了图像放大功能，GTAVI-Recomp 则计划借助 AnyPS5 转换 PS5 版程序。各项目仍在验证或准备阶段，目前没有项目成功启动《GTA 6》本体。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:11:15+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 378,
           "hasFullContent": true,
           "hash": "1c7194eb20137a818d57ae2eaa4f68083852dccf47bf5708632b5b49e7fce090",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位发布MEET2027大会参会邀请。大会将于12月9日在北京金茂万丽酒店举行，安排全天交流，邀请20多位科技领袖现场分享，预计有逾千名科技从业者到场。议程涵盖AI在医疗、工业、量子计算和生命科学等领域的实践，并聚焦异构算力、具身智能、世界模型和RSI等技术话题。大会还将现场公布「2026人工智能年度榜单」和「2026年度AI十大趋势」。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:11:15+08:00"
         },
         {
           "title": "03年小天才投身RSI创业：Qwen后训练实习生，刚刚本科毕业",
@@ -147,9 +147,9 @@
           "contentLength": 2122,
           "hasFullContent": true,
           "hash": "c4fb8965cd08571eb1a419abdae781d4155d21258126708cc6ebf7c09f7dcb7a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "2003年出生、刚本科毕业的张轩铭于10月初离开千问后训练团队，担任Alps Lab联合创始人兼首席认知科学家。他曾以实习研究员身份评测模型在真实对话中理解用户偏好、应对需求变化的能力。Alps Lab计划通过下一个认知模式预测和测试时递归学习，构建连接数字推理与物理实验的基础模型，探索让AI参与改进下一代AI。持续有效的递归自我改进仍待验证，公司正筹备首轮融资，目标估值超1亿美元。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:10:34+08:00"
         },
         {
           "title": "哈佛开源虚拟细胞模型：编辑DNA前先预演整个细胞，AlphaGenome2后又一进展｜NeurIPS'26",
@@ -159,9 +159,9 @@
           "contentLength": 3732,
           "hasFullContent": true,
           "hash": "5dce4a0cdcd2ad364c3d07601e1729a695058164e2ed4cacb42ba22d61b3c8ec",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "哈佛医学院等机构提出开源虚拟细胞模型 STRAND，将 DNA 序列、干预位置与未受干预的细胞表达状态结合，通过扩散模型预测多基因表达响应，包括输入片段之外的基因。模型能区分同一基因不同转录起始位点的影响，也能对非编码增强子作出位置相关的预测。少样本测试中，STRAND 的综合排名居首；在留出细胞系中，变化最大的 100 个基因的升降方向平均吻合率为 58.7%。现有验证聚焦于抑制转录的 CRISPRi，其他编辑方式仍待检验。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:11:57+08:00"
         },
         {
           "title": "活动报名｜量子位「MEET2027智能未来大会」重磅嘉宾阵容公布！",
@@ -171,9 +171,9 @@
           "contentLength": 5584,
           "hasFullContent": true,
           "hash": "8ca7dfd1ed973b2d80c8d3be66634a99c5ef5dfed3a904a29acbdc5f92510db2",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位公布MEET2027智能未来大会已确认的16位嘉宾，并开放参会报名。大会将于12月9日在北京金茂万丽酒店举行，主题为“智行合一·驭见未来”。文章以模型接手任务、机器人进入产线、智能体融入组织流程为例，指出2026年AI正从模型能力走向可交付的系统产出。来自学术界、产业界和投资界的嘉宾将围绕AI如何进入真实场景、哪些底层技术支撑交付展开讨论，涉及多模态大模型、具身智能、医疗AI和算力基础设施等方向。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-23T07:11:19+08:00"
         }
       ]
     }
