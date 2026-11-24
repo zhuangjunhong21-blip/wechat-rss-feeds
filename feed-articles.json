@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-25T07:10:35+08:00",
+  "generatedAt": "2026-11-25T07:26:52+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 2971,
           "hasFullContent": true,
           "hash": "30bc348104c8c2d5c1fd0f04248146e9c13e03eae486626ce3fbc108b99694d5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "据 APPSO 报道，黄仁勋离职 11 天后重返英伟达，在回归后的首场全员大会上就违反公司行为准则致歉，并宣布由直属高管每月评估其行为，结果直接提交董事会。他称短暂离职已证明公司能够自主运转，仍反对预设接班人，认为这会暗示部分高管更重要。报道援引外媒披露创投与金融界盟友推动其回归，并指出听证、监管调查及股东诉讼仍待处理。股价剧烈波动也反映出市场对黄仁勋个人的依赖，英伟达能否降低这种依赖仍待验证。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-25T07:22:16+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 3721,
           "hasFullContent": true,
           "hash": "44d244eb74ec91529fa3053363a1fd4f30cdcd1c95e961ae4e7a22d3e536efdf",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "GLM-5.4在已有的750B基座上继续训练，让中间28层共享权重循环两轮，在参数量不变的情况下加深推理，并通过门控、缓存和注意力索引复用控制推理开销。新增的原生视觉让模型能查看渲染结果并据此修改代码。Datawhale实测中，3D建模、机械臂联动和游戏原型可用，一次生成的视频约为粗剪水平。在20多万行代码的Maeve项目中，模型定位到消息未显示源于桥接层漏传字段。作者认为其跻身国产模型第一梯队，但推理耗时较长，一次生成能力仍落后于海外顶级模型。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-25T07:22:43+08:00"
         }
       ]
     },
@@ -57,9 +57,9 @@
           "contentLength": 14761,
           "hasFullContent": true,
           "hash": "0a69fd465035422d6f3c2875be3909456099512c16e7c70ce699554f58648f3a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "王铭钰离开大疆创办汝原科技，先做红外吹风机和三原色染发机，获欧莱雅投资后拒绝收购邀约，转向桌面UV打印机。看准小微商家的定制需求，团队用全封闭结构、双目视觉对位、自研低气味墨水和自动维护降低使用门槛。王铭钰认为，化学研发、用户调研和可靠性工程的积累支撑了这次转型，跨学科系统工程构成竞争壁垒。众筹突破1000万美元后，团队削减九成营销预算，集中精力完成首批约3000名用户的交付，靠产品口碑推动增长。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-25T07:23:27+08:00"
         }
       ]
     },
@@ -75,9 +75,9 @@
           "contentLength": 1373,
           "hasFullContent": true,
           "hash": "c4b6bd29f78ae9043d549719deb7ae67dc901c55361fd3c2284a0830a08911fe",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者分享了使用网易有道免费语音输入工具「叭哥说」的体验，尤其是用口述向 AI 交代需求。工具能去除口癖、整理长段口述，支持批量导入热词以提高项目名等易错词的识别准确率，也支持小声拾音、快捷键翻译和原音导出。其语音识别模型重点优化了流式输出的稳定性和延迟。官方称语音经加密上传，处理后不留存，数据不用于训练，历史记录保存在本机。作者认为识别速度、效果和终身免费是其主要优势。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-25T07:23:41+08:00"
         }
       ]
     },
@@ -93,9 +93,9 @@
           "contentLength": 8937,
           "hasFullContent": true,
           "hash": "be6581c64486f12cd92d8eb26e1b7bb1aa98426da38ca2581dd0a657a2e5711f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "认养一头牛从2014年自建牧场起步，十二年间持续投入养殖和加工，在奶价低迷时仍扩张，成长为年营收超70亿元的乳企。公司以稳定、可追溯的自有奶源开发A2奶、奶粉和冰淇淋，通过电商触达消费者，再用需求反馈指导产品和产能投入。如今，它已为连锁茶饮定制乳品原料，并在吉林建设深加工工厂，优先布局需求较大、进口依赖度较高的品类。长期投入能否转化为新生意，仍取决于加工成本能否经受奶价波动，以及产品能否获得持续订单。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-25T07:23:41+08:00"
         }
       ]
     },
@@ -111,9 +111,9 @@
           "contentLength": 1025,
           "hasFullContent": true,
           "hash": "66ae466b7a4d875971435fbc8f1606476a0e4cd7c5ab095bd4f2f52e8fa465ac",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "小豆开启邀请制公测。作者结合内测体验指出，它的核心优势是打通抖音、飞书和手机本地的上下文。小豆能从抖音收藏中提取附近店铺并致电询问排队情况，也能分析账号数据、拆解参考视频、推送感兴趣的动态。它还能从聊天截图提取日程，同步至手机和飞书日历，结合 Apple 健康数据分析日常记录，并将收藏、复盘和选题建议整理成飞书表格或文档。作者认为，字节生态的独有上下文拓展了个人助手的使用场景，但回复冗长、推送过频仍待改善。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-25T07:23:08+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 4033,
           "hasFullContent": true,
           "hash": "cb4cbc9d921cd4b109ca93b58184f048001e88933808e62f0f95982b0693035c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "文章以“去 AI 味”为例，演示如何为高频、直接交给 AI 又做不好的任务制作专属 Skill。先让模型直接试做，再选 Humanizer 或官方 skill-creator 作底子，从至少十篇自写样本中提炼风格标准，用真实稿件逐句反馈、反复打磨。将有效做法写入 Skill，主文件只留流程和索引，样文与脚本另存。用同一模型和提示词盲评直接改稿、原版和自制版的结果，日常用可复用的规律替代零散禁令，持续更新样本，换模型后重新测试。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-25T07:22:51+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 28717,
           "hasFullContent": true,
           "hash": "94811d3466f745ca43079415391191fbec2c4125ea2fab91417729d568bc3dcb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "袋鼠帝用覆盖七类场景的24个案例和配套提示词，实测国产开源生图模型 SenseNova-U1.6。该模型将视觉理解与图像生成统一，出图后可对照提示词检查并修正文字、拼写和编号，在密集信息图测试中较一次出图平均相对提升7%。作者发现，模型擅长创意破框、商业海报和纪实摄影，活动与产品长图的文字准确、排版规整，但品牌视觉板的极小文字仍偶有错字或模糊。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-25T07:22:39+08:00"
         }
       ]
     },
@@ -165,9 +165,9 @@
           "contentLength": 3393,
           "hasFullContent": true,
           "hash": "1679b26e1f15545b1b6137331b87a040d800afbe46ab578f4a1e916178671aab",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "针对端侧AI算力分散、感知信息割裂和部署复杂的问题，辛米尔科技提出“端侧超节点”。方案融合视觉、三维和音频信息，将任务拆成具有依赖关系的计算图，按设备负载和通信成本动态分配，并通过跨节点互联减少原始数据的重复传输。辛米尔实测显示，在硬件和模型相同的条件下，系统优化使有效任务吞吐量提升270%。公司还通过模块化硬件和端侧操作系统EdgeFlowOS复用适配与部署能力，以降低物理AI在新场景中的集成成本。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-25T07:23:12+08:00"
         },
         {
           "title": "黎曼猜想证明两天砍掉240万行！全球接力压缩，马斯克在线围观",
@@ -177,9 +177,9 @@
           "contentLength": 3323,
           "hasFullContent": true,
           "hash": "e67eac86e1fe1c85aa53f27beddde832a9cfa0c5b72aaa96c969c7ff88a2908b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位报道，数学家 Levent Alpöge 与 Claude 合作生成的黎曼猜想形式化证明包含约1737万行 Lean 4 代码，通过形式化验证后，全球开发者通过删除未使用的代码和重复定理，两天内削减了240多万行有效代码。VerifyTask 将证明拆成39个核心模块，参与者借助 Gemini、DeepSeek、GPT 等模型提交更短的等价代码并逐份验证，核心模块整体压缩率达8.4%。精简的目的是让数学家更容易看清证明思路并复核推导。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-25T07:23:53+08:00"
         }
       ]
     }
