@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-24T11:41:43+08:00",
+  "generatedAt": "2026-11-24T12:20:34+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 2031,
           "hasFullContent": true,
           "hash": "49b5587d3ce113332b7817280b403cc653c511c7a1b71cd411c5bd4fc3728979",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "鲁工在Codex中选用GPT-6.2 Astra一周后，发现后台用量没有该模型的条目，旧版GPT-6 Astra却占91.1%。他核对本地配置、模型缓存、数据库及157个会话日志，发现发往服务端的请求中有逾1.5万条指定GPT-6.2 Astra，本地记录中该模型约占75%的Token用量，据此推断请求被后台路由至旧版。结合个人实测和社区反馈，他认为GPT-6.2编码表现落后于Claude，性价比也面临Gemini 4 Neon的挑战。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:12:42+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 2633,
           "hasFullContent": true,
           "hash": "0c5e3bed963b4b44cfc5b4dfee6224c4aaa32f6b18210a681e8f08c2e4c04867",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic 数学家莱文特·阿尔珀格回应与 Claude 合作完成黎曼猜想及广义黎曼猜想形式化证明的争议，澄清“25 万页”是玩笑，并承认约 1737 万行 Lean 代码存在大量冗余。研究由他引导方向，Claude 承担大量推导和形式化工作。代码已通过核验，完整理解、同行评议和正式认可仍是各自独立的环节。阿尔珀格希望从复杂推导中提炼新概念，建立更自然、统一的理论框架，让证明更简洁。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:07:24+08:00"
         },
         {
           "title": "黄仁勋回到英伟达上班：我会做得更好/上海一高校免费发Token给师生/蚂蚁阿福同款医疗大模型开源",
@@ -51,9 +51,9 @@
           "contentLength": 9158,
           "hasFullContent": true,
           "hash": "e20e49e3d5da2883ee9046a13ac225aeed6807378dabb24a8d54d4a8017ed25f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "英伟达董事会一致通过黄仁勋复职，他返岗后向员工道歉并承诺改进，公司股价当日上涨31.48%，相关调查仍在继续。上海财经大学向每位师生免费提供每周最高1亿Token，可调用多种大模型辅助教学与科研。蚂蚁开源两款已用于阿福的医疗大模型，一款支持在笔记本电脑上部署，另一款面向复杂医学推理。阿福还上线了视频咨询，并推出健康穿戴设备福环和福戒。报道也提到知乎间接入股DeepSeek及荣耀700系列发布。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:07:38+08:00"
         },
         {
           "title": "刚刚，马斯克力挺黄仁勋回归，英伟达大涨",
@@ -63,9 +63,9 @@
           "contentLength": 1081,
           "hasFullContent": true,
           "hash": "b8b914cee13922f330141690d24dcce105014e73f3521d468b482c8a1453d160",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "据APPSO报道，英伟达董事会在听取官方高层反馈后全票同意黄仁勋复职，即刻恢复其总裁、首席执行官和董事职务，并新设合规与出口管制委员会。马斯克称错误已被纠正，奥特曼也发文欢迎。消息公布后，英伟达股价跳涨33%，市值增加逾1万亿美元，预测市场对2026年AI泡沫破裂的押注概率降至14%。提前调薪和增发股票的承诺能否兑现仍有悬念。文章认为，市场更在意黄仁勋的合规风险和创造财富的能力，导致他离任的出轨风波则被淡化。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:07:53+08:00"
         },
         {
           "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
@@ -75,9 +75,9 @@
           "contentLength": 5259,
           "hasFullContent": true,
           "hash": "935b13bc227f12da8f3ab10bf9c4c3fa7242b4bd6d64f7adb0d43b1ef4ddfb83",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "自变量发布 WALL-API-1.0，开放具身基础模型 WALL-OSS-1.0。模型在预训练阶段联合学习视觉、语言和多源动作数据，再由动作专家生成连续控制轨迹。官方数据显示，模型在312项开放式真机任务中的零样本成功率为55.1%，Lite 版在 RoboDojo 无 Agent 赛道居首，得分高于 Astra 的 Agent 方案。物流产线约用10小时任务数据微调即可达到可用水平，显示预训练有助于迁移已有能力，降低新场景适配成本。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:14:33+08:00"
         },
         {
           "title": "留给人类的时间不多了，AI 领域 2027 年或迎来「雪崩式」加速",
@@ -87,9 +87,9 @@
           "contentLength": 3574,
           "hasFullContent": true,
           "hash": "762dd56f9d2f27d1bb050d8bc06a7b30afd0d182a1cf91f7c89e1be492853971",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenAI 首席科学家帕乔基公开了多代 GPT 基座模型的预训练损失曲线，指出对数困惑度降至约 0.76 时，模型开始接连在开放数学问题上取得突破。他推测，更强的模型若能帮助改进预训练算法，深度学习研发或在 2027 年前后出现「雪崩式」加速，而安全对齐与监控可能跟不上，因此呼吁行业设定共同的能力阈值。Meta 首席 AI 官王亚历山大以 Claude 参与黎曼猜想证明为例，认为超级智能正在逼近，主张让 AI 扩大人的自主权。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:18:05+08:00"
         }
       ]
     },
@@ -105,9 +105,9 @@
           "contentLength": 694,
           "hasFullContent": true,
           "hash": "a269f8470ef71a10d454cc0edcd80b512cacb1d0063890ef76402895cfba452e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "据Datawhale援引的英伟达公告，董事会在与黄仁勋多次讨论和会晤后，一致投票恢复其总裁、首席执行官和董事职务，即刻生效。董事会听取美国政府高层意见后，认定其复职不会构成国家安全风险，并认为这一决定符合股东、员工、合作伙伴和客户的利益。临时首席执行官科莱特·克雷斯将继续担任首席财务官，哈维·C·琼斯留任董事会主席。黄仁勋感谢董事会和管理团队，并表示期待重返工作岗位。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:13:12+08:00"
         },
         {
           "title": "清华大学站！你的第一个AI工作台来了",
@@ -117,9 +117,9 @@
           "contentLength": 402,
           "hasFullContent": true,
           "hash": "922d3efbeda0930eb4f45e278afe01c81d900987a10c1d8fe5fdb0ba6aee63f6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "11月26日14:00至16:00，Datawhale与WPS灵犀将在清华大学三教2301举办「你的第一个AI工作台」专场。WPS灵犀产品经理杨松霖将分享产品前沿与实际应用场景，PyTrio运营总监、Datawhale成员宋志学将分享非计算机科班出身者如何跟进Agentic RL前沿。参与者需自带电脑，用WPS灵犀完成真实任务，并通过进阶挑战搭建自己的第一个AI工作台。现场还设有创意展示和优秀作品奖励。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:08:19+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 1327,
           "hasFullContent": true,
           "hash": "a5309ed78e97f558e7501a0cc36c1893b00c910f08e0374ef6634c739bd28456",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "刘小排以 AI 图像生成网站 Raphael AI 为例，回应现在做 AI 出海网站是否还有机会。SimilarWeb 显示，该站 2026 年 10 月访问量达 179 万，环比增长约 55%，直接访问和自然搜索各占四成以上，展示广告仅占 0.17%。流量主要来自美国、德国、法国和日本，核心搜索词包括“ai image generator”。作者称 11 月访问量已超过 200 万，具体获客方法留在付费部分。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:14:40+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 3792,
           "hasFullContent": true,
           "hash": "6e05f5a3117aad2fd05f1aaf46d537d6332d4e26f4c7e81ba4282650b6b08b15",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "智谱 GLM5.4 采用 Loop Transformer，让同一组权重循环运行、多次更新隐藏状态，以增加推理深度。作者用勃朗峰滑雪、无缝地球引擎、南京雨花台三维重建和硬件开发等任务实测，认为模型的三维建模、前端审美和物理效果表现突出，能连续运行数小时、自主拆分任务并行执行，还能定位问题并截图复核。后端任务考虑细致，但深度思考拖慢了速度。作者据此判断其在国产模型中领先，知识推理未纳入此次测试。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:16:49+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 14295,
           "hasFullContent": true,
           "hash": "17c6c348b6efb0d8dc4652663e38b7b2b9d676f909e64b4e2971b27737261f33",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "机器科学联合创始人田野在访谈中解释，Visics 通过物体的三维点云轨迹连接上层规划与下层实时操作，支持跨本体泛化。他认为，GPT-6 能辅助规划和生成仿真资产，精细操作仍依赖专门模型。自研引擎 RoboMirage 为操作模型生成预训练数据，也可借助 AI 优化自身，形成递归自我改进。田野将商业化临界点定义为机器人与人力成本打平，预计机器科学有望在 2027 年上半年于部分场景达到这一点，并选择仓库逐件拣货作为切入口。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:12:38+08:00"
         }
       ]
     },
@@ -189,9 +189,9 @@
           "contentLength": 2638,
           "hasFullContent": true,
           "hash": "544ebf3858a1c76aaa71d3fabb0f787779f48a2e2e99792d42c9b88b516066dc",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "WorkBuddy 5.11.3 带来跨设备数据导入和任务管理两项升级。同一账号可在不同电脑间手动导入任务、分组和定时任务，作者实测导入 107 个任务、16 个分组和 2 个定时任务约耗时 1 分钟，并希望增加自动同步。新版支持拖拽归档和跨组移动任务、手动调整分组顺序，以及置顶任务和分组。每个分组最多可关联 16 个本地文件夹，WorkBuddy 会优先参考主文件夹的内容，并将生成结果优先存入其中。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:12:42+08:00"
         }
       ]
     },
@@ -207,9 +207,9 @@
           "contentLength": 3772,
           "hasFullContent": true,
           "hash": "eddaeef87e9bdf10bef1fdafa65d053919ff14fa0e49c21250ad06aaeb7b28d1",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "本周 GitHub 开源榜单盘点了 11 个项目。Univer 可将表格和文档编辑嵌入网站，Plannotator 支持批注 AI 编程方案和代码，Last30Days 汇总近 30 天的跨平台讨论，AG-UI 同步智能体与界面的任务进度。其余项目涵盖用自然语言调用 FFmpeg 在本地剪视频、结合仓库上下文审查代码、用 React 组件搭网页、部署个人账本、用 Stitch 将界面原型转为代码、为部分版本的 Apple Watch 启用爱马仕表盘，以及引导 AI 采用现代 Web 开发写法。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:08:19+08:00"
         },
         {
           "title": "GitHub 上开源不到 7 天拿下 7000 Star，让 AI 给旧项目性能提速。",
@@ -219,9 +219,9 @@
           "contentLength": 1534,
           "hasFullContent": true,
           "hash": "ad11a1464425b83a2411425c7bdfc3946195298e6d6d1f9dcf46f85afb38226f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "rust-anything 开源不到一周获 7000 多个 GitHub Star。它可配合 Claude Code 或 Codex 定位旧项目的性能瓶颈，优先用 Rust 重写耗时模块，再用同一批输入比对新旧实现的输出、报错和耗时。Prettier 迁移后约 1.7 万条用例逐字节匹配，批量格式化耗时从 128.6 秒降至 6.9 秒；json-server 的 514 条 HTTP 用例全部匹配，空闲内存从 74 MB 降至 3.5 MB。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:16:53+08:00"
         }
       ]
     },
@@ -237,9 +237,9 @@
           "contentLength": 6812,
           "hasFullContent": true,
           "hash": "b43145f55b5a6990adae3545c2f0f43ec3d629c8886cb6a68b4094edc480de84",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "无界方舟开源了1450亿参数的端侧模型Edge0-145B，采用潜空间稀疏MoE架构和4比特训练，配合显存、内存与硬盘分层加载权重，官方公布的解码速度超过每秒80个Token。测试团队在RTX Spark笔记本上断网完成3D建模、游戏场景制作和科普动效，部分成果接近云端模型GPT-6 Astra。文章认为，本地运行可减少云端调用费用和敏感数据上传，并支持弱网或断网使用，实时搜索等任务仍需云端。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:15:23+08:00"
         },
         {
           "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
@@ -249,9 +249,9 @@
           "contentLength": 1575,
           "hasFullContent": true,
           "hash": "7a328526440880f960ee2d66c1b766c52a6b1eab978fa9e5c75bed0c6b34545d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位将于12月9日在北京金茂万丽酒店举办MEET2027智能未来大会，主题为“智行合一·驭见未来”。文章指出，2026年AI正从能力演示走向实际交付，智能体进入组织流程，机器人走进产线，可靠、可控、可解释也随之成为公共议题。大会已有16位嘉宾确认出席，将围绕智能体、具身智能、世界模型、AI基础设施等分享一线落地经验，并现场发布2026人工智能年度榜单和年度AI十大趋势报告。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:14:48+08:00"
         },
         {
           "title": "约束满足率超Codex 14.4个点！清华新框架让Agent长程设计守住约束",
@@ -261,9 +261,9 @@
           "contentLength": 3685,
           "hasFullContent": true,
           "hash": "7407845174a95c638c9037e5ade14fb42e01ea337d08e273a1b830c8ff7e2c83",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "清华大学等团队提出长程设计框架 Design Anything，用模型之外的「意图–执行图」记录交付要求、约束和设计决定，将选定参考直接传入后续生成，并由控制器核对交付的数量和类型、定位缺项。同样使用 GPT-5.6 时，框架的约束满足率达92.5%，比 Codex CLI 高14.4个百分点，24件交付时领先23个百分点。设计师盲评中，70%的判断更偏好其交付成果。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:17:16+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -273,9 +273,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "388c37dbf529e2a5ebed54f0a6a58be6286117148d0fc0af4effa0098d7d485c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位在北京中关村招聘AI产业、AI财经商业和AI产品三个方向的全职内容人才。产业方向追踪芯片、AI基础设施和云计算，解读前沿技术；财经商业方向跟踪创投和产业链资本动向，分析财报与公司战略；产品方向评测AI应用，跟踪硬件终端进展。社招覆盖编辑、主笔和主编，校招面向应届毕业生，接受实习并提供转正机会。应聘者需向指定邮箱发送简历和代表作品，并在邮件主题注明应聘方向及姓名。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-24T12:16:53+08:00"
         }
       ]
     }
