@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-26T07:09:56+08:00",
+  "generatedAt": "2026-11-26T07:28:16+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 12,
@@ -21,9 +21,9 @@
           "contentLength": 1977,
           "hasFullContent": true,
           "hash": "f67f69fe68f789a8cc5f2132aa3979b7255c697c7be2ce54fce37d22a2bfb0e5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者让三款旗舰模型通过 Zotero MCP 读取同一批冠脉 CTA 血管分割论文，在禁用外部技能和插件的条件下，各自生成约30页的组会汇报PPT。三份成品均达到可直接汇报的水平。Claude Opus 5.5 的要点和引文齐全，局部有遮挡；GPT-6.2 Astra 未调用生图工具，成品仍可直接使用；Gemini 4 Neon 用纯 Python 生成32页可编辑幻灯片，配色排版更统一，论文配图裁剪更精准，综合表现最佳。作者据此认为，代码生成路线已显出优势。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:25:09+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 4065,
           "hasFullContent": true,
           "hash": "29a216088a6a038b1bf92fd811098f15c2c0e29ec1207a23226b9122fe610fff",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Anthropic对58家美国企业的员工和管理者进行了66次深度访谈，发现AI提效的收益主要流向企业。在明确说明收益的案例中，55%提高了企业产出，仅7%直接惠及员工，只有1%让员工获得更多休息时间。AI直接裁员较少，但三分之二的受访企业已减少招聘，初级员工失去练手机会也成为隐忧。评价较高的AI应用往往伴随流程和岗位重组。文章认为，企业如何分配提效收益会影响员工分享工作流的意愿，员工则可把精力转向客户沟通和依赖专业判断的工作。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:23:31+08:00"
         },
         {
           "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
@@ -51,9 +51,9 @@
           "contentLength": 4721,
           "hasFullContent": true,
           "hash": "29e42754083447f64da15875a32775a40952fe2e2e1b1acc37695c0e939033a5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Sand.ai 发布视频生成模型 MAGI-2，计划开源模型权重。它在 Artificial Analysis 图生视频榜单登顶，1080p 官方刊例价为每秒 0.5 元，约为 Seedance 2.5 同规格的十分之一。APPSO 在 LibTV 实测发现，模型能原生生成 30 秒连续镜头，混合参考图像、视频和音频，按指定时间点生成画面变化，并在替换口播语言时基本保留原有构图和动作。文章认为，这些能力有望降低试错成本和后期调整工作量。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:25:47+08:00"
         }
       ]
     },
@@ -69,9 +69,9 @@
           "contentLength": 3413,
           "hasFullContent": true,
           "hash": "d7e1a11ef98757028417649a3fbea7b48607e21b2dc6c953d15da83a531cc27a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenAI 首次公开历代基座模型在固定代码评测集上的对数困惑度曲线。随着预训练预测误差下降，模型陆续展现出连贯对话、推理、实用编程和求解开放数学难题的能力。首席科学家帕乔基认为，AI 参与预训练算法研究可能让能力增长快于安全监控，将 0.68 至 0.70 视为潜在高风险区，提议行业结合困惑度与其他指标设定共同安全上限。各实验室的评测口径难以统一，后训练带来的能力提升也难以纳入，短期内形成共识并共同遵守并不现实。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:23:31+08:00"
         }
       ]
     },
@@ -87,9 +87,9 @@
           "contentLength": 4472,
           "hasFullContent": true,
           "hash": "0feb06aea999c670ca3a32be4aa13cdf0eedba47ccba39a59f458dad9762ac2e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Sand.ai 发布视频模型 MAGI-2，在 Artificial Analysis 的图生视频和无声图生视频榜单均列第一。模型支持原生生成 30 秒 1080P 音画同步视频，据官方称每秒 0.5 元，约为同规格 Seedance 2.5 的十分之一。文章通过数独、多人构图和长脚本实测，展示模型对规则和上下文的理解及镜头规划能力。作者认为，MoE 架构降低了生成成本，使视频 Agent 有望在后台并行试拍、自主筛选成片，并把更多精力用于整理项目素材和调度不同模型。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:25:21+08:00"
         }
       ]
     },
@@ -105,9 +105,9 @@
           "contentLength": 1812,
           "hasFullContent": true,
           "hash": "dea25e3e827ae023e6438eafa2fe6e8d8f60744a5d0f71e6ff5a1a89bdf859cd",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "刘小排从投资和招人时常说的“看缘分”谈起，用电梯里的跑步者把上楼归功于跑步的段子，说明成功容易被过度归因于个人努力。他以自己的创业经历和一篇经企业微信头条推荐、付费收入近20万元的文章为例，指出成果取决于技术时机、他人支持和偶然机会等条件共同作用。个人能做的是把手头的事做好、多接触不同的人和事，增加遇到机会的可能，再耐心等待其他条件成熟。投资和招人时说“看缘分”，也体现了他对自身判断力和掌控力的认识。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:22:43+08:00"
         }
       ]
     },
@@ -123,9 +123,9 @@
           "contentLength": 3100,
           "hasFullContent": true,
           "hash": "64ca069cfef8b9194125fa4d67518aee35b570ccb0c9ba8d9aa52eca83b4103b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "通用模型会压缩垂类模型的空间，但医疗等领域的难点还包括判断哪些证据影响结论、何时追问，以及如何根据新信息修正判断。作者以蚂蚁百灵两款开源医疗模型为例，说明团队如何通过混合预训练、按任务匹配证据和多教师蒸馏培养这些能力，并以皮肤问诊案例展示模型的追问和推理过程。作者认为，垂类能力可以融入通用模型，其长期价值在于通过阿福这类产品承载个人健康档案，持续解决真实问题。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:22:56+08:00"
         }
       ]
     },
@@ -141,9 +141,9 @@
           "contentLength": 5231,
           "hasFullContent": true,
           "hash": "c7ceafa9ebed6e90c97f3783c81b6c62cb5518713a4fb8b7f02274e06bb0a9b8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者实测了 Sand.ai 的视频模型 MAGI-2，认为其整体质量接近 Seedance 2.5，复杂运镜、提示词遵循、物理表现和风格一致性出色，废片率低，但画面质感稍逊，人声合成痕迹明显。模型支持最多20个图像、音频或视频素材作为参考，可局部编辑，最长生成30秒。1080P生成每秒0.5元，约为 Seedance 2.5 的十分之一。作者认为这一性价比拉高了行业门槛。模型已上线 LibTV，Sand.ai 表示将开源。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:26:04+08:00"
         }
       ]
     },
@@ -159,9 +159,9 @@
           "contentLength": 7211,
           "hasFullContent": true,
           "hash": "08f132578ebbcb73af1fdcf8f3668e4b68873cf005a8eee1f47adf939f5ec6cc",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "黄仁勋带领英伟达从受巨头压价的显卡供应商，成长为主导AI算力产业的公司。英伟达以CUDA、高速互联和整机柜设计构建万卡训练壁垒，通过投资、担保扶持新兴云与模型公司，将资金转化为长期GPU订单，再用订单推动供应商扩产。美国收紧芯片出口管制后，黄仁勋加大游说并与特朗普建立联系。他在董事会调查中辞职，后在特朗普支持下复任CEO。文章认为，这次复出显示硅谷已能凭借财富与舆论同华盛顿博弈，国会的监管压力仍在。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:25:13+08:00"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "contentLength": 2599,
           "hasFullContent": true,
           "hash": "660494ee5581d340c276b3342ab381d472bc0e4e6db2f4e6f26b34b436839db0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者通过 LibTV MCP 将 Google Neon 与 MAGI-2 接入两套工作流。视频转代码先用分镜生成参考视频，再让 Neon 提取配色和转场，编写连续过渡的视差滚动官网。代码转视频先用 Neon 编写可反复调整的无声打斗样片，再将样片和设定图交给 MAGI-2，生成水墨风格的打斗视频。作者将两套流程和提示词优化方法打包成 Skill，认为低成本的视频生成与可迭代的代码结合，能降低试错成本，提高成片的可控性。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:25:09+08:00"
         }
       ]
     },
@@ -195,9 +195,9 @@
           "contentLength": 29936,
           "hasFullContent": true,
           "hash": "15d365ed0b241afebf1f47328dfb9bf9f08e56b417985cf11f073d5495134f2e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "袋鼠帝在 LibTV 内测了 AI 视频模型 MAGI-2。该模型支持 1080P、最长 30 秒直出，可同时使用 10 张图片、5 段视频和 5 段音频作为参考，价格为每秒 0.05 元，据官方消息即将开源。作者以 HDR 增强、动画打斗和多角色一镜到底为例，展示如何用参考图和分段提示词控制角色、运镜与音效，生成后再做 HDR 增强。作者认为，MAGI-2 能较好地还原复杂长提示词，部分成片效果接近 Seedance 2.5。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:26:00+08:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "contentLength": 4602,
           "hasFullContent": true,
           "hash": "0c4615556f92f432bf4cbc984926eb00dca882e9494099c697c2c715d91afdbd",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "MiniMax 尚未发布的内部模型通过推演密码公式、检查官方代码和改进搜索算法，在多项密码方案及挑战题上取得突破。模型在 COLM 官方实现上进行 1000 次随机密钥测试，伪造的密文均通过校验，并发现 DRS 验签代码中的错误。在 HAWK 挑战参数上，模型用单核约 31 分钟求出等价私钥，按核时计算较已有方法提效约 690 倍，还首次解出 55 道 McEliece 高阶挑战题。研究报告与代码已公开，文中称 AES、RSA、SHA-256 目前仍被视为安全。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:26:00+08:00"
         }
       ]
     },
@@ -231,9 +231,9 @@
           "contentLength": 5422,
           "hasFullContent": true,
           "hash": "bbca019bab46283e7072f3a102f9ce59e105106a1252b83d1ed836d06b708d3a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenAI再次撤销独立机器人团队。文章认为，机器人大模型可以复用通用模型的训练与推理底座，但模型规模无法弥合仿真与真机之间的差距。真机数据稀缺，机器人要可靠完成现实任务，需要高保真仿真和可验证的物理经验。九章云极提出扩展现有智算底座，按训练、仿真和实时控制的需求调度云边端算力，打通数据生成、仿真验证、真机部署与反馈迭代，并以单位成本产出的有效物理经验衡量效率。文章还将这套流程延伸到材料、分子等科学研究场景。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:24:00+08:00"
         },
         {
           "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
@@ -243,9 +243,9 @@
           "contentLength": 2585,
           "hasFullContent": true,
           "hash": "826fae3ac4edb46a8a63a6b0dbec1f4407d4a543da1f2fd398dbe24f3ec55cec",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "脸谱心智短暂公开的《General Looped Model》报告提出复用同一组权重，按任务复杂度多轮迭代隐状态，将参数规模与计算深度解耦，并给出改造现有模型的方法。报告在世界模型、基础模型、视频生成和三维重建中验证了这一架构。其中，9400万参数的视频生成模型在多项指标上优于50亿参数参照模型，权重显存由21.34GB降至0.31GB。文章认为，循环架构为显存受限时提升模型能力提供了一条路径。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:24:21+08:00"
         },
         {
           "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
@@ -255,9 +255,9 @@
           "contentLength": 5198,
           "hasFullContent": true,
           "hash": "e03f630ccf4fed4d3a2dd575a7018bd338ed7ffd321b8def58f1884b1787a47f",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "北京大学韦东奕经中国科学院院士文兰、王诗宬共同提名，获北京市科学技术奖杰出青年中关村奖。他与陈琦、章志飞重构扰动方程组，引入辅助边界条件并建立预解式估计，证明了悬而未决近140年的结论：大雷诺数下，管道泊肃叶流对一般三维扰动具有线性稳定性。研究还揭示了流动混合加速部分扰动衰减的增强耗散机制，为进一步研究层流向湍流的转变提供了理论基础。报道也回顾了韦东奕从两次满分夺得国际数学奥赛金牌到深耕偏微分方程的经历。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:24:26+08:00"
         },
         {
           "title": "活动报名｜一场大会看懂明年AI风向：量子位「MEET2027智能未来大会」即将启幕",
@@ -267,9 +267,9 @@
           "contentLength": 5584,
           "hasFullContent": true,
           "hash": "f8e65949434a33ea46ff9460da63a4cf4f202fd8d7d181bee0a7697126cc6a28",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位宣布开放MEET2027智能未来大会报名。大会将于12月9日在北京金茂万丽酒店举行，主题为“智行合一·驭见未来”，已有16位嘉宾确认出席。文章以模型接手任务、机器人进入产线、智能体嵌入组织日常流程为例，指出2026年AI领域的显著变化发生在实际交付环节。大会将汇聚学术、产业和投资领域的实践者，探讨谁在推动模型能力转化为可交付的系统产出，以及哪些底层技术和基础设施提供支撑。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:24:26+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -279,9 +279,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "0da7c3661db1eee2f3b67fba57b51c755e88001d8dee7e82f7e03e165670e0d8",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位在北京中关村招聘AI产业、AI财经商业和AI产品三个方向的全职内容人才。产业方向跟踪芯片、AI基础设施和云计算，解读技术进展并采访专家；财经商业方向关注创投、财报和公司战略；产品方向跟踪AI应用与硬件终端，开展深度评测。社招按能力匹配编辑、主笔或主编，校招面向应届毕业生，接受可转正实习。申请需将简历和代表作品发至zhaopin@qbitai.com，并在邮件主题注明应聘方向和姓名。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-26T07:24:56+08:00"
         }
       ]
     }
