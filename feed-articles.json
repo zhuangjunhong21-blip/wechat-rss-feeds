@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-27T07:09:39+08:00",
+  "generatedAt": "2026-11-27T08:33:00+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 3259,
           "hasFullContent": true,
           "hash": "d24a4ee2c521bea748d35f4a00ee1d79c55ecedc1a9ef5b5c8e6d150dd53315b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "T3 Code 通过 delegate_task 在本地协调 Claude Code、Codex、Antigravity 和 Grok。作者以新增用量告警为例，让 Claude Code 统筹，Codex 实现功能，Antigravity 并行设计验收用例，Grok 随后只读审查。子任务只接收任务描述和角色，共享落盘的需求文档，可用 Git 工作树隔离改动，完成后自动唤醒主控。作者认为，单个 Claude Code 通常已能满足需求，跨工具协同适合需要多模型分工的场景。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:28:38+08:00"
         }
       ]
     },
@@ -39,9 +39,9 @@
           "contentLength": 4272,
           "hasFullContent": true,
           "hash": "deb346cdc11bb4944632d7b0e874248491708816e446b9b4174b5fa2304df646",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenAI 开始向部分 Pro 用户推送整合后的 Chat 和 Work。12 月起，Plus、Pro 和 Business 用户的高级推理、Work 和 Codex 将共享按 Token 计量的额度，Instant 聊天不受影响。老用户担心一项任务耗尽额度后会影响其他用途，而合并前后的具体用量尚未公布。文章援引第三方按 API 价格折算的估算，指出 Claude 在多个价位的订阅额度价值更高，并认为 Agent 持续运行和并行执行推高了重度用户的算力消耗，使固定月费订阅面临更大的成本压力。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:30:10+08:00"
         },
         {
           "title": "豆包加入「个人助理」大战，AI下半场的护城河不再是算力",
@@ -51,9 +51,9 @@
           "contentLength": 3790,
           "hasFullContent": true,
           "hash": "9046af1403bb3e6612b1395c7bdd0f0439705975e05b32ea21953145e7850d1c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "豆包推出能记住用户偏好、主动跨应用办事的个人助理「小豆」。文章比较了小豆、ChatGPT、Muse 和 Gemini 的做法，认为随着模型基础推理能力趋同，竞争焦点转向从长期对话和授权数据中提炼、更新并适时调用个人记忆。记忆系统应区分用户明确表达的事实与模型推断，并允许用户查看、修改和删除，避免依据过时或错误的信息办事。长期积累的记忆抬高了更换助手的成本，也成为平台的商业护城河，让用户自行掌控和迁移记忆的设想更难落地。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:30:36+08:00"
         },
         {
           "title": "曝多家手机厂商下调明年出货目标/神舟二十四号顺利对接空间站/OpenAI称破解57年矩阵乘法难题",
@@ -63,9 +63,9 @@
           "contentLength": 10515,
           "hasFullContent": true,
           "hash": "6bc6433c4b810f7de9f83d850b38f3a5cbd71d1f8d63e954747531f59d7bc5c4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "供应链消息称，存储芯片涨价促使多家头部手机厂商拟下调2027年出货目标，小米拟下调约25%至9000万台。Counterpoint预计全球智能手机出货量2027年再降6%，2028年反弹6%，但仍较2025年低约14%。神舟二十四号与空间站完成对接，中国首次搭载外籍航天员执行载人飞行任务。OpenAI在预印本中主张矩阵乘法的最优指数为2.25，并公开了Lean形式化证明。文章还报道了小鹏无人驾驶载客体验、理想汽车现金流转正及国产宝马iX3上市。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:31:15+08:00"
         }
       ]
     },
@@ -99,9 +99,9 @@
           "contentLength": 613,
           "hasFullContent": true,
           "hash": "344138dbc76168b34bf5c868a5de2d7da79bd0af53da2b167760b3c3a96a7ae9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Founder Park 在 11 月 21 日举办了以「Agent with Me」为主题的 Meetup，30 多位参与者围绕 Agent 协作、AI 创作、营销、社交和个人 AI，交流产品定位、用户付费和获客增长。下一期将邀请基础模型、具身智能、AI 算法与应用等方向的一线实践者，复盘 2026 年哪些判断得到验证、哪些需要修正，并讨论 2027 年值得继续投入的方向。活动采用「所有人问所有人」的形式，由主持人引导分享、回应与追问。活动为线下闭门交流，需扫码报名并通过审核。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:29:38+08:00"
         }
       ]
     },
@@ -117,9 +117,9 @@
           "contentLength": 8236,
           "hasFullContent": true,
           "hash": "de8b1699aebc36a1a0dfc8f1ee6632a136ccdb1545cdc7f39f180ce5e2ced969",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "卡兹克将《人生意义设计课》改编成一套AI提示词，引导读者思考如何在当下的生活里创造更多意义。方法区分重结果的事务世界与重体验的心流世界，通过四阶段、6至9个问题，从日常细节中寻找惊奇、心流、价值观与行动的一致，以及能让彼此变好的关系。AI据此生成《个人意义设计手册》，梳理已有的意义时刻，并给出可尝试的小行动和值得长期探索的问题。作者以亲身对话为例，发现从童年梦想至今，持续带给自己意义的是创造。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:31:11+08:00"
         }
       ]
     },
@@ -135,9 +135,9 @@
           "contentLength": 11402,
           "hasFullContent": true,
           "hash": "2cd7a24dd360142dd545d59a29da91bb20d3240c5ef97c8e75c53dd3ce2ea08e",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "德赛西威用四十年从惠州一家组装车载音响的合资工厂，成长为年营收超325亿元的全球汽车一级供应商。公司在合资时期就自建研发团队、开拓自主品牌客户，独立后补齐底层技术，整合智能座舱业务，并在拿到量产订单前押注高算力辅助驾驶。出海则靠本地研发、制造和服务逐步进入国际车企供应链。几代管理层延续的做法，是从客户尚未满足的需求出发，沿已有工程能力提前投入，退出偏离主业的业务，并以平台化和舱驾融合应对新一轮技术变化。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:30:23+08:00"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "contentLength": 3679,
           "hasFullContent": true,
           "hash": "86f7f219323758d45fcc8eb1957f10566065799b971d204ce686ea2f31a74cfc",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者对话 Sand.ai 技术负责人张拯，追问 MAGI-2 如何从数独起始帧生成答案。该视频模型总参数 480B、激活约 28B，采用多头潜空间 MoE 降低跨卡通信开销，并用 4T tokens 的多样数据预训练。关闭提示词扩写后，预训练模型仍显露视觉推理、自动补全分镜和跨语种对白生成能力，但表现尚不稳定。后训练提升了画质和稳定性，数独复现率却下降，团队推测泛化能力有所收窄。算法和基础设施优化使 1080p 视频最低定价为 0.05 元/秒。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:30:28+08:00"
         }
       ]
     },
@@ -171,9 +171,9 @@
           "contentLength": 1497,
           "hasFullContent": true,
           "hash": "5cc3aa78ed60bd2d4003b23c69786c9194ca0dde18bd4b93e2cc4955dc7669f6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "OpenMotion 是 OpenDesign 团队推出的开源视频创作工作台，定位为 Claude Motion 的开源替代方案，适合制作产品宣传片、功能演示和动效讲解。用户提供参考视频和自有素材，由 Codex 或 Claude Code 分析镜头与节奏、替换内容并重建可编辑工程，再在 Studio 中预览、调整时间轴和导出。模板库收录 300 多份记录镜头顺序、转场及声音配合的 Motion.md 指南，部分附有可编辑源码。使用前需安装 Skill 和本地 Studio，并配置与 Agent 的连接。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:30:23+08:00"
         }
       ]
     },
@@ -189,9 +189,9 @@
           "contentLength": 7730,
           "hasFullContent": true,
           "hash": "3255c7d2eeb7ffc869e2fca5f32147d2945ee4b19d0f1ec8ee45bb60de8b62f9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位以巴洛克群像雕塑为例，测试了VAST新发布的Tripo H3.5 Preview。模型能从单张图生成3D网格，将浮雕和文字还原为真实的几何起伏，保留复杂构件间的镂空，并合理补全遮挡部位。192组无贴图模型盲评中，它获82次第一。文章认为，评估AI 3D能否用于生产，应看几何细节和结构完整性。该模型可生成闭合网格，配合薄壁、水密性和非流形边检测及自动修复，减少切片前的人工修模。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:28:52+08:00"
         },
         {
           "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
@@ -201,9 +201,9 @@
           "contentLength": 5416,
           "hasFullContent": true,
           "hash": "9db1e9468e948d8ce79aedeff379c6058a93af9a629ede6bb1899748e11bc497",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "TabbyML让20个AI智能体在人工设定目标和约束后，分工定位Quickwit的性能瓶颈、审查方案并独立验证，4天开展约350次实验，保留6项优化。亿级数据上，40条热查询总耗时从40.5秒降至27.9秒，降幅31%，单条最高降87%，同口径评分超越ClickBench数据湖类别此前公开成绩。团队还否决了虽通过测试却可能改变查询结果的提速方案，展示了多智能体如何在守住正确性约束的前提下持续优化系统。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:29:08+08:00"
         },
         {
           "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
@@ -213,9 +213,9 @@
           "contentLength": 2980,
           "hasFullContent": true,
           "hash": "f5dbb29c17b96c0e1072433a14d9ee3fa6b974f5f9192c1db4af7673a34787c6",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "在智源REAL物理AI开放日圆桌上，多家具身智能公司讨论了融资降温、通用大模型在任务规划层表现走强后，研发资源该投向哪里。嘉宾普遍认为，仿真高分难以直接转化为实机表现，端侧算力、实时响应和灵巧操作仍是落地瓶颈，资源应优先投入动作生成（S1）和底层控制（S0）。与会者认同软硬协同的重要性，但在自研硬件还是深度合作、优先做基础研发还是尽早商业化上各有选择，并提醒创业者谨慎入场。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:29:33+08:00"
         },
         {
           "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
@@ -225,9 +225,9 @@
           "contentLength": 1575,
           "hasFullContent": true,
           "hash": "72687bd4181c15895bfd07833e261fc7d4fc348b9f97b7b229196ba8256ae844",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位将于12月9日在北京金茂万丽酒店举办MEET2027智能未来大会，主题为“智行合一·驭见未来”。文章认为，2026年AI正从能力演示走向实际交付，智能体进入组织流程，机器人走进产线，可靠、可控、可解释也随之成为公共议题。已确认出席的16位嘉宾将围绕智能体、具身智能、世界模型和AI基础设施等议题，分享技术落地经验。大会还将发布2026人工智能年度榜单，并依据技术成熟度、落地现状和潜在价值发布年度AI十大趋势报告。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:29:38+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -237,9 +237,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "f35b26fcd7ef4242b2b4e7c8f76635c6eb66edc79009b32430aabf81f848c69d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位在北京中关村招聘AI内容编辑与作者，开放产业、财经商业和产品三个方向。产业方向跟踪芯片、AI基础设施与云计算，解读技术进展并采访专家；财经商业方向关注创投、财报和公司战略；产品方向跟踪AI应用与硬件终端，撰写深度评测。社招覆盖编辑、主笔和主编，按能力匹配岗位；校招面向应届毕业生，接受实习并提供转正机会。应聘者需将简历和代表作品发送至招聘邮箱，并在邮件主题注明应聘方向与姓名。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-27T08:29:38+08:00"
         }
       ]
     }
