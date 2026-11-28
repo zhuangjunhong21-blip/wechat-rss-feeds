@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-28T08:39:17+08:00",
+  "generatedAt": "2026-11-28T08:44:50+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -45,9 +45,9 @@
           "contentLength": 8883,
           "hasFullContent": true,
           "hash": "2f37e70f923005c8765b61da58538df586e3d9be29adf729ef4b1390f6e06f3d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "马斯克将赠股计划加码至每名美国儿童两股 SpaceX 股票，由公司和他本人各出一股，首批公司赠股覆盖活跃的特朗普账户。OpenAI 修正 GPT-6.2 用量少计问题，预计 Astra 和 Sol 触及额度上限的速度分别加快 40% 和 25%。黄仁勋质疑 AI 致人类灭绝的 10% 概率缺乏科学依据，辛顿回应称应正视失控风险并加强安全研究。同期，国内双 11 手机销量同比下降 17%，畅销机型前五均为 iPhone，小红书处置逾万篇虚假人设笔记。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:39:38+08:00"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "contentLength": 3766,
           "hasFullContent": true,
           "hash": "fb0d361f8c66791c6aed0abd488f3f740d5b8923b40d592552395edb3c346deb",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Skill的核心经验写在明文文件里，难以在展示价值的同时防止转发。作者实测了支付宝SkillPay的两种收费方式：买断后，用户可在本地安装完整Skill并跨Agent使用；订阅则把完整内容留在云端沙盒，只向本地Agent返回当次任务所需的指令，还可设置免费试用。创作者签约后上传文件、选择付费模式并定价，审核通过即可分享支付宝二维码或Agent购买指令。作者认为，行业经验和工作流可以被封装、调用和定价，让创作者获得回报。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:39:38+08:00"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "contentLength": 2880,
           "hasFullContent": true,
           "hash": "b5dfb5a96e08606e3898c64de251785b62ce70f045288d54143adb274b5d1712",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者实测了可通过 Qoder 和 OpenCode 体验的匿名模型 HungerG，认为它在交互数据看板、PPT 美化、3D 科普网站和结构化表格对账上表现突出。两轮对账中，它分别找出 4 处和 26 处预设异常，均无漏报或误报，并识别出 97 笔未到期单据。作者认为，匿名开放试用能减少品牌光环和跑分的影响，让用户通过实际任务判断模型能力。HungerG 的优势集中在特定场景，适合按任务选用。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:39:38+08:00"
         }
       ]
     },
