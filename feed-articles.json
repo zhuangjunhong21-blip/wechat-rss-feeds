@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-28T07:09:10+08:00",
+  "generatedAt": "2026-11-28T08:39:17+08:00",
   "sourceType": "wechat-mp",
   "stats": {
     "accountCount": 9,
@@ -21,9 +21,9 @@
           "contentLength": 3653,
           "hasFullContent": true,
           "hash": "b4806a5b3f6a0a8845dd9fab412ceb714efef84ce236739ab15c9cf84d95c960",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "尚未正式发布的 Claude Opus 5.6 在早期测试中，仅凭一段提示词、无需外部素材，用 42 分钟写出了关于 AI 未来的交互式演示，包含电影式运镜、三维场景和复杂转场。其他测试者也用它制作了动画短片、可交互的 3D 世界和带原创配乐的预告片。早期测试者认为，5.6 比 5.5 更容易用简单提示词生成流畅、连贯的动画。代码生成还能精确调整画面和动作，但音效仍有不足。这些案例显示，编程能力的提升正在拓宽大语言模型参与多媒体创作的范围。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:37:22+08:00"
         },
         {
           "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
@@ -33,9 +33,9 @@
           "contentLength": 3804,
           "hasFullContent": true,
           "hash": "8d1e09b8722b4ab3399777047f51b03fa9a255b67f1d8576a8c670041677838b",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "在Anthropic上市后破发、Claude Code多名核心成员转投OpenAI的背景下，文章梳理了工程师Thariq Shihipar对Vibe Coding的反思。他用AI做游戏时发现，模型会擅自作出设计决定，于是把底层实现交给AI，让人掌控设计和取舍。他还提出，用轻量决策模型理解个人软件用户的情境与意图，并让人类继续主导AI研究的方向和资源分配。他认为，开发成本下降后，软件将从规模化生产走向重视品质与个人审美，值得实现的创意将更稀缺。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:38:21+08:00"
         },
         {
           "title": "马斯克加码：美国儿童获赠两股SpaceX/OpenAI承认GPT-6.2计费出错/AI教父反驳黄仁勋：别低估AI风险",
@@ -63,9 +63,9 @@
           "contentLength": 6258,
           "hasFullContent": true,
           "hash": "f1be54423188b360b33a65ca97ca54c77774a9e8ed6b82019410b9bc152f5287",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Grok Bot 工程负责人 Lauren Tan 提出，可用运行在持久化云端虚拟机上的专职助手接管重复工作。配置分五步：明确最终目标，口述流程并让助手复述确认，通过逐项提问和案例推演补齐判断规则，接入真实反馈，最后设置按事件或周期触发的例程。文章列举了研发分工、社媒监测和将 X 收藏转为可运行演示等用法。核心建议是先监督试跑并纠偏，将验证过的流程保存为技能，稳定后再自动运行，敏感操作初期保留人工审批。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:36:03+08:00"
         },
         {
           "title": "前 DeepSeek 核心成员，带着新作来杭州了",
@@ -75,9 +75,9 @@
           "contentLength": 498,
           "hasFullContent": true,
           "hash": "cff6475de966d5ecfd836a4640381556a9d361640fb6d182e5e2f1f822c187f5",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "前 DeepSeek 初代模型核心成员、DeepSeek-VL 项目负责人张博带着创业新作 Linger 来到杭州。Linger 是一款开源个人 AI 助理，模型在电脑本地运行，记忆和文件保存在本机，断网时也能工作。团队将于 11 月 28 日下午在杭州云谷中心 Yourspace 3 楼举办首场线下茶话会，邀请参与者现场断网试用，了解个人电脑能否跑得动、助理表现如何以及能完成哪些任务。活动采用报名审核制。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:37:31+08:00"
         }
       ]
     },
@@ -93,9 +93,9 @@
           "contentLength": 3596,
           "hasFullContent": true,
           "hash": "594bc2654c94ca3e0da55d7ffa58b4a2fd4a2ac6189adc0858f8b1f0a354a28c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "刘小排在一个项目中发现积累了37个隐藏的 Worktree，转而用开源工具 Orca 统一管理多台电脑、多个项目和并行运行的 AI 编程助手。Orca 按机器、项目、Worktree 组织界面，每个工作树集中呈现独立分支、Agent 会话和代码变更。常驻 Bot 可用已有订阅在后台改代码、跑测试和提 PR，手机端可远程查看进度并处理确认。作者认为，以 Worktree 为核心的设计更适合多 Agent 并行开发，并提醒工作树只隔离代码文件，生产项目应关闭默认放行。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:38:12+08:00"
         }
       ]
     },
@@ -111,9 +111,9 @@
           "contentLength": 2304,
           "hasFullContent": true,
           "hash": "b3fea4fdc072e8d22384b6ee3abf3204261c385575150282467e152fa0e38ba9",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "作者用 OJO 插件改善 Codex 生成的前端界面。安装后可在 Codex 中输入 @OJO，从零开发时调用原型设计团队，改版时调用设计优化专家，再由 Codex 按原型实现并保留原有功能。作者用这套流程为 WorkBuddy 蓝皮书制作两版首页，让小红书卡片工作台的预览、编辑和导出随所选页码同步，并用 48 条合成样本搭建模型评测台，将模型回答、判分依据和原文并排展示。作者认为，把界面和交互设计交给 OJO、代码和逻辑交给 Codex，能减少样式反复调整，让工具更易用。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:38:21+08:00"
         }
       ]
     },
@@ -147,9 +147,9 @@
           "contentLength": 1014,
           "hasFullContent": true,
           "hash": "a32f9e309236445719ced4f8e27ec3f3a9fb47bb246b9c3ffe32b738bc9d4b5d",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "晚点对比近十年的天猫双11榜单，发现各品类的品牌更替速度差异明显：潮玩前十平均每年有三张新面孔，小家电只换一家，海尔和美的始终占据大家电前两名。珀莱雅连续四年登顶美妆榜，箱包服配和女装前十也以国货为主。今年有182个入驻天猫不到五年的品牌进入各自行业前十。老牌仍能守住领先位置，曾经太小、少有品牌专门服务的需求，也能成长为支撑新公司的市场。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:35:54+08:00"
         },
         {
           "title": "晚点独家丨Liblib 母公司再融资近 2 亿美元，投后估值 32 亿美元",
@@ -159,9 +159,9 @@
           "contentLength": 2039,
           "hasFullContent": true,
           "hash": "cca199daa3a8f0288951c0f5154fe935e43c9c850d8830938e74e55e52e556b0",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Liblib 母公司演语科技完成近 2 亿美元新融资，投后估值达 32 亿美元，不到半年上涨约六成，公司仍在以更高估值洽谈融资。聚合多家视频模型的创作工具 LibTV 已成为公司最大收入来源，推动单月收入达到数千万美元，但低价会员和高额模型调用成本压低了毛利率。随着视频模型竞争加剧、调用价格下降，LibTV 有了更多供应选择和议价筹码，部分模型厂商也开始依赖聚合平台触达付费用户。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:37:50+08:00"
         }
       ]
     },
@@ -195,9 +195,9 @@
           "contentLength": 2800,
           "hasFullContent": true,
           "hash": "18472829756e31cca9baf4038504842822b2648c4a182eb072c06a10e38177ef",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "Einsia AI 让 AI 从 18 个公开真机数据集的录像中提取任务起点和目标，在 Isaac Sim 中生成场景和判分代码，再对照录像质检并去重，开源了 10,807 个可自动判分的机器人仿真环境。团队留出 500 道经专家核验的题目用于评测，发现模型表现分化明显。用 16,952 条成功轨迹微调后，35B 开源模型的成功率从 0.8% 升至 21.2%，并在真实 Franka 机械臂上完成零样本绘图。现有环境仍难还原精细物理结构，任务以单步操作为主。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:37:30+08:00"
         }
       ]
     },
@@ -213,9 +213,9 @@
           "contentLength": 5093,
           "hasFullContent": true,
           "hash": "2f7de2898335925b5edade7b00b581a596f91ddd23000cf638a5e81a62a7fc5a",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "众擎机器人在2026全球开发者大会上宣布，将开放自研大小脑的核心技术，包括全身移动操作模型、动作数据、运控模型权重和接口，并计划在未来五年联合产业基金提供10亿元产业级支持，覆盖开发、科研、人才培养和商业合作。众擎推出CoRun协作机制，让经过真机验证的成果和工程经验可被其他团队复用。创始人赵同阳判断，2027年将是人形机器人从整机量产走向商业化应用的关键一年，众擎将提供通用平台，由开发者和行业伙伴推动应用落地。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:35:26+08:00"
         },
         {
           "title": "王虹再获数学大奖！奖名背后是另一位传奇女性的故事",
@@ -225,9 +225,9 @@
           "contentLength": 2988,
           "hasFullContent": true,
           "hash": "e1b2d25c5891ecfc39e79a7e5b71e51049c8309c8c5a522172e7e10e1cc22bc3",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "王虹获法国科学院2026年度索菲·热尔曼奖，成为第二位获此奖的中国数学家。该奖表彰她在调和分析和几何测度论上的贡献，尤其是与约书亚·扎尔共同证明三维挂谷猜想。这个猜想与傅里叶限制、局部平滑等难题紧密相连，证明中发展出的工具为研究相关问题开辟了新路径。奖项以法国数学家索菲·热尔曼命名。她曾借用男性姓名获取讲义、提交作业并与高斯通信，在费马大定理研究中取得阶段性成果，并凭弹性理论研究成为首位获得法国科学院悬赏大奖的女性。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:36:41+08:00"
         },
         {
           "title": "只改0.015%参数，问答提速10倍！NYU等新方法把大模型思考换成了一次参数更新｜COLM'26",
@@ -237,9 +237,9 @@
           "contentLength": 3656,
           "hasFullContent": true,
           "hash": "9ececf4da8fcfc1cf128ce2505f2e1f5a0c5e86dd1ebc9ff79cc9ff3e4116a3c",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "KAIST和纽约大学团队提出HyperThink，用轻量超网络为每道题预测一组偏置，加到冻结的基座模型上，使模型跳过长思考过程，直接生成简短的分步解答。超网络以基座模型在完整思考模式下答对的解答为训练目标，在Qwen3-0.6B上更新的偏置数值约占模型参数的0.015%。在两个未见问答基准上，Olmo-3-7B-Think的Pass@5与完整思考基本持平，作答提速11.1至12.8倍。未见数学题测试中，同等用时下也优于预算受限的思考模式。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:36:46+08:00"
         },
         {
           "title": "来现场见｜最新嘉宾阵容！MEET2027带你看懂明年AI风向！",
@@ -249,9 +249,9 @@
           "contentLength": 6795,
           "hasFullContent": true,
           "hash": "b9440fbe26fe049295830b9f928822ba8008e0f72ec19bfbb56ca19f3beaee48",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位公布MEET2027智能未来大会首批21位已确认嘉宾。大会将于12月9日在北京金茂万丽酒店举行，汇集学术、产业与投资领域的一线实践者。文章将模型接手任务、机器人进入产线、智能体融入组织流程视为2026年AI走向实际交付的信号。大会将围绕多模态模型、具身智能、医疗应用和算力基础设施等方向，探讨谁在推动AI进入真实场景，以及哪些底层技术支撑可交付的系统。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:36:33+08:00"
         },
         {
           "title": "量子位编辑作者招聘",
@@ -261,9 +261,9 @@
           "contentLength": 1697,
           "hasFullContent": true,
           "hash": "85db30c949cb33a14ff7fa6f93e5c6374393cef204127bb5618837144cd198e4",
-          "contentSummary": "",
-          "summaryModel": "",
-          "summaryAt": ""
+          "contentSummary": "量子位在北京中关村招聘AI产业、AI财经商业和AI产品三个方向的内容人才。产业方向跟踪芯片、AI基础设施和云计算，解读技术进展；财经商业方向关注创投、财报和产业链资本动向；产品方向跟踪软件应用与硬件终端，开展深度评测。社招按能力匹配编辑、主笔或主编岗位，校招面向应届毕业生，接受实习并提供转正机会。应聘者需邮件提交简历及科技行业代表作或能体现写作水平的作品。",
+          "summaryModel": "gpt-6.2-sol",
+          "summaryAt": "2026-11-28T08:36:59+08:00"
         }
       ]
     }
